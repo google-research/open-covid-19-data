@@ -1,0 +1,252 @@
+region_code,region_code_type,region_code_level,parent_region_code,level_1_region_code,level_2_region_code,level_3_region_code,region_name,alt_name1,alt_name2,alt_name3,alt_name4,population_year,population
+AFG,iso_3166-1,1,WORLD,AFG,None,None,Afghanistan,Afghanistan,,,,2020,38928341
+ALB,iso_3166-1,1,WORLD,ALB,None,None,Albania,Albania,Albania,,Albania,2020,2877800
+DZA,iso_3166-1,1,WORLD,DZA,None,None,Algeria,Algeria,,,Algeria,2020,43851043
+AND,iso_3166-1,1,WORLD,AND,None,None,Andorra,Andorra,,,,2020,77265
+AGO,iso_3166-1,1,WORLD,AGO,None,None,Angola,Angola,,,,2020,32866268
+AIA,iso_3166-1,1,WORLD,AIA,None,None,Anguilla,Anguilla,,,,2020,15002
+ATG,iso_3166-1,1,WORLD,ATG,None,None,Antigua and Barbuda,Antigua and Barbuda,,,,2020,97928
+ARG,iso_3166-1,1,WORLD,ARG,None,None,Argentina,Argentina,Argentina,,Argentina,2020,45195777
+ARM,iso_3166-1,1,WORLD,ARM,None,None,Armenia,Armenia,,,Armenia,2020,2963234
+ABW,iso_3166-1,1,WORLD,ABW,None,None,Aruba,Aruba,,,,2020,106766
+AUS,iso_3166-1,1,WORLD,AUS,None,None,Australia,Australia,Australia,,Australia,2020,25499881
+AUT,iso_3166-1,1,WORLD,AUT,None,None,Austria,Austria,Austria,Austria,Austria,2020,9006400
+AZE,iso_3166-1,1,WORLD,AZE,None,None,Azerbaijan,Azerbaijan,,,Azerbaijan,2020,10139175
+BHS,iso_3166-1,1,WORLD,BHS,None,None,Bahamas,Bahamas,,,,2020,393248
+BHR,iso_3166-1,1,WORLD,BHR,None,None,Bahrain,Bahrain,,,,2020,1701583
+BGD,iso_3166-1,1,WORLD,BGD,None,None,Bangladesh,Bangladesh,,,Bangladesh,2020,164689383
+BRB,iso_3166-1,1,WORLD,BRB,None,None,Barbados,Barbados,,,Barbados,2020,287371
+BLR,iso_3166-1,1,WORLD,BLR,None,None,Belarus,Belarus,,,,2020,9449321
+BEL,iso_3166-1,1,WORLD,BEL,None,None,Belgium,Belgium,Belgium,Belgium,Belgium,2020,11589616
+BLZ,iso_3166-1,1,WORLD,BLZ,None,None,Belize,Belize,,,,2020,397621
+BEN,iso_3166-1,1,WORLD,BEN,None,None,Benin,Benin,,,,2020,12123198
+BMU,iso_3166-1,1,WORLD,BMU,None,None,Bermuda,Bermuda,,,Bermuda,2020,62273
+BTN,iso_3166-1,1,WORLD,BTN,None,None,Bhutan,Bhutan,,,,2020,771612
+BOL,iso_3166-1,1,WORLD,BOL,None,None,Bolivia,Bolivia,,,Bolivia,2020,11673029
+BES,iso_3166-1,1,WORLD,BES,None,None,Bonaire Sint Eustatius and Saba,Bonaire Sint Eustatius and Saba,,,,2020,26221
+BIH,iso_3166-1,1,WORLD,BIH,None,None,Bosnia and Herzegovina,Bosnia and Herzegovina,,,,2020,3280815
+BWA,iso_3166-1,1,WORLD,BWA,None,None,Botswana,Botswana,,,Botswana,2020,2351625
+BRA,iso_3166-1,1,WORLD,BRA,None,None,Brazil,Brazil,Brazil,,,2020,212559409
+VGB,iso_3166-1,1,WORLD,VGB,None,None,British Virgin Islands,British Virgin Islands,,,,2020,30237
+BRN,iso_3166-1,1,WORLD,BRN,None,None,Brunei,Brunei,,,,2020,437483
+BGR,iso_3166-1,1,WORLD,BGR,None,None,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Bulgaria,2020,6948445
+BFA,iso_3166-1,1,WORLD,BFA,None,None,Burkina Faso,Burkina Faso,,,,2020,20903278
+BDI,iso_3166-1,1,WORLD,BDI,None,None,Burundi,Burundi,,,,2020,11890781
+KHM,iso_3166-1,1,WORLD,KHM,None,None,Cambodia,Cambodia,Cambodia,,,2020,16718971
+CMR,iso_3166-1,1,WORLD,CMR,None,None,Cameroon,Cameroon,,,,2020,26545864
+CAN,iso_3166-1,1,WORLD,CAN,None,None,Canada,Canada,Canada,,,2020,37742157
+CPV,iso_3166-1,1,WORLD,CPV,None,None,Cape Verde,Cape Verde,,,,2020,555988
+CYM,iso_3166-1,1,WORLD,CYM,None,None,Cayman Islands,Cayman Islands,,,,2020,65720
+CAF,iso_3166-1,1,WORLD,CAF,None,None,Central African Republic,Central African Republic,,,,2020,4829764
+TCD,iso_3166-1,1,WORLD,TCD,None,None,Chad,Chad,,,,2020,16425859
+CHL,iso_3166-1,1,WORLD,CHL,None,None,Chile,Chile,Chile,,Chile,2020,19116209
+CHN,iso_3166-1,1,WORLD,CHN,None,None,China,China,,,,2020,1439323774
+COL,iso_3166-1,1,WORLD,COL,None,None,Colombia,Colombia,Colombia,,Colombia,2020,50882884
+COG,iso_3166-1,1,WORLD,COG,None,None,Congo,Congo,,,Republic of the Congo,2020,5518092
+CRI,iso_3166-1,1,WORLD,CRI,None,None,Costa Rica,Costa Rica,,,Costa Rica,2020,5094114
+CIV,iso_3166-1,1,WORLD,CIV,None,None,Cote d'Ivoire,Cote d'Ivoire,,,,2020,26378275
+HRV,iso_3166-1,1,WORLD,HRV,None,None,Croatia,Croatia,,Croatia,Croatia,2020,4105268
+CUB,iso_3166-1,1,WORLD,CUB,None,None,Cuba,Cuba,,,Cuba,2020,11326616
+CUW,iso_3166-1,1,WORLD,CUW,None,None,Curacao,Curacao,,,,2020,164100
+CYP,iso_3166-1,1,WORLD,CYP,None,None,Cyprus,Cyprus,,Cyprus,,2020,875899
+CZE,iso_3166-1,1,WORLD,CZE,None,None,Czech Republic,Czech Republic,Czech Republic,Czechia,Czech Republic,2020,10708982
+COD,iso_3166-1,1,WORLD,COD,None,None,Democratic Republic of Congo,Democratic Republic of Congo,,,,2020,89561404
+DNK,iso_3166-1,1,WORLD,DNK,None,None,Denmark,Denmark,Denmark,Denmark,Denmark,2020,5792203
+DJI,iso_3166-1,1,WORLD,DJI,None,None,Djibouti,Djibouti,,,,2020,988002
+DMA,iso_3166-1,1,WORLD,DMA,None,None,Dominica,Dominica,,,,2020,71991
+DOM,iso_3166-1,1,WORLD,DOM,None,None,Dominican Republic,Dominican Republic,,,,2020,10847904
+ECU,iso_3166-1,1,WORLD,ECU,None,None,Ecuador,Ecuador,,,Ecuador,2020,17643060
+EGY,iso_3166-1,1,WORLD,EGY,None,None,Egypt,Egypt,Egypt,,,2020,102334403
+SLV,iso_3166-1,1,WORLD,SLV,None,None,El Salvador,El Salvador,,,El Salvador,2020,6486201
+GNQ,iso_3166-1,1,WORLD,GNQ,None,None,Equatorial Guinea,Equatorial Guinea,,,,2020,1402985
+ERI,iso_3166-1,1,WORLD,ERI,None,None,Eritrea,Eritrea,,,Eritrea,2020,3546427
+EST,iso_3166-1,1,WORLD,EST,None,None,Estonia,Estonia,Estonia,Estonia,Estonia,2020,1326539
+ETH,iso_3166-1,1,WORLD,ETH,None,None,Ethiopia,Ethiopia,,,,2020,114963583
+FRO,iso_3166-1,1,WORLD,FRO,None,None,Faroe Islands,Faeroe Islands,,,,2020,48865
+FLK,iso_3166-1,1,WORLD,FLK,None,None,Falkland Islands (Malvinas),Falkland Islands,,,,2020,3483
+FJI,iso_3166-1,1,WORLD,FJI,None,None,Fiji,Fiji,,,Fiji,2020,896444
+FIN,iso_3166-1,1,WORLD,FIN,None,None,Finland,Finland,Finland,Finland,Finland,2020,5540718
+FRA,iso_3166-1,1,WORLD,FRA,None,None,France,France,France,France,France,2020,65273512
+PYF,iso_3166-1,1,WORLD,PYF,None,None,French Polynesia,French Polynesia,,,,2020,280904
+GAB,iso_3166-1,1,WORLD,GAB,None,None,Gabon,Gabon,,,,2020,2225728
+GMB,iso_3166-1,1,WORLD,GMB,None,None,Gambia,Gambia,,,,2020,2416664
+GEO,iso_3166-1,1,WORLD,GEO,None,None,Georgia,Georgia,,,Georgia,2020,3989175
+DEU,iso_3166-1,1,WORLD,DEU,None,None,Germany,Germany,Germany,,Germany,2020,83783945
+GHA,iso_3166-1,1,WORLD,GHA,None,None,Ghana,Ghana,,,Ghana,2020,31072945
+GIB,iso_3166-1,1,WORLD,GIB,None,None,Gibraltar,Gibraltar,,,Gibraltar,2020,33691
+GRC,iso_3166-1,1,WORLD,GRC,None,None,Greece,Greece,,Greece,Greece,2020,10423056
+GRL,iso_3166-1,1,WORLD,GRL,None,None,Greenland,Greenland,,,,2020,56772
+GRD,iso_3166-1,1,WORLD,GRD,None,None,Grenada,Grenada,,,,2020,112519
+GUM,iso_3166-1,1,WORLD,GUM,None,None,Guam,Guam,,,,2020,168783
+GTM,iso_3166-1,1,WORLD,GTM,None,None,Guatemala,Guatemala,,,,2020,17915567
+GGY,iso_3166-1,1,WORLD,GGY,None,None,Guernsey,Guernsey,,,Guernsey,,
+GIN,iso_3166-1,1,WORLD,GIN,None,None,Guinea,Guinea,,,,2020,13132792
+GNB,iso_3166-1,1,WORLD,GNB,None,None,Guinea-Bissau,Guinea-Bissau,,,,2020,1967998
+GUY,iso_3166-1,1,WORLD,GUY,None,None,Guyana,Guyana,,,,2020,786559
+HTI,iso_3166-1,1,WORLD,HTI,None,None,Haiti,Haiti,,,,2020,11402533
+HND,iso_3166-1,1,WORLD,HND,None,None,Honduras,Honduras,,,Honduras,2020,9904608
+HUN,iso_3166-1,1,WORLD,HUN,None,None,Hungary,Hungary,Hungary,Hungary,Hungary,2020,9660350
+ISL,iso_3166-1,1,WORLD,ISL,None,None,Iceland,Iceland,Iceland,Iceland,,2020,341250
+IND,iso_3166-1,1,WORLD,IND,None,None,India,India,India,,India,2020,1380004385
+IDN,iso_3166-1,1,WORLD,IDN,None,None,Indonesia,Indonesia,Indonesia,,Indonesia,2020,273523621
+IRN,iso_3166-1,1,WORLD,IRN,None,None,Iran,Iran,,,Iran,2020,83992953
+IRQ,iso_3166-1,1,WORLD,IRQ,None,None,Iraq,Iraq,,,Iraq,2020,40222503
+IRL,iso_3166-1,1,WORLD,IRL,None,None,Ireland,Ireland,Ireland,Ireland,Ireland,2020,4937796
+IMN,iso_3166-1,1,WORLD,IMN,None,None,Isle of Man,Isle of Man,,,,2020,85032
+ISR,iso_3166-1,1,WORLD,ISR,None,None,Israel,Israel,Israel,,,2020,8655541
+ITA,iso_3166-1,1,WORLD,ITA,None,None,Italy,Italy,Italy,,Italy,2020,60461828
+JAM,iso_3166-1,1,WORLD,JAM,None,None,Jamaica,Jamaica,,,Jamaica,2020,2961161
+JPN,iso_3166-1,1,WORLD,JPN,None,None,Japan,Japan,Japan,,,2020,126476458
+JEY,iso_3166-1,1,WORLD,JEY,None,None,Jersey,Jersey,,,,2020,
+JOR,iso_3166-1,1,WORLD,JOR,None,None,Jordan,Jordan,,,Jordan,2020,10203140
+KAZ,iso_3166-1,1,WORLD,KAZ,None,None,Kazakhstan,Kazakhstan,,,,2020,18776707
+KEN,iso_3166-1,1,WORLD,KEN,None,None,Kenya,Kenya,,,,2020,53771300
+RKS,iso_3166-1,1,WORLD,RKS,None,None,Kosovo,Kosovo,,,,2020,1932774
+KWT,iso_3166-1,1,WORLD,KWT,None,None,Kuwait,Kuwait,,,,2020,4270563
+KGZ,iso_3166-1,1,WORLD,KGZ,None,None,Kyrgyzstan,Kyrgyzstan,,,,2020,6524191
+LAO,iso_3166-1,1,WORLD,LAO,None,None,Laos,Laos,,,,2020,7275556
+LVA,iso_3166-1,1,WORLD,LVA,None,None,Latvia,Latvia,Latvia,Latvia,,2020,1886202
+LBN,iso_3166-1,1,WORLD,LBN,None,None,Lebanon,Lebanon,,,Lebanon,2020,6825442
+LBR,iso_3166-1,1,WORLD,LBR,None,None,Liberia,Liberia,,,Liberia,2020,5057677
+LBY,iso_3166-1,1,WORLD,LBY,None,None,Libya,Libya,,,Libya,2020,6871287
+LIE,iso_3166-1,1,WORLD,LIE,None,None,Liechtenstein,Liechtenstein,,,,2020,38137
+LTU,iso_3166-1,1,WORLD,LTU,None,None,Lithuania,Lithuania,Lithuania,Lithuania,Lithuania,2020,2722291
+LUX,iso_3166-1,1,WORLD,LUX,None,None,Luxembourg,Luxembourg,Luxembourg,Luxembourg,Luxembourg,2020,625976
+MKD,iso_3166-1,1,WORLD,MKD,None,None,Macedonia,Macedonia,,,,2020,2083380
+MDG,iso_3166-1,1,WORLD,MDG,None,None,Madagascar,Madagascar,,,Madagascar,2020,27691019
+MWI,iso_3166-1,1,WORLD,MWI,None,None,Malawi,Malawi,,,,2020,19129955
+MYS,iso_3166-1,1,WORLD,MYS,None,None,Malaysia,Malaysia,Malaysia,,Malaysia,2020,32365998
+MDV,iso_3166-1,1,WORLD,MDV,None,None,Maldives,Maldives,,,,2020,540542
+MLI,iso_3166-1,1,WORLD,MLI,None,None,Mali,Mali,,,,2020,20250834
+MLT,iso_3166-1,1,WORLD,MLT,None,None,Malta,Malta,,Malta,,2020,441539
+MRT,iso_3166-1,1,WORLD,MRT,None,None,Mauritania,Mauritania,,,,2020,4649660
+MUS,iso_3166-1,1,WORLD,MUS,None,None,Mauritius,Mauritius,,,Mauritius,2020,1271767
+MEX,iso_3166-1,1,WORLD,MEX,None,None,Mexico,Mexico,Mexico,,Mexico,2020,128932753
+MDA,iso_3166-1,1,WORLD,MDA,None,None,Moldova,Moldova,,,,2020,4033963
+MCO,iso_3166-1,1,WORLD,MCO,None,None,Monaco,Monaco,,,Monaco,2020,39244
+MNG,iso_3166-1,1,WORLD,MNG,None,None,Mongolia,Mongolia,,,,2020,3278292
+MNE,iso_3166-1,1,WORLD,MNE,None,None,Montenegro,Montenegro,,,,2020,628062
+MSR,iso_3166-1,1,WORLD,MSR,None,None,Montserrat,Montserrat,,,,2020,4999
+MAR,iso_3166-1,1,WORLD,MAR,None,None,Morocco,Morocco,Morocco,,Morocco,2020,36910558
+MOZ,iso_3166-1,1,WORLD,MOZ,None,None,Mozambique,Mozambique,,,,2020,31255435
+MMR,iso_3166-1,1,WORLD,MMR,None,None,Myanmar,Myanmar,,,,2020,54409794
+NAM,iso_3166-1,1,WORLD,NAM,None,None,Namibia,Namibia,,,,2020,2540916
+NPL,iso_3166-1,1,WORLD,NPL,None,None,Nepal,Nepal,,,Nepal,2020,10834
+NLD,iso_3166-1,1,WORLD,NLD,None,None,Netherlands,Netherlands,Netherlands,Netherlands,Netherlands,2020,17134873
+NCL,iso_3166-1,1,WORLD,NCL,None,None,New Caledonia,New Caledonia,,,,2020,285491
+NZL,iso_3166-1,1,WORLD,NZL,None,None,New Zealand,New Zealand,New Zealand,,New Zealand,2020,4822233
+NIC,iso_3166-1,1,WORLD,NIC,None,None,Nicaragua,Nicaragua,,,,2020,6624554
+NER,iso_3166-1,1,WORLD,NER,None,None,Niger,Niger,,,,2020,24206636
+NGA,iso_3166-1,1,WORLD,NGA,None,None,Nigeria,Nigeria,,,,2020,206139587
+MNP,iso_3166-1,1,WORLD,MNP,None,None,Northern Mariana Islands,Northern Mariana Islands,,,,2020,1618
+NOR,iso_3166-1,1,WORLD,NOR,None,None,Norway,Norway,Norway,Norway,Norway,2020,5421242
+OMN,iso_3166-1,1,WORLD,OMN,None,None,Oman,Oman,,,,2020,5106622
+PAK,iso_3166-1,1,WORLD,PAK,None,None,Pakistan,Pakistan,,,Pakistan,2020,220892331
+PSE,iso_3166-1,1,WORLD,PSE,None,None,Palestine,Palestine,,,,2020,5101416
+PAN,iso_3166-1,1,WORLD,PAN,None,None,Panama,Panama,,,,2020,4314768
+PNG,iso_3166-1,1,WORLD,PNG,None,None,Papua New Guinea,Papua New Guinea,,,,2020,8947027
+PRY,iso_3166-1,1,WORLD,PRY,None,None,Paraguay,Paraguay,,,Paraguay,2020,7132530
+PER,iso_3166-1,1,WORLD,PER,None,None,Peru,Peru,,,Peru,2020,32971846
+PHL,iso_3166-1,1,WORLD,PHL,None,None,Philippines,Philippines,Philippines,,,2020,109581085
+POL,iso_3166-1,1,WORLD,POL,None,None,Poland,Poland,Poland,Poland,Poland,2020,37846605
+PRT,iso_3166-1,1,WORLD,PRT,None,None,Portugal,Portugal,Portugal,Portugal,Portugal,2020,10196707
+PRI,iso_3166-1,1,WORLD,PRI,None,None,Puerto Rico,Puerto Rico,,,Puerto Rico,2020,2860840
+QAT,iso_3166-1,1,WORLD,QAT,None,None,Qatar,Qatar,,,,2020,2881060
+ROU,iso_3166-1,1,WORLD,ROU,None,None,Romania,Romania,Romania,Romania,Romania,2020,19237682
+RUS,iso_3166-1,1,WORLD,RUS,None,None,Russia,Russia,Russia,,,2020,145934460
+RWA,iso_3166-1,1,WORLD,RWA,None,None,Rwanda,Rwanda,,,Rwanda,2020,12952209
+BLM,iso_3166-1,1,WORLD,BLM,None,None,Saint Barthélemy,Saint Barthlemy,,,,2020,9885
+SHN,iso_3166-1,1,WORLD,SHN,None,None,Saint Helena,Saint Helena,,,,2020,6071
+KNA,iso_3166-1,1,WORLD,KNA,None,None,Saint Kitts and Nevis,Saint Kitts and Nevis,,,,2020,53192
+LCA,iso_3166-1,1,WORLD,LCA,None,None,Saint Lucia,Saint Lucia,,,,2020,183629
+VCT,iso_3166-1,1,WORLD,VCT,None,None,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,,,,2020,110947
+SMR,iso_3166-1,1,WORLD,SMR,None,None,San Marino,San Marino,,,,2020,33938
+STP,iso_3166-1,1,WORLD,STP,None,None,Sao Tome and Principe,Sao Tome and Principe,,,,2020,219161
+SAU,iso_3166-1,1,WORLD,SAU,None,None,Saudi Arabia,Saudi Arabia,Saudi Arabia,,,2020,34813867
+SEN,iso_3166-1,1,WORLD,SEN,None,None,Senegal,Senegal,,,Senegal,2020,16743930
+SRB,iso_3166-1,1,WORLD,SRB,None,None,Serbia,Serbia,Serbia,,,2020,6804596
+SYC,iso_3166-1,1,WORLD,SYC,None,None,Seychelles,Seychelles,,,,2020,98340
+SLE,iso_3166-1,1,WORLD,SLE,None,None,Sierra Leone,Sierra Leone,,,Sierra Leone,2020,7976985
+SGP,iso_3166-1,1,WORLD,SGP,None,None,Singapore,Singapore,Singapore,,Singapore,2020,5850343
+SXM,iso_3166-1,1,WORLD,SXM,None,None,Sint Maarten (Dutch part),Sint Maarten (Dutch part),,,,2020,42882
+SVK,iso_3166-1,1,WORLD,SVK,None,None,Slovakia,Slovakia,Slovakia,Slovakia,Slovakia,2020,5459643
+SVN,iso_3166-1,1,WORLD,SVN,None,None,Slovenia,Slovenia,Slovenia,Slovenia,Slovenia,2020,2078932
+SOM,iso_3166-1,1,WORLD,SOM,None,None,Somalia,Somalia,,,,2020,15893219
+ZAF,iso_3166-1,1,WORLD,ZAF,None,None,South Africa,South Africa,South Africa,,South Africa,2020,59308690
+KOR,iso_3166-1,1,WORLD,KOR,None,None,South Korea,South Korea,Republic of Korea,,,2020,51269183
+SSD,iso_3166-1,1,WORLD,SSD,None,None,South Sudan,South Sudan,,,,2020,11193729
+ESP,iso_3166-1,1,WORLD,ESP,None,None,Spain,Spain,Spain,,Spain,2020,46754783
+LKA,iso_3166-1,1,WORLD,LKA,None,None,Sri Lanka,Sri Lanka,,,Sri Lanka,2020,21413250
+SDN,iso_3166-1,1,WORLD,SDN,None,None,Sudan,Sudan,,,,2020,43849269
+SUR,iso_3166-1,1,WORLD,SUR,None,None,Suriname,Suriname,,,,2020,586634
+SWZ,iso_3166-1,1,WORLD,SWZ,None,None,Swaziland,Swaziland,,,,2020,1160164
+SWE,iso_3166-1,1,WORLD,SWE,None,None,Sweden,Sweden,Sweden,Sweden,,2020,10099270
+CHE,iso_3166-1,1,WORLD,CHE,None,None,Switzerland,Switzerland,Switzerland,Switzerland,Switzerland,2020,8654618
+SYR,iso_3166-1,1,WORLD,SYR,None,None,Syria,Syria,,,,2020,17500657
+TWN,iso_3166-1,1,WORLD,TWN,None,None,Taiwan,Taiwan,Taiwan,,,2020,23816775
+TZA,iso_3166-1,1,WORLD,TZA,None,None,Tanzania,Tanzania,,,,2020,59734213
+THA,iso_3166-1,1,WORLD,THA,None,None,Thailand,Thailand,Thailand,,Thailand,2020,69799978
+TLS,iso_3166-1,1,WORLD,TLS,None,None,Timor,Timor,,,,2020,1318442
+TGO,iso_3166-1,1,WORLD,TGO,None,None,Togo,Togo,,,,2020,8278737
+TTO,iso_3166-1,1,WORLD,TTO,None,None,Trinidad and Tobago,Trinidad and Tobago,,,Trinidad and Tobago,2020,1399491
+TUN,iso_3166-1,1,WORLD,TUN,None,None,Tunisia,Tunisia,,,Tunisia,2020,11818618
+TUR,iso_3166-1,1,WORLD,TUR,None,None,Turkey,Turkey,,,Turkey,2020,84339067
+TCA,iso_3166-1,1,WORLD,TCA,None,None,Turks and Caicos Islands,Turks and Caicos Islands,,,,2020,38718
+UGA,iso_3166-1,1,WORLD,UGA,None,None,Uganda,Uganda,,,,2020,45741000
+UKR,iso_3166-1,1,WORLD,UKR,None,None,Ukraine,Ukraine,Ukraine,,Ukraine,2020,43733759
+ARE,iso_3166-1,1,WORLD,ARE,None,None,United Arab Emirates,United Arab Emirates,United Arab Emirates,,United Arab Emirates,2020,9890400
+GBR,iso_3166-1,1,WORLD,GBR,None,None,United Kingdom,United Kingdom,UK,United Kingdom,United Kingdom,2020,67886004
+USA,iso_3166-1,1,WORLD,USA,None,None,United States,United States,United States,,,2020,331002647
+VIR,iso_3166-1,1,WORLD,VIR,None,None,United States Virgin Islands,United States Virgin Islands,,,,2020,104423
+URY,iso_3166-1,1,WORLD,URY,None,None,Uruguay,Uruguay,Uruguay,,,2020,3473727
+UZB,iso_3166-1,1,WORLD,UZB,None,None,Uzbekistan,Uzbekistan,,,,2020,33469199
+VAT,iso_3166-1,1,WORLD,VAT,None,None,Vatican,Vatican,,,,2020,809
+VEN,iso_3166-1,1,WORLD,VEN,None,None,Venezuela,Venezuela,,,Venezuela,2020,28435943
+VNM,iso_3166-1,1,WORLD,VNM,None,None,Vietnam,Vietnam,Vietnam,,,2020,97338583
+ESH,iso_3166-1,1,WORLD,ESH,None,None,Western Sahara,Western Sahara,,,,2020,597330
+YEM,iso_3166-1,1,WORLD,YEM,None,None,Yemen,Yemen,,,,2020,29825968
+ZMB,iso_3166-1,1,WORLD,ZMB,None,None,Zambia,Zambia,,,,2020,18383956
+ZWE,iso_3166-1,1,WORLD,ZWE,None,None,Zimbabwe,Zimbabwe,,,Zimbabwe,2020,14862927
+ALA,iso_3166-1,1,WORLD,ALA,None,None,Åland Islands,,,,,,
+ASM,iso_3166-1,1,WORLD,ASM,None,None,American Samoa,,,,,,
+ATA,iso_3166-1,1,WORLD,ATA,None,None,Antarctica,,,,,,
+BVT,iso_3166-1,1,WORLD,BVT,None,None,Bouvet Island,,,,,,
+IOT,iso_3166-1,1,WORLD,IOT,None,None,British Indian Ocean Territory,,,,,,
+CXR,iso_3166-1,1,WORLD,CXR,None,None,Christmas Island,,,,,,
+CCK,iso_3166-1,1,WORLD,CCK,None,None,Cocos (Keeling) Islands,,,,,,
+COM,iso_3166-1,1,WORLD,COM,None,None,Comoros,,,,,,
+COK,iso_3166-1,1,WORLD,COK,None,None,Cook Islands,,,,,,
+PRK,iso_3166-1,1,WORLD,PRK,None,None,Democratic People's Republic of Korea,,,,,2020,246232508
+FSM,iso_3166-1,1,WORLD,FSM,None,None,Federated States of Micronesia,,,,,,
+GUF,iso_3166-1,1,WORLD,GUF,None,None,French Guiana,,,,,,
+ATF,iso_3166-1,1,WORLD,ATF,None,None,French Southern Territories,,,,,,
+GLP,iso_3166-1,1,WORLD,GLP,None,None,Guadeloupe,,,,,,
+HMD,iso_3166-1,1,WORLD,HMD,None,None,Heard Island and McDonald Islands,,,,,,
+HKG,iso_3166-1,1,WORLD,HKG,None,None,Hong Kong,,Hong Kong,,,2020,7496988
+KIR,iso_3166-1,1,WORLD,KIR,None,None,Kiribati,,,,,,
+LSO,iso_3166-1,1,WORLD,LSO,None,None,Lesotho,,,,,2020,6521494468
+MAC,iso_3166-1,1,WORLD,MAC,None,None,Macao,,Macao,,,2020,2083380
+MHL,iso_3166-1,1,WORLD,MHL,None,None,Marshall Islands,,,,,2020,375265
+MTQ,iso_3166-1,1,WORLD,MTQ,None,None,Martinique,,,,,2020,4649660
+MYT,iso_3166-1,1,WORLD,MYT,None,None,Mayotte,,,,,2020,11122990
+NRU,iso_3166-1,1,WORLD,NRU,None,None,Nauru,,,,,2020,29136808
+ANT,iso_3166-1,1,WORLD,ANT,None,None,Netherlands Antilles,,,,,,
+NIU,iso_3166-1,1,WORLD,NIU,None,None,Niue,,,,,2020,368869644
+NFK,iso_3166-1,1,WORLD,NFK,None,None,Norfolk Island,,,,,,
+PLW,iso_3166-1,1,WORLD,PLW,None,None,Palau,,,,,2020,5101416
+PCN,iso_3166-1,1,WORLD,PCN,None,None,Pitcairn,,,,,,
+REU,iso_3166-1,1,WORLD,REU,None,None,Réunion,,,,,2020,19237682
+MAF,iso_3166-1,1,WORLD,MAF,None,None,Saint Martin (French part),,,,,2020,5795
+SPM,iso_3166-1,1,WORLD,SPM,None,None,Saint Pierre and Miquelon,,,,,2020,110947
+WSM,iso_3166-1,1,WORLD,WSM,None,None,Samoa,,,,,2020,33938
+SLB,iso_3166-1,1,WORLD,SLB,None,None,Solomon Islands,,,,,2020,15893219
+SGS,iso_3166-1,1,WORLD,SGS,None,None,South Georgia and the South Sandwich Islands,,,,,,
+SJM,iso_3166-1,1,WORLD,SJM,None,None,Svalbard and Jan Mayen,,,,,,
+TJK,iso_3166-1,1,WORLD,TJK,None,None,Tajikistan,,,,,2020,59734213
+TKL,iso_3166-1,1,WORLD,TKL,None,None,Tokelau,,,,,2020,105697
+TON,iso_3166-1,1,WORLD,TON,None,None,Tonga,,,,,2020,1399491
+TKM,iso_3166-1,1,WORLD,TKM,None,None,Turkmenistan,,,,,2020,38718
+TUV,iso_3166-1,1,WORLD,TUV,None,None,Tuvalu,,,,,2020,45741000
+UMI,iso_3166-1,1,WORLD,UMI,None,None,United States Minor Outlying Islands,,,,,,
+VUT,iso_3166-1,1,WORLD,VUT,None,None,Vanuatu,,,,,2020,809
+WLF,iso_3166-1,1,WORLD,WLF,None,None,Wallis and Futuna,,,,,2020,401861255
