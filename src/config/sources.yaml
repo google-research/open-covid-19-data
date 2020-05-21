@@ -1,0 +1,403 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+covidtracking:
+  fetch:
+    source_url: 'https://covidtracking.com/api/v1/states/daily.csv'
+    automatic_download: True
+    scraped: False
+  path:
+    dir: 'data/inputs/downloaded/united_states/covidtracking'
+    file: 'daily.csv'
+    find_recent: True
+  load:
+    function: 'covidtracking'
+    dates:
+      columns: ['date']
+      date_format: '%Y%m%d'
+      parse_function: 'default'
+    regions:
+      mapping_file: 'data/inputs/static/locations/regions/united_states_states.csv'
+      mapping_keys:
+        source_region_code: 'state'
+  data:
+    hospitalized:
+      new: 'hospitalizedIncrease'
+  approved: True
+
+italy_and_regions:
+  fetch:
+    source_url: 'https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv'
+    automatic_download: True
+    scraped: False
+  path:
+    dir: 'data/inputs/downloaded/italy/'
+    file: 'dpc-covid19-ita-regioni.csv'
+    find_recent: True
+  load:
+    function: 'default_load_function'
+    dates:
+      columns: ['data']
+      parse_function: 'default'
+    regions:
+      mapping_file: 'data/inputs/static/locations/regions/italy_regions.csv'
+      mapping_keys:
+        source_region_code: 'codice_regione'
+        source_region_name: 'denominazione_regione'
+      aggregate_by: 'level_1_region_code'
+      omit:
+        deaths: ['ITA']
+        cases: ['ITA']
+        tests_performed: ['ITA']
+  data:
+    hospitalized:
+      current: 'totale_ospedalizzati'
+    icu:
+      current: 'terapia_intensiva'
+  approved: True
+
+spain_and_regions:
+  fetch:
+    source_url: 'https://cnecovid.isciii.es/covid19/resources/agregados.csv'
+    automatic_download: True
+    scraped: False
+  path:
+    dir: 'data/inputs/downloaded/spain'
+    file: 'agregados.csv'
+    find_recent: True
+  load:
+    function: 'spain_and_regions'
+    read:
+      encoding: 'latin1'
+    dates:
+      columns: ['FECHA']
+      parse_function: 'default'
+    regions:
+      mapping_file: 'data/inputs/static/locations/regions/spain_regions.csv'
+      mapping_keys:
+        source_region_code: 'CCAA'
+  data:
+    hospitalized:
+      cumulative: 'Hospitalizados'  # TODO: Except for some regions, on some dates
+    icu:
+      cumulative: 'UCI'
+  approved: True
+
+france_cumulative_hospitalizations:
+  fetch:
+    source_url: 'https://www.data.gouv.fr/fr/datasets/r/6fadff46-9efd-4c53-942a-54aca783c30c'
+    automatic_download: True
+    scraped: False
+  path:
+    dir: 'data/inputs/downloaded/france'
+    file: 'donnees-hospitalieres-nouveaux-covid19.csv'
+    find_recent: True
+  load:
+    function: 'default_load_function'
+    read:
+      delimiter: ';'
+    dates:
+      columns: ['jour']
+      parse_function: 'default'
+    regions:
+      mapping_file: 'data/inputs/static/locations/regions/france_departments.csv'
+      mapping_keys:
+        source_region_code: 'dep'
+      aggregate_by: 'parent_region_code'
+  # incid rea (retours a domicile)= in rehab
+  # incid dc (deces a l'hopital) = deaths in hospital
+  # incid rad (retours a domicile) = return to home
+  data:
+    hospitalized:
+      new: 'incid_hosp'
+  approved: True
+
+united_kingdom_hospitalizations:
+  fetch:
+    automatic_download: False
+    scraped: False
+  path:
+    dir: 'data/inputs/downloaded/united_kingdom'
+    file: 'data.xlsx'  # Need to rename when downloading
+    find_recent: True
+  load:
+    function: 'default_load_function'
+    read:
+      skiprows: 4
+      sheet_name: 'People in Hospital (UK)'
+      skipfooter: 10
+    dates:
+      columns: ['Date']
+      parse_function: 'default'
+    regions:
+      mapping_file: 'data/inputs/static/locations/regions/united_kingdom_hospitalizations.csv'
+      mapping_keys:
+        region_name: 'Region'
+      aggregate_by: 'level_2_region_code'  # Can't compute GBR level because no Northern Ireland
+  data:
+    hospitalized:
+      current: 'People in hospital'
+  approved: True
+
+japan_hospitalizations:
+  fetch:
+    source_url: 'https://raw.githubusercontent.com/kaz-ogiwara/covid19/master/data/summary.csv'
+    automatic_download: True
+    scraped: False
+  path:
+    dir: 'data/inputs/downloaded/japan'
+    file: 'summary.csv'
+    find_recent: True
+  load:
+    function: 'default_load_function'
+    dates:
+      parse_function: 'japan_hospitalization_dates'
+    regions:
+      region_code: 'JPN'
+  data:
+    hospitalized:
+      current: 'hospitalized'
+    icu:
+      current: 'serious'
+  approved: True
+
+colombia_hospitalizations:
+  fetch:
+    source_url: 'https://raw.githubusercontent.com/dfuribez/COVID-19-Colombia/master/time_series.csv'
+    automatic_download: True
+    scraped: False
+  path:
+    dir: 'data/inputs/downloaded/colombia'
+    file: 'time_series.csv'
+    find_recent: True
+  load:
+    function: 'default_load_function'
+    dates:
+      columns: ['fecha']
+      parse_function: 'default'
+    regions:
+      region_code: 'COL'
+  data:
+    hospitalized:
+      current: 'hospitalizados'
+    icu:
+      current: 'uci'
+  approved: True
+
+luxembourg_hospitalizations:
+  fetch:
+    source_url: 'https://data.public.lu/fr/datasets/r/1da1bb72-4450-4f60-915b-6c355db2e7fa'
+    automatic_download: True
+    scraped: False
+  path:
+    dir: 'data/inputs/downloaded/luxembourg'
+    file: 'datapublic-covid19.xlsx'
+    find_recent: True
+  load:
+    function: 'default_load_function'
+    dates:
+      columns: ['Date']
+      parse_function: 'default'
+    regions:
+      region_code: 'LUX'
+      omit:
+        deaths: ['LUX']
+  data:
+    hospitalized:
+      current: 'Nombre de personnes en soin normaux'
+    icu:
+      current: 'Nombre de personnes en soin intensifs (patients du grand est inclus)'
+  approved: True
+
+sweden_hospitalizations:
+  fetch:
+    source_url: 'https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data'
+    automatic_download: True
+    scraped: False
+  path:
+    dir: 'data/inputs/downloaded/sweden'
+    file: 'Folkhalsomyndigheten_Covid19.xlsx'
+    find_recent: True
+  load:
+    function: 'default_load_function'
+    read:
+      sheet_name: 'Antal intensivvårdade per dag'
+    dates:
+      columns: ['Datum_vårdstart']
+      parse_function: 'default'
+    regions:
+      region_code: 'SWE'
+  data:
+    icu:
+      current: 'Antal_intensivvårdade'
+  approved: True
+
+ireland_hospitalizations:
+  fetch:
+    automatic_download: False
+    scraped: True
+  path:
+    dir: 'data/inputs/scraped/ireland/'
+    file: 'ireland_hospitalizations.csv'
+    find_recent: True
+  load:
+    function: 'default_load_function'
+    dates:
+      columns: ['date']
+      parse_function: 'default'
+    regions:
+      region_code: 'IRL'
+  data:
+    hospitalized:
+      cumulative: 'hospitalized_cumulative'
+    icu:
+      cumulative: 'icu_cumulative'
+  approved: True
+
+switzerland_hospitalizations:
+  fetch:
+    automatic_download: False
+    scraped: False
+  path:
+    dir: 'data/inputs/downloaded/switzerland/'
+    file: '200325_Datengrundlage_Grafiken_COVID-19-Bericht.xlsx'
+    find_recent: True
+  load:
+    function: 'default_load_function'
+    read:
+      skiprows: 6
+    dates:
+      columns: ['Datum']
+      parse_function: 'default'
+    regions:
+      region_code: 'CHE'
+      omit:
+        cases: ['CHE']
+        deaths: ['CHE']
+  data:
+    hospitalized:
+      new: 'Hospitalisationen pro Tag'
+      cumulative: 'Hospitalisationen pro Tag, Kumuliert'
+  approved: True
+
+netherlands_hospitalizations:
+  fetch:
+    automatic_download: False
+    scraped: False
+  path:
+    dir: 'data/inputs/downloaded/netherlands'
+    file: 'in-ziekenhuis-opgenomen-patiënten.csv'
+    find_recent: True
+  load:
+    function: 'netherlands_hospitalizations'
+    read:
+      delimiter: ';'
+    dates:
+      parse_function: 'netherlands_hospitalization_dates'
+    regions:
+      region_code: 'NLD'
+  data:
+    hospitalized:
+      current: None
+  approved: True
+
+denmark_hospitalizations:
+  fetch:
+    automatic_download: False
+    scraped: True
+  path:
+    dir: 'data/inputs/scraped/denmark'
+    file: 'denmark_hospitalizations.csv'
+  load:
+    function: 'default_load_function'
+    regions:
+      region_code: 'DNK'
+    dates:
+      columns: ['date']
+      parse_function: 'default'
+  data:
+    hospitalized:
+      current: 'hospitalized_current'
+    icu:
+      current: 'icu_current'
+    ventilator:
+      current: 'ventilator_current'
+  approved: True
+
+czech_republic_hospitalizations:
+  fetch:
+    automatic_download: False
+    scraped: True
+  path:
+    dir: 'data/inputs/scraped/czech_republic'
+    file: 'czech_republic_hospitalizations.csv'
+  load:
+    function: 'default_load_function'
+    dates:
+      columns: ['date']
+      parse_function: 'default'
+    regions:
+      region_code: 'CZE'
+  data:
+    hospitalized:
+      current: 'hospitalized_current'
+    icu:
+      current: 'icu_current'
+  approved: True
+
+australia_hospitalizations:
+  fetch:
+    automatic_download: False
+    scraped: True
+  path:
+    dir: 'data/inputs/scraped/australia'
+    file: 'australia_hospitalizations.csv'
+  load:
+    function: 'default_load_function'
+    regions:
+      region_code: 'AUS'
+    dates:
+      columns: ['date']
+      parse_function: 'default'
+  data:
+    hospitalized:
+      current: 'hospitalized_current'
+    icu:
+      current: 'icu_current'
+    ventilator:
+      current: 'ventilator_current'
+  approved: True
+
+iceland_hospitalizations:
+  fetch:
+    automatic_download: False
+    scraped: False
+  path:
+    dir: 'data/inputs/downloaded/iceland/'
+    file: 'Sheet 1.csv'
+    find_recent: True
+  load:
+    function: 'default_load_function'
+    dates:
+      columns: ['']
+      parse_function: 'iceland_dates'
+    regions:
+      region_code: 'ISL'
+  data:
+    icu:
+      current: 'Number in ICU'
+    hospitalized:
+      current: 'Number hospitalised'
+  approved: True

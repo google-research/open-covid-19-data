@@ -1,0 +1,20 @@
+region_code,source_region_code,region_code_type,country_iso_3,region_level,iso_3166-2,region_name,population,parent_region_code,github_source_region_code,source_region_name,region_code,region_code_type,region_code_level,level_1_region_code,level_2_region_code,level_3_region_code
+ES-AN,AN,iso_3166-2,ESP,region,ES-AN,Andalusia,8446561,ESP,1,Andalucía,ES-AN,iso_3166-2,2,ESP,ES-AN,None
+ES-AR,AR,iso_3166-2,ESP,region,ES-AR,Aragon,1324397,ESP,2,Aragón,ES-AR,iso_3166-2,2,ESP,ES-AR,None
+ES-AS,AS,iso_3166-2,ESP,region,ES-AS,Asturias,1019993,ESP,3,Asturias,ES-AS,iso_3166-2,2,ESP,ES-AS,None
+ES-CB,CB,iso_3166-2,ESP,region,ES-CB,Cantabria,581949,ESP,6,Cantabria,ES-CB,iso_3166-2,2,ESP,ES-CB,None
+ES-CE,CE,iso_3166-2,ESP,region,ES-CE,Ceuta,84434,ESP,18,Ceuta,ES-CE,iso_3166-2,2,ESP,ES-CE,None
+ES-CL,CL,iso_3166-2,ESP,region,ES-CL,Castile and Leon,2402877,ESP,7,Castilla y León,ES-CL,iso_3166-2,2,ESP,ES-CL,None
+ES-CM,CM,iso_3166-2,ESP,region,ES-CM,Castilla La Mancha,2038440,ESP,8,Castilla La Mancha,ES-CM,iso_3166-2,2,ESP,ES-CM,None
+ES-CN,CN,iso_3166-2,ESP,region,ES-CN,Canarias,2220270,ESP,5,Canarias,ES-CN,iso_3166-2,2,ESP,ES-CN,None
+ES-CT,CT,iso_3166-2,ESP,region,ES-CT,Catalonia,7609499,ESP,9,Cataluña,ES-CT,iso_3166-2,2,ESP,ES-CT,None
+ES-EX,EX,iso_3166-2,ESP,region,ES-EX,Extremadura,1062797,ESP,11,Extremadura,ES-EX,iso_3166-2,2,ESP,ES-EX,None
+ES-GA,GA,iso_3166-2,ESP,region,ES-GA,Galicia,2698764,ESP,12,Galicia,ES-GA,iso_3166-2,2,ESP,ES-GA,None
+ES-IB,IB,iso_3166-2,ESP,region,ES-IB,Balearic Islands,1198576,ESP,4,Baleares,ES-IB,iso_3166-2,2,ESP,ES-IB,None
+ES-MC,MC,iso_3166-2,ESP,region,ES-MC,Murcia,1494442,ESP,14,Murcia,ES-MC,iso_3166-2,2,ESP,ES-MC,None
+ES-MD,MD,iso_3166-2,ESP,region,ES-MD,Madrid,6685471,ESP,13,Madrid,ES-MD,iso_3166-2,2,ESP,ES-MD,None
+ES-ML,ML,iso_3166-2,ESP,region,ES-ML,Melilla,84286,ESP,19,Melilla,ES-ML,iso_3166-2,2,ESP,ES-ML,None
+ES-NC,NC,iso_3166-2,ESP,region,ES-NC,Navarre,652526,ESP,15,Navarra,ES-NC,iso_3166-2,2,ESP,ES-NC,None
+ES-PV,PV,iso_3166-2,ESP,region,ES-PV,Pais Vasco,2181919,ESP,16,País Vasco,ES-PV,iso_3166-2,2,ESP,ES-PV,None
+ES-RI,RI,iso_3166-2,ESP,region,ES-RI,La Rioja,314487,ESP,17,La Rioja,ES-RI,iso_3166-2,2,ESP,ES-RI,None
+ES-VC,VC,iso_3166-2,ESP,region,ES-VC,Valencian Community,4998711,ESP,10,C. Valenciana,ES-VC,iso_3166-2,2,ESP,ES-VC,None

@@ -1,0 +1,11 @@
+region_code,level_1_region_code,region_level,parent_region_code,region_code_level,level_2_region_code,region_name,population
+GB-ENG-EOE,GBR,region,GB-ENG,3,GB-ENG,East of England,
+GB-ENG-LON,GBR,region,GB-ENG,3,GB-ENG,London,
+GB-ENG-MID,GBR,region,GB-ENG,3,GB-ENG,Midlands,
+GB-ENG-NEY,GBR,region,GB-ENG,3,GB-ENG,North East & Yorkshire,
+GB-ENG-NW,GBR,region,GB-ENG,3,GB-ENG,North West,
+GB-ENG-SE,GBR,region,GB-ENG,3,GB-ENG,South East,
+GB-ENG-SW,GBR,region,GB-ENG,3,GB-ENG,South West,
+GB-NIR,GBR,province,GBR,2,GB-NIR,Northern Ireland,1881641
+GB-SCT,GBR,country,GBR,2,GB-SCT,Scotland,5438100
+GB-WLS,GBR,country,GBR,2,GB-WLS,Wales,3138631
