@@ -1,0 +1,47 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+fetch:
+  method: 'MANUAL_DOWNLOAD'
+  file: 'data.xlsx'  # Need to rename when downloading
+load:
+  function: 'default_load_function'
+  read:
+    skiprows: 4
+    sheet_name: 'People in Hospital (UK)'
+    skipfooter: 10
+  dates:
+    columns: ['Date']
+    parse_function: 'default'
+  regions:
+    mapping_file: 'data/inputs/static/locations/regions/united_kingdom_hospitalizations.csv'
+    mapping_keys:
+      region_name: 'Region'
+    aggregate_by: 'level_2_region_code'  # Can't compute GBR level because no Northern Ireland
+data:
+  hospitalized:
+    current: 'People in hospital'
+attribution:
+  country: 'United Kingdom'
+  source_name: 'GOV.UK'
+  main_link: 'https://www.gov.uk'
+  data_link: 'https://www.gov.uk/government/publications/'
+  description: 'Data is downloaded manually from the publications provided at the source link. Data is aggregated across regions in England and reported at the country level for England, Scotland, Wales and Northern Ireland. Data consists of time series data for current hospitalizations.'
+license:
+  name: 'Open Government License 3.0'
+  file: 'docs/license_files/open-government-license-3.0'
+  link: 'http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+cc-by-sa: False
+approved: True

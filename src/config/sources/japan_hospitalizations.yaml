@@ -1,0 +1,43 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+fetch:
+  source_url: 'https://raw.githubusercontent.com/kaz-ogiwara/covid19/master/data/summary.csv'
+  method: 'AUTOMATIC_DOWNLOAD'
+  file: 'summary.csv'
+load:
+  function: 'default_load_function'
+  dates:
+    parse_function: 'japan_hospitalization_dates'
+  regions:
+    single_region_code: 'JPN'
+data:
+  hospitalized:
+    current: 'hospitalized'
+  icu:
+    current: 'serious'
+attribution:
+  country: 'Japan'
+  source_name: 'Toyo Keizai Online'
+  main_link: 'https://github.com/kaz-ogiwara/covid19'
+  data_link: 'https://github.com/kaz-ogiwara/covid19'
+  copyright_notice: 'Copyright (c) 2020 Kazuki OGIWARA / 荻原 和樹'
+  description: 'Data is downloaded automatically from the source repository. Data for Japan consists of time series data for current hospitalizations and ICU cases.'
+license:
+  name: 'MIT'
+  file: 'docs/license_files/mit-kaz-ogiwara'
+  link: 'https://github.com/kaz-ogiwara/covid19/blob/master/LICENSE'
+cc-by-sa: False
+approved: True

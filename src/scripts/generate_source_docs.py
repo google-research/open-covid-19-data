@@ -22,13 +22,19 @@ from datetime import datetime
 
 CURRENT_DIR = os.path.dirname(__file__)
 ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
-SOURCES_PATH = os.path.join(ROOT_DIR, 'docs/sources.md')
-YAML_PATH = os.path.join(ROOT_DIR, 'src/config/docs.yaml')
+SOURCES_PATH_CC_BY = os.path.join(ROOT_DIR, 'docs/sources_cc_by.md')
+SOURCES_PATH_CC_BY_SA = os.path.join(ROOT_DIR, 'docs/sources_cc_by_sa.md')
+PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
 
-todays_date = datetime.today().strftime('%Y-%m-%d')
+sys.path.append(PIPELINE_DIR)
 
-with open(YAML_PATH) as file:
-    sources = yaml.load(file, Loader=yaml.FullLoader)
+import config
+import path_utils
+
+sources_cc_by = config.read_config(filter_no_load_func=False, cc_by_sa=False)
+alphabetized_sources_cc_by = sorted(sources_cc_by.items(), key = lambda x: x[1]['attribution']['country'])
+sources_cc_by_sa = config.read_config(filter_no_load_func=False, cc_by_sa=True)
+alphabetized_sources_cc_by_sa = sorted(sources_cc_by_sa.items(), key = lambda x: x[1]['attribution']['country'])
 
 def source_and_link_str(source_name, link):
     str = source_name
@@ -37,51 +43,73 @@ def source_and_link_str(source_name, link):
     str += '))'
     return str
 
-with open(SOURCES_PATH, 'w') as out:
-    for source in sources.values():
-        out.write('#### ' + source['country'] + '\n')
-        if 'source_name' in source:
-            out.write('**Source name:** ')
-            out.write(source_and_link_str(source['source_name'], source['main_link']))
-            out.write('<br>')
-        if 'data_link' in source:
-            out.write('**Link to data:** ')
-            out.write(source['data_link'])
-            out.write('<br>')
-        if 'original' in source:
-            original_source = source['original']
-            out.write('**Original data source:** ')
-            out.write(source_and_link_str(original_source['source_name'], original_source['main_link']))
-            out.write('<br>')
-            if 'data_link' in original_source:
-                out.write('**Link to original data:** ')
-                out.write(original_source['data_link'])
-                out.write('<br>')
-            if 'license'in original_source:
-                out.write('**License for original data:** ')
-                out.write(source_and_link_str(original_source['license']['name'], original_source['license']['link']))
-                out.write('<br>')
-        if 'aggregated_by' in source:
-            agg_source = source['aggregated_by']
-            out.write('**Data aggregated by:** ')
-            out.write(source_and_link_str(agg_source['source_name'], agg_source['main_link']))
-            out.write('<br>')
-            if 'license'in agg_source:
-                out.write('**License for aggregated data:** ')
-                out.write(source_and_link_str(agg_source['license']['name'], agg_source['license']['link']))
-                out.write('<br>')
-        if 'attribution' in source:
-            out.write('**Attribution:** ')
-            out.write(source['attribution'])
-            out.write('<br>')
-        if 'description' in source:
-            out.write('**Description:** ')
-            out.write(source['description'])
-            out.write('<br>')
-        if 'license' in source:
-            out.write('**License:** ')
-            out.write(source_and_link_str(source['license']['name'], source['license']['link']))
-            out.write('<br>')
+def add_last_accessed_date(source):
+    try:
+        most_recent_date = path_utils.most_recent_data(source)['date']
+        source['last_accessed'] = str(most_recent_date)
+        return source
+    except:
+        return source
 
-        out.write('**Last accessed:** ' + todays_date)
-        out.write('\n\n')
+def write_source(item, out):
+    source = item[1]
+    source = add_last_accessed_date(source)
+    attribution = source['attribution']
+    out.write('#### ' + attribution['country'] + '\n')
+    if 'source_name' in attribution:
+        out.write('**Source name:** ')
+        out.write(source_and_link_str(attribution['source_name'], attribution['main_link']))
+        out.write('<br>')
+    if 'data_link' in attribution:
+        out.write('**Link to data:** ')
+        out.write(attribution['data_link'])
+        out.write('<br>')
+    if 'copyright_notice' in attribution:
+        out.write('**Copyright notice:** ')
+        out.write(attribution['copyright_notice'])
+        out.write('<br>')
+    if 'original' in attribution:
+        original_source = attribution['original']
+        out.write('**Original data source:** ')
+        out.write(source_and_link_str(original_source['source_name'], original_source['main_link']))
+        out.write('<br>')
+        if 'data_link' in original_source:
+            out.write('**Link to original data:** ')
+            out.write(original_source['data_link'])
+            out.write('<br>')
+        if 'license'in original_source:
+            out.write('**License for original data:** ')
+            out.write(source_and_link_str(original_source['license']['name'], original_source['license']['link']))
+            out.write('<br>')
+    if 'aggregated_by' in attribution:
+        agg_source = attribution['aggregated_by']
+        out.write('**Data aggregated by:** ')
+        out.write(source_and_link_str(agg_source['source_name'], agg_source['main_link']))
+        out.write('<br>')
+        if 'license'in agg_source:
+            out.write('**License for aggregated data:** ')
+            out.write(source_and_link_str(agg_source['license']['name'], agg_source['license']['link']))
+            out.write('<br>')
+    if 'citation' in attribution:
+        out.write('**Citation:** ')
+        out.write(attribution['citation'])
+        out.write('<br>')
+    if 'description' in attribution:
+        out.write('**Description:** ')
+        out.write(attribution['description'])
+        out.write('<br>')
+    if 'license' in source:
+        out.write('**License:** ')
+        out.write(source_and_link_str(source['license']['name'], source['license']['link']))
+        out.write('<br>')
+    if 'last_accessed' in source:
+        out.write('**Last accessed:** ' + source['last_accessed'])
+    out.write('\n\n')
+
+with open(SOURCES_PATH_CC_BY, 'w') as out:
+    for item in alphabetized_sources_cc_by:
+        write_source(item, out)
+
+with open(SOURCES_PATH_CC_BY_SA, 'w') as out:
+    for item in alphabetized_sources_cc_by_sa:
+        write_source(item, out)

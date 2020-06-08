@@ -15,24 +15,39 @@
 # limitations under the License.
 
 import yaml
-from os import path
+import os
+
+DATA_YAML = os.path.abspath(os.path.join(__file__, '../../config/data.yaml'))
+SOURCES_DIR = os.path.abspath(os.path.join(__file__, '../../config/sources'))
 
 
 def read_data_schema():
-    p = path.abspath(path.join(__file__, '../../config/data.yaml'))
-    with open(p) as file:
+    with open(DATA_YAML) as file:
         schema = yaml.load(file, Loader=yaml.FullLoader)
     return schema
 
-def read_config(filter_no_load_func=True, filter_not_approved=True):
-    p = path.abspath(path.join(__file__, '../../config/sources.yaml'))
-    with open(p) as file:
-        config = yaml.load(file, Loader=yaml.FullLoader)
-    if filter_no_load_func:
-        config = dict(filter(lambda elem: elem[1]['load']['function'] is not None, config.items()))
-    if filter_not_approved:
-        config = dict(filter(lambda elem: elem[1]['approved'], config.items()))
-    return config
+def all_region_columns():
+    return ['region_code'] + other_region_columns()
+
+def other_region_columns():
+    return ['parent_region_code', 'region_code_type', 'region_code_level', 'level_1_region_code', 'level_2_region_code', 'level_3_region_code']
+
+def read_config(cc_by_sa=False, filter_no_load_func=True, filter_not_approved=True, filter_by_fetch_method=None):
+    config_dict = {}
+    for source_file_name in os.listdir(SOURCES_DIR):
+        source_file = os.path.join(SOURCES_DIR, source_file_name)
+        with open(source_file) as file:
+            params = yaml.load(file, Loader=yaml.FullLoader)
+        source_key = os.path.splitext(source_file_name)[0]
+        params['config_key'] = source_key
+        if (filter_no_load_func and ('load' not in params or 'function' not in params['load'] or params['load']['function'] is None)) or \
+            (filter_not_approved and not params['approved']) or \
+            (filter_by_fetch_method and params['fetch']['method'] != filter_by_fetch_method) or \
+            (not cc_by_sa and params['cc-by-sa']):
+            continue
+        else:
+            config_dict[source_key] = params
+    return config_dict
 
 def col_params_to_col_list(data_columns_params):
     data_schema = read_data_schema()

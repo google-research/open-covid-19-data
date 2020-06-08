@@ -23,15 +23,15 @@ import config
 
 time_series_data_types = config.get_time_series_data_types()
 
-def get_time_series_data_by_type():
+def get_time_series_data_by_type(cc_by_sa=False):
     time_series_data = {}
     for dt in time_series_data_types:
-        time_series_data[dt] = load_data.load_data_type(dt)
+        time_series_data[dt] = load_data.load_data_type(dt, cc_by_sa)
     return time_series_data
 
-def get_time_series_df():
+def get_time_series_df(cc_by_sa=False):
     joined_df = None
-    time_series_data_by_type = get_time_series_data_by_type()
+    time_series_data_by_type = get_time_series_data_by_type(cc_by_sa)
     for df in time_series_data_by_type.values():
         if joined_df is None:
             joined_df = df
@@ -41,4 +41,7 @@ def get_time_series_df():
     locations_df = pd.read_csv(locations_path)
     locations_df = locations_df[['region_code', 'region_name']]
     time_series_df = joined_df.merge(locations_df, on=['region_code'], how='inner')
+    identifier_cols = ['region_code', 'region_name', 'date']
+    time_series_df_cols = [c for c in time_series_df.columns if c not in identifier_cols]
+    time_series_df = time_series_df[identifier_cols + time_series_df_cols]
     return time_series_df

@@ -1,0 +1,49 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+fetch:
+  source_url: 'https://cnecovid.isciii.es/covid19/resources/agregados.csv'
+  file: 'agregados.csv'
+  method: 'AUTOMATIC_DOWNLOAD'
+load:
+  function: 'spain_and_regions'
+  read:
+    encoding: 'latin1'
+    skipfooter: 9
+  dates:
+    columns: ['FECHA']
+    parse_function: 'default'
+    date_format: '%d/%m/%Y'
+  regions:
+    mapping_file: 'data/inputs/static/locations/regions/spain_regions.csv'
+    mapping_keys:
+      source_region_code: 'CCAA'
+data:
+  # On some regions + some dates, numbers are current not cumulative.
+  # These are patched in spain_and_regions() load function.
+  hospitalized:
+    cumulative: 'Hospitalizados'
+    current: 'None'
+  icu:
+    cumulative: 'UCI'
+    current: 'None'
+attribution:
+  country: 'Spain'
+  source_name: 'Ministerio de Sanidad, Consumo y Bienestar Social'
+  main_link: 'https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm'
+  data_link: 'https://cnecovid.isciii.es/covid19/resources/agregados.csv'
+  description: 'The data is downloaded automatically from the source link. Due to regional differences in hospitalization reporting, we do not aggregate across regions to produce country-level statistics for Spain.'
+cc-by-sa: False
+approved: True

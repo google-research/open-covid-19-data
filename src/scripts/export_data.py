@@ -21,11 +21,16 @@ import os
 CURRENT_DIR = os.path.dirname(__file__)
 ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
 PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
-EXPORT_PATH = os.path.join(ROOT_DIR, 'data/exported/hospitalizations.csv')
+
+EXPORT_PATH_CC_BY = os.path.join(ROOT_DIR, 'data/exports/cc_by/aggregated_cc_by.csv')
+EXPORT_PATH_CC_BY_SA = os.path.join(ROOT_DIR, 'data/exports/cc_by_sa/aggregated_cc_by_sa.csv')
 
 sys.path.append(PIPELINE_DIR)
 
 import join_data
 
-time_series_df = join_data.get_time_series_df()
-time_series_df.to_csv(EXPORT_PATH, index=False)
+time_series_df_cc_by = join_data.get_time_series_df(cc_by_sa=False)
+time_series_df_cc_by.to_csv(EXPORT_PATH_CC_BY, index=False)
+
+time_series_df_cc_by_sa = join_data.get_time_series_df(cc_by_sa=True)
+time_series_df_cc_by_sa.to_csv(EXPORT_PATH_CC_BY_SA, index=False)

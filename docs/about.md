@@ -36,17 +36,11 @@ Before adding a new data source, we go through an internal approval within Googl
 ##### 1. Register new data types in `src/config/data.yaml`:
 * If the source includes a data type that isn't yet included in the data schema, register the data type in the schema by adding an entry to `src/config/data.yaml`.
 
-##### 2. Add the source to `src/config/sources.yaml`:
+##### 2. Add a new yaml file to `src/config/sources`.
 * Specify the `fetch` parameters:<br>
   * `source_url`: where to download the data<br>
-  * `automatic_download`: True if the `source_url` is a stable endpoint<br>
-  * `scraped`: True if requires human scraping of the data<br>
-
-* Specify the `path` where the data lives in the `data` directory:<br>
-  * `dir`: directory for this data source<br>
+  * `method`: one of `AUTOMATIC_DOWNLOAD`, `MANUAL_DOWNLOAD`, `SCRAPED`, `STATIC`<br>
   * `file`: filename for the data source<br>
-  * `find_recent`: True if the data requires updating, False for static/auxiliary files<br>
-
 * Specify the `load` parameters.<br>
   * `function`: which function in `load_functions.py` to use to load the data. Most data sources can be loaded with `default_load_function`, but some data sources will have formatting that requires implementing a new function in `load_functions.py`.<br>
   * `read`: data sources are read using the `pandas.read_csv()` or `pandas.read_excel()` functions. The `read` field accepts key/val parameters that are passed to the appropriate pandas read function.
@@ -59,14 +53,12 @@ Before adding a new data source, we go through an internal approval within Googl
     * `mapping_keys`: takes key/value fields where the key is the column in the mapping file, and the value is the string name of the column in the original data source.
 * Specify the `data` parameters:
   * These parameters follow the data schema specified in `src/config/data.yaml`, where the keys come from the data schema and the values are the column name in the original data source for the corresponding data.
-* Specify the `approved` field: set to True after the data source has been approved
+* Specify the `attribution` parameters. These are used to generate the data source section of the README. The fields for existing data sources serve as an example of what to include.
+* Specify the `license` parameters. These are used to generate the LICENSE file. The fields for existing data sources serve as an example of what to include.
+* Specify the `cc-by-sa` field: we produce two aggregated csv files, one is licensed under `CC-BY` and the other is under `CC-BY-SA`. This field determines whether this data can be included in the `CC-BY` file.
+* Specify the `approved` field: set to `True` after the data source has been approved.
 
-
-##### 3. Add to `src/config/docs.yaml`:
-* This file contains the source, attribution, and licensing information required to generate the data source section of the README, as well as the LICENSE file.
-* The key in this yaml file should be the same as the key in `src/config/docs.yaml`, and the fields for the existing data sources serve as an example of what to include.
-
-##### 4. Update docs and licenses:
-* Run `src/scripts/generate_source_docs.py` to update `docs/sources.md` with the new data source.
+##### 3. Update docs and licenses:
+* Run `src/scripts/generate_source_docs.py` to update `docs/sources_cc_by_sa.md` with the new data source.
 * Run `src/scripts/generate_readme.py` to update the `README.md` at the root of the repo.
-* Run `src/scripts/generate_license_file.py` to update the `LICENSE` file at the root of the repo.
+* Run `src/scripts/export_aggregated_licenses.py` to update the `LICENSE` files in `data/exports`.

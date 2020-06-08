@@ -26,29 +26,29 @@ PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 
-import load_utils
+import config
+import path_utils
 
-with open(os.path.join(ROOT_DIR, 'src/config/sources.yaml')) as file:
-    config = yaml.load(file, Loader=yaml.FullLoader)
+scraped = config.read_config(filter_by_fetch_method = 'SCRAPED')
 
 spreadsheet_dir = os.path.join(ROOT_DIR, 'data/inputs/scraped/spreadsheets')
 spreadsheet_file = 'hospitalizations.xlsx'
 
-path, date = load_utils.most_recent_data(spreadsheet_dir, spreadsheet_file)
-print(path)
+most_recent_spreadsheet = path_utils.most_recent_subdir(spreadsheet_dir, spreadsheet_file)
+spreadsheet_path = most_recent_spreadsheet['path']
+spreadsheet_date = most_recent_spreadsheet['date']
 
-# This assumes that every data source with scraped: True in sources.yaml comes from a single spreadsheet.
+# This assumes that every data source with params['fetch']['method'] == 'SCRAPED' comes from a single spreadsheet.
 # If that stops being the case, will need to update this.
 
-todays_date = datetime.today().strftime('%Y-%m-%d')
-
-for k in config:
-    params = config[k]
-    if params['fetch']['scraped']:
-        df = pd.read_excel(path, k)
-        out_dir = os.path.join(ROOT_DIR, params['path']['dir'], todays_date)
-        out_file = params['path']['file']
-        out_path = os.path.join(out_dir, out_file)
-        if not os.path.exists(out_dir):
-            os.makedirs(out_dir)
-        df.to_csv(out_path, index=False)
+for k in scraped:
+    params = scraped[k]
+    df = pd.read_excel(spreadsheet_path, k)
+    path_for_data = path_utils.path_to_data_for_date(params, spreadsheet_date)
+    print('path for data: ', path_for_data)
+    out_dir = path_for_data['dir']
+    out_file = path_for_data['file']
+    out_path = os.path.join(out_dir, out_file)
+    if not os.path.exists(out_dir):
+        os.makedirs(out_dir)
+    df.to_csv(out_path, index=False)

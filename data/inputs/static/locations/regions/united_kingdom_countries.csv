@@ -1,5 +1,5 @@
 country_iso_3,region_level,iso_3166-2,region_name,population,region_code,parent_region_code,region_code_type,region_code_level,level_1_region_code,level_2_region_code,level_3_region_code
 GBR,country,GB-ENG,England,55977178,GB-ENG,GBR,iso_3166-2,2,GBR,GB-ENG,None
-GBR,province,GB-NIR,Northern Ireland,1881641,GB-NIR,GBR,iso_3166-3,2,GBR,GB-NIR,None
-GBR,country,GB-SCT,Scotland,5438100,GB-SCT,GBR,iso_3166-4,2,GBR,GB-SCT,None
-GBR,country,GB-WLS,Wales,3138631,GB-WLS,GBR,iso_3166-5,2,GBR,GB-WLS,None
+GBR,province,GB-NIR,Northern Ireland,1881641,GB-NIR,GBR,iso_3166-2,2,GBR,GB-NIR,None
+GBR,country,GB-SCT,Scotland,5438100,GB-SCT,GBR,iso_3166-2,2,GBR,GB-SCT,None
+GBR,country,GB-WLS,Wales,3138631,GB-WLS,GBR,iso_3166-2,2,GBR,GB-WLS,None
