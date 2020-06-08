@@ -1,0 +1,39 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+fetch:
+  source_url: 'https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data'
+  method: 'AUTOMATIC_DOWNLOAD'
+  file: 'Folkhalsomyndigheten_Covid19.xlsx'
+load:
+  function: 'default_load_function'
+  read:
+    sheet_name: 'Antal intensivvårdade per dag'
+  dates:
+    columns: ['Datum_vårdstart']
+    parse_function: 'default'
+  regions:
+    single_region_code: 'SWE'
+data:
+  icu:
+    current: 'Antal_intensivvårdade'
+attribution:
+  country: 'Sweden'
+  source_name: 'Public Health Agency of Sweden'
+  main_link: 'https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/'
+  data_link: 'https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data'
+  description: 'Data is downloaded automatically from the source link. Data for Sweden consists of time series data for current ICU cases.'
+cc-by-sa: False
+approved: True

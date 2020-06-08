@@ -1,0 +1,39 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+fetch:
+  method: 'SCRAPED'
+  file: 'czech_republic_hospitalizations.csv'
+load:
+  function: 'default_load_function'
+  dates:
+    columns: ['date']
+    parse_function: 'default'
+  regions:
+    single_region_code: 'CZE'
+data:
+  hospitalized:
+    current: 'hospitalized_current'
+  icu:
+    current: 'icu_current'
+attribution:
+  country: 'Czech Republic'
+  source_name: 'National Health Information System, Regional Hygiene Stations, Ministry of Health of the Czech Republic'
+  main_link: 'https://onemocneni-aktualne.mzcr.cz/covid-19'
+  data_link: 'https://onemocneni-aktualne.mzcr.cz/covid-19'
+  citation: 'Komenda M., Karolyi M., Bulhart V., Žofka J., Brauner T., Hak J., Jarkovský J., Mužík J., Blaha M., Kubát J., Klimeš D., Langhammer P., Daňková Š ., Májek O., Bartůňková M., Dušek L. COVID ‑ 19: Přehled aktuální situace v ČR. Onemocnění aktuálně [online]. Praha: Ministerstvo zdravotnictví ČR, 2020 [cit. 25.04.2020]. Dostupné z: https://onemocneni-aktualne.mzcr.cz/covid-19. Vývoj: společné pracoviště ÚZIS ČR a IBA LF MU. ISSN 2694-9423.'
+  description: 'Data is scraped manually from the charts provided at the source link. Data for the Czech Republic consists of time series data for current ICU cases, and current and cumulative hospitalizations.'
+cc-by-sa: False
+approved: True

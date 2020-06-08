@@ -20,17 +20,23 @@ import os
 
 import config
 
+CURRENT_DIR = os.path.dirname(__file__)
+ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
+LOCATIONS_PATH = os.path.join(ROOT_DIR, 'data/inputs/static/locations.csv')
 
-def join_from_params(data_df, params):
+def join_region_codes(data_df, params):
     reg_params = params['load']['regions']
-    if 'region_code' in reg_params:
-        data_df = default_region_code_joining(data_df, reg_params['region_code'])
+    if 'single_region_code' in reg_params:
+        data_df = join_single_region_code(data_df, reg_params['single_region_code'])
     else:
         data_df = join_on_keys(data_df, reg_params['mapping_file'], reg_params['mapping_keys'])
     return data_df
 
-def default_region_code_joining(data_df, region_code):
-    data_df['region_code'] = region_code
+def join_single_region_code(data_df, single_region_code):
+    data_df['region_code'] = single_region_code
+    locations_df = pd.read_csv(LOCATIONS_PATH)
+    locations_df = locations_df[config.all_region_columns()]
+    data_df = data_df.merge(locations_df, on=['region_code'])
     return data_df
 
 def join_on_keys(data_df, regions_path, mapping_keys):

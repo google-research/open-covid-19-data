@@ -27,26 +27,24 @@ PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 
-import load_utils
+import path_utils
+import config
 
+# Iterate through all the sources, and for anything that is an automatic_download, get the file from the source url and store it at the desired path.
 
-# Iterate through sources.yaml, and for anything that is an automatic_download, get the file from the source url and store it at the desired path.
+automatic_downloads = config.read_config(filter_by_fetch_method = 'AUTOMATIC_DOWNLOAD')
 
 todays_date = datetime.today().strftime('%Y-%m-%d')
 
-with open(os.path.join(ROOT_DIR, 'src/config/sources.yaml')) as file:
-    config = yaml.load(file, Loader=yaml.FullLoader)
-    config = dict(filter(lambda elem: elem[1]['fetch']['automatic_download'] == True, config.items()))
-
-for k in config:
-    params = config[k]
+for k in automatic_downloads:
+    params = automatic_downloads[k]
     source_url = params['fetch']['source_url']
-    recent_path, recent_date = load_utils.most_recent_data(params['path']['dir'], params['path']['file'])
-    if recent_date != todays_date:
+    if not path_utils.has_data_from_date(params, todays_date):
+        path_for_today = path_utils.path_to_data_for_date(params, todays_date)
         print('Downloading data for: ', k)
         print('Source url: ', source_url)
-        out_dir = os.path.join(ROOT_DIR, params['path']['dir'], todays_date)
-        out_file = params['path']['file']
+        out_dir = path_for_today['dir']
+        out_file = path_for_today['file']
         out_path = os.path.join(out_dir, out_file)
         if not os.path.exists(out_dir):
             os.makedirs(out_dir)

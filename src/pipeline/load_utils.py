@@ -20,6 +20,7 @@ import os
 
 import config
 import date_utils
+from path_utils import ROOT_DIR, most_recent_data
 
 
 def rename_data_columns(data_df, params):
@@ -28,14 +29,13 @@ def rename_data_columns(data_df, params):
     return data_df
 
 def default_read_function(params):
-    source_params = params['path']
+    data_path = most_recent_data(params)['path']
     read_params = None
     if 'read' in params['load']:
         read_params = params['load']['read']
-    data_path, _ = most_recent_data(source_params['dir'], source_params['file'])
-    file_extension = source_params['file'].split('.')[1]
+    file_extension = params['fetch']['file'].split('.')[1]
     default_args = {
-        'csv': {'encoding': None, 'delimiter': None},
+        'csv': {'encoding': None, 'delimiter': None, 'skipfooter': 0},
         'xlsx': {'sheet_name': 0, 'skiprows': None, 'skipfooter': 0}
     }
     read_args = default_args[file_extension]
@@ -44,7 +44,7 @@ def default_read_function(params):
             if k in read_params:
                 read_args[k] = read_params[k]
     if file_extension == 'csv':
-        data_df = pd.read_csv(data_path, delimiter=read_args['delimiter'], encoding=read_args['encoding'])
+        data_df = pd.read_csv(data_path, delimiter=read_args['delimiter'], encoding=read_args['encoding'], skipfooter=read_args['skipfooter'])
     elif file_extension == 'xlsx':
         data_df = pd.read_excel(data_path, sheet_name=read_args['sheet_name'], skiprows=read_args['skiprows'], skipfooter=read_args['skipfooter'])
 
@@ -63,30 +63,3 @@ def compute_cumulative_from_new(df, params):
             new_col_name = schema[data_type]['columns']['new']
             df[cum_col_name] = df.sort_values('date').groupby('region_code')[new_col_name].apply(lambda x: x.cumsum())
     return df
-
-# Returns path, date
-def most_recent_data(directory, file):
-    dir_abs_path = os.path.abspath(os.path.join(os.path.join(__file__, '../../..'), directory))
-    _, subdirs, _ = next(os.walk(dir_abs_path))
-    subdirs_that_are_dates = []
-    for sd in subdirs:
-        try:
-            sd_date = datetime.datetime.strptime(sd, '%Y-%m-%d').date()
-            subdirs_that_are_dates.append(sd_date)
-        except ValueError:
-            continue
-    sorted_subdir_dates = sorted(subdirs_that_are_dates, reverse=True)
-    for subdir_date in sorted_subdir_dates:
-        date_str = subdir_date.strftime("%Y-%m-%d")
-        path_to_file = os.path.join(dir_abs_path, date_str, file)
-        if os.path.exists(path_to_file):
-            return path_to_file, subdir_date
-    return 'file path contains no data', 'file path contains no data'
-
-def get_timestamp_from_file(path):
-    if not os.path.exists(path):
-        return 'invald file path'
-    m_time = os.path.getmtime(path)
-    formatted_timestamp = datetime.datetime.fromtimestamp(m_time)
-    formatted_timestamp = formatted_timestamp.strftime('%Y-%m-%d')
-    return formatted_timestamp

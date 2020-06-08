@@ -1,0 +1,41 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+fetch:
+  method: 'MANUAL_DOWNLOAD'
+  file: '200325_Datengrundlage_Grafiken_COVID-19-Bericht.xlsx'
+load:
+  function: 'default_load_function'
+  read:
+    skiprows: 6
+  dates:
+    columns: ['Datum']
+    parse_function: 'default'
+  regions:
+    single_region_code: 'CHE'
+    omit:
+      cases: ['CHE']
+      deaths: ['CHE']
+data:
+  hospitalized:
+    new: 'Hospitalisationen pro Tag'
+    cumulative: 'Hospitalisationen pro Tag, Kumuliert'
+attribution:
+  country: 'Switzerland'
+  source_name: 'Switzerland Federal Office of Public Health BAG'
+  main_link: 'https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html'
+  data_link: 'https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html'
+cc-by-sa: False
+approved: True

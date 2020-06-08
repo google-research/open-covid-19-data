@@ -20,18 +20,21 @@ import yaml
 
 CURRENT_DIR = os.path.dirname(__file__)
 ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
-
-YAML_PATH = os.path.join(ROOT_DIR, 'src/config/docs.yaml')
+PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
 LICENSE_PATH = os.path.join(ROOT_DIR, 'LICENSE')
 
-with open(YAML_PATH) as file:
-    sources = yaml.load(file, Loader=yaml.FullLoader)
+sys.path.append(PIPELINE_DIR)
+
+import config
+
+sources = config.read_config(filter_no_load_func=False)
 
 with open(LICENSE_PATH, 'w') as out:
     for key in sources:
         source_params = sources[key]
+        print(source_params)
         if 'license' in source_params:
-            out.write(source_params['country'] + '\n')
+            out.write(source_params['attribution']['country'] + '\n')
             out.write('License: ')
             out.write(source_params['license']['name'] + '\n')
             out.write('Link: ')

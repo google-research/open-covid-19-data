@@ -50,7 +50,7 @@ def japan_hospitalization_dates(data_df, params):
 def netherlands_hospitalization_dates(data_df, params):
     def fix_date(original):
         day_str, month_str = original.split(' ')
-        month_dict = {'feb': 2, 'mrt': 3, 'apr': 4, 'mei': 5}
+        month_dict = {'feb': 2, 'mrt': 3, 'apr': 4, 'mei': 5, 'jun': 6}
         month = month_dict[month_str]
         year = 2020
         return datetime.date(year, month, int(day_str)).strftime('%Y-%m-%d')
