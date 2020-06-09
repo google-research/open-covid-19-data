@@ -37,7 +37,7 @@
     {
       "name": "projection",
       "type": "mercator",
-      "scale": 220,
+      "scale": {"signal": "min(ceil(height * 0.3148), ceil(width * 0.1571))"},
       "rotate": [0, 0, 0],
       "center": [0, 0],
       "translate": [{"signal": "width / 2"}, {"signal": "height / 2"}]
