@@ -32,6 +32,7 @@ function render(spec) {
     renderer: 'svg',
     container: '#view',
     hover: true,
+    loader: vega.loader({target: '_blank'})
   });
   return view.runAsync();
 }
