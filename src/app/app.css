@@ -71,17 +71,27 @@ nav button.active {
   background-color: rgb(255, 255, 255);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
-svg g.mark-text.role-mark text {
+
+g.mark-text.role-legend-label text,
+g.mark-text.role-legend-title text,
+g.mark-text.role-mark.updated text,
+g.mark-text.role-mark text {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  fill: #7f9f7f;
+}
+
+g.mark-text.role-legend-label text {
+  font-size: 11px;
+}
+
+g.mark-text.role-mark text {
   font-family: 'IBM Plex Sans', sans-serif;
   font-size: 16px;
   fill: #d1d9e1;
 }
 
-svg g.mark-text.role-mark.updated text {
-  font-size: 13px;
-  fill: #7f9f7f;
-}
-
-svg g.mark-rect.role-mark rect {
+g.mark-rect.role-mark rect {
   border-radius: 6px;
 }

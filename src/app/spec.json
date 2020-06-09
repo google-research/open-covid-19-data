@@ -172,5 +172,23 @@
         }
       }
     }
+  ],
+  "legends": [
+    {
+      "fill": "colorScale",
+      "title": "status:",
+      "orient": "none",
+      "legendX": {"signal": "width - 370"},
+      "legendY": {"signal": "height-15"},
+      "direction": "horizontal",
+      "titleOrient": "left",
+      "encode": {
+        "symbols": {
+          "enter": {
+            "fillOpacity": {"value": 0.7}
+          }
+        }
+      }
+    }
   ]
 }
