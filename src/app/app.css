@@ -9,6 +9,7 @@ body {
   color: #262730;
   text-align: left;
   background-color: #fff;
+  overflow-y: scroll;
 }
 h1 {
   font-family: 'IBM Plex Sans', sans-serif;
