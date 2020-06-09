@@ -23,6 +23,8 @@ function showMap() {
 }
 
 function render(spec) {
+  spec.width = Math.floor(window.innerWidth * 0.95);
+  spec.height = Math.floor(window.innerHeight * 0.75);
   // palette mapped to
   // statuses = ['NEEDED', 'NOT_AVAILABLE', 'PENDING', 'INCLUDED']
   // const colors = ['#feedde', '#fdd0a2', '#fd8d3c', '#a63603'];
