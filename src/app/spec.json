@@ -80,7 +80,10 @@
           "stroke": {"value": "#fff"},
           "opacity": {"value": 0.7},
           "fill": {"field": "data_status", "scale": "colorScale"},
-          "zindex": {"value": 0}
+          "zindex": {"value": 0},
+          "href": {
+            "signal": "'https://tinyurl.com/source-covid-19-data?entry.742734535=' + datum.map_name"
+          }
         },
         "hover": {
           "strokeWidth": {"value": 1},
