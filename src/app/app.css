@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:700,400&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #262730;
+  text-align: left;
+  background-color: #fff;
+}
+h1 {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 2.25em;
+  font-weight: 700;
+  margin: 0;
+  text-align: center;
+}
+header {
+  position: relative;
+  box-sizing: border-box;
+  padding: 0.5rem 0;
+  background: #fff;
+  z-index: 1;
+}
+nav {
+  margin: 0;
+  display: flex;
+  place-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+nav button {
+  margin: 0 10px;
+  border: none;
+  background: transparent;
+  outline: none;
+  cursor: pointer;
+}
+nav,
+nav button {
+  font-family: IBM Plex Sans;
+  color: #b1b1b1;
+  font-weight: 400;
+  font-size: 15px;
+}
+nav button.active {
+  color: #f63366;
+}
+#pipeline {
+  position: relative;
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  border: none;
+  margin: 0;
+  margin-top: -2px;
+  padding: 0;
+  overflow: hidden;
+}
+#map {
+  display: flex;
+  flex-direction: row;
+  place-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+#view {
+  padding: 15px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+svg g.mark-text.role-mark text {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 16px;
+  fill: #d1d9e1;
+}
+
+svg g.mark-text.role-mark.updated text {
+  font-size: 13px;
+  fill: #7f9f7f;
+}
+
+svg g.mark-rect.role-mark rect {
+  border-radius: 6px;
+}

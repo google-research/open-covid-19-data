@@ -12,9 +12,15 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM python:3.7
-EXPOSE 8501
-COPY . /streamlit-app
-WORKDIR /streamlit-app
+FROM python:3.8-slim
+
+ADD requirements.txt /main/
+WORKDIR /main
+
 RUN pip install -r requirements.txt
-CMD streamlit run --server.enableCORS false src/views/main.py
+
+COPY . /main
+
+EXPOSE 8888 8501
+
+CMD ["python", "./src/app/app.py"]

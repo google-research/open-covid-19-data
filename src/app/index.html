@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/app.css" />
+    <title>Open Covid-19 Pipeline Inspector</title>
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <script src="/app.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Open COVID-19 Data Pipeline Inspector</h1>
+      <nav>
+        <button route="map" class="active" onclick="showMap()">map</button>
+        |
+        <button route="pipeline" onclick="showPipeline()">pipeline</button>
+      </nav>
+    </header>
+    <div id="map"><div id="view"></div></div>
+    <iframe id="pipeline" src="http://localhost:8501" style="display: none;">
+    </iframe>
+  </body>
+</html>
