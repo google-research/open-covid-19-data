@@ -39,7 +39,6 @@ function render(spec) {
   spec.height = Math.floor(window.innerHeight * 0.75);
   // palette mapped to
   // statuses = ['NEEDED', 'NOT_AVAILABLE', 'PENDING', 'INCLUDED']
-  // const colors = ['#feedde', '#fdd0a2', '#fd8d3c', '#a63603'];
   const colors = ['#fdae6b', '#c6dbef', '#3182bd', '#08519c'];
   vega.scheme('custom', colors);
   const view = new vega.View(vega.parse(spec), {
