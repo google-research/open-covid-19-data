@@ -1,0 +1,197 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "A configurable map of countries of the world.",
+  "width": 1400,
+  "height": 700,
+  "autosize": "none",
+  "signals": [
+    {"name": "background", "value": "#fff"},
+    {
+      "name": "current",
+      "value": null,
+      "on": [
+        {
+          "events": "@worldmap:mousemove",
+          "update": "item() ? [x(), y(), item().datum] : null"
+        },
+        {
+          "events": "@worldmap:mouseout",
+          "update": "null"
+        }
+      ]
+    },
+    {
+      "name": "tooltip",
+      "init": "[width/2-200, height - 100]"
+    }
+  ],
+  "scales": [
+    {
+      "name": "colorScale",
+      "type": "ordinal",
+      "domain": ["NEEDED", "NOT_AVAILABLE", "PENDING", "INCLUDED"],
+      "range": {"scheme": "custom"}
+    }
+  ],
+  "projections": [
+    {
+      "name": "projection",
+      "type": "mercator",
+      "scale": {"signal": "min(ceil(height * 0.3148), ceil(width * 0.1571))"},
+      "rotate": [0, 0, 0],
+      "center": [0, 0],
+      "translate": [{"signal": "width / 2"}, {"signal": "height / 2"}]
+    }
+  ],
+  "data": [
+    {
+      "name": "map_data",
+      "url": "/data.json",
+      "format": {"type": "json", "property": "data"}
+    },
+    {
+      "name": "last_updated",
+      "url": "/data.json",
+      "format": {"type": "json", "property": "last_updated"}
+    },
+    {
+      "name": "world",
+      "url": "/world-110m.json",
+      "format": {"type": "topojson", "feature": "countries"},
+      "transform": [
+        {
+          "type": "lookup",
+          "from": "map_data",
+          "key": "numeric_code",
+          "fields": ["id"],
+          "values": ["map_name", "data_status", "volunteer_name"]
+        }
+      ]
+    }
+  ],
+  "marks": [
+    {
+      "name": "worldmap",
+      "type": "shape",
+      "from": {"data": "world"},
+      "encode": {
+        "update": {
+          "strokeWidth": {"value": 1},
+          "stroke": {"value": "#fff"},
+          "opacity": {"value": 0.7},
+          "fill": {"field": "data_status", "scale": "colorScale"},
+          "zindex": {"value": 0},
+          "href": {
+            "signal": "'https://tinyurl.com/source-covid-19-data?entry.742734535=' + datum.map_name"
+          }
+        },
+        "hover": {
+          "strokeWidth": {"value": 1},
+          "stroke": {"value": "#474949"},
+          "opacity": {"value": 1},
+          "zindex": {"value": 1}
+        }
+      },
+      "transform": [{"type": "geoshape", "projection": "projection"}]
+    },
+    {
+      "type": "rect",
+      "zindex": 1,
+      "interactive": false,
+      "encode": {
+        "update": {
+          "opacity": {"signal": "current ? 1 : 0"},
+          "x": {"signal": "tooltip[0]"},
+          "y": {"signal": "tooltip[1]"},
+          "width": {"value": 500},
+          "height": {"value": 100},
+          "fill": {"value": "#474949"},
+          "cornerRadius": {"value": 2}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "zindex": 2,
+      "interactive": false,
+      "encode": {
+        "update": {
+          "opacity": {"signal": "current ? 1 : 0"},
+          "x": {"signal": "tooltip[0] + 15"},
+          "y": {"signal": "tooltip[1] + 15"},
+          "text": {
+            "signal": "current ? current[2].map_name : ''"
+          },
+          "baseline": {"value": "top"},
+          "fontWeight": {"value": "bold"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "zindex": 2,
+      "interactive": false,
+      "encode": {
+        "update": {
+          "opacity": {"signal": "current ? 1 : 0"},
+          "x": {"signal": "tooltip[0] + 15"},
+          "y": {"signal": "tooltip[1] + 45"},
+          "text": {
+            "signal": "current ? 'Data: ' + current[2].data_status : ''"
+          },
+          "baseline": {"value": "top"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "zindex": 2,
+      "interactive": false,
+      "encode": {
+        "update": {
+          "opacity": {"signal": "current ? 1 : 0"},
+          "x": {"signal": "tooltip[0] + 15"},
+          "y": {"signal": "tooltip[1] + 70"},
+          "text": {
+            "signal": "current && current[2].volunteer_name ? 'Volunteers: ' + current[2].volunteer_name : ''"
+          },
+          "baseline": {"value": "top"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "name": "updated",
+      "zindex": 2,
+      "interactive": false,
+      "encode": {
+        "update": {
+          "x": {"value": 0},
+          "y": {"signal": "height - 15"},
+          "text": {
+            "signal": "'last updated: ' + data('last_updated')[0].data"
+          },
+          "baseline": {"value": "top"}
+        }
+      }
+    }
+  ],
+  "legends": [
+    {
+      "fill": "colorScale",
+      "title": "status:",
+      "orient": "none",
+      "legendX": {"signal": "width - 370"},
+      "legendY": {"signal": "height-15"},
+      "direction": "horizontal",
+      "titleOrient": "left",
+      "encode": {
+        "symbols": {
+          "enter": {
+            "fillOpacity": {"value": 0.7}
+          }
+        }
+      }
+    }
+  ]
+}

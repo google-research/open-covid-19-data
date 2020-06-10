@@ -12,15 +12,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM python:3.8-slim
+version: '3.8'
 
-ADD requirements.txt /main/
-WORKDIR /main
-
-RUN pip install -r requirements.txt
-
-COPY . /main
-
-EXPOSE 8888 8501
-
-CMD ["python", "./src/app/app.py"]
+services:
+  app:
+    build: .
+    ports:
+      - 8501:8501
+      - 8888:8888
