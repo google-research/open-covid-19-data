@@ -18,7 +18,6 @@
 import os
 import pandas as pd
 import numpy as np
-import streamlit as st
 
 import region_utils
 import load_utils
@@ -44,7 +43,6 @@ def covidtracking(params):
 # Note: we only include regions that are computing cumulative hospitalizations
 # and don't compute a country-level hospitalization number for Spain
 def spain_and_regions(params):
-    st.write(params)
     data_df = default_load_function(params)
     data_df['hospitalized_current'] = data_df.apply(
         lambda row: row['hospitalized_cumulative'] if
@@ -64,7 +62,6 @@ def spain_and_regions(params):
     data_df['icu_cumulative'] = data_df.apply(
         lambda row: row['icu_cumulative'] if pd.isnull(row['icu_current']) else np.nan, axis=1
     )
-    st.write(data_df)
     return data_df
 
 def japan_hospitalizations(params):
