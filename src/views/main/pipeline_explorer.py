@@ -55,7 +55,7 @@ def get_filtered_df(df, data_params, filtered_data_types, filtered_region_level)
     return filtered_df
 
 def pipeline():
-    config_dict = config.read_config()
+    config_dict = config.read_config(cc_by_sa=True)
 
     selected_sources = st.sidebar.multiselect('Data Source: ', list(config_dict.keys()))
 
