@@ -1,0 +1,84 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+fetch:
+  method: 'AUTOMATIC_DOWNLOAD'
+  source_url: 'https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv'
+  file: 'OxCGRT_latest.csv'
+load:
+  function: 'default_load_function'
+  dates:
+    parse_function: 'default'
+  dates:
+    columns: ['Date']
+    parse_function: 'default'
+    date_format: '%Y%m%d'
+  regions:
+    mapping_file: 'data/inputs/static/locations/countries_iso_to_name.csv'
+    mapping_keys:
+      region_code: 'CountryCode'
+data:
+  policy:
+    school_closing: 'C1_School closing'
+    school_closing_flag: 'C1_Flag'
+    workplace_closing: 'C2_Workplace closing'
+    workplace_closing_flag: 'C2_Flag'
+    cancel_public_events: 'C3_Cancel public events'
+    cancel_public_events: 'C3_Flag'
+    restrictions_on_gatherings: 'C4_Restrictions on gatherings'
+    restrictions_on_gatherings_flag: 'C4_Flag'
+    close_public_transit: 'C5_Close public transport'
+    close_public_transit_flag: 'C5_Flag'
+    stay_at_home_requirements: 'C6_Stay at home requirements'
+    stay_at_home_requirements_flag: 'C6_Flag'
+    restrictions_on_internal_movement: 'C7_Restrictions on internal movement'
+    restrictions_on_internal_movement_flag: 'C7_Flag'
+    international_travel_controls: 'C8_International travel controls'
+    income_support: 'E1_Income support'
+    income_support_flag: 'E1_Flag'
+    debt_contract_relief: 'E2_Debt/contract relief'
+    fiscal_measures: 'E3_Fiscal measures'
+    international_support: 'E4_International support'
+    public_information_campaigns: 'H1_Public information campaigns'
+    public_information_campaigns_flag: 'H1_Flag'
+    testing_policy: 'H2_Testing policy'
+    contact_tracing: 'H3_Contact tracing'
+    emergency_investment_in_healthcare: 'H4_Emergency investment in healthcare'
+    investment_in_vaccines: 'H5_Investment in vaccines'
+    wildcard: 'M1_Wildcard'
+    confirmed_cases: 'ConfirmedCases'
+    confirmed_deaths: 'ConfirmedDeaths'
+    stringency_index: 'StringencyIndex'
+    stringency_index_for_display: 'StringencyIndexForDisplay'
+    stringency_legacy_index: 'StringencyLegacyIndex'
+    stringency_legacy_index_for_display: 'StringencyLegacyIndexForDisplay'
+    government_response_index: 'GovernmentResponseIndex'
+    government_response_index_for_display: 'GovernmentResponseIndexForDisplay'
+    containment_health_index: 'ContainmentHealthIndex'
+    containment_health_index_for_display: 'ContainmentHealthIndexForDisplay'
+    economic_support_index: 'EconomicSupportIndex'
+    economic_support_index_for_display: 'EconomicSupportIndexForDisplay'
+attribution:
+  country: 'Oxford Covid-19 Government Response Tracker'
+  source_name: 'Oxford Covid-19 Government Response Tracker'
+  citation: 'Thomas Hale, Sam Webster, Anna Petherick, Toby Phillips, and Beatriz Kira. (2020). Oxford COVID-19 Government Response Tracker. Blavatnik School of Government.'
+  main_link: 'https://github.com/OxCGRT/covid-policy-tracker'
+  data_link: 'https://github.com/OxCGRT/covid-policy-tracker/blob/master/data/OxCGRT_latest.csv'
+license:
+  name: 'Creative Commons Attribution 4.0 International'
+  file: 'docs/license_files/cc-by-4.0'
+  link: 'https://creativecommons.org/licenses/by/4.0/'
+cc-by-sa: False
+approved: True

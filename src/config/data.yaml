@@ -13,6 +13,31 @@
 # limitations under the License.
 
 ---
+cases:
+  time_series: True
+  columns:
+    new: 'cases_new'
+    cumulative: 'cases_cumulative'
+    new_per_million: 'cases_new_per_million'
+    cumulative_per_million: 'cases_cumulative_per_million'
+
+deaths:
+  time_series: True
+  columns:
+    new: 'deaths_new'
+    cumulative: 'deaths_cumulative'
+    new_per_million: 'deaths_new_per_million'
+    cumulative_per_million: 'deaths_cumulative_per_million'
+
+testing:
+  time_series: True
+  columns:
+    new: 'tests_new'
+    cumulative: 'tests_cumulative'
+    new_per_thousand: 'tests_new_per_thousand'
+    cumulative_per_thousand: 'tests_cumulative_per_thousand'
+    units: 'test_units'
+
 hospitalized:
   time_series: True
   columns:
@@ -33,3 +58,47 @@ ventilator:
     new: 'ventilator_new'
     cumulative: 'ventilator_cumulative'
     current: 'ventilator_current'
+
+policy:
+  time_series: True
+  columns:
+    school_closing: 'school_closing'
+    school_closing_flag: 'school_closing_flag'
+    workplace_closing: 'workplace_closing'
+    workplace_closing_flag: 'workplace_closing_flag'
+    cancel_public_events: 'cancel_public_events'
+    cancel_public_events: 'cancel_public_events_flag'
+    restrictions_on_gatherings: 'restrictions_on_gatherings'
+    restrictions_on_gatherings_flag: 'restrictions_on_gatherings_flag'
+    close_public_transit: 'close_public_transit'
+    close_public_transit_flag: 'close_public_transit_flag'
+    stay_at_home_requirements: 'stay_at_home_requirements'
+    stay_at_home_requirements_flag: 'stay_at_home_requirements_flag'
+    restrictions_on_internal_movement: 'restrictions_on_internal_movement'
+    restrictions_on_internal_movement_flag: 'restrictions_on_internal_movement_flag'
+    international_travel_controls: 'international_travel_controls'
+    international_travel_controls_flag: 'international_travel_controls_flag'
+    income_support: 'income_support'
+    income_support_flag: 'income_support_flag'
+    debt_contract_relief: 'debt_contract_relief'
+    fiscal_measures: 'fiscal_measures'
+    international_support: 'international_support'
+    public_information_campaigns: 'public_information_campaigns'
+    public_information_campaigns_flag: 'public_information_campaigns_flag'
+    testing_policy: 'testing_policy'
+    contact_tracing: 'contact_tracing'
+    emergency_investment_in_healthcare: 'emergency_investment_in_healthcare'
+    investment_in_vaccines: 'investment_in_vaccines'
+    wildcard: 'wildcard'
+    confirmed_cases: 'confirmed_cases'
+    confirmed_deaths: 'confirmed_deaths'
+    stringency_index: 'stringency_index'
+    stringency_index_for_display: 'stringency_index_for_display'
+    stringency_legacy_index: 'stringency_legacy_index'
+    stringency_legacy_index_for_display: 'stringency_legacy_index_for_display'
+    government_response_index: 'government_response_index'
+    government_response_index_for_display: 'government_response_index_for_display'
+    containment_health_index: 'containment_health_index'
+    containment_health_index_for_display: 'containment_health_index_for_display'
+    economic_support_index: 'economic_support_index'
+    economic_support_index_for_display: 'economic_support_index_for_display'

@@ -1,0 +1,39 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+fetch:
+  method: 'MANUAL_DOWNLOAD'
+  file: 'number-of-new-patients-a.csv'
+  source_url: 'https://www.fhi.no/en/id/infectious-diseases/coronavirus/daily-reports/daily-reports-COVID19/'
+  instructions: 'Download four separate files from separate charts, using the hamburger menu and download csv option. The charts are: "Number of tested persons per specimen collection date and number of positive results", "Number of reported COVID-19 cases by specimen collection date", "Hospital admissions", and "Intensive care admissions".'
+load:
+  function: 'default_load_function'
+  dates:
+    columns: ['Date']
+    parse_function: 'default'
+    date_format: '%d.%m.%Y'
+  regions:
+    single_region_code: 'NOR'
+data:
+  hospitalized:
+    new: 'New hospital admissions'
+    cumulative: 'Cumulative total'
+attribution:
+  country: 'Norway'
+  source_name: 'Norwegian Institute of Public Health'
+  main_link: 'www.fhi.no'
+  data_link: 'https://www.fhi.no/en/id/infectious-diseases/coronavirus/daily-reports/daily-reports-COVID19/'
+cc-by-sa: False
+approved: True
