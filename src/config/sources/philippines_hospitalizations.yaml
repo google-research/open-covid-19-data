@@ -1,0 +1,24 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+attribution:
+  country: 'Philippines'
+  source_name: 'Philippines Department of Health'
+  main_link: 'https://www.doh.gov.ph/'
+  data_link: 'http://www.doh.gov.ph/covid19tracker'
+  description: 'Data is downloaded manually from the source link. Data for Iceland consists of time series data for current ICU cases, and current and cumulative hospitalizations.'
+cc-by-sa: False
+approved: True
+# The Philippines data does not have a license, rather we've received written consent from the their Department of Health.
