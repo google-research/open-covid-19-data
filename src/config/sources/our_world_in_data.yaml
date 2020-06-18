@@ -13,13 +13,42 @@
 # limitations under the License.
 
 ---
-
+fetch:
+  source_url: 'https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv'
+  method: 'AUTOMATIC_DOWNLOAD'
+  file: 'full_data.csv'
+load:
+  function: 'default_load_function'
+  dates:
+    columns: ['date']
+    parse_function: 'default'
+  regions:
+    mapping_file: 'data/inputs/static/locations/countries_iso_to_name.csv'
+    mapping_keys:
+      region_code: 'iso_code'
+data:
+  cases:
+    new: 'new_cases'
+    cumulative: 'total_cases'
+    new_per_million: 'new_cases_per_million'
+    cumulative_per_million: 'total_cases_per_million'
+  deaths:
+    new: 'new_deaths'
+    cumulative: 'total_deaths'
+    new_per_million: 'new_deaths_per_million'
+    cumulative_per_million: 'total_deaths_per_million'
+  testing:
+    new: 'new_tests'
+    cumulative: 'total_tests'
+    new_per_thousand: 'new_tests_per_thousand'
+    cumulative_per_thousand: 'total_tests_per_thousand'
+    units: 'tests_units'
 attribution:
   country: 'Our World in Data'
   source_name: 'Our World in Data'
+  citation: 'Data from Our World in Data has been collected, aggregated, and documented by Diana Beltekian, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Edouard Mathieu, Esteban Ortiz-Ospina, Hannah Ritchie, and Max Roser.'
   main_link: 'www.OurWorldInData.org'
-  data_link: 'https://ourworldindata.org/coronavirus'
-  description: 'Data from Our World in Data includes Deaths, Testing, Cases, and Government responses for every country in the world.'
+  data_link: 'https://github.com/owid/covid-19-data/tree/master/public/data'
 license:
   name: 'Creative Commons Attribution 4.0 International'
   file: 'docs/license_files/cc-by-4.0'

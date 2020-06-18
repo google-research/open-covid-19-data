@@ -1,13 +1,28 @@
-## About
+# About
 
-This open source pipeline aggregates public COVID-19 data sources, including COVID-19 hospitalization, ICU, and ventilator data for the countries listed in the Data Sources section. Adding other data types relevant to COVID-19 is welcome and supported.
+This open source pipeline aggregates public COVID-19 data sources into a single dataset, which includes COVID-19 cases, deaths, tests, hospitalizations, intensive care unit (ICU) cases, ventilator cases, and government interventions. The aggregated data is designed for researchers to build models quickly, and the pipeline is designed for engineers to add new data sources quickly.
 
-The pipeline is designed for researchers to build models quickly and for engineers to add new data sources quickly. We support data sources that can be downloaded automatically in structured formats such as .csv and .xlsx, but also aggregate human-scraped data from charts, tables, pdfs, and (occasionally) tweets.
+In particular, we support data that comes in three formats: data that can be downloaded automatically (generally a .csv or .xlsx from a stable url), data that can be downloaded manually (generally .csv or .xslx files without stable urls), and data that is not machine-readable and must be scraped by a human (from charts, tables, pdfs, or occasionally tweets).
 
 ## To use the data
-If you just want to use the data for models, visualizations, or research, you can download the aggregated csv directly from `data/exported/hospitalizations.csv`. Releases to the dataset are tagged so there is a stable Github url that points to each version of the data.
 
-Please see the Data Sources section to note the attributions and licenses for each source. If you want to understand the data aggregation pipeline and how to contribute to the repository, read on.
+##### Latest data
+If you just want to use the latest data for models, visualizations, or research, we provide two separate data files, one under a CC-BY license and one under CC-BY-SA license.
+- The CC-BY data can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/cc_by/aggregated_cc_by.csv)
+- The CC-BY-SA data can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/cc_by_sa/aggregated_cc_by_sa.csv).
+
+##### Versioned data
+Releases to the dataset are tagged so there is a stable Github url that points to each version of the data.
+
+##### Attributions and Licenses
+Please see the Data Sources section of this README to note the attributions and licenses for each source.
+
+## For Data Owners
+We have carefully checked the license and attribution information on each data source included in this repository, and in many cases have contacted the data owners directly to ask how they would like to be attributed.
+
+If you are the owner of a data source included here and would like us to remove data, add or alter an attribution, or add or alter license information, please do not hesitate to email us at open-covid-19-data@google.com and we are happy to comply with your request.
+
+# Technical Documentation
 
 ## Pipeline Structure
 Data is fetched from the original source either as an automatic download, a manual download, or scraped by humans. All data goes into the `data/inputs` directory before being consumed by the rest of the pipeline. Data sources for each data type are then loaded into pandas dataframes with a standardized schema for dates, locations, and columns. These dataframes are joined into a single dataframe, which can then be exported.
@@ -28,9 +43,7 @@ To install Python dependencies:
 pip install pandas xlrd pyyaml python3-wget
 ```
 
-## Repository Structure
-
-### To add a new data source:<br>
+## To add a new data source:<br>
 
 Before adding a new data source, we go through an internal approval within Google to ensure compliance with licensing and terms. Once a data source is approved, you can add the data to the pipeline as follows:
 ##### 1. Register new data types in `src/config/data.yaml`:
@@ -62,3 +75,6 @@ Before adding a new data source, we go through an internal approval within Googl
 * Run `src/scripts/generate_source_docs.py` to update `docs/sources_cc_by_sa.md` with the new data source.
 * Run `src/scripts/generate_readme.py` to update the `README.md` at the root of the repo.
 * Run `src/scripts/export_aggregated_licenses.py` to update the `LICENSE` files in `data/exports`.
+
+# Authors
+This repository is created and maintained by Katie Everett, Dan Nanas, Maddy Myers (UCSD), Sumit Arora, and Ian Fischer.
