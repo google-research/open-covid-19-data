@@ -30,10 +30,10 @@ data:
   hospitalized:
     current: None
 attribution:
-  country: 'Netherlands'
+  title: 'Netherlands'
   source_name: 'National Institute for Public Health and The Environment'
   main_link: 'https://www.rivm.nl/coronavirus-covid-19/grafieken'
   data_link: 'https://www.rivm.nl/coronavirus-covid-19/grafieken'
   description: 'Data is downloaded manually from the source link. Data for the Netherlands consists of time series data for current hospitalizations.'
-cc-by-sa: False
+cc_by_sa: False
 approved: True

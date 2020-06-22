@@ -37,7 +37,7 @@ spreadsheet_file = 'hospitalizations.xlsx'
 most_recent_spreadsheet = path_utils.most_recent_subdir(spreadsheet_dir, spreadsheet_file)
 spreadsheet_path = most_recent_spreadsheet['path']
 spreadsheet_date = str(most_recent_spreadsheet['date'])
-spreadsheet_date = '2020-06-15'
+# spreadsheet_date = '2020-06-15'
 
 # This assumes that every data source with params['fetch']['method'] == 'SCRAPED' comes from a single spreadsheet.
 # If that stops being the case, will need to update this.

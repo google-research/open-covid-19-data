@@ -15,7 +15,7 @@
 ---
 
 attribution:
-  country: 'Romania'
+  title: 'Romania'
   source_name: 'Various metrics on the COVID-19 outbreak in Romania - Github'
   main_link: 'https://github.com/adrianp/covid19romania'
   data_link: 'https://github.com/adrianp/covid19romania'
@@ -23,5 +23,5 @@ license:
   name: 'Creative Commons Zero 1.0 Universal'
   file: 'docs/license_files/cc0-1.0'
   link: 'https://creativecommons.org/share-your-work/public-domain/cc0/'
-cc-by-sa: False
+cc_by_sa: False
 approved: True

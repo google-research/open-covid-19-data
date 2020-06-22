@@ -29,8 +29,8 @@ import config
 
 
 config = config.read_config()
-config = {'our_world_in_data': config['our_world_in_data']}
-st.write(config)
+#config = {'luxembourg_hospitalizations': config['luxembourg_hospitalizations']}
+#st.write(config)
 
 st.title('Load all data sources:')
 
