@@ -84,6 +84,8 @@ This repository is created and maintained by Katie Everett, Dan Nanas, Maddy Mye
 #### Australia
 **Source name:** covid19data.com.au ([link](https://www.covid19data.com.au/))<br>**Link to data:** https://www.covid19data.com.au/hospitalisations-icu<br>**Description:** Data is scraped manually from the charts provided at the source link. Data for Australia consists of time series data for current hospitalizations, ICU and ventilator cases.<br>**License:** Creative Commons Attribution 4.0 International ([link](https://creativecommons.org/licenses/by/4.0/))<br>**Last accessed:** 2020-06-18
 
+#### Bangladesh
+**Source name:** Govt. Covid-19 Project ([link](https://corona.gov.bd/))<br>**Link to data:** http://covid19tracker.gov.bd/<br>**Description:** Data is manually scraped from charts at the source link.<br>
 #### Colombia
 **Original data source:** GOV.CO ([link](https://www.datos.gov.co))<br>**Link to original data:** https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data<br>**Data aggregated by:** COVID-19 Colombia ([link](https://github.com/dfuribez/COVID-19-Colombia))<br>**Description:** Data is automatically downloaded from the linked github repository, which is sourced from datos.gov.co. Data for Colombia consists of time series data for current hospitalizations and ICU cases.<br>**License:** Creative Commons Attribution-ShareAlike 4.0 International ([link](https://creativecommons.org/licenses/by-sa/4.0/))<br>**Last accessed:** 2020-06-04
 
