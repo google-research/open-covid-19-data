@@ -44,7 +44,7 @@ data:
     cumulative_per_thousand: 'total_tests_per_thousand'
     units: 'tests_units'
 attribution:
-  country: 'Our World in Data'
+  title: 'Our World in Data'
   source_name: 'Our World in Data'
   citation: 'Data from Our World in Data has been collected, aggregated, and documented by Diana Beltekian, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Edouard Mathieu, Esteban Ortiz-Ospina, Hannah Ritchie, and Max Roser.'
   main_link: 'www.OurWorldInData.org'
@@ -53,5 +53,5 @@ license:
   name: 'Creative Commons Attribution 4.0 International'
   file: 'docs/license_files/cc-by-4.0'
   link: 'https://creativecommons.org/licenses/by/4.0/'
-cc-by-sa: False
+cc_by_sa: False
 approved: True

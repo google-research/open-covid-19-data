@@ -31,7 +31,7 @@ data:
   hospitalized:
     new: 'hospitalizedIncrease'
 attribution:
-  country: 'United States'
+  title: 'COVIDTracking'
   source_name: 'COVID-19 Tracking Project'
   main_link: 'https://github.com/COVID19Tracking/'
   data_link: 'https://github.com/COVID19Tracking/covid-tracking-data/tree/master/data'
@@ -40,5 +40,5 @@ license:
   name: 'Apache 2.0'
   file: 'docs/license_files/apache-2.0'
   link: 'https://github.com/COVID19Tracking/covid-tracking-data/blob/master/LICENSE'
-cc-by-sa: False
+cc_by_sa: False
 approved: True
