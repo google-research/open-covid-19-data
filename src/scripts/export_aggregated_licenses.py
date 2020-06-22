@@ -17,7 +17,7 @@
 import pandas as pd
 import sys
 import os
-
+import textwrap
 
 CURRENT_DIR = os.path.dirname(__file__)
 ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
@@ -37,8 +37,8 @@ It includes content under the following licenses:\n\n'''
 
 complete_texts = '''Complete license texts for each unique license are available below:\n\n'''
 
-config_dict_cc_by = config.read_config(cc_by_sa=False)
-config_dict_cc_by_sa = config.read_config(cc_by_sa=True)
+config_dict_cc_by = config.read_config(cc_by_sa=False, google_tos=True, filter_no_load_func=True)
+config_dict_cc_by_sa = config.read_config(cc_by_sa=True, google_tos=False, filter_no_load_func=True)
 
 all_license_files_cc_by = ['docs/license_files/cc-by-4.0']
 all_license_files_cc_by_sa = ['docs/license_files/cc-by-sa-4.0']
@@ -73,12 +73,19 @@ def get_source_text(markdown_file):
 
     return source_text
 
-source_cc_by = get_source_text(os.path.join(ROOT_DIR, 'docs/sources_cc_by.md'))
-source_cc_by_sa = get_source_text(os.path.join(ROOT_DIR, 'docs/sources_cc_by_sa.md'))
+textwrapper = textwrap.TextWrapper(width=100, replace_whitespace=False, break_long_words=False, break_on_hyphens=False)
+
+def text_output(path):
+    source_text = get_source_text(path)
+    split_text = str.splitlines(source_text)
+    filled_text = [textwrapper.fill(t) for t in split_text]
+    return filled_text
 
 with open(EXPORT_PATH_CC_BY_LICENSE, 'w') as outfile:
     outfile.write(cc_by_header)
-    outfile.write(source_cc_by)
+    for line in text_output(os.path.join(ROOT_DIR, 'docs/sources_cc_by.md')):
+        outfile.write(line)
+        outfile.write('\n')
     outfile.write('=======================================================================\n')
     outfile.write(complete_texts)
     for fname in all_license_files_cc_by:
@@ -90,7 +97,9 @@ with open(EXPORT_PATH_CC_BY_LICENSE, 'w') as outfile:
 
 with open(EXPORT_PATH_CC_BY_SA_LICENSE, 'w') as outfile:
     outfile.write(cc_by_sa_header)
-    outfile.write(source_cc_by_sa)
+    for line in text_output(os.path.join(ROOT_DIR, 'docs/sources_cc_by_sa.md')):
+        outfile.write(line)
+        outfile.write('\n')
     outfile.write('=======================================================================\n')
     outfile.write(complete_texts)
     for fname in all_license_files_cc_by_sa:

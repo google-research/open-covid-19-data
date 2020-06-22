@@ -29,8 +29,8 @@ sys.path.append(PIPELINE_DIR)
 
 import join_data
 
-time_series_df_cc_by = join_data.get_time_series_df(cc_by_sa=False)
+time_series_df_cc_by = join_data.get_time_series_df(cc_by_sa=False, google_tos=True)
 time_series_df_cc_by.to_csv(EXPORT_PATH_CC_BY, index=False)
 
-time_series_df_cc_by_sa = join_data.get_time_series_df(cc_by_sa=True)
+time_series_df_cc_by_sa = join_data.get_time_series_df(cc_by_sa=True, google_tos=False)
 time_series_df_cc_by_sa.to_csv(EXPORT_PATH_CC_BY_SA, index=False)

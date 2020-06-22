@@ -47,7 +47,6 @@ def default_read_function(params):
         data_df = pd.read_csv(data_path, delimiter=read_args['delimiter'], encoding=read_args['encoding'], skipfooter=read_args['skipfooter'])
     elif file_extension == 'xlsx':
         data_df = pd.read_excel(data_path, sheet_name=read_args['sheet_name'], skiprows=read_args['skiprows'], skipfooter=read_args['skipfooter'])
-
     data_df = date_utils.parse_date(data_df, params)
     data_df = rename_data_columns(data_df, params)
 

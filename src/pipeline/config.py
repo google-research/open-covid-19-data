@@ -32,7 +32,7 @@ def all_region_columns():
 def other_region_columns():
     return ['parent_region_code', 'region_code_type', 'region_code_level', 'level_1_region_code', 'level_2_region_code', 'level_3_region_code']
 
-def read_config(cc_by_sa=False, filter_no_load_func=True, filter_not_approved=True, filter_by_fetch_method=None):
+def read_config(cc_by_sa=False, google_tos=False, filter_no_load_func=True, filter_not_approved=True, filter_by_fetch_method=None):
     config_dict = {}
     for source_file_name in os.listdir(SOURCES_DIR):
         source_file = os.path.join(SOURCES_DIR, source_file_name)
@@ -42,8 +42,9 @@ def read_config(cc_by_sa=False, filter_no_load_func=True, filter_not_approved=Tr
         params['config_key'] = source_key
         if (filter_no_load_func and ('load' not in params or 'function' not in params['load'] or params['load']['function'] is None)) or \
             (filter_not_approved and not params['approved']) or \
-            (filter_by_fetch_method and params['fetch']['method'] != filter_by_fetch_method) or \
-            (not cc_by_sa and params['cc-by-sa']):
+            (filter_by_fetch_method and ('fetch' not in params or params['fetch']['method'] != filter_by_fetch_method)) or \
+            (not cc_by_sa and params['cc_by_sa']) or \
+            (not google_tos and 'google_tos' in params and params['google_tos']):
             continue
         else:
             config_dict[source_key] = params

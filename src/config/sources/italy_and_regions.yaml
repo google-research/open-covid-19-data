@@ -38,7 +38,7 @@ data:
   icu:
     current: 'terapia_intensiva'
 attribution:
-  country: 'Italy'
+  title: 'Italy'
   source_name: 'Dipartimento della Protezione Civile'
   main_link: 'http://www.protezionecivile.gov.it/en/risk-activities/health-risk/emergencies/coronavirus'
   data_link: 'https://github.com/pcm-dpc/COVID-19'
@@ -47,5 +47,5 @@ license:
   name: 'Creative Commons Attribution 4.0 International'
   file: 'docs/license_files/cc-by-4.0'
   link: 'https://creativecommons.org/licenses/by/4.0/'
-cc-by-sa: False
+cc_by_sa: False
 approved: True

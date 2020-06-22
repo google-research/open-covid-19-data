@@ -24,7 +24,7 @@ CURRENT_DIR = os.path.dirname(__file__)
 ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
 
 ABOUT_PATH = os.path.join(ROOT_DIR, 'docs/about.md')
-SOURCES_PATH = os.path.join(ROOT_DIR, 'docs/sources_cc_by_sa.md')
+SOURCES_PATH = os.path.join(ROOT_DIR, 'docs/sources.md')
 README_PATH = os.path.join(ROOT_DIR, 'README.md')
 
 with open(README_PATH, 'w') as outfile:
