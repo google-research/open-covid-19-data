@@ -29,7 +29,7 @@ data:
   icu:
     cumulative: 'icu_cumulative'
 attribution:
-  country: 'Ireland'
+  title: 'Ireland'
   source_name: 'Health Protection Surveillance Centre'
   main_link: 'https://www.hpsc.ie/'
   data_link: 'https://www.hpsc.ie/a-z/respiratory/coronavirus/novelcoronavirus/casesinireland/epidemiologyofcovid-19inireland/'
@@ -38,5 +38,5 @@ license:
   name: 'Creative Commons Attribution ShareAlike 3.0'
   file: 'docs/license_files/cc-by-sa-3.0'
   link: 'https://creativecommons.org/licenses/by-sa/3.0/'
-cc-by-sa: True
+cc_by_sa: True
 approved: True

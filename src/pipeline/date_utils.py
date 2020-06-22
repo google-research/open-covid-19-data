@@ -37,6 +37,18 @@ def default(data_df, params):
         data_df['date'] = pd.to_datetime(data_df['original_date']).dt.strftime("%Y-%m-%d")
     return data_df
 
+def luxembourg_hospitalization_dates(data_df, params):
+    format1 = '%Y-%m-%d %h:%m:%s'
+    format2 = '%d/%m/%Y'
+    def fix_date(original):
+        try:
+            fixed = pd.to_datetime(original, format=format1).date().strftime("%Y-%m-%d")
+        except:
+            fixed = pd.to_datetime(original, format=format2).date().strftime("%Y-%m-%d")
+        return fixed
+    data_df['date'] = data_df['Date'].apply(fix_date)
+    return data_df
+
 def japan_hospitalization_dates(data_df, params):
     data_df = data_df.rename(columns={
         'date': 'day'

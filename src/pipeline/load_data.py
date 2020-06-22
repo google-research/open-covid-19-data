@@ -27,8 +27,8 @@ import config
 data_columns_by_type = config.get_data_columns_by_type()
 identifier_columns = config.get_identifier_columns()
 
-def load_data_type(data_type, cc_by_sa):
-    config_dict = config.read_config(cc_by_sa=cc_by_sa)
+def load_data_type(data_type, cc_by_sa, google_tos):
+    config_dict = config.read_config(cc_by_sa=cc_by_sa, google_tos=google_tos)
     list_of_dfs = []
     for k in config_dict:
         params = config_dict[k]

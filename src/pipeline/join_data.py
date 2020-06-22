@@ -23,15 +23,15 @@ import config
 
 time_series_data_types = config.get_time_series_data_types()
 
-def get_time_series_data_by_type(cc_by_sa=False):
+def get_time_series_data_by_type(cc_by_sa=False, google_tos=False):
     time_series_data = {}
     for dt in time_series_data_types:
-        time_series_data[dt] = load_data.load_data_type(dt, cc_by_sa)
+        time_series_data[dt] = load_data.load_data_type(dt, cc_by_sa, google_tos)
     return time_series_data
 
-def get_time_series_df(cc_by_sa=False):
+def get_time_series_df(cc_by_sa=False, google_tos=False):
     joined_df = None
-    time_series_data_by_type = get_time_series_data_by_type(cc_by_sa)
+    time_series_data_by_type = get_time_series_data_by_type(cc_by_sa, google_tos)
     for df in time_series_data_by_type.values():
         if joined_df is None:
             joined_df = df
