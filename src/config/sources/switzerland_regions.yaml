@@ -1,0 +1,30 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+fetch:
+  source_url: 'https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_CH_total_v2.csv'
+  method: 'AUTOMATIC_DOWNLOAD'
+  file: 'COVID19_Fallzahlen_CH_total_v2.csv'
+attribution:
+  country: 'Switzerland and regions'
+  source_name: 'OpenDataZH'
+  main_link: 'https://github.com/openZH/covid_19'
+  data_link: 'https://github.com/openZH/covid_19/blob/master/COVID19_Fallzahlen_CH_total_v2.csv'
+license:
+  name: 'Creative Commons Attribution 4.0 International'
+  file: 'docs/license_files/cc-by-4.0'
+  link: 'https://creativecommons.org/licenses/by/4.0/'
+cc-by-sa: False
+approved: True
