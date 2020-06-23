@@ -1,0 +1,29 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+fetch:
+  source_url: 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD'
+  method: 'AUTOMATIC_DOWNLOAD'
+  file: 'Casos_positivos_de_COVID-19_en_Colombia.csv'
+attribution:
+  country: 'Colombia and municipalities'
+  source_name: 'Open Data Portal'
+  main_link: 'https://www.datos.gov.co'
+  data_link: 'https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr'
+license:
+  link: 'https://herramientas.datos.gov.co/es/terms-and-conditions-es'
+  # There's no license; this links to the Colombian government's terms and conditions
+cc-by-sa: False
+approved: True
