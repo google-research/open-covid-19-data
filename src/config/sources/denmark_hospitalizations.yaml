@@ -36,5 +36,6 @@ attribution:
   main_link: 'https://www.sst.dk/'
   data_link: 'https://www.sst.dk/da/corona/tal-og-overvaagning'
   description: 'Data is manually scraped from charts at the source link. Data for Denmark consists of time series data for current hospitalizations and ICU cases.'
+cc_by: True
 cc_by_sa: False
 approved: True

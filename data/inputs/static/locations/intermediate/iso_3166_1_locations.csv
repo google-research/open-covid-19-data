@@ -1,0 +1,231 @@
+wikidata_id,country_iso_3166-1_alpha-2,country_iso_3166-1_numeric,region_code,region_name,region_code_type,country_iso_3166-1_alpha-3,region_code_level,parent_region_code,subdivision_type,region_type,leaf_region_code,level_1_region_code,level_2_region_code,level_3_region_code,datacommons_id
+Q889,AF,004,AFG,Afghanistan,iso_3166-1,AFG,1,WORLD,countries,country,AFG,AFG,,,country/AFG
+Q222,AL,008,ALB,Albania,iso_3166-1,ALB,1,WORLD,countries,country,ALB,ALB,,,country/ALB
+Q262,DZ,012,DZA,Algeria,iso_3166-1,DZA,1,WORLD,countries,country,DZA,DZA,,,country/DZA
+Q228,AD,020,AND,Andorra,iso_3166-1,AND,1,WORLD,countries,country,AND,AND,,,country/AND
+Q916,AO,024,AGO,Angola,iso_3166-1,AGO,1,WORLD,countries,country,AGO,AGO,,,country/AGO
+Q25228,AI,660,AIA,Anguilla,iso_3166-1,AIA,1,WORLD,countries,country,AIA,AIA,,,country/AIA
+Q51,AQ,010,ATA,Antarctica,iso_3166-1,ATA,1,WORLD,countries,country,ATA,ATA,,,country/ATA
+Q781,AG,028,ATG,Antigua and Barbuda,iso_3166-1,ATG,1,WORLD,countries,country,ATG,ATG,,,country/ATG
+Q414,AR,032,ARG,Argentina,iso_3166-1,ARG,1,WORLD,countries,country,ARG,ARG,,,country/ARG
+Q399,AM,051,ARM,Armenia,iso_3166-1,ARM,1,WORLD,countries,country,ARM,ARM,,,country/ARM
+Q408,AU,036,AUS,Australia,iso_3166-1,AUS,1,WORLD,countries,country,AUS,AUS,,,country/AUS
+Q40,AT,040,AUT,Austria,iso_3166-1,AUT,1,WORLD,countries,country,AUT,AUT,,,country/AUT
+Q227,AZ,031,AZE,Azerbaijan,iso_3166-1,AZE,1,WORLD,countries,country,AZE,AZE,,,country/AZE
+Q398,BH,048,BHR,Bahrain,iso_3166-1,BHR,1,WORLD,countries,country,BHR,BHR,,,country/BHR
+Q902,BD,050,BGD,Bangladesh,iso_3166-1,BGD,1,WORLD,countries,country,BGD,BGD,,,country/BGD
+Q244,BB,052,BRB,Barbados,iso_3166-1,BRB,1,WORLD,countries,country,BRB,BRB,,,country/BRB
+Q184,BY,112,BLR,Belarus,iso_3166-1,BLR,1,WORLD,countries,country,BLR,BLR,,,country/BLR
+Q31,BE,056,BEL,Belgium,iso_3166-1,BEL,1,WORLD,countries,country,BEL,BEL,,,country/BEL
+Q242,BZ,084,BLZ,Belize,iso_3166-1,BLZ,1,WORLD,countries,country,BLZ,BLZ,,,country/BLZ
+Q962,BJ,204,BEN,Benin,iso_3166-1,BEN,1,WORLD,countries,country,BEN,BEN,,,country/BEN
+Q23635,BM,060,BMU,Bermuda,iso_3166-1,BMU,1,WORLD,countries,country,BMU,BMU,,,country/BMU
+Q917,BT,064,BTN,Bhutan,iso_3166-1,BTN,1,WORLD,countries,country,BTN,BTN,,,country/BTN
+Q750,BO,068,BOL,Bolivia,iso_3166-1,BOL,1,WORLD,countries,country,BOL,BOL,,,country/BOL
+Q225,BA,070,BIH,Bosnia and Herzegovina,iso_3166-1,BIH,1,WORLD,countries,country,BIH,BIH,,,country/BIH
+Q963,BW,072,BWA,Botswana,iso_3166-1,BWA,1,WORLD,countries,country,BWA,BWA,,,country/BWA
+Q23408,BV,074,BVT,Bouvet Island,iso_3166-1,BVT,1,WORLD,countries,country,BVT,BVT,,,country/BVT
+Q155,BR,076,BRA,Brazil,iso_3166-1,BRA,1,WORLD,countries,country,BRA,BRA,,,country/BRA
+Q43448,IO,086,IOT,British Indian Ocean Territory,iso_3166-1,IOT,1,WORLD,countries,country,IOT,IOT,,,country/IOT
+Q25305,VG,092,VGB,British Virgin Islands,iso_3166-1,VGB,1,WORLD,countries,country,VGB,VGB,,,country/VGB
+Q921,BN,096,BRN,Brunei,iso_3166-1,BRN,1,WORLD,countries,country,BRN,BRN,,,country/BRN
+Q219,BG,100,BGR,Bulgaria,iso_3166-1,BGR,1,WORLD,countries,country,BGR,BGR,,,country/BGR
+Q965,BF,854,BFA,Burkina Faso,iso_3166-1,BFA,1,WORLD,countries,country,BFA,BFA,,,country/BFA
+Q967,BI,108,BDI,Burundi,iso_3166-1,BDI,1,WORLD,countries,country,BDI,BDI,,,country/BDI
+Q424,KH,116,KHM,Cambodia,iso_3166-1,KHM,1,WORLD,countries,country,KHM,KHM,,,country/KHM
+Q1009,CM,120,CMR,Cameroon,iso_3166-1,CMR,1,WORLD,countries,country,CMR,CMR,,,country/CMR
+Q16,CA,124,CAN,Canada,iso_3166-1,CAN,1,WORLD,countries,country,CAN,CAN,,,country/CAN
+Q1011,CV,132,CPV,Cape Verde,iso_3166-1,CPV,1,WORLD,countries,country,CPV,CPV,,,country/CPV
+Q5785,KY,136,CYM,Cayman Islands,iso_3166-1,CYM,1,WORLD,countries,country,CYM,CYM,,,country/CYM
+Q929,CF,140,CAF,Central African Republic,iso_3166-1,CAF,1,WORLD,countries,country,CAF,CAF,,,country/CAF
+Q657,TD,148,TCD,Chad,iso_3166-1,TCD,1,WORLD,countries,country,TCD,TCD,,,country/TCD
+Q298,CL,152,CHL,Chile,iso_3166-1,CHL,1,WORLD,countries,country,CHL,CHL,,,country/CHL
+Q31063,CX,162,CXR,Christmas Island,iso_3166-1,CXR,1,WORLD,countries,country,CXR,CXR,,,country/CXR
+Q36004,CC,166,CCK,Cocos (Keeling) Islands,iso_3166-1,CCK,1,WORLD,countries,country,CCK,CCK,,,country/CCK
+Q739,CO,170,COL,Colombia,iso_3166-1,COL,1,WORLD,countries,country,COL,COL,,,country/COL
+Q970,KM,174,COM,Comoros,iso_3166-1,COM,1,WORLD,countries,country,COM,COM,,,country/COM
+Q26988,CK,184,COK,Cook Islands,iso_3166-1,COK,1,WORLD,countries,country,COK,COK,,,country/COK
+Q800,CR,188,CRI,Costa Rica,iso_3166-1,CRI,1,WORLD,countries,country,CRI,CRI,,,country/CRI
+Q224,HR,191,HRV,Croatia,iso_3166-1,HRV,1,WORLD,countries,country,HRV,HRV,,,country/HRV
+Q241,CU,192,CUB,Cuba,iso_3166-1,CUB,1,WORLD,countries,country,CUB,CUB,,,country/CUB
+Q229,CY,196,CYP,Cyprus,iso_3166-1,CYP,1,WORLD,countries,country,CYP,CYP,,,country/CYP
+Q213,CZ,203,CZE,Czech Republic,iso_3166-1,CZE,1,WORLD,countries,country,CZE,CZE,,,country/CZE
+Q974,CD,180,COD,Democratic Republic of the Congo,iso_3166-1,COD,1,WORLD,countries,country,COD,COD,,,country/COD
+Q35,DK,208,DNK,Denmark,iso_3166-1,DNK,1,WORLD,countries,country,DNK,DNK,,,country/DNK
+Q977,DJ,262,DJI,Djibouti,iso_3166-1,DJI,1,WORLD,countries,country,DJI,DJI,,,country/DJI
+Q784,DM,212,DMA,Dominica,iso_3166-1,DMA,1,WORLD,countries,country,DMA,DMA,,,country/DMA
+Q786,DO,214,DOM,Dominican Republic,iso_3166-1,DOM,1,WORLD,countries,country,DOM,DOM,,,country/DOM
+Q574,TL,626,TLS,East Timor,iso_3166-1,TLS,1,WORLD,countries,country,TLS,TLS,,,country/TLS
+Q736,EC,218,ECU,Ecuador,iso_3166-1,ECU,1,WORLD,countries,country,ECU,ECU,,,country/ECU
+Q79,EG,818,EGY,Egypt,iso_3166-1,EGY,1,WORLD,countries,country,EGY,EGY,,,country/EGY
+Q792,SV,222,SLV,El Salvador,iso_3166-1,SLV,1,WORLD,countries,country,SLV,SLV,,,country/SLV
+Q983,GQ,226,GNQ,Equatorial Guinea,iso_3166-1,GNQ,1,WORLD,countries,country,GNQ,GNQ,,,country/GNQ
+Q986,ER,232,ERI,Eritrea,iso_3166-1,ERI,1,WORLD,countries,country,ERI,ERI,,,country/ERI
+Q191,EE,233,EST,Estonia,iso_3166-1,EST,1,WORLD,countries,country,EST,EST,,,country/EST
+Q1050,SZ,748,SWZ,Eswatini,iso_3166-1,SWZ,1,WORLD,countries,country,SWZ,SWZ,,,country/SWZ
+Q115,ET,231,ETH,Ethiopia,iso_3166-1,ETH,1,WORLD,countries,country,ETH,ETH,,,country/ETH
+Q9648,FK,238,FLK,Falkland Islands,iso_3166-1,FLK,1,WORLD,countries,country,FLK,FLK,,,country/FLK
+Q4628,FO,234,FRO,Faroe Islands,iso_3166-1,FRO,1,WORLD,countries,country,FRO,FRO,,,country/FRO
+Q702,FM,583,FSM,Federated States of Micronesia,iso_3166-1,FSM,1,WORLD,countries,country,FSM,FSM,,,country/FSM
+Q712,FJ,242,FJI,Fiji,iso_3166-1,FJI,1,WORLD,countries,country,FJI,FJI,,,country/FJI
+Q33,FI,246,FIN,Finland,iso_3166-1,FIN,1,WORLD,countries,country,FIN,FIN,,,country/FIN
+Q142,FR,250,FRA,France,iso_3166-1,FRA,1,WORLD,countries,country,FRA,FRA,,,country/FRA
+Q1000,GA,266,GAB,Gabon,iso_3166-1,GAB,1,WORLD,countries,country,GAB,GAB,,,country/GAB
+Q230,GE,268,GEO,Georgia,iso_3166-1,GEO,1,WORLD,countries,country,GEO,GEO,,,country/GEO
+Q183,DE,276,DEU,Germany,iso_3166-1,DEU,1,WORLD,countries,country,DEU,DEU,,,country/DEU
+Q117,GH,288,GHA,Ghana,iso_3166-1,GHA,1,WORLD,countries,country,GHA,GHA,,,country/GHA
+Q1410,GI,292,GIB,Gibraltar,iso_3166-1,GIB,1,WORLD,countries,country,GIB,GIB,,,country/GIB
+Q41,GR,300,GRC,Greece,iso_3166-1,GRC,1,WORLD,countries,country,GRC,GRC,,,country/GRC
+Q223,GL,304,GRL,Greenland,iso_3166-1,GRL,1,WORLD,countries,country,GRL,GRL,,,country/GRL
+Q769,GD,308,GRD,Grenada,iso_3166-1,GRD,1,WORLD,countries,country,GRD,GRD,,,country/GRD
+Q774,GT,320,GTM,Guatemala,iso_3166-1,GTM,1,WORLD,countries,country,GTM,GTM,,,country/GTM
+Q25230,GG,831,GGY,Guernsey,iso_3166-1,GGY,1,WORLD,countries,country,GGY,GGY,,,country/GGY
+Q1006,GN,324,GIN,Guinea,iso_3166-1,GIN,1,WORLD,countries,country,GIN,GIN,,,country/GIN
+Q1007,GW,624,GNB,Guinea-Bissau,iso_3166-1,GNB,1,WORLD,countries,country,GNB,GNB,,,country/GNB
+Q734,GY,328,GUY,Guyana,iso_3166-1,GUY,1,WORLD,countries,country,GUY,GUY,,,country/GUY
+Q790,HT,332,HTI,Haiti,iso_3166-1,HTI,1,WORLD,countries,country,HTI,HTI,,,country/HTI
+Q131198,HM,334,HMD,Heard Island and McDonald Islands,iso_3166-1,HMD,1,WORLD,countries,country,HMD,HMD,,,country/HMD
+Q783,HN,340,HND,Honduras,iso_3166-1,HND,1,WORLD,countries,country,HND,HND,,,country/HND
+Q8646,HK,344,HKG,Hong Kong,iso_3166-1,HKG,1,WORLD,countries,country,HKG,HKG,,,country/HKG
+Q28,HU,348,HUN,Hungary,iso_3166-1,HUN,1,WORLD,countries,country,HUN,HUN,,,country/HUN
+Q189,IS,352,ISL,Iceland,iso_3166-1,ISL,1,WORLD,countries,country,ISL,ISL,,,country/ISL
+Q668,IN,356,IND,India,iso_3166-1,IND,1,WORLD,countries,country,IND,IND,,,country/IND
+Q252,ID,360,IDN,Indonesia,iso_3166-1,IDN,1,WORLD,countries,country,IDN,IDN,,,country/IDN
+Q794,IR,364,IRN,Iran,iso_3166-1,IRN,1,WORLD,countries,country,IRN,IRN,,,country/IRN
+Q796,IQ,368,IRQ,Iraq,iso_3166-1,IRQ,1,WORLD,countries,country,IRQ,IRQ,,,country/IRQ
+Q27,IE,372,IRL,Ireland,iso_3166-1,IRL,1,WORLD,countries,country,IRL,IRL,,,country/IRL
+Q9676,IM,833,IMN,Isle of Man,iso_3166-1,IMN,1,WORLD,countries,country,IMN,IMN,,,country/IMN
+Q801,IL,376,ISR,Israel,iso_3166-1,ISR,1,WORLD,countries,country,ISR,ISR,,,country/ISR
+Q38,IT,380,ITA,Italy,iso_3166-1,ITA,1,WORLD,countries,country,ITA,ITA,,,country/ITA
+Q1008,CI,384,CIV,Ivory Coast,iso_3166-1,CIV,1,WORLD,countries,country,CIV,CIV,,,country/CIV
+Q766,JM,388,JAM,Jamaica,iso_3166-1,JAM,1,WORLD,countries,country,JAM,JAM,,,country/JAM
+Q17,JP,392,JPN,Japan,iso_3166-1,JPN,1,WORLD,countries,country,JPN,JPN,,,country/JPN
+Q785,JE,832,JEY,Jersey,iso_3166-1,JEY,1,WORLD,countries,country,JEY,JEY,,,country/JEY
+Q131008,JT,396,JTN,Johnston Atoll,iso_3166-1,JTN,1,WORLD,countries,country,JTN,JTN,,,country/JTN
+Q810,JO,400,JOR,Jordan,iso_3166-1,JOR,1,WORLD,countries,country,JOR,JOR,,,country/JOR
+Q232,KZ,398,KAZ,Kazakhstan,iso_3166-1,KAZ,1,WORLD,countries,country,KAZ,KAZ,,,country/KAZ
+Q114,KE,404,KEN,Kenya,iso_3166-1,KEN,1,WORLD,countries,country,KEN,KEN,,,country/KEN
+Q29999,NL,528,NLD,Kingdom of the Netherlands,iso_3166-1,NLD,1,WORLD,countries,country,NLD,NLD,,,country/NLD
+Q710,KI,296,KIR,Kiribati,iso_3166-1,KIR,1,WORLD,countries,country,KIR,KIR,,,country/KIR
+Q817,KW,414,KWT,Kuwait,iso_3166-1,KWT,1,WORLD,countries,country,KWT,KWT,,,country/KWT
+Q813,KG,417,KGZ,Kyrgyzstan,iso_3166-1,KGZ,1,WORLD,countries,country,KGZ,KGZ,,,country/KGZ
+Q819,LA,418,LAO,Laos,iso_3166-1,LAO,1,WORLD,countries,country,LAO,LAO,,,country/LAO
+Q211,LV,428,LVA,Latvia,iso_3166-1,LVA,1,WORLD,countries,country,LVA,LVA,,,country/LVA
+Q822,LB,422,LBN,Lebanon,iso_3166-1,LBN,1,WORLD,countries,country,LBN,LBN,,,country/LBN
+Q1013,LS,426,LSO,Lesotho,iso_3166-1,LSO,1,WORLD,countries,country,LSO,LSO,,,country/LSO
+Q1014,LR,430,LBR,Liberia,iso_3166-1,LBR,1,WORLD,countries,country,LBR,LBR,,,country/LBR
+Q1016,LY,434,LBY,Libya,iso_3166-1,LBY,1,WORLD,countries,country,LBY,LBY,,,country/LBY
+Q347,LI,438,LIE,Liechtenstein,iso_3166-1,LIE,1,WORLD,countries,country,LIE,LIE,,,country/LIE
+Q37,LT,440,LTU,Lithuania,iso_3166-1,LTU,1,WORLD,countries,country,LTU,LTU,,,country/LTU
+Q32,LU,442,LUX,Luxembourg,iso_3166-1,LUX,1,WORLD,countries,country,LUX,LUX,,,country/LUX
+Q14773,MO,446,MAC,Macau,iso_3166-1,MAC,1,WORLD,countries,country,MAC,MAC,,,country/MAC
+Q1019,MG,450,MDG,Madagascar,iso_3166-1,MDG,1,WORLD,countries,country,MDG,MDG,,,country/MDG
+Q1020,MW,454,MWI,Malawi,iso_3166-1,MWI,1,WORLD,countries,country,MWI,MWI,,,country/MWI
+Q833,MY,458,MYS,Malaysia,iso_3166-1,MYS,1,WORLD,countries,country,MYS,MYS,,,country/MYS
+Q826,MV,462,MDV,Maldives,iso_3166-1,MDV,1,WORLD,countries,country,MDV,MDV,,,country/MDV
+Q912,ML,466,MLI,Mali,iso_3166-1,MLI,1,WORLD,countries,country,MLI,MLI,,,country/MLI
+Q233,MT,470,MLT,Malta,iso_3166-1,MLT,1,WORLD,countries,country,MLT,MLT,,,country/MLT
+Q709,MH,584,MHL,Marshall Islands,iso_3166-1,MHL,1,WORLD,countries,country,MHL,MHL,,,country/MHL
+Q1025,MR,478,MRT,Mauritania,iso_3166-1,MRT,1,WORLD,countries,country,MRT,MRT,,,country/MRT
+Q1027,MU,480,MUS,Mauritius,iso_3166-1,MUS,1,WORLD,countries,country,MUS,MUS,,,country/MUS
+Q212429,FX,249,FXX,Metropolitan France,iso_3166-1,FXX,1,WORLD,countries,country,FXX,FXX,,,country/FXX
+Q96,MX,484,MEX,Mexico,iso_3166-1,MEX,1,WORLD,countries,country,MEX,MEX,,,country/MEX
+Q47863,MI,488,MID,Midway Atoll,iso_3166-1,MID,1,WORLD,countries,country,MID,MID,,,country/MID
+Q217,MD,498,MDA,Moldova,iso_3166-1,MDA,1,WORLD,countries,country,MDA,MDA,,,country/MDA
+Q235,MC,492,MCO,Monaco,iso_3166-1,MCO,1,WORLD,countries,country,MCO,MCO,,,country/MCO
+Q711,MN,496,MNG,Mongolia,iso_3166-1,MNG,1,WORLD,countries,country,MNG,MNG,,,country/MNG
+Q236,ME,499,MNE,Montenegro,iso_3166-1,MNE,1,WORLD,countries,country,MNE,MNE,,,country/MNE
+Q13353,MS,500,MSR,Montserrat,iso_3166-1,MSR,1,WORLD,countries,country,MSR,MSR,,,country/MSR
+Q1028,MA,504,MAR,Morocco,iso_3166-1,MAR,1,WORLD,countries,country,MAR,MAR,,,country/MAR
+Q1029,MZ,508,MOZ,Mozambique,iso_3166-1,MOZ,1,WORLD,countries,country,MOZ,MOZ,,,country/MOZ
+Q836,MM,104,MMR,Myanmar,iso_3166-1,MMR,1,WORLD,countries,country,MMR,MMR,,,country/MMR
+Q1030,NA,516,NAM,Namibia,iso_3166-1,NAM,1,WORLD,countries,country,NAM,NAM,,,country/NAM
+Q697,NR,520,NRU,Nauru,iso_3166-1,NRU,1,WORLD,countries,country,NRU,NRU,,,country/NRU
+Q837,NP,524,NPL,Nepal,iso_3166-1,NPL,1,WORLD,countries,country,NPL,NPL,,,country/NPL
+Q664,NZ,554,NZL,New Zealand,iso_3166-1,NZL,1,WORLD,countries,country,NZL,NZL,,,country/NZL
+Q811,NI,558,NIC,Nicaragua,iso_3166-1,NIC,1,WORLD,countries,country,NIC,NIC,,,country/NIC
+Q1032,NE,562,NER,Niger,iso_3166-1,NER,1,WORLD,countries,country,NER,NER,,,country/NER
+Q1033,NG,566,NGA,Nigeria,iso_3166-1,NGA,1,WORLD,countries,country,NGA,NGA,,,country/NGA
+Q34020,NU,570,NIU,Niue,iso_3166-1,NIU,1,WORLD,countries,country,NIU,NIU,,,country/NIU
+Q31057,NF,574,NFK,Norfolk Island,iso_3166-1,NFK,1,WORLD,countries,country,NFK,NFK,,,country/NFK
+Q423,KP,408,PRK,North Korea,iso_3166-1,PRK,1,WORLD,countries,country,PRK,PRK,,,country/PRK
+Q221,MK,807,MKD,North Macedonia,iso_3166-1,MKD,1,WORLD,countries,country,MKD,MKD,,,country/MKD
+Q20,NO,578,NOR,Norway,iso_3166-1,NOR,1,WORLD,countries,country,NOR,NOR,,,country/NOR
+Q842,OM,512,OMN,Oman,iso_3166-1,OMN,1,WORLD,countries,country,OMN,OMN,,,country/OMN
+Q843,PK,586,PAK,Pakistan,iso_3166-1,PAK,1,WORLD,countries,country,PAK,PAK,,,country/PAK
+Q695,PW,585,PLW,Palau,iso_3166-1,PLW,1,WORLD,countries,country,PLW,PLW,,,country/PLW
+Q804,PA,591,PAN,Panama,iso_3166-1,PAN,1,WORLD,countries,country,PAN,PAN,,,country/PAN
+Q691,PG,598,PNG,Papua New Guinea,iso_3166-1,PNG,1,WORLD,countries,country,PNG,PNG,,,country/PNG
+Q733,PY,600,PRY,Paraguay,iso_3166-1,PRY,1,WORLD,countries,country,PRY,PRY,,,country/PRY
+Q148,CN,156,CHN,People's Republic of China,iso_3166-1,CHN,1,WORLD,countries,country,CHN,CHN,,,country/CHN
+Q419,PE,604,PER,Peru,iso_3166-1,PER,1,WORLD,countries,country,PER,PER,,,country/PER
+Q928,PH,608,PHL,Philippines,iso_3166-1,PHL,1,WORLD,countries,country,PHL,PHL,,,country/PHL
+Q35672,PN,612,PCN,Pitcairn Islands,iso_3166-1,PCN,1,WORLD,countries,country,PCN,PCN,,,country/PCN
+Q36,PL,616,POL,Poland,iso_3166-1,POL,1,WORLD,countries,country,POL,POL,,,country/POL
+Q45,PT,620,PRT,Portugal,iso_3166-1,PRT,1,WORLD,countries,country,PRT,PRT,,,country/PRT
+Q846,QA,634,QAT,Qatar,iso_3166-1,QAT,1,WORLD,countries,country,QAT,QAT,,,country/QAT
+Q189999,NQ,216,ATN,Queen Maud Land,iso_3166-1,ATN,1,WORLD,countries,country,ATN,ATN,,,country/ATN
+Q971,CG,178,COG,Republic of the Congo,iso_3166-1,COG,1,WORLD,countries,country,COG,COG,,,country/COG
+Q218,RO,642,ROU,Romania,iso_3166-1,ROU,1,WORLD,countries,country,ROU,ROU,,,country/ROU
+Q159,RU,643,RUS,Russia,iso_3166-1,RUS,1,WORLD,countries,country,RUS,RUS,,,country/RUS
+Q1037,RW,646,RWA,Rwanda,iso_3166-1,RWA,1,WORLD,countries,country,RWA,RWA,,,country/RWA
+Q40362,EH,732,ESH,Sahrawi Arab Democratic Republic,iso_3166-1,ESH,1,WORLD,countries,country,ESH,ESH,,,country/ESH
+Q192184,SH,654,SHN,"Saint Helena, Ascension and Tristan da Cunha",iso_3166-1,SHN,1,WORLD,countries,country,SHN,SHN,,,country/SHN
+Q763,KN,659,KNA,Saint Kitts and Nevis,iso_3166-1,KNA,1,WORLD,countries,country,KNA,KNA,,,country/KNA
+Q760,LC,662,LCA,Saint Lucia,iso_3166-1,LCA,1,WORLD,countries,country,LCA,LCA,,,country/LCA
+Q757,VC,670,VCT,Saint Vincent and the Grenadines,iso_3166-1,VCT,1,WORLD,countries,country,VCT,VCT,,,country/VCT
+Q683,WS,882,WSM,Samoa,iso_3166-1,WSM,1,WORLD,countries,country,WSM,WSM,,,country/WSM
+Q238,SM,674,SMR,San Marino,iso_3166-1,SMR,1,WORLD,countries,country,SMR,SMR,,,country/SMR
+Q851,SA,682,SAU,Saudi Arabia,iso_3166-1,SAU,1,WORLD,countries,country,SAU,SAU,,,country/SAU
+Q1041,SN,686,SEN,Senegal,iso_3166-1,SEN,1,WORLD,countries,country,SEN,SEN,,,country/SEN
+Q403,RS,688,SRB,Serbia,iso_3166-1,SRB,1,WORLD,countries,country,SRB,SRB,,,country/SRB
+Q1042,SC,690,SYC,Seychelles,iso_3166-1,SYC,1,WORLD,countries,country,SYC,SYC,,,country/SYC
+Q1044,SL,694,SLE,Sierra Leone,iso_3166-1,SLE,1,WORLD,countries,country,SLE,SLE,,,country/SLE
+Q334,SG,702,SGP,Singapore,iso_3166-1,SGP,1,WORLD,countries,country,SGP,SGP,,,country/SGP
+Q214,SK,703,SVK,Slovakia,iso_3166-1,SVK,1,WORLD,countries,country,SVK,SVK,,,country/SVK
+Q215,SI,705,SVN,Slovenia,iso_3166-1,SVN,1,WORLD,countries,country,SVN,SVN,,,country/SVN
+Q685,SB,090,SLB,Solomon Islands,iso_3166-1,SLB,1,WORLD,countries,country,SLB,SLB,,,country/SLB
+Q1045,SO,706,SOM,Somalia,iso_3166-1,SOM,1,WORLD,countries,country,SOM,SOM,,,country/SOM
+Q258,ZA,710,ZAF,South Africa,iso_3166-1,ZAF,1,WORLD,countries,country,ZAF,ZAF,,,country/ZAF
+Q35086,GS,239,SGS,South Georgia and the South Sandwich Islands,iso_3166-1,SGS,1,WORLD,countries,country,SGS,SGS,,,country/SGS
+Q884,KR,410,KOR,South Korea,iso_3166-1,KOR,1,WORLD,countries,country,KOR,KOR,,,country/KOR
+Q958,SS,728,SSD,South Sudan,iso_3166-1,SSD,1,WORLD,countries,country,SSD,SSD,,,country/SSD
+Q29,ES,724,ESP,Spain,iso_3166-1,ESP,1,WORLD,countries,country,ESP,ESP,,,country/ESP
+Q854,LK,144,LKA,Sri Lanka,iso_3166-1,LKA,1,WORLD,countries,country,LKA,LKA,,,country/LKA
+Q219060,PS,275,PSE,State of Palestine,iso_3166-1,PSE,1,WORLD,countries,country,PSE,PSE,,,country/PSE
+Q1049,SD,729,SDN,Sudan,iso_3166-1,SDN,1,WORLD,countries,country,SDN,SDN,,,country/SDN
+Q730,SR,740,SUR,Suriname,iso_3166-1,SUR,1,WORLD,countries,country,SUR,SUR,,,country/SUR
+Q34,SE,752,SWE,Sweden,iso_3166-1,SWE,1,WORLD,countries,country,SWE,SWE,,,country/SWE
+Q39,CH,756,CHE,Switzerland,iso_3166-1,CHE,1,WORLD,countries,country,CHE,CHE,,,country/CHE
+Q858,SY,760,SYR,Syria,iso_3166-1,SYR,1,WORLD,countries,country,SYR,SYR,,,country/SYR
+Q1039,ST,678,STP,São Tomé and Príncipe,iso_3166-1,STP,1,WORLD,countries,country,STP,STP,,,country/STP
+Q865,TW,158,TWN,Taiwan,iso_3166-1,TWN,1,WORLD,countries,country,TWN,TWN,,,country/TWN
+Q863,TJ,762,TJK,Tajikistan,iso_3166-1,TJK,1,WORLD,countries,country,TJK,TJK,,,country/TJK
+Q924,TZ,834,TZA,Tanzania,iso_3166-1,TZA,1,WORLD,countries,country,TZA,TZA,,,country/TZA
+Q869,TH,764,THA,Thailand,iso_3166-1,THA,1,WORLD,countries,country,THA,THA,,,country/THA
+Q778,BS,044,BHS,The Bahamas,iso_3166-1,BHS,1,WORLD,countries,country,BHS,BHS,,,country/BHS
+Q1005,GM,270,GMB,The Gambia,iso_3166-1,GMB,1,WORLD,countries,country,GMB,GMB,,,country/GMB
+Q945,TG,768,TGO,Togo,iso_3166-1,TGO,1,WORLD,countries,country,TGO,TGO,,,country/TGO
+Q36823,TK,772,TKL,Tokelau,iso_3166-1,TKL,1,WORLD,countries,country,TKL,TKL,,,country/TKL
+Q678,TO,776,TON,Tonga,iso_3166-1,TON,1,WORLD,countries,country,TON,TON,,,country/TON
+Q754,TT,780,TTO,Trinidad and Tobago,iso_3166-1,TTO,1,WORLD,countries,country,TTO,TTO,,,country/TTO
+Q948,TN,788,TUN,Tunisia,iso_3166-1,TUN,1,WORLD,countries,country,TUN,TUN,,,country/TUN
+Q43,TR,792,TUR,Turkey,iso_3166-1,TUR,1,WORLD,countries,country,TUR,TUR,,,country/TUR
+Q874,TM,795,TKM,Turkmenistan,iso_3166-1,TKM,1,WORLD,countries,country,TKM,TKM,,,country/TKM
+Q18221,TC,796,TCA,Turks and Caicos Islands,iso_3166-1,TCA,1,WORLD,countries,country,TCA,TCA,,,country/TCA
+Q672,TV,798,TUV,Tuvalu,iso_3166-1,TUV,1,WORLD,countries,country,TUV,TUV,,,country/TUV
+Q1036,UG,800,UGA,Uganda,iso_3166-1,UGA,1,WORLD,countries,country,UGA,UGA,,,country/UGA
+Q212,UA,804,UKR,Ukraine,iso_3166-1,UKR,1,WORLD,countries,country,UKR,UKR,,,country/UKR
+Q878,AE,784,ARE,United Arab Emirates,iso_3166-1,ARE,1,WORLD,countries,country,ARE,ARE,,,country/ARE
+Q145,GB,826,GBR,United Kingdom,iso_3166-1,GBR,1,WORLD,countries,country,GBR,GBR,,,country/GBR
+Q30,US,840,USA,United States of America,iso_3166-1,USA,1,WORLD,countries,country,USA,USA,,,country/USA
+Q77,UY,858,URY,Uruguay,iso_3166-1,URY,1,WORLD,countries,country,URY,URY,,,country/URY
+Q265,UZ,860,UZB,Uzbekistan,iso_3166-1,UZB,1,WORLD,countries,country,UZB,UZB,,,country/UZB
+Q686,VU,548,VUT,Vanuatu,iso_3166-1,VUT,1,WORLD,countries,country,VUT,VUT,,,country/VUT
+Q237,VA,336,VAT,Vatican City,iso_3166-1,VAT,1,WORLD,countries,country,VAT,VAT,,,country/VAT
+Q717,VE,862,VEN,Venezuela,iso_3166-1,VEN,1,WORLD,countries,country,VEN,VEN,,,country/VEN
+Q881,VN,704,VNM,Vietnam,iso_3166-1,VNM,1,WORLD,countries,country,VNM,VNM,,,country/VNM
+Q6250,EH,732,ESH,Western Sahara,iso_3166-1,ESH,1,WORLD,countries,country,ESH,ESH,,,country/ESH
+Q805,YE,887,YEM,Yemen,iso_3166-1,YEM,1,WORLD,countries,country,YEM,YEM,,,country/YEM
+Q953,ZM,894,ZMB,Zambia,iso_3166-1,ZMB,1,WORLD,countries,country,ZMB,ZMB,,,country/ZMB
+Q954,ZW,716,ZWE,Zimbabwe,iso_3166-1,ZWE,1,WORLD,countries,country,ZWE,ZWE,,,country/ZWE

@@ -14,21 +14,16 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-import os
 import pandas as pd
-import yaml
 
-import load_utils
 import load_functions
 import config
-
 
 
 data_columns_by_type = config.get_data_columns_by_type()
 identifier_columns = config.get_identifier_columns()
 
-def load_data_type(data_type, cc_by_sa, google_tos):
-    config_dict = config.read_config(cc_by_sa=cc_by_sa, google_tos=google_tos)
+def load_data_type(data_type, config_dict):
     list_of_dfs = []
     for k in config_dict:
         params = config_dict[k]
@@ -45,5 +40,8 @@ def load_data_type(data_type, cc_by_sa, google_tos):
                     omit_regions = omit_params[data_type]
                     df = df[~df.region_code.isin(omit_regions)]
             list_of_dfs.append(df)
-    joined = pd.concat(list_of_dfs)
-    return joined
+    if list_of_dfs:
+        joined = pd.concat(list_of_dfs)
+        return joined
+    else:
+        return None

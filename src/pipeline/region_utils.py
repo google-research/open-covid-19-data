@@ -15,14 +15,13 @@
 # limitations under the License.
 
 import pandas as pd
-import streamlit as st
 import os
 
 import config
 
 CURRENT_DIR = os.path.dirname(__file__)
 ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
-LOCATIONS_PATH = os.path.join(ROOT_DIR, 'data/inputs/static/locations.csv')
+LOCATIONS_PATH = os.path.join(ROOT_DIR, 'data/exports/locations/locations.csv')
 
 def join_region_codes(data_df, params):
     reg_params = params['load']['regions']
@@ -42,7 +41,7 @@ def join_single_region_code(data_df, single_region_code):
 def join_on_keys(data_df, regions_path, mapping_keys):
     abs_path = os.path.abspath(os.path.join(os.path.join(__file__, '../../..'), regions_path))
     regions_df = pd.read_csv(abs_path)
-    reversed_mapping_keys = {value:key for key, value in mapping_keys.items()}
+    reversed_mapping_keys = {value: key for key, value in mapping_keys.items()}
     data_df = data_df.rename(columns=reversed_mapping_keys)
     data_df = data_df.merge(regions_df, on=list(mapping_keys.keys()), how='inner')
     return data_df

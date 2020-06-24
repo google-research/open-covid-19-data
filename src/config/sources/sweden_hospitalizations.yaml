@@ -35,5 +35,6 @@ attribution:
   main_link: 'https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/'
   data_link: 'https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data'
   description: 'Data is downloaded automatically from the source link. Data for Sweden consists of time series data for current ICU cases.'
+cc_by: True
 cc_by_sa: False
 approved: True

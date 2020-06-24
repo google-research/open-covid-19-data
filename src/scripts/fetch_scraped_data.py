@@ -15,10 +15,8 @@
 # limitations under the License.
 
 import pandas as pd
-import yaml
 import os
 import sys
-from datetime import datetime
 
 CURRENT_DIR = os.path.dirname(__file__)
 ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
@@ -29,7 +27,7 @@ sys.path.append(PIPELINE_DIR)
 import config
 import path_utils
 
-scraped = config.read_config(filter_by_fetch_method = 'SCRAPED')
+scraped = config.read_config(filter_by_fetch_method='SCRAPED')
 
 spreadsheet_dir = os.path.join(ROOT_DIR, 'data/inputs/scraped/spreadsheets')
 spreadsheet_file = 'hospitalizations.xlsx'
