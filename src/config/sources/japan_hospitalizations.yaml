@@ -39,5 +39,6 @@ license:
   name: 'MIT'
   file: 'docs/license_files/mit-kaz-ogiwara'
   link: 'https://github.com/kaz-ogiwara/covid19/blob/master/LICENSE'
+cc_by: True
 cc_by_sa: False
 approved: True

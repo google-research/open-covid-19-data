@@ -14,6 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# pylint: disable=no-value-for-parameter
+
 import streamlit as st
 import sys
 import os
@@ -39,8 +41,9 @@ def selected_data_types_to_cols(selected_data_types, data_params):
 
 def get_filtered_df(df, data_params, filtered_data_types, filtered_region_level):
     identifier_list = ['date', 'region_code']
-    region_list = ['parent_region_code', 'region_code_type', 'region_code_level', 'level_1_region_code', 'level_2_region_code', 'level_3_region_code']
-    identifiers = identifier_list + region_list
+    region_list = ['parent_region_code', 'region_code_type', 'region_code_level',
+                   'level_1_region_code', 'level_2_region_code', 'level_3_region_code']
+    # identifiers = identifier_list + region_list
     if filtered_region_level != 'All':
         df = df[df['region_code_level'] == filtered_region_level]
     filtered_data_cols = selected_data_types_to_cols(filtered_data_types, data_params)
@@ -56,7 +59,7 @@ def pipeline():
     selected_sources = st.sidebar.multiselect('Data Source: ', list(config_dict.keys()))
 
     if not selected_sources:
-        st.subheader("Click the arrow in top left to open the sidebar and select a data source!")
+        st.subheader('Click the arrow in top left to open the sidebar and select a data source!')
 
     selected_config = {selected_key: config_dict[selected_key] for selected_key in selected_sources}
 
@@ -68,7 +71,7 @@ def pipeline():
         st.header('Data source: ' + k)
         params = config_dict[k]
         data_params = params['data']
-        del(data_params["testing"]["units"])  # hack: these are strings and mess up the plots, just remove them
+        del data_params['testing']['units']  # hack: these are strings and mess up the plots, just remove them
         data_keys = list(data_params.keys())
         filtered_data_types = st.sidebar.multiselect('Filter ' + k + ' by data type:', data_keys)
         if show_config:
@@ -91,7 +94,7 @@ def pipeline():
         plot_data_types = st.sidebar.multiselect('Plot ' + k + ' by data type:', data_keys)
         plot_data_cols = selected_data_types_to_cols(plot_data_types, data_params)
         unique_regions = df.region_code.unique()
-        selected_regions = st.sidebar.multiselect('Select regions:', unique_regions)
+        # selected_regions = st.sidebar.multiselect('Select regions:', unique_regions)
         for region in unique_regions:
             st.write(region)
             region_df = df[df['region_code'] == region]
