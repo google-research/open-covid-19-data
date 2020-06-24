@@ -16,9 +16,7 @@
 
 name: Python linter
 
-on:
-  pull_request:
-    branches: [ develop ]
+on: [push, pull_request]
 
 jobs:
   build:
