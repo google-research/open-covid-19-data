@@ -45,5 +45,6 @@ attribution:
   main_link: 'https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm'
   data_link: 'https://cnecovid.isciii.es/covid19/resources/agregados.csv'
   description: 'The data is downloaded automatically from the source link. Due to regional differences in hospitalization reporting, we do not aggregate across regions to produce country-level statistics for Spain.'
+cc_by: True
 cc_by_sa: False
 approved: True

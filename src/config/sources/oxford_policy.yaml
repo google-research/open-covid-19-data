@@ -26,7 +26,7 @@ load:
     parse_function: 'default'
     date_format: '%Y%m%d'
   regions:
-    mapping_file: 'data/inputs/static/locations/countries_iso_to_name.csv'
+    mapping_file: 'data/inputs/static/locations/regions/countries_iso_to_name.csv'
     mapping_keys:
       region_code: 'CountryCode'
 data:
@@ -80,5 +80,6 @@ license:
   name: 'Creative Commons Attribution 4.0 International'
   file: 'docs/license_files/cc-by-4.0'
   link: 'https://creativecommons.org/licenses/by/4.0/'
+cc_by: True
 cc_by_sa: False
 approved: True

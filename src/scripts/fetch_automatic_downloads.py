@@ -15,10 +15,8 @@
 # limitations under the License.
 
 import os
-import pandas as pd
 import sys
 import wget  # Note this is python3-wget, not wget library from pypi!
-import yaml
 from datetime import datetime
 
 CURRENT_DIR = os.path.dirname(__file__)
@@ -30,7 +28,8 @@ sys.path.append(PIPELINE_DIR)
 import path_utils
 import config
 
-# Iterate through all the sources, and for anything that is an automatic_download, get the file from the source url and store it at the desired path.
+# Iterate through all the sources, and for anything that is an AUTOMATIC_DOWNLOAD
+# get the file from the source url and store it at the desired path.
 
 automatic_downloads = config.read_config(filter_by_fetch_method='AUTOMATIC_DOWNLOAD', filter_no_load_func=False)
 todays_date = datetime.today().strftime('%Y-%m-%d')
