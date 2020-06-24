@@ -35,5 +35,6 @@ attribution:
   main_link: 'https://www.rivm.nl/coronavirus-covid-19/grafieken'
   data_link: 'https://www.rivm.nl/coronavirus-covid-19/grafieken'
   description: 'Data is downloaded manually from the source link. Data for the Netherlands consists of time series data for current hospitalizations.'
+cc_by: True
 cc_by_sa: False
 approved: True

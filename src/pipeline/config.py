@@ -30,9 +30,19 @@ def all_region_columns():
     return ['region_code'] + other_region_columns()
 
 def other_region_columns():
-    return ['parent_region_code', 'region_code_type', 'region_code_level', 'level_1_region_code', 'level_2_region_code', 'level_3_region_code']
+    return ['parent_region_code',
+            'region_code_type',
+            'region_code_level',
+            'level_1_region_code',
+            'level_2_region_code',
+            'level_3_region_code']
 
-def read_config(cc_by_sa=False, google_tos=False, filter_no_load_func=True, filter_not_approved=True, filter_by_fetch_method=None):
+def read_config(cc_by=True,
+                cc_by_sa=False,
+                google_tos=False,
+                filter_no_load_func=True,
+                filter_not_approved=True,
+                filter_by_fetch_method=None):
     config_dict = {}
     for source_file_name in os.listdir(SOURCES_DIR):
         source_file = os.path.join(SOURCES_DIR, source_file_name)
@@ -40,9 +50,12 @@ def read_config(cc_by_sa=False, google_tos=False, filter_no_load_func=True, filt
             params = yaml.load(file, Loader=yaml.FullLoader)
         source_key = os.path.splitext(source_file_name)[0]
         params['config_key'] = source_key
-        if (filter_no_load_func and ('load' not in params or 'function' not in params['load'] or params['load']['function'] is None)) or \
-            (filter_not_approved and not params['approved']) or \
-            (filter_by_fetch_method and ('fetch' not in params or params['fetch']['method'] != filter_by_fetch_method)) or \
+        if (filter_no_load_func and \
+            ('load' not in params or 'function' not in params['load'] or params['load']['function'] is None)) or \
+                (filter_not_approved and not params['approved']) or \
+            (filter_by_fetch_method and \
+                ('fetch' not in params or params['fetch']['method'] != filter_by_fetch_method)) or \
+            (not cc_by and params['cc_by']) or \
             (not cc_by_sa and params['cc_by_sa']) or \
             (not google_tos and 'google_tos' in params and params['google_tos']):
             continue
@@ -56,8 +69,8 @@ def col_params_to_col_list(data_columns_params):
     for data_type in data_columns_params.keys():
         data_type_formats = data_columns_params[data_type]
         schema_cols = data_schema[data_type]['columns']
-        for format in data_type_formats:
-            col_name = schema_cols[format]
+        for data_type_format in data_type_formats:
+            col_name = schema_cols[data_type_format]
             column_list.append(col_name)
     return column_list
 
@@ -82,8 +95,8 @@ def get_rename_dict(data_columns):
     schema = read_data_schema()
     rename_dict = {}
     for data_type in data_columns.keys():
-        for format in data_columns[data_type].keys():
-            our_col_name = schema[data_type]['columns'][format]
-            source_col_name = data_columns[data_type][format]
+        for data_format in data_columns[data_type].keys():
+            our_col_name = schema[data_type]['columns'][data_format]
+            source_col_name = data_columns[data_type][data_format]
             rename_dict[source_col_name] = our_col_name
     return rename_dict

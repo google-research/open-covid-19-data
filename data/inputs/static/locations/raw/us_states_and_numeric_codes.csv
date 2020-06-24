@@ -1,0 +1,75 @@
+state_name,alpha_code,numeric_code,region_type
+Alabama,AL,1,State; counties
+Alaska,AK,2,State; boroughs
+American Samoa,AS,60,Outlying area under U.S. sovereignty
+American Samoa *,,3,(FIPS 5-1 reserved code)
+Arizona,AZ,4,State; counties
+Arkansas,AR,5,State; counties
+Baker Island,BI,81,Minor outlying island territory
+California,CA,6,State; counties
+Canal Zone *,,7,(FIPS 5-1 reserved code)
+Colorado,CO,8,State; counties
+Connecticut,CT,9,State; counties
+Delaware,DE,10,State; counties
+District of Columbia,DC,11,Federal district[4]
+Florida,FL,12,State; counties
+Federated States of Micronesia,FM,64,Freely Associated State
+Georgia,GA,13,State; counties
+Guam *,,14,(FIPS 5-1 reserved code)
+Guam,GU,66,Outlying area under U.S. sovereignty
+Hawaii,HI,15,State; counties
+Howland Island,HI,84,Minor outlying island territory
+Idaho,ID,16,State; counties
+Illinois,IL,17,State; counties
+Indiana,IN,18,State; counties
+Iowa,IA,19,State; counties
+Jarvis Island,JI,86,Minor outlying island territory
+Johnston Atoll,JA,67,Minor outlying island territory
+Kansas,KS,20,State; counties
+Kentucky,KY,21,State; counties
+Kingman Reef,KR,89,Minor outlying island territory
+Louisiana,LA,22,State; parishes
+Maine,ME,23,State; counties
+Marshall Islands,MH,68,Freely Associated State
+Maryland,MD,24,State; counties
+Massachusetts,MA,25,State; counties
+Michigan,MI,26,State; counties
+Midway Islands,MI,71,Minor outlying island territory
+Minnesota,MN,27,State; counties
+Mississippi,MS,28,State; counties
+Missouri,MO,29,State; counties
+Montana,MT,30,State; counties
+Navassa Island,NI,76,Minor outlying island territory
+Nebraska,NE,31,State; counties
+Nevada,NV,32,State; counties
+New Hampshire,NH,33,State; counties
+New Jersey,NJ,34,State; counties
+New Mexico,NM,35,State; counties
+New York,NY,36,State; counties
+North Carolina,NC,37,State; counties
+North Dakota,ND,38,State; counties
+Northern Mariana Islands,MP,69,Outlying area under U.S. sovereignty
+Ohio,OH,39,State; counties
+Oklahoma,OK,40,State; counties
+Oregon,OR,41,State; counties
+Palau,PW,70,Freely Associated State
+Palmyra Atoll,PA,95,Minor outlying island territory
+Pennsylvania,PA,42,State; counties
+Puerto Rico *,,43,(FIPS 5-1 reserved code)
+Puerto Rico,PR,72,Outlying area under U.S. sovereignty
+Rhode Island,RI,44,State; counties
+South Carolina,SC,45,State; counties
+South Dakota,SD,46,State; counties
+Tennessee,TN,47,State; counties
+Texas,TX,48,State; counties
+U.S. Minor Outlying Islands,UM,74,Minor outlying island territories (aggregated)
+Utah,UT,49,State; counties
+Vermont,VT,50,State; counties
+Virginia,VA,51,State; counties
+Virgin Islands of the U.S. *,,52,(FIPS 5-1 reserved code)
+Virgin Islands of the U.S.,VI,78,Outlying area under U.S. sovereignty
+Wake Island,WI,79,Minor outlying island territory
+Washington,WA,53,State; counties
+West Virginia,WV,54,State; counties
+Wisconsin,WI,55,State; counties
+Wyoming,WY,56,State; counties

@@ -36,5 +36,6 @@ attribution:
   main_link: 'https://www.covid.is/data'
   data_link: 'https://www.covid.is/data'
   description: 'Data is downloaded manually from the source link. Data for Iceland consists of time series data for current ICU cases, and current and cumulative hospitalizations.'
+cc_by: True
 cc_by_sa: False
 approved: True

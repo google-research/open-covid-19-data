@@ -15,7 +15,6 @@
 # limitations under the License.
 
 
-import os
 import pandas as pd
 import numpy as np
 
@@ -46,18 +45,18 @@ def spain_and_regions(params):
     data_df = default_load_function(params)
     data_df['hospitalized_current'] = data_df.apply(
         lambda row: row['hospitalized_cumulative'] if
-            (row['source_region_code'] == 'CM' and row['date'] < '2020-04-11') or \
-            (row['source_region_code'] == 'MD' and row['date'] < '2020-04-26') else np.nan, axis=1
+        (row['source_region_code'] == 'CM' and row['date'] < '2020-04-11') or \
+        (row['source_region_code'] == 'MD' and row['date'] < '2020-04-26') else np.nan, axis=1
     )
     data_df['hospitalized_cumulative'] = data_df.apply(
         lambda row: row['hospitalized_cumulative'] if pd.isnull(row['hospitalized_current']) else np.nan, axis=1
     )
     data_df['icu_current'] = data_df.apply(
         lambda row: row['icu_cumulative'] if
-            (row['source_region_code'] == 'CL' and row['date'] < '2020-04-17') or \
-            (row['source_region_code'] == 'GA' and row['date'] < '2020-04-28') or \
-            (row['source_region_code'] == 'CM' and row['date'] < '2020-04-12') or \
-            (row['source_region_code'] == 'MD' and row['date'] < '2020-04-26') else np.nan, axis=1
+        (row['source_region_code'] == 'CL' and row['date'] < '2020-04-17') or \
+        (row['source_region_code'] == 'GA' and row['date'] < '2020-04-28') or \
+        (row['source_region_code'] == 'CM' and row['date'] < '2020-04-12') or \
+        (row['source_region_code'] == 'MD' and row['date'] < '2020-04-26') else np.nan, axis=1
     )
     data_df['icu_cumulative'] = data_df.apply(
         lambda row: row['icu_cumulative'] if pd.isnull(row['icu_current']) else np.nan, axis=1
@@ -86,8 +85,8 @@ def scotland_hospitalizations(params):
     data_path = path_utils.most_recent_data(params)['path']
     df = pd.read_excel(data_path, 'Table 2 - Hospital Care', skiprows=4)
     df = df.rename(columns={
-        df.columns[1]: "icu_current",
-        df.columns[4]: "hospitalized_current",
+        df.columns[1]: 'icu_current',
+        df.columns[4]: 'hospitalized_current',
     })
     df = date_utils.parse_date(df, params)
     df = region_utils.join_region_codes(df, params)

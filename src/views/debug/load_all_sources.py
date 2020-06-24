@@ -14,6 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# pylint: disable=no-value-for-parameter
+
 import streamlit as st
 import sys
 import os
@@ -29,8 +31,8 @@ import config
 
 
 config = config.read_config()
-#config = {'luxembourg_hospitalizations': config['luxembourg_hospitalizations']}
-#st.write(config)
+config = {'luxembourg_hospitalizations': config['luxembourg_hospitalizations']}
+st.write(config)
 
 st.title('Load all data sources:')
 

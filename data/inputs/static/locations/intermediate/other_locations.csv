@@ -1,0 +1,8 @@
+parent_region_code,region_code,subdivision_type,child_region_type,region_code_type,region_name,region_code_level,country_iso_3166-1_alpha-2,country_iso_3166-1_alpha-3,country_iso_3166-1_numeric,region_type,leaf_region_code,level_1_region_code,level_2_region_code,level_3_region_code,wikidata_id,datacommons_id
+GB-ENG,GB-ENG-EOE,regions_of_england,region_of_england,other,East of England,3,GB,GBR,826,region,GB-ENG-EOE,GBR,GB-ENG,GB-ENG-EOE,,
+GB-ENG,GB-ENG-LON,regions_of_england,region_of_england,other,London,3,GB,GBR,826,region,GB-ENG-LON,GBR,GB-ENG,GB-ENG-LON,,
+GB-ENG,GB-ENG-MID,regions_of_england,region_of_england,other,Midlands,3,GB,GBR,826,region,GB-ENG-MID,GBR,GB-ENG,GB-ENG-MID,,
+GB-ENG,GB-ENG-NEY,regions_of_england,region_of_england,other,North East & Yorkshire,3,GB,GBR,826,region,GB-ENG-NEY,GBR,GB-ENG,GB-ENG-NEY,,
+GB-ENG,GB-ENG-NW,regions_of_england,region_of_england,other,North West,3,GB,GBR,826,region,GB-ENG-NW,GBR,GB-ENG,GB-ENG-NW,,
+GB-ENG,GB-ENG-SE,regions_of_england,region_of_england,other,South East,3,GB,GBR,826,region,GB-ENG-SE,GBR,GB-ENG,GB-ENG-SE,,
+GB-ENG,GB-ENG-SW,regions_of_england,region_of_england,other,South West,3,GB,GBR,826,region,GB-ENG-SW,GBR,GB-ENG,GB-ENG-SW,,
