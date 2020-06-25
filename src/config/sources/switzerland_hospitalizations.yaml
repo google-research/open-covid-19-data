@@ -15,7 +15,9 @@
 ---
 fetch:
   method: 'MANUAL_DOWNLOAD'
+  source_url: 'https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html'
   file: '200325_Datengrundlage_Grafiken_COVID-19-Bericht.xlsx'
+  instructions: 'Scroll down to the link to an XLS file that says "Daten des Situationsberichtes". Download this file and rename if it the file name has changed."'
 load:
   function: 'default_load_function'
   read:
@@ -33,9 +35,9 @@ data:
     new: 'Hospitalisationen pro Tag'
     cumulative: 'Hospitalisationen pro Tag, Kumuliert'
 attribution:
-  country: 'Switzerland'
+  title: 'Switzerland'
   source_name: 'Switzerland Federal Office of Public Health BAG'
   main_link: 'https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html'
   data_link: 'https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html'
-cc-by-sa: False
-approved: True
+cc_by: True
+cc_by_sa: False

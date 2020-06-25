@@ -14,6 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# pylint: disable=invalid-overridden-method
+
 import io
 import asyncio
 import json
@@ -43,7 +45,7 @@ CACHED_DATA = []
 LAST_UPDATED = None
 
 
-def formatData(data):
+def format_data(data):
     df = pd.read_csv(io.StringIO(data))
     codes = pd.read_csv(os.path.join(CURRENT_DIR, "country-codes.csv"))
     codes = (
@@ -62,18 +64,18 @@ def formatData(data):
     LAST_UPDATED = int(time.time())
 
 
-async def fetchRemoteData():
+async def fetch_remote_data():
     url = f"{URL_PREFIX}/{SHEET_ID}/export?format=csv&id={SHEET_ID}&gid={SHEET_GID}"
     async with aiohttp.ClientSession() as session:
         async with session.get(url) as resp:
             data = await resp.text()
-            formatData(data)
+            format_data(data)
 
 
-async def fetchData():
+async def fetch_data():
     now = int(time.time())
     if not LAST_UPDATED or (LAST_UPDATED + options.cache_interval) < now:
-        await fetchRemoteData()
+        await fetch_remote_data()
     return json.loads(CACHED_DATA)
 
 
@@ -84,7 +86,7 @@ class DataHandler(web.RequestHandler):
         self.set_header("Content-Type", "application/json")
         self.write(
             {
-                "data": await fetchData(),
+                "data": await fetch_data(),
                 "last_updated": datetime.fromtimestamp(LAST_UPDATED).strftime(
                     "%d %b %Y %H:%M:%S"
                 ),
@@ -93,7 +95,7 @@ class DataHandler(web.RequestHandler):
         self.finish()
 
 
-async def map():
+async def world_map():
     app = web.Application(
         [
             ("/data.json", DataHandler),
@@ -108,7 +110,7 @@ async def map():
     print(f"Listening on http://localhost:{options.port}")
 
 
-async def steamlit():
+async def streamlit():
     cmd = ["streamlit", "run", "./src/views/main.py", "--server.headless", "true"]
     process = await asyncio.create_subprocess_exec(
         cmd[0], *cmd[1:], stdout=asyncio.subprocess.PIPE, stderr=asyncio.subprocess.PIPE
@@ -118,7 +120,7 @@ async def steamlit():
 
 
 async def main():
-    await (asyncio.gather(fetchRemoteData(), steamlit(), map()))
+    await (asyncio.gather(fetch_remote_data(), streamlit(), world_map()))
 
 
 if __name__ == "__main__":

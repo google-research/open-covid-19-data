@@ -14,12 +14,14 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# pylint: disable=no-value-for-parameter
+
 import streamlit as st
 import sys
 import os
 
 CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
+ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../../'))
 PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
@@ -29,6 +31,8 @@ import config
 
 
 config = config.read_config()
+config = {'luxembourg_hospitalizations': config['luxembourg_hospitalizations']}
+st.write(config)
 
 st.title('Load all data sources:')
 

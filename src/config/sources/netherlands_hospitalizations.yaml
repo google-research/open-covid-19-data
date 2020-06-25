@@ -16,6 +16,8 @@
 fetch:
   method: 'MANUAL_DOWNLOAD'
   file: 'in-ziekenhuis-opgenomen-patienten.csv'
+  source_url: 'https://www.rivm.nl/coronavirus-covid-19/grafieken'
+  instructions: 'Scoll down to the "In ziekenhuis opgenomen patienten" chart. Click the hamburger menu in the top right and then "CSV downloaden". Rename the file so it has an e instead of an ë.'
 load:
   function: 'netherlands_hospitalizations'
   read:
@@ -28,10 +30,10 @@ data:
   hospitalized:
     current: None
 attribution:
-  country: 'Netherlands'
+  title: 'Netherlands'
   source_name: 'National Institute for Public Health and The Environment'
   main_link: 'https://www.rivm.nl/coronavirus-covid-19/grafieken'
   data_link: 'https://www.rivm.nl/coronavirus-covid-19/grafieken'
   description: 'Data is downloaded manually from the source link. Data for the Netherlands consists of time series data for current hospitalizations.'
-cc-by-sa: False
-approved: True
+cc_by: True
+cc_by_sa: False
