@@ -14,6 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+import logging
 import pandas as pd
 import os
 import sys
@@ -24,10 +25,16 @@ PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 
+import args_utils
 import config
 import path_utils
 
-scraped = config.read_config(filter_by_fetch_method='SCRAPED')
+args = args_utils.get_parser().parse_args()
+
+if not args.whitelist:
+    logging.warning('RUNNING WITHOUT THE WHITELIST! DO NOT MAKE A PULL REQUEST WITH THE OUTPUT!')
+
+scraped = config.read_config(filter_by_fetch_method='SCRAPED', filter_not_approved=args.whitelist)
 
 spreadsheet_dir = os.path.join(ROOT_DIR, 'data/inputs/scraped/spreadsheets')
 spreadsheet_file = 'hospitalizations.xlsx'
