@@ -13,10 +13,18 @@
 # limitations under the License.
 
 ---
+fetch:
+  source_url: 'https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_CH_total_v2.csv'
+  method: 'AUTOMATIC_DOWNLOAD'
+  file: 'COVID19_Fallzahlen_CH_total_v2.csv'
 attribution:
-  title: 'Moldova'
-  source_name: 'Ministry of Health, Labour and Social Protection'
-  main_link: 'https://msmps.gov.md/'
-  data_link: 'https://msmps.gov.md/ro/advanced-page-type/comunicate-de-presa'
+  country: 'Switzerland and regions'
+  source_name: 'OpenDataZH'
+  main_link: 'https://github.com/openZH/covid_19'
+  data_link: 'https://github.com/openZH/covid_19/blob/master/COVID19_Fallzahlen_CH_total_v2.csv'
+license:
+  name: 'Creative Commons Attribution 4.0 International'
+  file: 'docs/license_files/cc-by-4.0'
+  link: 'https://creativecommons.org/licenses/by/4.0/'
 cc_by: True
 cc_by_sa: False
