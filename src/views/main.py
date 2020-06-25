@@ -14,6 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# pylint: disable=no-value-for-parameter
+
 import streamlit as st
 import sys
 import os
@@ -29,11 +31,10 @@ sys.path.append(MAIN_DIR)
 sys.path.append(UTILS_DIR)
 
 import pipeline_explorer
-import plot_utils
 
-st.sidebar.markdown("# Select view:")
+st.sidebar.markdown('# Select view:')
 radio_selection = st.sidebar.radio('', ['Pipeline Explorer'])
-st.sidebar.markdown("---")
+st.sidebar.markdown('---')
 
 if radio_selection == 'Pipeline Explorer':
     pipeline_explorer.pipeline()

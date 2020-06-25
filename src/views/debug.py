@@ -14,6 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# pylint: disable=no-value-for-parameter
+
 import streamlit as st
 import sys
 import os
@@ -28,9 +30,9 @@ sys.path.append(DEBUG_DIR)
 
 import load_all_sources
 
-st.sidebar.markdown("# Select debug view:")
+st.sidebar.markdown('# Select debug view:')
 radio_selection = st.sidebar.radio('', ['Load all sources'])
-st.sidebar.markdown("---")
+st.sidebar.markdown('---')
 
 if radio_selection == 'Load all sources':
     load_all_sources.load_all_data_sources()

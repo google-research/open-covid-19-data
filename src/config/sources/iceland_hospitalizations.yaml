@@ -15,7 +15,9 @@
 ---
 fetch:
   method: 'MANUAL_DOWNLOAD'
+  source_url: 'https://www.covid.is/data'
   file: 'Sheet 1.csv'
+  instructions: 'Scroll down to the "Number of hospitalized patients with confirmed COVID-19 diagnosis" chart. Click the "download data" button in the bottom left corner.'
 load:
   function: 'default_load_function'
   dates:
@@ -29,10 +31,10 @@ data:
   hospitalized:
     current: 'Number hospitalised'
 attribution:
-  country: 'Iceland'
+  title: 'Iceland'
   source_name: 'Directorate of Health in Iceland (Embaetti landlaeknis)'
   main_link: 'https://www.covid.is/data'
   data_link: 'https://www.covid.is/data'
   description: 'Data is downloaded manually from the source link. Data for Iceland consists of time series data for current ICU cases, and current and cumulative hospitalizations.'
-cc-by-sa: False
-approved: True
+cc_by: True
+cc_by_sa: False

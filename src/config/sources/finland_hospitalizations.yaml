@@ -15,14 +15,13 @@
 ---
 
 attribution:
-  country: 'Finland'
+  title: 'Finland'
   source_name: 'Finnish institute for health and welfare'
   main_link: 'https://thl.fi/en/web/thlfi-en'
   data_link: 'https://thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates'
-  description: 'Data is scraped manually from the situation reports provided at the source link. Data for Finland consists of time series data for current ICU cases and hospitalizations.'
 license:
   name: 'Creative Commons Attribution 4.0 International'
   file: 'docs/license_files/cc-by-4.0'
   link: 'https://creativecommons.org/licenses/by/4.0/'
-cc-by-sa: False
-approved: True
+cc_by: True
+cc_by_sa: False

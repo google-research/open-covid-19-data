@@ -20,8 +20,7 @@ fetch:
 load:
   function: 'default_load_function'
   dates:
-    columns: ['Date']
-    parse_function: 'default'
+    parse_function: 'luxembourg_hospitalization_dates'
   regions:
     single_region_code: 'LUX'
     omit:
@@ -32,7 +31,7 @@ data:
   icu:
     current: 'Nombre de personnes en soins intensifs (patients du Grand Est inclus)'
 attribution:
-  country: 'Luxembourg'
+  title: 'Luxembourg'
   source_name: 'Luxembourg Ministry of Health'
   main_link: 'https://data.public.lu/fr/datasets/donnees-covid19/#_'
   data_link: 'https://data.public.lu/fr/datasets/donnees-covid19/#_'
@@ -41,5 +40,5 @@ license:
   name: 'Creative Commons Zero 1.0 Universal'
   file: 'docs/license_files/cc0-1.0'
   link: 'https://creativecommons.org/share-your-work/public-domain/cc0/'
-cc-by-sa: False
-approved: True
+cc_by: True
+cc_by_sa: False

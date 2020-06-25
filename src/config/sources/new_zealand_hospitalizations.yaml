@@ -13,12 +13,10 @@
 # limitations under the License.
 
 ---
-
 attribution:
-  country: 'New Zealand'
+  title: 'New Zealand'
   source_name: 'New Zealand Ministry of Health'
   main_link: 'https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus'
   data_link: 'https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases'
-# The data doesn't include a license, but we received written consent from the New Zealand Ministry of Health
-cc-by-sa: False
-approved: True
+cc_by: True
+cc_by_sa: False

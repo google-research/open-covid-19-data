@@ -14,6 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# pylint: disable=unused-argument
+
 import pandas as pd
 import datetime
 
@@ -32,9 +34,21 @@ def default(data_df, params):
     })
     if 'date_format' in date_params:
         date_format = date_params['date_format']
-        data_df['date'] = pd.to_datetime(data_df['original_date'], format=date_format).dt.strftime("%Y-%m-%d")
+        data_df['date'] = pd.to_datetime(data_df['original_date'], format=date_format).dt.strftime('%Y-%m-%d')
     else:
-        data_df['date'] = pd.to_datetime(data_df['original_date']).dt.strftime("%Y-%m-%d")
+        data_df['date'] = pd.to_datetime(data_df['original_date']).dt.strftime('%Y-%m-%d')
+    return data_df
+
+def luxembourg_hospitalization_dates(data_df, params):
+    format1 = '%Y-%m-%d %h:%m:%s'
+    format2 = '%d/%m/%Y'
+    def fix_date(original):
+        try:
+            fixed = pd.to_datetime(original, format=format1).date().strftime('%Y-%m-%d')
+        except ValueError:
+            fixed = pd.to_datetime(original, format=format2).date().strftime('%Y-%m-%d')
+        return fixed
+    data_df['date'] = data_df['Date'].apply(fix_date)
     return data_df
 
 def japan_hospitalization_dates(data_df, params):
@@ -44,7 +58,7 @@ def japan_hospitalization_dates(data_df, params):
     data_df['date'] = pd.to_datetime({
         'year': data_df['year'],
         'month': data_df['month'],
-        'day': data_df['day']}).dt.strftime("%Y-%m-%d")
+        'day': data_df['day']}).dt.strftime('%Y-%m-%d')
     return data_df
 
 def netherlands_hospitalization_dates(data_df, params):
@@ -72,5 +86,5 @@ def scotland_hospitalizations_dates(data_df, params):
     data_df = data_df.rename(columns={
         data_df.columns[0]: 'original_date',
     })
-    data_df['date'] = pd.to_datetime(data_df['original_date']).dt.strftime("%Y-%m-%d")
+    data_df['date'] = pd.to_datetime(data_df['original_date']).dt.strftime('%Y-%m-%d')
     return data_df

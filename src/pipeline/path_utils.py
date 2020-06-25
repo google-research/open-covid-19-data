@@ -14,11 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-import pandas as pd
 import datetime
 import os
-
-import config
 
 CURRENT_DIR = os.path.dirname(__file__)
 ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
@@ -65,7 +62,7 @@ def most_recent_subdir(directory_path, file_name):
     # Iterate from most recent to least recent, return as soon as you find
     # a subdir containing the correct filename
     for subdir_date in sorted_subdir_dates:
-        date_str = subdir_date.strftime("%Y-%m-%d")
+        date_str = subdir_date.strftime('%Y-%m-%d')
         path_to_file = os.path.join(directory_path, date_str, file_name)
         if os.path.exists(path_to_file):
             return_value['path'] = path_to_file

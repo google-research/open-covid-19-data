@@ -14,11 +14,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+import logging
 import os
-import pandas as pd
 import sys
-import wget  # Note this is python3-wget, not wget library from pypi!
-import yaml
+import wget  # pip3 install python3-wget, not pip install wget
 from datetime import datetime
 
 CURRENT_DIR = os.path.dirname(__file__)
@@ -27,13 +26,21 @@ PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 
+import args_utils
 import path_utils
 import config
 
-# Iterate through all the sources, and for anything that is an automatic_download, get the file from the source url and store it at the desired path.
 
-automatic_downloads = config.read_config(filter_by_fetch_method = 'AUTOMATIC_DOWNLOAD')
+args = args_utils.get_parser().parse_args()
 
+if not args.whitelist:
+    logging.warning('RUNNING WITHOUT THE WHITELIST! DO NOT MAKE A PULL REQUEST WITH THE OUTPUT!')
+
+# Iterate through all the sources, and for anything that is an AUTOMATIC_DOWNLOAD
+# get the file from the source url and store it at the desired path.
+
+automatic_downloads = config.read_config(
+    filter_by_fetch_method='AUTOMATIC_DOWNLOAD', filter_no_load_func=False, filter_not_approved=args.whitelist)
 todays_date = datetime.today().strftime('%Y-%m-%d')
 
 for k in automatic_downloads:

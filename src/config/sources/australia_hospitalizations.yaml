@@ -31,7 +31,7 @@ data:
   ventilator:
     current: 'ventilator_current'
 attribution:
-  country: 'Australia'
+  title: 'Australia'
   source_name: 'covid19data.com.au'
   main_link: 'https://www.covid19data.com.au/'
   data_link: 'https://www.covid19data.com.au/hospitalisations-icu'
@@ -41,5 +41,5 @@ license:
   name: 'Creative Commons Attribution 4.0 International'
   file: 'docs/license_files/cc-by-4.0'
   link: 'https://creativecommons.org/licenses/by/4.0/'
-cc-by-sa: False
-approved: True
+cc_by: True
+cc_by_sa: False
