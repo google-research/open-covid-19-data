@@ -1,3 +1,5 @@
+#!/usr/bin/python
+#
 # Copyright 2020 Google LLC
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,16 +14,13 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
----
+import argparse
 
-attribution:
-  title: 'Finland'
-  source_name: 'Finnish institute for health and welfare'
-  main_link: 'https://thl.fi/en/web/thlfi-en'
-  data_link: 'https://thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates'
-license:
-  name: 'Creative Commons Attribution 4.0 International'
-  file: 'docs/license_files/cc-by-4.0'
-  link: 'https://creativecommons.org/licenses/by/4.0/'
-cc_by: True
-cc_by_sa: False
+def get_parser():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--whitelist', '-w', dest='whitelist', action='store_true',
+                        help='Filter configs against whitelist.yaml.')
+    parser.add_argument('--no-whitelist', dest='whitelist', action='store_false',
+                        help='Disable filtering of configs against whitelist.yaml.')
+    parser.set_defaults(whitelist=True)
+    return parser

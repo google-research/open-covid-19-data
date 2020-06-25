@@ -45,6 +45,12 @@ hospitalized:
     cumulative: 'hospitalized_cumulative'
     current: 'hospitalized_current'
 
+discharged:
+  time_series: True
+  columns:
+    new: 'discharged_new'
+    cumulative: 'discharged_cumulative'
+
 icu:
   time_series: True
   columns:

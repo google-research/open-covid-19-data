@@ -38,4 +38,3 @@ attribution:
   description: 'Data is manually scraped from charts at the source link. Data for Denmark consists of time series data for current hospitalizations and ICU cases.'
 cc_by: True
 cc_by_sa: False
-approved: True
