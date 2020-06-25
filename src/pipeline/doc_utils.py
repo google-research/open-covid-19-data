@@ -16,6 +16,7 @@
 
 import path_utils
 
+
 def source_and_link_str(source_name, link):
     result = source_name
     result += ' ([link]('

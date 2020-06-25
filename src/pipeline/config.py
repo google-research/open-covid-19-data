@@ -18,6 +18,7 @@ import yaml
 import os
 
 DATA_YAML = os.path.abspath(os.path.join(__file__, '../../config/data.yaml'))
+WHITELIST_YAML = os.path.abspath(os.path.join(__file__, '../../config/whitelist.yaml'))
 SOURCES_DIR = os.path.abspath(os.path.join(__file__, '../../config/sources'))
 
 
@@ -25,6 +26,22 @@ def read_data_schema():
     with open(DATA_YAML) as file:
         schema = yaml.load(file, Loader=yaml.FullLoader)
     return schema
+
+def all_data_schema_columns():
+    column_list = []
+    schema = read_data_schema()
+    print(schema)
+    for data_type in schema.values():
+        columns = data_type['columns']
+        column_values = list(columns.values())
+        column_list.extend(column_values)
+    return column_list
+
+all_data_schema_columns()
+
+def read_whitelist():
+    with open(WHITELIST_YAML) as file:
+        return yaml.load(file, Loader=yaml.FullLoader)
 
 def all_region_columns():
     return ['region_code'] + other_region_columns()
@@ -44,23 +61,26 @@ def read_config(cc_by=True,
                 filter_not_approved=True,
                 filter_by_fetch_method=None):
     config_dict = {}
+    whitelist = read_whitelist()
     for source_file_name in os.listdir(SOURCES_DIR):
         source_file = os.path.join(SOURCES_DIR, source_file_name)
+        source_key = os.path.splitext(source_file_name)[0]
+        if filter_not_approved and source_key not in whitelist:
+            continue
         with open(source_file) as file:
             params = yaml.load(file, Loader=yaml.FullLoader)
-        source_key = os.path.splitext(source_file_name)[0]
         params['config_key'] = source_key
-        if (filter_no_load_func and \
-            ('load' not in params or 'function' not in params['load'] or params['load']['function'] is None)) or \
-                (filter_not_approved and not params['approved']) or \
-            (filter_by_fetch_method and \
-                ('fetch' not in params or params['fetch']['method'] != filter_by_fetch_method)) or \
-            (not cc_by and params['cc_by']) or \
-            (not cc_by_sa and params['cc_by_sa']) or \
-            (not google_tos and 'google_tos' in params and params['google_tos']):
+        # pylint: disable=bad-continuation
+        if ((filter_no_load_func
+             and ('load' not in params or 'function' not in params['load'] or params['load']['function'] is None))
+            or (filter_by_fetch_method
+                and ('fetch' not in params or params['fetch']['method'] != filter_by_fetch_method))
+            or (not cc_by and params['cc_by'])
+            or (not cc_by_sa and params['cc_by_sa'])
+            or (not google_tos and 'google_tos' in params and params['google_tos'])):
             continue
-        else:
-            config_dict[source_key] = params
+        # pylint: enable=bad-continuation
+        config_dict[source_key] = params
     return config_dict
 
 def col_params_to_col_list(data_columns_params):
