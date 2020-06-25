@@ -37,4 +37,3 @@ attribution:
   description: 'Data is scraped manually from the charts provided at the source link. Data for the Czech Republic consists of time series data for current ICU cases, and current and cumulative hospitalizations.'
 cc_by: True
 cc_by_sa: False
-approved: True

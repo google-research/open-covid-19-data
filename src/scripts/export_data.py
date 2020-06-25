@@ -14,6 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+import logging
 import sys
 import os
 
@@ -23,10 +24,16 @@ PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 
+import args_utils
 import license_utils
 import export_utils
 import doc_utils
 import config
+
+args = args_utils.get_parser().parse_args()
+
+if not args.whitelist:
+    logging.warning('RUNNING WITHOUT THE WHITELIST! DO NOT MAKE A PULL REQUEST WITH THE OUTPUT!')
 
 EXPORT_PATH_CC_BY = os.path.join(ROOT_DIR, 'data/exports/cc_by/aggregated_cc_by.csv')
 EXPORT_PATH_CC_BY_SA = os.path.join(ROOT_DIR, 'data/exports/cc_by_sa/aggregated_cc_by_sa.csv')
@@ -42,11 +49,14 @@ EXPORT_PATH_CC_BY_LICENSE = os.path.join(ROOT_DIR, 'data/exports/cc_by/LICENSE')
 EXPORT_PATH_CC_BY_SA_LICENSE = os.path.join(ROOT_DIR, 'data/exports/cc_by_sa/LICENSE')
 
 # sources_all contains every source, used to create the README
-sources_all = config.read_config(filter_no_load_func=False, cc_by=True, cc_by_sa=True, google_tos=True)
+sources_all = config.read_config(
+    filter_no_load_func=False, cc_by=True, cc_by_sa=True, google_tos=True, filter_not_approved=args.whitelist)
 # sources_cc_by used to create aggregated license for cc-by
-sources_cc_by = config.read_config(filter_no_load_func=True, cc_by=True, cc_by_sa=False, google_tos=False)
+sources_cc_by = config.read_config(
+    filter_no_load_func=True, cc_by=True, cc_by_sa=False, google_tos=False, filter_not_approved=args.whitelist)
 # sources_cc_by_sa used to create aggregated license for cc-by-sa
-sources_cc_by_sa = config.read_config(filter_no_load_func=True, cc_by=True, cc_by_sa=True, google_tos=False)
+sources_cc_by_sa = config.read_config(
+    filter_no_load_func=True, cc_by=True, cc_by_sa=True, google_tos=False, filter_not_approved=args.whitelist)
 
 # Step 1: Write source docs
 doc_utils.write_sources(sources_all, SOURCES_PATH_ALL)
