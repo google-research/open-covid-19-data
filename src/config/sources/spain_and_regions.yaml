@@ -27,9 +27,10 @@ load:
     parse_function: 'default'
     date_format: '%d/%m/%Y'
   regions:
-    mapping_file: 'data/inputs/static/locations/regions/spain_regions.csv'
+    level_1_region_code: 'ESP'
+    mapping_file: 'data/exports/locations/locations.csv'
     mapping_keys:
-      source_region_code: 'CCAA'
+      local_alpha_code: 'CCAA'
 data:
   # On some regions + some dates, numbers are current not cumulative.
   # These are patched in spain_and_regions() load function.
