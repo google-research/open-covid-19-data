@@ -26,21 +26,27 @@ PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 
+import args_utils
 import load_functions
 import config
 
+args = args_utils.get_parser().parse_args()
 
-config = config.read_config()
-config = {'luxembourg_hospitalizations': config['luxembourg_hospitalizations']}
-st.write(config)
+config_dict = config.read_config()
+
+if args.source:
+    filtered_config_dict = {}
+    for source in args.source:
+        filtered_config_dict[source] = config_dict[source]
+    config_dict = filtered_config_dict
 
 st.title('Load all data sources:')
 
 # Returns a dict where each key is a source and each value is a df
 def load_all_data_sources():
     data = {}
-    for k in config:
-        params = config[k]
+    for k in config_dict:
+        params = config_dict[k]
         load_func_name = params['load']['function']
         st.subheader(k)
         if load_func_name == 'None':
