@@ -24,9 +24,9 @@ load:
     date_format: '%Y%m%d'
     parse_function: 'default'
   regions:
-    mapping_file: 'data/inputs/static/locations/regions/united_states_states.csv'
+    level_1_region_code: 'USA'
     mapping_keys:
-      source_region_code: 'state'
+      local_alpha_code: 'state'
 data:
   hospitalized:
     new: 'hospitalizedIncrease'

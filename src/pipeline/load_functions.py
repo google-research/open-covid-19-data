@@ -45,18 +45,18 @@ def spain_and_regions(params):
     data_df = default_load_function(params)
     data_df['hospitalized_current'] = data_df.apply(
         lambda row: row['hospitalized_cumulative'] if
-        (row['source_region_code'] == 'CM' and row['date'] < '2020-04-11') or \
-        (row['source_region_code'] == 'MD' and row['date'] < '2020-04-26') else np.nan, axis=1
+        (row['local_alpha_code'] == 'CM' and row['date'] < '2020-04-11') or \
+        (row['local_alpha_code'] == 'MD' and row['date'] < '2020-04-26') else np.nan, axis=1
     )
     data_df['hospitalized_cumulative'] = data_df.apply(
         lambda row: row['hospitalized_cumulative'] if pd.isnull(row['hospitalized_current']) else np.nan, axis=1
     )
     data_df['icu_current'] = data_df.apply(
         lambda row: row['icu_cumulative'] if
-        (row['source_region_code'] == 'CL' and row['date'] < '2020-04-17') or \
-        (row['source_region_code'] == 'GA' and row['date'] < '2020-04-28') or \
-        (row['source_region_code'] == 'CM' and row['date'] < '2020-04-12') or \
-        (row['source_region_code'] == 'MD' and row['date'] < '2020-04-26') else np.nan, axis=1
+        (row['local_alpha_code'] == 'CL' and row['date'] < '2020-04-17') or \
+        (row['local_alpha_code'] == 'GA' and row['date'] < '2020-04-28') or \
+        (row['local_alpha_code'] == 'CM' and row['date'] < '2020-04-12') or \
+        (row['local_alpha_code'] == 'MD' and row['date'] < '2020-04-26') else np.nan, axis=1
     )
     data_df['icu_cumulative'] = data_df.apply(
         lambda row: row['icu_cumulative'] if pd.isnull(row['icu_current']) else np.nan, axis=1

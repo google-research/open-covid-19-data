@@ -22,5 +22,6 @@ def get_parser():
                         help='Filter configs against whitelist.yaml.')
     parser.add_argument('--no-whitelist', dest='whitelist', action='store_false',
                         help='Disable filtering of configs against whitelist.yaml.')
+    parser.add_argument('--source', nargs=1, help='Specify a single source.')
     parser.set_defaults(whitelist=True)
     return parser

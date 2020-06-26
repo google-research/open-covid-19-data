@@ -28,7 +28,7 @@ load:
     columns: ['Date']
     parse_function: 'default'
   regions:
-    mapping_file: 'data/inputs/static/locations/regions/united_kingdom_hospitalizations.csv'
+    level_1_region_code: 'GBR'
     mapping_keys:
       region_name: 'Region'
     aggregate_by: 'level_2_region_code' #TODO: Northern Ireland was added to this data, can now aggregate to level 1 region (GBR)

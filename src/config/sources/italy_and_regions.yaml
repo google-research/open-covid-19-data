@@ -23,10 +23,9 @@ load:
     columns: ['data']
     parse_function: 'default'
   regions:
-    mapping_file: 'data/inputs/static/locations/regions/italy_regions.csv'
+    level_1_region_code: 'ITA'
     mapping_keys:
-      source_region_code: 'codice_regione'
-      source_region_name: 'denominazione_regione'
+      local_variant: 'denominazione_regione'
     aggregate_by: 'level_1_region_code'
     omit:
       deaths: ['ITA']
