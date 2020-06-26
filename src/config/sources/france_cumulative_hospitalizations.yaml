@@ -29,9 +29,9 @@ load:
     columns: ['jour']
     parse_function: 'default'
   regions:
-    mapping_file: 'data/inputs/static/locations/regions/france_departments.csv'
+    level_1_region_code: 'FRA'
     mapping_keys:
-      source_region_code: 'dep'
+      local_numeric_code: 'dep'
     aggregate_by: 'parent_region_code'
 data:
   hospitalized:

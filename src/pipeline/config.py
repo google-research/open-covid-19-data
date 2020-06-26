@@ -30,7 +30,6 @@ def read_data_schema():
 def all_data_schema_columns():
     column_list = []
     schema = read_data_schema()
-    print(schema)
     for data_type in schema.values():
         columns = data_type['columns']
         column_values = list(columns.values())

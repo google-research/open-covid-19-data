@@ -26,7 +26,6 @@ load:
     parse_function: 'default'
     date_format: '%Y%m%d'
   regions:
-    mapping_file: 'data/inputs/static/locations/regions/countries_iso_to_name.csv'
     mapping_keys:
       region_code: 'CountryCode'
 data:

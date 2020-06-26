@@ -84,6 +84,8 @@ st.write(country_df)
 
 # Treat Netherlands + Aruba + Curaçao + Sint Maarten (Dutch part) as a single level 1 entity
 country_df = country_df[country_df['wikidata_id'] != 'Q55']
+# Keep Western Sahara wikidata entry (Q6250) instead of Q40362
+country_df = country_df[country_df['wikidata_id'] != 'Q40362']
 
 # These regions appear as both ISO-1 and ISO-2, but we will count them as ISO-2
 # so we remove them from the ISO-1 list

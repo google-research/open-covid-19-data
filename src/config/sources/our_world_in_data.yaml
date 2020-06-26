@@ -23,7 +23,6 @@ load:
     columns: ['date']
     parse_function: 'default'
   regions:
-    mapping_file: 'data/inputs/static/locations/regions/countries_iso_to_name.csv'
     mapping_keys:
       region_code: 'iso_code'
 data:
