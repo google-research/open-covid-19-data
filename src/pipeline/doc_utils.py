@@ -90,7 +90,7 @@ def write_single_source(item, out):
         out.write('**Terms:** ')
         out.write(attribution['terms'])
         out.write('<br>')
-    if 'license' in source:
+    if 'license' in source and 'name' in source['license']:
         out.write('**License:** ')
         out.write(source_and_link_str(source['license']['name'], source['license']['link']))
         out.write('<br>')

@@ -1,15 +1,16 @@
 # About
 
-This open source pipeline aggregates public COVID-19 data sources into a single dataset, which includes COVID-19 cases, deaths, tests, hospitalizations, discharges, intensive care unit (ICU) cases, ventilator cases, and government interventions. The aggregated data is designed for researchers to build models quickly, and the pipeline is designed for engineers to add new data sources quickly.
+This open source pipeline aggregates public COVID-19 data sources into a single dataset, which includes COVID-19 cases, deaths, tests, hospitalizations, discharges, intensive care unit (ICU) cases, ventilator cases, government interventions, and Google's COVID19 Community Mobility Reports. The aggregated data is designed for researchers to build models quickly, and the pipeline is designed for engineers to add new data sources quickly.
 
 In particular, we support data that comes in three formats: data that can be downloaded automatically (generally a .csv or .xlsx from a stable url), data that can be downloaded manually (generally .csv or .xslx files without stable urls), and data that is not machine-readable and must be scraped by a human (from charts, tables, pdfs, or occasionally tweets).
 
 ## To use the data
 
 ##### Latest data
-If you just want to use the latest data for models, visualizations, or research, we provide two separate data files, one under a CC-BY license and one under CC-BY-SA license.
+If you just want to use the latest data for models, visualizations, or research, we provide three aggregated data files under three different licenses:
 - The CC-BY data can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/cc_by/aggregated_cc_by.csv)
 - The CC-BY-SA data can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/cc_by_sa/aggregated_cc_by_sa.csv).
+- The Google TOS data can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/google_tos/aggregated_google_tos.csv). In order to download or use the data or reports, you must agree to the [Google Terms of Service](https://policies.google.com/terms).
 
 ##### Versioned data
 Releases to the dataset are tagged so there is a stable Github url that points to each version of the data.

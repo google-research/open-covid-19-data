@@ -40,5 +40,5 @@ license:
   name: 'Creative Commons Zero 1.0 Universal'
   file: 'docs/license_files/cc0-1.0'
   link: 'https://creativecommons.org/share-your-work/public-domain/cc0/'
-cc_by: True
-cc_by_sa: False
+  cc_by: True
+  cc_by_sa: False

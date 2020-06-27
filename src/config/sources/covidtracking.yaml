@@ -40,5 +40,5 @@ license:
   name: 'Apache 2.0'
   file: 'docs/license_files/apache-2.0'
   link: 'https://github.com/COVID19Tracking/covid-tracking-data/blob/master/LICENSE'
-cc_by: True
-cc_by_sa: False
+  cc_by: True
+  cc_by_sa: False
