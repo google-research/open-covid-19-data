@@ -48,4 +48,5 @@ def get_time_series_df(config_dict):
     identifier_cols = ['region_code', 'region_name', 'date']
     time_series_df_cols = [c for c in time_series_df.columns if c not in identifier_cols]
     time_series_df = time_series_df[identifier_cols + time_series_df_cols]
+    time_series_df.sort_values(by=['region_code', 'date'])
     return time_series_df

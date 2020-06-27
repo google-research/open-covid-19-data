@@ -36,11 +36,14 @@ def markdown_to_plaintext(markdown_file):
     with open(markdown_file) as f:
         markdown_string = f.read()
 
-    source_text = markdown_string \
-                    .replace('*', '') \
-                    .replace('<br>', '\n') \
-                    .replace('#### ', '') \
-                    .replace('[link]', '').replace('((', '(').replace('))', ')')
+    # pylint: disable=bad-continuation
+    source_text = (markdown_string.replace('*', '')
+                                  .replace('<br>', '\n')
+                                  .replace('#### ', '')
+                                  .replace('[link]', '')
+                                  .replace('((', '(')
+                                  .replace('))', ')'))
+    # pylint: enable=bad-continuation
 
     return source_text
 

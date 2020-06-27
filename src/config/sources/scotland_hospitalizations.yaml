@@ -23,5 +23,5 @@ license:
   name: 'Open Government License 3.0'
   file: 'docs/license_files/open-government-license-3.0'
   link: 'http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
-cc_by: True
-cc_by_sa: False
+  cc_by: True
+  cc_by_sa: False

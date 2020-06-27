@@ -1,0 +1,49 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+fetch:
+  method: 'AUTOMATIC_DOWNLOAD'
+  source_url: 'https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv'
+  file: 'Global_Mobility_Report.csv'
+load:
+  function: 'mobility_load_function'
+  dates:
+    columns: ['date']
+    parse_function: 'default'
+data:
+  mobility:
+    retail_and_recreation: 'retail_and_recreation_percent_change_from_baseline'
+    grocery_and_pharmacy: 'grocery_and_pharmacy_percent_change_from_baseline'
+    parks: 'parks_percent_change_from_baseline'
+    transit_stations: 'transit_stations_percent_change_from_baseline'
+    workplaces: 'workplaces_percent_change_from_baseline'
+    residential: 'residential_percent_change_from_baseline'
+attribution:
+  title: "Google's COVID19 Community Mobility Reports"
+  source_name: 'https://www.google.com/covid19/mobility/'
+  data_link: 'https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv'
+  help_center: 'https://support.google.com/covid19-mobility'
+  description: 'These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places.'
+  citation: 'Google LLC "Google COVID-19 Community Mobility Reports".
+
+  https://www.google.com/covid19/mobility/ Accessed: <date>.'
+  terms: 'In order to download or use the data or reports, you must agree to the Google [Terms of Service](https://policies.google.com/terms).'
+license:
+  name: 'Google Terms of Service'
+  file: 'docs/license_files/google_tos'
+  link: 'https://policies.google.com/terms'
+  cc_by: False
+  cc_by_sa: False
+  google_tos: True

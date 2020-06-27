@@ -41,5 +41,5 @@ license:
   name: 'Creative Commons Attribution 4.0 International'
   file: 'docs/license_files/cc-by-4.0'
   link: 'https://creativecommons.org/licenses/by/4.0/'
-cc_by: True
-cc_by_sa: False
+  cc_by: True
+  cc_by_sa: False
