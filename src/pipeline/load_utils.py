@@ -18,7 +18,6 @@ import pandas as pd
 
 import config
 import date_utils
-from path_utils import most_recent_data
 
 
 def rename_data_columns(data_df, params):
@@ -26,8 +25,7 @@ def rename_data_columns(data_df, params):
     data_df = data_df.rename(columns=rename_dict)
     return data_df
 
-def default_read_function(params):
-    data_path = most_recent_data(params)['path']
+def default_read_function(data_path, params):
     read_params = None
     if 'read' in params['load']:
         read_params = params['load']['read']

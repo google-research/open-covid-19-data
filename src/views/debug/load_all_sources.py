@@ -27,8 +27,9 @@ PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
 sys.path.append(PIPELINE_DIR)
 
 import args_utils
-import load_functions
+import load_data
 import config
+
 
 args = args_utils.get_parser().parse_args()
 
@@ -52,10 +53,11 @@ def load_all_data_sources():
         if load_func_name == 'None':
             st.write('No load function')
         else:
-            load_func = getattr(load_functions, load_func_name)
-            df = load_func(params)
+            df = load_data.load_most_recent_loadable_data(params)
             data[k] = df
-            st.write(df)
+            # Mobility reports are too large for streamlit to handle
+            if k != 'google_mobility_reports':
+                st.write(df)
     return data
 
 load_all_data_sources()

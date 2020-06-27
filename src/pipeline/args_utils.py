@@ -23,5 +23,6 @@ def get_parser():
     parser.add_argument('--no-whitelist', dest='whitelist', action='store_false',
                         help='Disable filtering of configs against whitelist.yaml.')
     parser.add_argument('--source', nargs=1, help='Specify a single source.')
+    parser.add_argument('--date', nargs=1, help='Specify a single date in YYYY-MM-DD format.')
     parser.set_defaults(whitelist=True)
     return parser

@@ -18,7 +18,7 @@ fetch:
   method: 'AUTOMATIC_DOWNLOAD'
   file: 'COVID19_Fallzahlen_CH_total_v2.csv'
 attribution:
-  country: 'Switzerland and regions'
+  title: 'Switzerland'
   source_name: 'OpenDataZH'
   main_link: 'https://github.com/openZH/covid_19'
   data_link: 'https://github.com/openZH/covid_19/blob/master/COVID19_Fallzahlen_CH_total_v2.csv'
@@ -26,5 +26,5 @@ license:
   name: 'Creative Commons Attribution 4.0 International'
   file: 'docs/license_files/cc-by-4.0'
   link: 'https://creativecommons.org/licenses/by/4.0/'
-cc_by: True
-cc_by_sa: False
+  cc_by: True
+  cc_by_sa: False
