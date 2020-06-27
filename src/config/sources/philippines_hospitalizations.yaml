@@ -18,5 +18,6 @@ attribution:
   source_name: 'Philippines Department of Health'
   main_link: 'https://www.doh.gov.ph/'
   data_link: 'http://www.doh.gov.ph/covid19tracker'
-cc_by: True
-cc_by_sa: False
+license:
+  cc_by: True
+  cc_by_sa: False

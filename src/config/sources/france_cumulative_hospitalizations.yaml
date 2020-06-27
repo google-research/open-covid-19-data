@@ -46,5 +46,5 @@ license:
   name: 'Open License 2.0'
   file: 'docs/license_files/open-licence-2.0'
   link: 'https://www.etalab.gouv.fr/licence-ouverte-open-licence'
-cc_by: True
-cc_by_sa: False
+  cc_by: True
+  cc_by_sa: False

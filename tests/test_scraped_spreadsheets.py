@@ -69,8 +69,9 @@ def test_spreadsheet_tabs_against_whitelist():
         print('File: ', hosp_file)
         print('Sheet names in spreadsheet: ', sheet_names)
         print('Sheet names allowed in whitelist: ', whitelist)
-        assert set(sheet_names).issubset(set(whitelist)), \
-            "Spreadsheet {} contains a sheet name that is not on the whitelist.".format(hosp_file)
+        for sheet in sheet_names:
+            assert sheet in whitelist, \
+            "Spreadsheet {} contains a sheet name {} that is not on the whitelist.".format(hosp_file, sheet)
 
 # Columns in the spreadsheets should only be names that exist in data.yaml
 def test_spreadsheet_column_names_against_schema():
@@ -90,4 +91,7 @@ def test_spreadsheet_column_names_against_schema():
             columns_in_spreadsheet.remove('date')
             print(columns_in_spreadsheet)
             print(allowed_data_columns)
-            assert set(columns_in_spreadsheet).issubset(allowed_data_columns)
+            for column in columns_in_spreadsheet:
+                assert column in allowed_data_columns, \
+                    'Sheet {} in spreadsheet {} contains the column {}, which is not a column name' + \
+                    'recognized by data.yaml'.format(s, hosp_file, column)

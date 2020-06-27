@@ -18,5 +18,6 @@ attribution:
   source_name: 'Ministry of Health, Labour and Social Protection'
   main_link: 'https://msmps.gov.md/'
   data_link: 'https://msmps.gov.md/ro/advanced-page-type/comunicate-de-presa'
-cc_by: True
-cc_by_sa: False
+license:
+  cc_by: True
+  cc_by_sa: False

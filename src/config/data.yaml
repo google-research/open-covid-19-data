@@ -108,3 +108,13 @@ policy:
     containment_health_index_for_display: 'containment_health_index_for_display'
     economic_support_index: 'economic_support_index'
     economic_support_index_for_display: 'economic_support_index_for_display'
+
+mobility:
+  time_series: True
+  columns:
+    retail_and_recreation: 'retail_and_recreation_percent_change_from_baseline'
+    grocery_and_pharmacy: 'grocery_and_pharmacy_percent_change_from_baseline'
+    parks: 'parks_percent_change_from_baseline'
+    transit_stations: 'transit_stations_percent_change_from_baseline'
+    workplaces: 'workplaces_percent_change_from_baseline'
+    residential: 'residential_percent_change_from_baseline'

@@ -40,18 +40,23 @@ spreadsheet_dir = os.path.join(ROOT_DIR, 'data/inputs/scraped/spreadsheets')
 spreadsheet_file = 'hospitalizations.xlsx'
 
 most_recent_spreadsheet = path_utils.most_recent_subdir(spreadsheet_dir, spreadsheet_file)
-spreadsheet_path = most_recent_spreadsheet['path']
-spreadsheet_date = str(most_recent_spreadsheet['date'])
-# spreadsheet_date = '2020-06-15'
+if args.date:
+    spreadsheet_date = str(args.date[0])
+else:
+    spreadsheet_date = str(most_recent_spreadsheet['date'])
+spreadsheet_path = os.path.join(spreadsheet_dir, spreadsheet_date, spreadsheet_file)
+
+print('Fetching spreadsheet for date: ', spreadsheet_date)
+print('Spreadsheet path: ', spreadsheet_path)
 
 # This assumes that every data source with params['fetch']['method'] == 'SCRAPED' comes from a single spreadsheet.
 # If that stops being the case, will need to update this.
 
 for k in scraped:
     params = scraped[k]
-    df = pd.read_excel(spreadsheet_path, k)
     path_for_data = path_utils.path_to_data_for_date(params, spreadsheet_date)
-    print('path for data: ', path_for_data)
+    df = pd.read_excel(spreadsheet_path, k)
+    print('Fetched data will be written to: ', path_for_data)
     out_dir = path_for_data['dir']
     out_file = path_for_data['file']
     out_path = os.path.join(out_dir, out_file)

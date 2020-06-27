@@ -38,5 +38,5 @@ license:
   name: 'Creative Commons Attribution ShareAlike 3.0'
   file: 'docs/license_files/cc-by-sa-3.0'
   link: 'https://creativecommons.org/licenses/by-sa/3.0/'
-cc_by: False
-cc_by_sa: True
+  cc_by: False
+  cc_by_sa: True

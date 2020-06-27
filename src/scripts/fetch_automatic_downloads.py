@@ -39,8 +39,9 @@ if not args.whitelist:
 # Iterate through all the sources, and for anything that is an AUTOMATIC_DOWNLOAD
 # get the file from the source url and store it at the desired path.
 
-automatic_downloads = config.read_config(
-    filter_by_fetch_method='AUTOMATIC_DOWNLOAD', filter_no_load_func=False, filter_not_approved=args.whitelist)
+automatic_downloads = config.read_config(cc_by=True, cc_by_sa=True, google_tos=True,
+                                         filter_by_fetch_method='AUTOMATIC_DOWNLOAD',
+                                         filter_no_data=False, filter_not_approved=args.whitelist)
 todays_date = datetime.today().strftime('%Y-%m-%d')
 
 for k in automatic_downloads:
