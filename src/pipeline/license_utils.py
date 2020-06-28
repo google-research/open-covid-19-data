@@ -23,13 +23,9 @@ def get_license_files(config_dict, required_licenses=None):
         license_files = []
     else:
         license_files = required_licenses
-    for source_params in config_dict.values():
-        if 'license' in source_params:
-            license_params = source_params['license']
-            if 'file' in license_params:
-                path = license_params['file']
-                if path not in license_files:
-                    license_files.append(path)
+    source_license_files = [source['license']['file'] for source in config_dict.values()
+                            if 'license' in source and 'file' in source['license']]
+    license_files = sorted(set(license_files + source_license_files))
     return license_files
 
 def markdown_to_plaintext(markdown_file):
