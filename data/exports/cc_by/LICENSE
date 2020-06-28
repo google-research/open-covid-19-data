@@ -17,7 +17,7 @@ Link to data: https://github.com/COVID19Tracking/covid-tracking-data/tree/master
 Description: Data is downloaded automatically from the source link. Data for the United States
 consists of time series data for current and cumulative hospitalizations.
 License: Apache 2.0 (https://github.com/COVID19Tracking/covid-tracking-data/blob/master/LICENSE)
-Last accessed: 2020-06-26
+Last accessed: 2020-06-28
 
 Czech Republic
 Source name: National Health Information System, Regional Hygiene Stations, Ministry of Health of
@@ -50,7 +50,7 @@ https://www.data.gouv.fr/en/datasets/donnees-hospitalieres-relatives-a-lepidemie
 Description: Data is scraped manually from the charts provided at the source link. Data for France
 consists of time series data for cumulative hospitalizations and ICU cases.
 License: Open License 2.0 (https://www.etalab.gouv.fr/licence-ouverte-open-licence)
-Last accessed: 2020-06-26
+Last accessed: 2020-06-28
 
 Iceland
 Source name: Directorate of Health in Iceland (Embaetti landlaeknis) (https://www.covid.is/data)
@@ -67,7 +67,7 @@ Description: Data is downloaded automatically from the source repository. Data f
 time series data for current hospitalizations, but we can also compute cumulative hospitalizations.
 License: Creative Commons Attribution 4.0 International
 (https://creativecommons.org/licenses/by/4.0/)
-Last accessed: 2020-06-26
+Last accessed: 2020-06-28
 
 Japan
 Source name: Toyo Keizai Online (https://github.com/kaz-ogiwara/covid19)
@@ -76,7 +76,7 @@ Copyright notice: Copyright (c) 2020 Kazuki OGIWARA / 荻原 和樹
 Description: Data is downloaded automatically from the source repository. Data for Japan consists of
 time series data for current hospitalizations and ICU cases.
 License: MIT (https://github.com/kaz-ogiwara/covid19/blob/master/LICENSE)
-Last accessed: 2020-06-26
+Last accessed: 2020-06-28
 
 Luxembourg
 Source name: Luxembourg Ministry of Health (https://data.public.lu/fr/datasets/donnees-covid19/#_)
@@ -85,7 +85,7 @@ Description: Data is downloaded automatically from the source link. Data for Lux
 time series data for current hospitalizations and ICU cases.
 License: Creative Commons Zero 1.0 Universal
 (https://creativecommons.org/share-your-work/public-domain/cc0/)
-Last accessed: 2020-06-26
+Last accessed: 2020-06-28
 
 Netherlands
 Source name: National Institute for Public Health and The Environment
@@ -112,7 +112,7 @@ Data from Our World in Data has been collected, aggregated, and documented by Di
 Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Edouard Mathieu, Esteban
 Ortiz-Ospina, Hannah Ritchie, and Max Roser.
 ```
-Last accessed: 2020-06-26
+Last accessed: 2020-06-28
 
 Oxford Covid-19 Government Response Tracker
 Source name: Oxford Covid-19 Government Response Tracker
@@ -125,7 +125,7 @@ Citation:
 Thomas Hale, Sam Webster, Anna Petherick, Toby Phillips, and Beatriz Kira. (2020). Oxford COVID-19
 Government Response Tracker. Blavatnik School of Government.
 ```
-Last accessed: 2020-06-26
+Last accessed: 2020-06-28
 
 Spain
 Source name: Ministerio de Sanidad, Consumo y Bienestar Social
@@ -134,7 +134,7 @@ Link to data: https://cnecovid.isciii.es/covid19/resources/agregados.csv
 Description: The data is downloaded automatically from the source link. Due to regional differences
 in hospitalization reporting, we do not aggregate across regions to produce country-level statistics
 for Spain.
-Last accessed: 2020-06-26
+Last accessed: 2020-06-28
 
 Sweden
 Source name: Public Health Agency of Sweden
@@ -143,7 +143,7 @@ Link to data:
 https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data
 Description: Data is downloaded automatically from the source link. Data for Sweden consists of time
 series data for current ICU cases.
-Last accessed: 2020-06-26
+Last accessed: 2020-06-28
 
 Switzerland
 Source name: Switzerland Federal Office of Public Health BAG
@@ -165,6 +165,209 @@ Last accessed: 2020-06-23
 =======================================================================
 Complete license texts for each unique license are available below:
 
+Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright [yyyy] [name of copyright owner]
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+=======================================================================
 Attribution 4.0 International
 
 =======================================================================
@@ -562,414 +765,6 @@ licenses.
 Creative Commons may be contacted at creativecommons.org.
 
 =======================================================================
-Open Government Licence for public sector information
-delivered by The National Archives
-http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-
-You are encouraged to use and re-use the Information that is available under this licence freely and flexibly, with only a few conditions.
-
-Using Information under this licence
-Use of copyright and database right material expressly made available under this licence (the 'Information') indicates your acceptance of the terms and conditions below.
-
-The Licensor grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information subject to the conditions below.
-
-This licence does not affect your freedom under fair dealing or fair use or any other copyright or database right exceptions and limitations.
-
-You are free to:
-copy, publish, distribute and transmit the Information;
-adapt the Information;
-exploit the Information commercially and non-commercially for example, by combining it with other Information, or by including it in your own product or application.
-You must (where you do any of the above):
-acknowledge the source of the Information in your product or application by including or linking to any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence;
- If the Information Provider does not provide a specific attribution statement, you must use the following:
-
- Contains public sector information licensed under the Open Government Licence v3.0.
-
-If you are using Information from several Information Providers and listing multiple attributions is not practical in your product or application, you may include a URI or hyperlink to a resource that contains the required attribution statements.
-
-These are important conditions of this licence and if you fail to comply with them the rights granted to you under this licence, or any similar licence granted by the Licensor, will end automatically.
-
- Exemptions
-This licence does not cover:
-
-personal data in the Information;
-Information that has not been accessed by way of publication or disclosure under information access legislation (including the Freedom of Information Acts for the UK and Scotland) by or with the consent of the Information Provider;
-departmental or public sector organisation logos, crests and the Royal Arms except where they form an integral part of a document or dataset;
-military insignia;
-third party rights the Information Provider is not authorised to license;
-other intellectual property rights, including patents, trade marks, and design rights; and
-identity documents such as the British Passport
-Non-endorsement
-This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.
-
-No warranty
-The Information is licensed 'as is' and the Information Provider and/or Licensor excludes all representations, warranties, obligations and liabilities in relation to the Information to the maximum extent permitted by law.
-
-The Information Provider and/or Licensor are not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.
-
-Governing Law
-This licence is governed by the laws of the jurisdiction in which the Information Provider has its principal place of business, unless otherwise specified by the Information Provider.
-
-Definitions
-In this licence, the terms below have the following meanings:
-
-'Information' means information protected by copyright or by database right (for example, literary and artistic works, content, data and source code) offered for use under the terms of this licence.
-
-'Information Provider' means the person or organisation providing the Information under this licence.
-
-'Licensor' means any Information Provider which has the authority to offer Information under the terms of this licence or the Keeper of Public Records, who has the authority to offer Information subject to Crown copyright and Crown database rights and Information subject to copyright and database right that has been assigned to or acquired by the Crown, under the terms of this licence.
-
-'Use' means doing any act which is restricted by copyright or database right, whether in the original medium or in any other medium, and includes without limitation distributing, copying, adapting, modifying as may be technically necessary to use it in a different mode or format.
-
-'You', 'you' and 'your' means the natural or legal person, or body of persons corporate or incorporate, acquiring rights in the Information (whether the Information is obtained directly from the Licensor or otherwise) under this licence.
-
-About the Open Government Licence
-The National Archives has developed this licence as a tool to enable Information Providers in the public sector to license the use and re-use of their Information under a common open licence. The National Archives invites public sector bodies owning their own copyright and database rights to permit the use of their Information under this licence.
-
-The Keeper of the Public Records has authority to license Information subject to copyright and database right owned by the Crown. The extent of the offer to license this Information under the terms of this licence is set out in the UK Government Licensing Framework.
-
-This is version 3.0 of the Open Government Licence. The National Archives may, from time to time, issue new versions of the Open Government Licence. If you are already using Information under a previous version of the Open Government Licence, the terms of that licence will continue to apply.
-
-These terms are compatible with the Creative Commons Attribution License 4.0 and the Open Data Commons Attribution License, both of which license copyright and database rights. This means that when the Information is adapted and licensed under either of those licences, you automatically satisfy the conditions of the OGL when you comply with the other licence. The OGLv3.0 is Open Definition compliant.
-
-Further context, best practice and guidance can be found in the UK Government Licensing Framework section on The National Archives website.
-
-=======================================================================
-MIT License
-
-Copyright (c) 2020 Kazuki OGIWARA / 荻原 和樹
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-=======================================================================
-OPEN LICENCE 2.0
-LICENCE OUVERTE 2.0
-@etalab
-etalab.gouv.fr
-https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf
-
-“REUSE” OF THE “INFORMATION” COVERED BY THIS LICENCE
-The “Grantor” grants the “Reuser” the free, non-exclusive right to “Reuse” the
-“Information” subject of this licence, for commercial or non-commercial purposes,
-worldwide and for an unlimited period, in accordance with the conditions stated
-below.
-The “Reuser” is free to reuse the “Information”:
-- To reproduce it, copy it.
-- To adapt, modify, retrieve and transform it in order to create “derived
-information”, products and services.
-- To share, disseminate, redistribute, publish and transmit it.
-- To exploit it for commercial purposes, e.g., by combining it with other
-information, or by including it in his/her own product or application.
-Subject to:
-An acknowledgement of the authorship of the “Information”: its source (at least,
-the name of the “Grantor”) and the date of the most recent update of the reused
-“Information”. Specifically, the “Reuser” may satisfy this condition by pointing, via a
-hypertext link, to the source of “the Information” and so supplying an actual
-acknowledgement of its authorship.
-For example:
-Ministry of xxx—Original data downloaded from http://www.data.gouv.fr/fr/
-datasets/xxx/, updated on 14 February 2017.
-This acknowledgement of authorship does not confer any official status on the
-“Reuse” of the “Information”, and must not suggest any sort of recognition or
-endorsement on the part of the “Grantor”, or any other public entity, of the “Reuser”
-or of their “Reuse”.
-PERSONAL DATA
-The “Information” made available may contain “Personal data” that may be subject
-to “Reuse”. If this is the case, the “Grantor” informs the “Reuser” about its existence.
-The “Information” may be freely reused, within the rights granted by this licence,
-subject to compliance with the legal framework relating to personal data
-protection.
-INTELLECTUAL PROPERTY RIGHTS
-It is guaranteed to The “Reuser” that potential “Intellectual property rights” held by
-third parties or by the “Grantor” on “Information” do not interfere with the rights
-granted by this licence.
- When the “Grantor” holds transferable “Intellectual property rights” on the
-“Information”, he/she assigns these to the “Reuser” on a non-exclusive basis, free of
-charge, worldwide, for the entire duration of the “Intellectual property rights”, and
-the “Reuser” is free to use the “Information” for any purpose that complies with the
-rights and conditions defined in this licence.
-LIABILITY
-The “Information” is made available as it is produced or received by the “Grantor”,
-without any other express or tacit guarantee than those set out in this licence. The
-“Grantor” does not guarantee the absence of errors or inaccuracies in the
-“Information”, nor a continuous supply of the “Information”. He/she cannot be held
-responsible for any loss, prejudice or damage of any kind caused to third parties as
-a result of the “Reuse”.
-The “Reuser” is solely responsible for the “Reuse” of the “Information”. This “Reuse”
-must not mislead third parties as to the contents of the “Information”, its source or
-its date of update.
-APPLICABLE LEGISLATION
-This licence is governed by French law.
-COMPATIBILITY OF THIS LICENCE
-This licence has been designed to be compatible with any free licence that at least
-requires an acknowledgement of authorship, and specifically with the previous
-version of this licence as well as with the following licences: United Kingdom’s
-“Open Government Licence” (OGL), Creative Commons’ “Creative Commons
-Attribution” (CC-BY) and Open Knowledge Foundation’s “Open Data Commons
-Attribution” (ODC-BY).
-DEFINITIONS
-Within the meaning of this licence, are to be considered as :
-- The “Grantor”: any person granting the right to “Reuse” “Information” under
-the rights and conditions set out in this licence.
-- The “Information”:
-  - any public information contained in documents disclosed or published by
-any administration referred to in the first paragraph of Article L. 300-2 of the
-code des relations entre le public et l’administration (CRPA),
-  - any information made available by any person under the terms and
-conditions of this licence.
-- The “Reuse”: the use of the “Information” for other purposes than those for
-which it was produced or received.
-- The“Reuser”: any person reusing the “Information” in accordance with the
-conditions of this licence.
-- “Personal data”: any information relating to an identified or identifiable
-natural person who may be identified directly or indirectly. Its “Reuse” is
-conditional on the respect of the existing legal framework.
-- “Derived information”: any new data or information created directly from the
-“Information” or from a combination of the “Information” and other data or
-information not subject to this licence.
-- “Intellectual property rights”: all rights identified as such under the code de la
-propriété intellectuelle (including copyright, rights related to copyright, sui
-generis rights of database producers, etc.).
-ABOUT THIS LICENCE
-This licence is intended to be used by administrations for the reuse of their public
-information. It can also be used by any individual wishing to supply “Information”
-under the conditions defined in this licence.
-    France has a comprehensive legal framework aiming at the spontaneous
-dissemination by the administrations of their public information in order to ensure
-the widest possible reuse of this information.
-    The right to “Reuse” the administrations’ “Information” is governed by the code
-des relations entre le public et l’administration (CRPA).
-    This licence facilitates the unrestricted and free of charge reuse of public
-information and is one of the licences which can be used by the administration
-pursuant to the decree issued under article L. 323-2 of the CRPA.
-    Under the Prime Minister’s authority, the Etalab mission is mandated to open
-up the maximum amount of data held by State administrations and public
-institutions. Etalab has drawn up the Open Licence to facilitate the unrestricted and
-free of charge reuse of public information, as defined by article L. 321-1 of the CRPA.
-    This licence is version 2.0 of the Open Licence. Etalab reserves the right to
-propose new versions of the Open Licence. Nevertheless, “Reusers” may continue
-to reuse information obtained under this licence should they so wish.
-
-=======================================================================
-Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
-
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-
-   1. Definitions.
-
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
-
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
-
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
-
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
-
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
-
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
-
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
-
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
-
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
-
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
-
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
-
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
-
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
-
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
-
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
-
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
-
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
-
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
-
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
-
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
-
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
-
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
-
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
-
-   END OF TERMS AND CONDITIONS
-
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-   Copyright [yyyy] [name of copyright owner]
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-
-=======================================================================
 Creative Commons Legal Code
 
 CC0 1.0 Universal
@@ -1091,5 +886,210 @@ express Statement of Purpose.
  d. Affirmer understands and acknowledges that Creative Commons is not a
     party to this document and has no duty or obligation with respect to
     this CC0 or use of the Work.
+
+=======================================================================
+MIT License
+
+Copyright (c) 2020 Kazuki OGIWARA / 荻原 和樹
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+=======================================================================
+Open Government Licence for public sector information
+delivered by The National Archives
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+You are encouraged to use and re-use the Information that is available under this licence freely and flexibly, with only a few conditions.
+
+Using Information under this licence
+Use of copyright and database right material expressly made available under this licence (the 'Information') indicates your acceptance of the terms and conditions below.
+
+The Licensor grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information subject to the conditions below.
+
+This licence does not affect your freedom under fair dealing or fair use or any other copyright or database right exceptions and limitations.
+
+You are free to:
+copy, publish, distribute and transmit the Information;
+adapt the Information;
+exploit the Information commercially and non-commercially for example, by combining it with other Information, or by including it in your own product or application.
+You must (where you do any of the above):
+acknowledge the source of the Information in your product or application by including or linking to any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence;
+ If the Information Provider does not provide a specific attribution statement, you must use the following:
+
+ Contains public sector information licensed under the Open Government Licence v3.0.
+
+If you are using Information from several Information Providers and listing multiple attributions is not practical in your product or application, you may include a URI or hyperlink to a resource that contains the required attribution statements.
+
+These are important conditions of this licence and if you fail to comply with them the rights granted to you under this licence, or any similar licence granted by the Licensor, will end automatically.
+
+ Exemptions
+This licence does not cover:
+
+personal data in the Information;
+Information that has not been accessed by way of publication or disclosure under information access legislation (including the Freedom of Information Acts for the UK and Scotland) by or with the consent of the Information Provider;
+departmental or public sector organisation logos, crests and the Royal Arms except where they form an integral part of a document or dataset;
+military insignia;
+third party rights the Information Provider is not authorised to license;
+other intellectual property rights, including patents, trade marks, and design rights; and
+identity documents such as the British Passport
+Non-endorsement
+This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.
+
+No warranty
+The Information is licensed 'as is' and the Information Provider and/or Licensor excludes all representations, warranties, obligations and liabilities in relation to the Information to the maximum extent permitted by law.
+
+The Information Provider and/or Licensor are not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.
+
+Governing Law
+This licence is governed by the laws of the jurisdiction in which the Information Provider has its principal place of business, unless otherwise specified by the Information Provider.
+
+Definitions
+In this licence, the terms below have the following meanings:
+
+'Information' means information protected by copyright or by database right (for example, literary and artistic works, content, data and source code) offered for use under the terms of this licence.
+
+'Information Provider' means the person or organisation providing the Information under this licence.
+
+'Licensor' means any Information Provider which has the authority to offer Information under the terms of this licence or the Keeper of Public Records, who has the authority to offer Information subject to Crown copyright and Crown database rights and Information subject to copyright and database right that has been assigned to or acquired by the Crown, under the terms of this licence.
+
+'Use' means doing any act which is restricted by copyright or database right, whether in the original medium or in any other medium, and includes without limitation distributing, copying, adapting, modifying as may be technically necessary to use it in a different mode or format.
+
+'You', 'you' and 'your' means the natural or legal person, or body of persons corporate or incorporate, acquiring rights in the Information (whether the Information is obtained directly from the Licensor or otherwise) under this licence.
+
+About the Open Government Licence
+The National Archives has developed this licence as a tool to enable Information Providers in the public sector to license the use and re-use of their Information under a common open licence. The National Archives invites public sector bodies owning their own copyright and database rights to permit the use of their Information under this licence.
+
+The Keeper of the Public Records has authority to license Information subject to copyright and database right owned by the Crown. The extent of the offer to license this Information under the terms of this licence is set out in the UK Government Licensing Framework.
+
+This is version 3.0 of the Open Government Licence. The National Archives may, from time to time, issue new versions of the Open Government Licence. If you are already using Information under a previous version of the Open Government Licence, the terms of that licence will continue to apply.
+
+These terms are compatible with the Creative Commons Attribution License 4.0 and the Open Data Commons Attribution License, both of which license copyright and database rights. This means that when the Information is adapted and licensed under either of those licences, you automatically satisfy the conditions of the OGL when you comply with the other licence. The OGLv3.0 is Open Definition compliant.
+
+Further context, best practice and guidance can be found in the UK Government Licensing Framework section on The National Archives website.
+
+=======================================================================
+OPEN LICENCE 2.0
+LICENCE OUVERTE 2.0
+@etalab
+etalab.gouv.fr
+https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf
+
+“REUSE” OF THE “INFORMATION” COVERED BY THIS LICENCE
+The “Grantor” grants the “Reuser” the free, non-exclusive right to “Reuse” the
+“Information” subject of this licence, for commercial or non-commercial purposes,
+worldwide and for an unlimited period, in accordance with the conditions stated
+below.
+The “Reuser” is free to reuse the “Information”:
+- To reproduce it, copy it.
+- To adapt, modify, retrieve and transform it in order to create “derived
+information”, products and services.
+- To share, disseminate, redistribute, publish and transmit it.
+- To exploit it for commercial purposes, e.g., by combining it with other
+information, or by including it in his/her own product or application.
+Subject to:
+An acknowledgement of the authorship of the “Information”: its source (at least,
+the name of the “Grantor”) and the date of the most recent update of the reused
+“Information”. Specifically, the “Reuser” may satisfy this condition by pointing, via a
+hypertext link, to the source of “the Information” and so supplying an actual
+acknowledgement of its authorship.
+For example:
+Ministry of xxx—Original data downloaded from http://www.data.gouv.fr/fr/
+datasets/xxx/, updated on 14 February 2017.
+This acknowledgement of authorship does not confer any official status on the
+“Reuse” of the “Information”, and must not suggest any sort of recognition or
+endorsement on the part of the “Grantor”, or any other public entity, of the “Reuser”
+or of their “Reuse”.
+PERSONAL DATA
+The “Information” made available may contain “Personal data” that may be subject
+to “Reuse”. If this is the case, the “Grantor” informs the “Reuser” about its existence.
+The “Information” may be freely reused, within the rights granted by this licence,
+subject to compliance with the legal framework relating to personal data
+protection.
+INTELLECTUAL PROPERTY RIGHTS
+It is guaranteed to The “Reuser” that potential “Intellectual property rights” held by
+third parties or by the “Grantor” on “Information” do not interfere with the rights
+granted by this licence.
+ When the “Grantor” holds transferable “Intellectual property rights” on the
+“Information”, he/she assigns these to the “Reuser” on a non-exclusive basis, free of
+charge, worldwide, for the entire duration of the “Intellectual property rights”, and
+the “Reuser” is free to use the “Information” for any purpose that complies with the
+rights and conditions defined in this licence.
+LIABILITY
+The “Information” is made available as it is produced or received by the “Grantor”,
+without any other express or tacit guarantee than those set out in this licence. The
+“Grantor” does not guarantee the absence of errors or inaccuracies in the
+“Information”, nor a continuous supply of the “Information”. He/she cannot be held
+responsible for any loss, prejudice or damage of any kind caused to third parties as
+a result of the “Reuse”.
+The “Reuser” is solely responsible for the “Reuse” of the “Information”. This “Reuse”
+must not mislead third parties as to the contents of the “Information”, its source or
+its date of update.
+APPLICABLE LEGISLATION
+This licence is governed by French law.
+COMPATIBILITY OF THIS LICENCE
+This licence has been designed to be compatible with any free licence that at least
+requires an acknowledgement of authorship, and specifically with the previous
+version of this licence as well as with the following licences: United Kingdom’s
+“Open Government Licence” (OGL), Creative Commons’ “Creative Commons
+Attribution” (CC-BY) and Open Knowledge Foundation’s “Open Data Commons
+Attribution” (ODC-BY).
+DEFINITIONS
+Within the meaning of this licence, are to be considered as :
+- The “Grantor”: any person granting the right to “Reuse” “Information” under
+the rights and conditions set out in this licence.
+- The “Information”:
+  - any public information contained in documents disclosed or published by
+any administration referred to in the first paragraph of Article L. 300-2 of the
+code des relations entre le public et l’administration (CRPA),
+  - any information made available by any person under the terms and
+conditions of this licence.
+- The “Reuse”: the use of the “Information” for other purposes than those for
+which it was produced or received.
+- The“Reuser”: any person reusing the “Information” in accordance with the
+conditions of this licence.
+- “Personal data”: any information relating to an identified or identifiable
+natural person who may be identified directly or indirectly. Its “Reuse” is
+conditional on the respect of the existing legal framework.
+- “Derived information”: any new data or information created directly from the
+“Information” or from a combination of the “Information” and other data or
+information not subject to this licence.
+- “Intellectual property rights”: all rights identified as such under the code de la
+propriété intellectuelle (including copyright, rights related to copyright, sui
+generis rights of database producers, etc.).
+ABOUT THIS LICENCE
+This licence is intended to be used by administrations for the reuse of their public
+information. It can also be used by any individual wishing to supply “Information”
+under the conditions defined in this licence.
+    France has a comprehensive legal framework aiming at the spontaneous
+dissemination by the administrations of their public information in order to ensure
+the widest possible reuse of this information.
+    The right to “Reuse” the administrations’ “Information” is governed by the code
+des relations entre le public et l’administration (CRPA).
+    This licence facilitates the unrestricted and free of charge reuse of public
+information and is one of the licences which can be used by the administration
+pursuant to the decree issued under article L. 323-2 of the CRPA.
+    Under the Prime Minister’s authority, the Etalab mission is mandated to open
+up the maximum amount of data held by State administrations and public
+institutions. Etalab has drawn up the Open Licence to facilitate the unrestricted and
+free of charge reuse of public information, as defined by article L. 321-1 of the CRPA.
+    This licence is version 2.0 of the Open Licence. Etalab reserves the right to
+propose new versions of the Open Licence. Nevertheless, “Reusers” may continue
+to reuse information obtained under this licence should they so wish.
 
 =======================================================================
