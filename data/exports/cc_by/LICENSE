@@ -17,7 +17,7 @@ Link to data: https://github.com/COVID19Tracking/covid-tracking-data/tree/master
 Description: Data is downloaded automatically from the source link. Data for the United States
 consists of time series data for current and cumulative hospitalizations.
 License: Apache 2.0 (https://github.com/COVID19Tracking/covid-tracking-data/blob/master/LICENSE)
-Last accessed: 2020-06-28
+Last accessed: 2020-06-29
 
 Czech Republic
 Source name: National Health Information System, Regional Hygiene Stations, Ministry of Health of
@@ -50,7 +50,7 @@ https://www.data.gouv.fr/en/datasets/donnees-hospitalieres-relatives-a-lepidemie
 Description: Data is scraped manually from the charts provided at the source link. Data for France
 consists of time series data for cumulative hospitalizations and ICU cases.
 License: Open License 2.0 (https://www.etalab.gouv.fr/licence-ouverte-open-licence)
-Last accessed: 2020-06-28
+Last accessed: 2020-06-29
 
 Iceland
 Source name: Directorate of Health in Iceland (Embaetti landlaeknis) (https://www.covid.is/data)
@@ -67,7 +67,7 @@ Description: Data is downloaded automatically from the source repository. Data f
 time series data for current hospitalizations, but we can also compute cumulative hospitalizations.
 License: Creative Commons Attribution 4.0 International
 (https://creativecommons.org/licenses/by/4.0/)
-Last accessed: 2020-06-28
+Last accessed: 2020-06-29
 
 Japan
 Source name: Toyo Keizai Online (https://github.com/kaz-ogiwara/covid19)
@@ -76,7 +76,7 @@ Copyright notice: Copyright (c) 2020 Kazuki OGIWARA / 荻原 和樹
 Description: Data is downloaded automatically from the source repository. Data for Japan consists of
 time series data for current hospitalizations and ICU cases.
 License: MIT (https://github.com/kaz-ogiwara/covid19/blob/master/LICENSE)
-Last accessed: 2020-06-28
+Last accessed: 2020-06-29
 
 Luxembourg
 Source name: Luxembourg Ministry of Health (https://data.public.lu/fr/datasets/donnees-covid19/#_)
@@ -85,7 +85,7 @@ Description: Data is downloaded automatically from the source link. Data for Lux
 time series data for current hospitalizations and ICU cases.
 License: Creative Commons Zero 1.0 Universal
 (https://creativecommons.org/share-your-work/public-domain/cc0/)
-Last accessed: 2020-06-28
+Last accessed: 2020-06-29
 
 Netherlands
 Source name: National Institute for Public Health and The Environment
@@ -112,7 +112,7 @@ Data from Our World in Data has been collected, aggregated, and documented by Di
 Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Edouard Mathieu, Esteban
 Ortiz-Ospina, Hannah Ritchie, and Max Roser.
 ```
-Last accessed: 2020-06-28
+Last accessed: 2020-06-29
 
 Oxford Covid-19 Government Response Tracker
 Source name: Oxford Covid-19 Government Response Tracker
@@ -125,7 +125,7 @@ Citation:
 Thomas Hale, Sam Webster, Anna Petherick, Toby Phillips, and Beatriz Kira. (2020). Oxford COVID-19
 Government Response Tracker. Blavatnik School of Government.
 ```
-Last accessed: 2020-06-28
+Last accessed: 2020-06-29
 
 Spain
 Source name: Ministerio de Sanidad, Consumo y Bienestar Social
@@ -134,7 +134,7 @@ Link to data: https://cnecovid.isciii.es/covid19/resources/agregados.csv
 Description: The data is downloaded automatically from the source link. Due to regional differences
 in hospitalization reporting, we do not aggregate across regions to produce country-level statistics
 for Spain.
-Last accessed: 2020-06-28
+Last accessed: 2020-06-29
 
 Sweden
 Source name: Public Health Agency of Sweden
@@ -143,7 +143,7 @@ Link to data:
 https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data
 Description: Data is downloaded automatically from the source link. Data for Sweden consists of time
 series data for current ICU cases.
-Last accessed: 2020-06-28
+Last accessed: 2020-06-29
 
 Switzerland
 Source name: Switzerland Federal Office of Public Health BAG
