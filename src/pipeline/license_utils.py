@@ -56,8 +56,9 @@ def export_aggregated_license(export_path, sources_path, license_files, header):
     with open(export_path, 'w') as outfile:
         outfile.write(header)
         for line in text_output(sources_path):
-            outfile.write(line)
-            outfile.write('\n')
+            if 'Last accessed:' not in line:
+                outfile.write(line)
+                outfile.write('\n')
         outfile.write('=======================================================================\n')
         outfile.write(complete_texts)
         for fname in license_files:

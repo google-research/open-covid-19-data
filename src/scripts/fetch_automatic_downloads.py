@@ -41,22 +41,23 @@ if not args.whitelist:
 
 automatic_downloads = config.read_config(cc_by=True, cc_by_sa=True, google_tos=True,
                                          filter_by_fetch_method='AUTOMATIC_DOWNLOAD',
-                                         filter_no_data=False, filter_not_approved=args.whitelist)
+                                         filter_no_load_func=False,
+                                         filter_no_data=False,
+                                         filter_not_approved=args.whitelist)
 todays_date = datetime.today().strftime('%Y-%m-%d')
 
 for k in automatic_downloads:
     params = automatic_downloads[k]
     source_url = params['fetch']['source_url']
-    if not path_utils.has_data_from_date(params, todays_date):
-        path_for_today = path_utils.path_to_data_for_date(params, todays_date)
-        print('Downloading data for: ', k)
-        print('Source url: ', source_url)
-        out_dir = path_for_today['dir']
-        out_file = path_for_today['file']
-        out_path = os.path.join(out_dir, out_file)
-        if not os.path.exists(out_dir):
-            os.makedirs(out_dir)
-        output = wget.download(source_url, out_path)
-        print('\nFile written to: ', output)
+    path_for_today = path_utils.path_to_data_for_date(params, todays_date)
+    print('Downloading data for: ', k)
+    print('Source url: ', source_url)
+    out_dir = path_for_today['dir']
+    out_file = path_for_today['file']
+    out_path = os.path.join(out_dir, out_file)
+    if not os.path.exists(out_dir):
+        os.makedirs(out_dir)
+    output = wget.download(source_url, out_path)
+    print('\nFile written to: ', output)
 
 print('Done with fetch_automatic_downloads.py')
