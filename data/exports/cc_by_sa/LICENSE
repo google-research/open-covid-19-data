@@ -9,7 +9,7 @@ Description: Data is scraped manually from the charts provided at the source lin
 Australia consists of time series data for current hospitalizations, ICU and ventilator cases.
 License: Creative Commons Attribution 4.0 International
 (https://creativecommons.org/licenses/by/4.0/)
-Last accessed: 2020-06-24
+Last accessed: 2020-06-28
 
 COVIDTracking
 Source name: COVID-19 Tracking Project (https://github.com/COVID19Tracking/)
@@ -46,14 +46,14 @@ Přehled aktuální situace v ČR. Onemocnění aktuálně [online]. Praha: Mini
 2020 [cit. 25.04.2020]. Dostupné z: https://onemocneni-aktualne.mzcr.cz/covid-19. Vývoj: společné
 pracoviště ÚZIS ČR a IBA LF MU. ISSN 2694-9423.
 ```
-Last accessed: 2020-06-24
+Last accessed: 2020-06-28
 
 Denmark
 Source name: Statens Serum Institute (https://www.sst.dk/)
 Link to data: https://www.sst.dk/da/corona/tal-og-overvaagning
 Description: Data is manually scraped from charts at the source link. Data for Denmark consists of
 time series data for current hospitalizations and ICU cases.
-Last accessed: 2020-06-24
+Last accessed: 2020-06-28
 
 France
 Source name: data.gouv.fr (https://www.data.gouv.fr/)
@@ -115,7 +115,7 @@ Source name: National Institute for Public Health and The Environment
 Link to data: https://www.rivm.nl/coronavirus-covid-19/grafieken
 Description: Data is downloaded manually from the source link. Data for the Netherlands consists of
 time series data for current hospitalizations.
-Last accessed: 2020-06-22
+Last accessed: 2020-06-29
 
 Norway
 Source name: Norwegian Institute of Public Health (www.fhi.no)
@@ -172,7 +172,7 @@ Source name: Switzerland Federal Office of Public Health BAG
 (https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)
 Link to data:
 https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html
-Last accessed: 2020-06-22
+Last accessed: 2020-06-29
 
 United Kingdom
 Source name: GOV.UK (https://www.gov.uk)
