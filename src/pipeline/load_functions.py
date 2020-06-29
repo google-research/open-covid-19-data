@@ -17,6 +17,7 @@
 
 import pandas as pd
 import numpy as np
+import logging
 
 import region_utils
 import load_utils
@@ -26,6 +27,11 @@ import date_utils
 def default_load_function(data_path, params):
     df = load_utils.default_read_function(data_path, params)
     df = region_utils.join_region_codes(df, params)
+    duplicates = df[df[['region_code', 'date']].duplicated(keep=False)]
+    if duplicates.shape[0] != 0:
+        logging.warning('Dropping the following duplicate data for %s data source:\n%s',
+                        params['config_key'], duplicates[['region_code', 'date']])
+        df = df.drop_duplicates(subset=['region_code', 'date'], keep='first')
     load_params = params['load']
     if 'regions' in load_params:
         if 'aggregate_by' in load_params['regions']:
