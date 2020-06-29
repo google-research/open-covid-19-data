@@ -1,5 +1,5 @@
 #### Australia
-**Source name:** covid19data.com.au ([link](https://www.covid19data.com.au/))<br>**Link to data:** https://www.covid19data.com.au/hospitalisations-icu<br>**Description:** Data is scraped manually from the charts provided at the source link. Data for Australia consists of time series data for current hospitalizations, ICU and ventilator cases.<br>**License:** Creative Commons Attribution 4.0 International ([link](https://creativecommons.org/licenses/by/4.0/))<br>**Last accessed:** 2020-06-24
+**Source name:** covid19data.com.au ([link](https://www.covid19data.com.au/))<br>**Link to data:** https://www.covid19data.com.au/hospitalisations-icu<br>**Description:** Data is scraped manually from the charts provided at the source link. Data for Australia consists of time series data for current hospitalizations, ICU and ventilator cases.<br>**License:** Creative Commons Attribution 4.0 International ([link](https://creativecommons.org/licenses/by/4.0/))<br>**Last accessed:** 2020-06-28
 
 #### COVIDTracking
 **Source name:** COVID-19 Tracking Project ([link](https://github.com/COVID19Tracking/))<br>**Link to data:** https://github.com/COVID19Tracking/covid-tracking-data/tree/master/data<br>**Description:** Data is downloaded automatically from the source link. Data for the United States consists of time series data for current and cumulative hospitalizations.<br>**License:** Apache 2.0 ([link](https://github.com/COVID19Tracking/covid-tracking-data/blob/master/LICENSE))<br>**Last accessed:** 2020-06-29
@@ -12,10 +12,10 @@
 ```
 Komenda M., Karolyi M., Bulhart V., Žofka J., Brauner T., Hak J., Jarkovský J., Mužík J., Blaha M., Kubát J., Klimeš D., Langhammer P., Daňková Š ., Májek O., Bartůňková M., Dušek L. COVID ‑ 19: Přehled aktuální situace v ČR. Onemocnění aktuálně [online]. Praha: Ministerstvo zdravotnictví ČR, 2020 [cit. 25.04.2020]. Dostupné z: https://onemocneni-aktualne.mzcr.cz/covid-19. Vývoj: společné pracoviště ÚZIS ČR a IBA LF MU. ISSN 2694-9423.
 ```
-**Last accessed:** 2020-06-24
+**Last accessed:** 2020-06-28
 
 #### Denmark
-**Source name:** Statens Serum Institute ([link](https://www.sst.dk/))<br>**Link to data:** https://www.sst.dk/da/corona/tal-og-overvaagning<br>**Description:** Data is manually scraped from charts at the source link. Data for Denmark consists of time series data for current hospitalizations and ICU cases.<br>**Last accessed:** 2020-06-24
+**Source name:** Statens Serum Institute ([link](https://www.sst.dk/))<br>**Link to data:** https://www.sst.dk/da/corona/tal-og-overvaagning<br>**Description:** Data is manually scraped from charts at the source link. Data for Denmark consists of time series data for current hospitalizations and ICU cases.<br>**Last accessed:** 2020-06-28
 
 #### France
 **Source name:** data.gouv.fr ([link](https://www.data.gouv.fr/))<br>**Link to data:** https://www.data.gouv.fr/en/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/<br>**Description:** Data is scraped manually from the charts provided at the source link. Data for France consists of time series data for cumulative hospitalizations and ICU cases.<br>**License:** Open License 2.0 ([link](https://www.etalab.gouv.fr/licence-ouverte-open-licence))<br>**Last accessed:** 2020-06-29
@@ -36,7 +36,7 @@ Komenda M., Karolyi M., Bulhart V., Žofka J., Brauner T., Hak J., Jarkovský J.
 **Source name:** Luxembourg Ministry of Health ([link](https://data.public.lu/fr/datasets/donnees-covid19/#_))<br>**Link to data:** https://data.public.lu/fr/datasets/donnees-covid19/#_<br>**Description:** Data is downloaded automatically from the source link. Data for Luxembourg consists of time series data for current hospitalizations and ICU cases.<br>**License:** Creative Commons Zero 1.0 Universal ([link](https://creativecommons.org/share-your-work/public-domain/cc0/))<br>**Last accessed:** 2020-06-29
 
 #### Netherlands
-**Source name:** National Institute for Public Health and The Environment ([link](https://www.rivm.nl/coronavirus-covid-19/grafieken))<br>**Link to data:** https://www.rivm.nl/coronavirus-covid-19/grafieken<br>**Description:** Data is downloaded manually from the source link. Data for the Netherlands consists of time series data for current hospitalizations.<br>**Last accessed:** 2020-06-22
+**Source name:** National Institute for Public Health and The Environment ([link](https://www.rivm.nl/coronavirus-covid-19/grafieken))<br>**Link to data:** https://www.rivm.nl/coronavirus-covid-19/grafieken<br>**Description:** Data is downloaded manually from the source link. Data for the Netherlands consists of time series data for current hospitalizations.<br>**Last accessed:** 2020-06-29
 
 #### Norway
 **Source name:** Norwegian Institute of Public Health ([link](www.fhi.no))<br>**Link to data:** https://www.fhi.no/en/id/infectious-diseases/coronavirus/daily-reports/daily-reports-COVID19/<br>**Last accessed:** 2020-06-22
@@ -62,7 +62,7 @@ Thomas Hale, Sam Webster, Anna Petherick, Toby Phillips, and Beatriz Kira. (2020
 **Source name:** Public Health Agency of Sweden ([link](https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/))<br>**Link to data:** https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data<br>**Description:** Data is downloaded automatically from the source link. Data for Sweden consists of time series data for current ICU cases.<br>**Last accessed:** 2020-06-29
 
 #### Switzerland
-**Source name:** Switzerland Federal Office of Public Health BAG ([link](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html))<br>**Link to data:** https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html<br>**Last accessed:** 2020-06-22
+**Source name:** Switzerland Federal Office of Public Health BAG ([link](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html))<br>**Link to data:** https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html<br>**Last accessed:** 2020-06-29
 
 #### United Kingdom
 **Source name:** GOV.UK ([link](https://www.gov.uk))<br>**Link to data:** https://www.gov.uk/government/publications/<br>**Description:** Data is downloaded manually from the publications provided at the source link. Data is aggregated across regions in England and reported at the country level for England, Scotland, Wales and Northern Ireland. Data consists of time series data for current hospitalizations.<br>**License:** Open Government License 3.0 ([link](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))<br>**Last accessed:** 2020-06-23
