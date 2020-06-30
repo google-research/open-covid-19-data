@@ -14,23 +14,42 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# pylint: disable=unused-argument
+
 import pandas as pd
-import streamlit as st
 import os
 
 import config
 
 CURRENT_DIR = os.path.dirname(__file__)
 ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
-LOCATIONS_PATH = os.path.join(ROOT_DIR, 'data/inputs/static/locations.csv')
+LOCATIONS_PATH = os.path.join(ROOT_DIR, 'data/exports/locations/locations.csv')
 
 def join_region_codes(data_df, params):
     reg_params = params['load']['regions']
     if 'single_region_code' in reg_params:
         data_df = join_single_region_code(data_df, reg_params['single_region_code'])
     else:
-        data_df = join_on_keys(data_df, reg_params['mapping_file'], reg_params['mapping_keys'])
+        data_df = join_on_keys(data_df, reg_params)
     return data_df
+
+def join_mobility_region_codes(data_df, params):
+    locations_df = pd.read_csv(LOCATIONS_PATH)
+    iso1_data = data_df[
+        data_df['country_region_code'].notna() & data_df['sub_region_1'].isna() & data_df['sub_region_2'].isna()]
+    iso2_data = data_df[data_df['iso_3166_2_code'].notna() & data_df['census_fips_code'].isna()]
+    fips_data = data_df[data_df['iso_3166_2_code'].isna() & data_df['census_fips_code'].notna()]
+    iso1_locations = locations_df[locations_df['region_code_type'] == 'iso_3166-1']
+    iso1_joined = iso1_data.merge(iso1_locations, left_on=['country_region_code'],
+                                  right_on=['country_iso_3166-1_alpha-2'], how='left')
+    iso2_locations = locations_df[locations_df['region_code_type'] == 'iso_3166-2']
+    iso2_joined = iso2_data.merge(iso2_locations, left_on=['iso_3166_2_code'], right_on=['region_code'], how='left')
+    fips_locations = locations_df[locations_df['region_code_type'] == 'fips_6-4']
+    fips_data['padded_fips_code'] = fips_data['census_fips_code'].apply(lambda x: str(int(x)).zfill(5))
+    fips_joined = fips_data.merge(fips_locations, left_on=['padded_fips_code'],
+                                  right_on=['leaf_region_code'], how='left')
+    joined_df = pd.concat([iso1_joined, iso2_joined, fips_joined])
+    return joined_df
 
 def join_single_region_code(data_df, single_region_code):
     data_df['region_code'] = single_region_code
@@ -39,12 +58,14 @@ def join_single_region_code(data_df, single_region_code):
     data_df = data_df.merge(locations_df, on=['region_code'])
     return data_df
 
-def join_on_keys(data_df, regions_path, mapping_keys):
-    abs_path = os.path.abspath(os.path.join(os.path.join(__file__, '../../..'), regions_path))
-    regions_df = pd.read_csv(abs_path)
-    reversed_mapping_keys = {value:key for key, value in mapping_keys.items()}
+def join_on_keys(data_df, reg_params):
+    mapping_keys = reg_params['mapping_keys']
+    locations_df = pd.read_csv(LOCATIONS_PATH)
+    if 'level_1_region_code' in reg_params:
+        locations_df = locations_df[locations_df['level_1_region_code'] == reg_params['level_1_region_code']]
+    reversed_mapping_keys = {value: key for key, value in mapping_keys.items()}
     data_df = data_df.rename(columns=reversed_mapping_keys)
-    data_df = data_df.merge(regions_df, on=list(mapping_keys.keys()), how='inner')
+    data_df = data_df.merge(locations_df, on=list(mapping_keys.keys()), how='inner')
     return data_df
 
 def aggregate_and_append(data_df, params):

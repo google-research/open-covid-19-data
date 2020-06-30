@@ -14,10 +14,10 @@
 
 ---
 attribution:
-  country: 'Philippines'
+  title: 'Philippines'
   source_name: 'Philippines Department of Health'
   main_link: 'https://www.doh.gov.ph/'
   data_link: 'http://www.doh.gov.ph/covid19tracker'
-cc-by-sa: False
-approved: True
-# The Philippines data does not have a license, rather we've received written consent from the their Department of Health.
+license:
+  cc_by: True
+  cc_by_sa: False

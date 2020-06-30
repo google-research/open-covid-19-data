@@ -14,7 +14,7 @@
 
 ---
 attribution:
-  country: 'Scotland'
+  title: 'Scotland'
   source_name: 'The Scottish Government'
   main_link: 'https://www.gov.scot/'
   data_link: 'https://www.gov.scot/publications/trends-in-number-of-people-in-hospital-with-confirmed-or-suspected-covid-19/'
@@ -23,5 +23,5 @@ license:
   name: 'Open Government License 3.0'
   file: 'docs/license_files/open-government-license-3.0'
   link: 'http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
-cc-by-sa: False
-approved: True
+  cc_by: True
+  cc_by_sa: False

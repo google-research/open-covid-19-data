@@ -1,15 +1,16 @@
 # About
 
-This open source pipeline aggregates public COVID-19 data sources into a single dataset, which includes COVID-19 cases, deaths, tests, hospitalizations, intensive care unit (ICU) cases, ventilator cases, and government interventions. The aggregated data is designed for researchers to build models quickly, and the pipeline is designed for engineers to add new data sources quickly.
+This open source pipeline aggregates public COVID-19 data sources into a single dataset, which includes COVID-19 cases, deaths, tests, hospitalizations, discharges, intensive care unit (ICU) cases, ventilator cases, government interventions, and Google's COVID19 Community Mobility Reports. The aggregated data is designed for researchers to build models quickly, and the pipeline is designed for engineers to add new data sources quickly.
 
 In particular, we support data that comes in three formats: data that can be downloaded automatically (generally a .csv or .xlsx from a stable url), data that can be downloaded manually (generally .csv or .xslx files without stable urls), and data that is not machine-readable and must be scraped by a human (from charts, tables, pdfs, or occasionally tweets).
 
 ## To use the data
 
 ##### Latest data
-If you just want to use the latest data for models, visualizations, or research, we provide two separate data files, one under a CC-BY license and one under CC-BY-SA license.
+If you just want to use the latest data for models, visualizations, or research, we provide three aggregated data files under three different licenses:
 - The CC-BY data can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/cc_by/aggregated_cc_by.csv)
 - The CC-BY-SA data can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/cc_by_sa/aggregated_cc_by_sa.csv).
+- The Google TOS data can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/google_tos/aggregated_google_tos.csv). In order to download or use the data or reports, you must agree to the [Google Terms of Service](https://policies.google.com/terms).
 
 ##### Versioned data
 Releases to the dataset are tagged so there is a stable Github url that points to each version of the data.
@@ -20,7 +21,7 @@ Please see the Data Sources section of this README to note the attributions and 
 ## For Data Owners
 We have carefully checked the license and attribution information on each data source included in this repository, and in many cases have contacted the data owners directly to ask how they would like to be attributed.
 
-If you are the owner of a data source included here and would like us to remove data, add or alter an attribution, or add or alter license information, please do not hesitate to email us at open-covid-19-data@google.com and we are happy to comply with your request.
+If you are the owner of a data source included here and would like us to remove data, add or alter an attribution, or add or alter license information, please do not hesitate to email us at open-covid-19-data@google.com and we will happily consider your request.
 
 # Technical Documentation
 
@@ -30,9 +31,9 @@ Data is fetched from the original source either as an automatic download, a manu
 ![pipeline](https://user-images.githubusercontent.com/1656622/82526711-7b9a7900-9ae9-11ea-85af-79597672b2e0.jpg)
 
 #### Locations
-Locations are mapped to a standardized, hierarchical set of region codes. The full list of region codes can be found at `data/inputs/static/locations.csv`.
+Locations are mapped to a standardized, hierarchical set of region codes. The full list of region codes can be found at `data/exports/locations/locations.csv`.
 
-The first-level region codes are ISO-3166-1 codes. By default, the second-level region codes are ISO-3166-2 codes. However, in some locations, COVID-19 data is reported in administrative regions other than ISO-3166-2, so the choice of sub-country regions is informed partially by data availability. Third-level regions include cities and counties.
+The first-level region codes are ISO-3166-1 codes. By default, the second-level region codes are ISO-3166-2 codes. However, in some locations, COVID-19 data is reported in administrative regions other than ISO-3166-2, so the choice of sub-country regions is informed partially by data availability. Third-level regions include cities and counties - within the United States counties are coded using FIPS 6-4 codes.
 
 #### Dates
 All dates are mapped to ISO 8601 format during data loading.
@@ -62,19 +63,15 @@ Before adding a new data source, we go through an internal approval within Googl
     * `date_format`: the format of the date in the original data source
     * `parse_function`: most dates can be parsed using the `default` function in `date_utils.py`. If the data source has a date format that requires a parser that doesn't exist in `date_utils.py`, implement a separate function in that file.
   * `regions`:
-    * `mapping_file`: if a data source contains multiple regions but not ISO-3166 codes for the regions, we use an auxiliary file to map the strings or codes in the source file, to the region codes used in this repository. These files exist already for many countries in `data/inputs/static/locations/regions`, or you can add a new file there.
-    * `mapping_keys`: takes key/value fields where the key is the column in the mapping file, and the value is the string name of the column in the original data source.
+    * `mapping_keys`: if a data source contains multiple regions but not ISO-3166 codes for the regions, the locations file at `data/exports/locations/locations.csv` must contain a column or list of columns that can be uniquely map the locations in the data to the `region_code` for that location. The `mapping_keys` field takes key/value fields where the key is the column in the locations file, and the value is the string name of the column in the original data source.
 * Specify the `data` parameters:
   * These parameters follow the data schema specified in `src/config/data.yaml`, where the keys come from the data schema and the values are the column name in the original data source for the corresponding data.
 * Specify the `attribution` parameters. These are used to generate the data source section of the README. The fields for existing data sources serve as an example of what to include.
 * Specify the `license` parameters. These are used to generate the LICENSE file. The fields for existing data sources serve as an example of what to include.
-* Specify the `cc-by-sa` field: we produce two aggregated csv files, one is licensed under `CC-BY` and the other is under `CC-BY-SA`. This field determines whether this data can be included in the `CC-BY` file.
-* Specify the `approved` field: set to `True` after the data source has been approved.
+* Specify the `cc_by` and `cc_by_sa` fields: we produce two aggregated csv files, one is licensed under `CC-BY` and the other is under `CC-BY-SA`. These fields specify whether the data can appear in each file.
 
 ##### 3. Update docs and licenses:
-* Run `src/scripts/generate_source_docs.py` to update `docs/sources_cc_by_sa.md` with the new data source.
-* Run `src/scripts/generate_readme.py` to update the `README.md` at the root of the repo.
-* Run `src/scripts/export_aggregated_licenses.py` to update the `LICENSE` files in `data/exports`.
+* When you run `src/scripts/export_data.py`, it will update the `README.md` as well as the `LICENSE` files within `data/exports`
 
 # Authors
 This repository is created and maintained by Katie Everett, Dan Nanas, Maddy Myers (UCSD), Sumit Arora, and Ian Fischer.

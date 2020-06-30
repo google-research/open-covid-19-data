@@ -1,0 +1,43 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+---
+- australia_hospitalizations
+- belgium_hospitalizations
+- colombia_hospitalizations
+- covidtracking
+- czech_republic_hospitalizations
+- denmark_hospitalizations
+- finland_hospitalizations
+- france_cumulative_hospitalizations
+- google_mobility_reports
+- iceland_hospitalizations
+- ireland_hospitalizations
+- italy_and_regions
+- japan_hospitalizations
+- luxembourg_hospitalizations
+- moldova_hospitalizations
+- netherlands_hospitalizations
+- new_zealand_hospitalizations
+- norway_fhi
+- our_world_in_data
+- oxford_policy
+- philippines_hospitalizations
+- romania_hospitalizations
+- scotland_hospitalizations
+- spain_and_regions
+- sweden_hospitalizations
+- switzerland_hospitalizations
+- switzerland_regions
+- united_kingdom_hospitalizations

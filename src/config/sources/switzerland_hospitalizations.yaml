@@ -35,9 +35,10 @@ data:
     new: 'Hospitalisationen pro Tag'
     cumulative: 'Hospitalisationen pro Tag, Kumuliert'
 attribution:
-  country: 'Switzerland'
+  title: 'Switzerland'
   source_name: 'Switzerland Federal Office of Public Health BAG'
   main_link: 'https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html'
   data_link: 'https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html'
-cc-by-sa: False
-approved: True
+license:
+  cc_by: True
+  cc_by_sa: False

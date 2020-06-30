@@ -31,9 +31,10 @@ data:
     new: 'New hospital admissions'
     cumulative: 'Cumulative total'
 attribution:
-  country: 'Norway'
+  title: 'Norway'
   source_name: 'Norwegian Institute of Public Health'
   main_link: 'www.fhi.no'
   data_link: 'https://www.fhi.no/en/id/infectious-diseases/coronavirus/daily-reports/daily-reports-COVID19/'
-cc-by-sa: False
-approved: True
+license:
+  cc_by: True
+  cc_by_sa: False

@@ -31,10 +31,11 @@ data:
   hospitalized:
     current: 'Number hospitalised'
 attribution:
-  country: 'Iceland'
+  title: 'Iceland'
   source_name: 'Directorate of Health in Iceland (Embaetti landlaeknis)'
   main_link: 'https://www.covid.is/data'
   data_link: 'https://www.covid.is/data'
   description: 'Data is downloaded manually from the source link. Data for Iceland consists of time series data for current ICU cases, and current and cumulative hospitalizations.'
-cc-by-sa: False
-approved: True
+license:
+  cc_by: True
+  cc_by_sa: False

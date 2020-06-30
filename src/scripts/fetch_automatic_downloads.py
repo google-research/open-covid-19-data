@@ -14,11 +14,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+import logging
 import os
-import pandas as pd
 import sys
-import wget  # Note this is python3-wget, not wget library from pypi!
-import yaml
+import wget  # pip3 install python3-wget, not pip install wget
 from datetime import datetime
 
 CURRENT_DIR = os.path.dirname(__file__)
@@ -27,28 +26,38 @@ PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 
+import args_utils
 import path_utils
 import config
 
-# Iterate through all the sources, and for anything that is an automatic_download, get the file from the source url and store it at the desired path.
 
-automatic_downloads = config.read_config(filter_by_fetch_method = 'AUTOMATIC_DOWNLOAD')
+args = args_utils.get_parser().parse_args()
 
+if not args.whitelist:
+    logging.warning('RUNNING WITHOUT THE WHITELIST! DO NOT MAKE A PULL REQUEST WITH THE OUTPUT!')
+
+# Iterate through all the sources, and for anything that is an AUTOMATIC_DOWNLOAD
+# get the file from the source url and store it at the desired path.
+
+automatic_downloads = config.read_config(cc_by=True, cc_by_sa=True, google_tos=True,
+                                         filter_by_fetch_method='AUTOMATIC_DOWNLOAD',
+                                         filter_no_load_func=False,
+                                         filter_no_data=False,
+                                         filter_not_approved=args.whitelist)
 todays_date = datetime.today().strftime('%Y-%m-%d')
 
 for k in automatic_downloads:
     params = automatic_downloads[k]
     source_url = params['fetch']['source_url']
-    if not path_utils.has_data_from_date(params, todays_date):
-        path_for_today = path_utils.path_to_data_for_date(params, todays_date)
-        print('Downloading data for: ', k)
-        print('Source url: ', source_url)
-        out_dir = path_for_today['dir']
-        out_file = path_for_today['file']
-        out_path = os.path.join(out_dir, out_file)
-        if not os.path.exists(out_dir):
-            os.makedirs(out_dir)
-        output = wget.download(source_url, out_path)
-        print('\nFile written to: ', output)
+    path_for_today = path_utils.path_to_data_for_date(params, todays_date)
+    print('Downloading data for: ', k)
+    print('Source url: ', source_url)
+    out_dir = path_for_today['dir']
+    out_file = path_for_today['file']
+    out_path = os.path.join(out_dir, out_file)
+    if not os.path.exists(out_dir):
+        os.makedirs(out_dir)
+    output = wget.download(source_url, out_path)
+    print('\nFile written to: ', output)
 
 print('Done with fetch_automatic_downloads.py')

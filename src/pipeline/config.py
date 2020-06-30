@@ -18,35 +18,78 @@ import yaml
 import os
 
 DATA_YAML = os.path.abspath(os.path.join(__file__, '../../config/data.yaml'))
+WHITELIST_YAML = os.path.abspath(os.path.join(__file__, '../../config/whitelist.yaml'))
 SOURCES_DIR = os.path.abspath(os.path.join(__file__, '../../config/sources'))
-
+DATA_INPUTS_DIR = os.path.abspath(os.path.join(__file__, '../../../data/inputs/'))
 
 def read_data_schema():
     with open(DATA_YAML) as file:
         schema = yaml.load(file, Loader=yaml.FullLoader)
     return schema
 
+def all_data_schema_columns():
+    column_list = []
+    schema = read_data_schema()
+    for data_type in schema.values():
+        columns = data_type['columns']
+        column_values = list(columns.values())
+        column_list.extend(column_values)
+    return column_list
+
+def read_whitelist():
+    with open(WHITELIST_YAML) as file:
+        return yaml.load(file, Loader=yaml.FullLoader)
+
 def all_region_columns():
     return ['region_code'] + other_region_columns()
 
 def other_region_columns():
-    return ['parent_region_code', 'region_code_type', 'region_code_level', 'level_1_region_code', 'level_2_region_code', 'level_3_region_code']
+    return ['parent_region_code',
+            'region_code_type',
+            'region_code_level',
+            'level_1_region_code',
+            'level_2_region_code',
+            'level_3_region_code']
 
-def read_config(cc_by_sa=False, filter_no_load_func=True, filter_not_approved=True, filter_by_fetch_method=None):
+def get_sources_with_data():
+    downloaded_dir = os.path.join(DATA_INPUTS_DIR, 'downloaded')
+    scraped_dir = os.path.join(DATA_INPUTS_DIR, 'scraped')
+    downloaded_sources = [f.name for f in os.scandir(downloaded_dir) if f.is_dir()]
+    scraped_sources = [f.name for f in os.scandir(scraped_dir) if f.is_dir()]
+    scraped_sources.remove('spreadsheets')
+    result = downloaded_sources + scraped_sources
+    return result
+
+def read_config(cc_by=True,
+                cc_by_sa=False,
+                google_tos=False,
+                filter_no_load_func=True,
+                filter_no_data=True,
+                filter_not_approved=True,
+                filter_by_fetch_method=None):
     config_dict = {}
+    whitelist = read_whitelist()
+    sources_with_data = get_sources_with_data()
     for source_file_name in os.listdir(SOURCES_DIR):
         source_file = os.path.join(SOURCES_DIR, source_file_name)
+        source_key = os.path.splitext(source_file_name)[0]
+        if filter_not_approved and source_key not in whitelist:
+            continue
         with open(source_file) as file:
             params = yaml.load(file, Loader=yaml.FullLoader)
-        source_key = os.path.splitext(source_file_name)[0]
         params['config_key'] = source_key
-        if (filter_no_load_func and ('load' not in params or 'function' not in params['load'] or params['load']['function'] is None)) or \
-            (filter_not_approved and not params['approved']) or \
-            (filter_by_fetch_method and params['fetch']['method'] != filter_by_fetch_method) or \
-            (not cc_by_sa and params['cc-by-sa']):
+        # pylint: disable=bad-continuation
+        if ((filter_no_load_func
+             and ('load' not in params or 'function' not in params['load'] or params['load']['function'] is None))
+            or (filter_by_fetch_method
+                and ('fetch' not in params or params['fetch']['method'] != filter_by_fetch_method))
+            or (filter_no_data and (source_key not in sources_with_data))
+            or (not cc_by and params['license']['cc_by'])
+            or (not cc_by_sa and params['license']['cc_by_sa'])
+            or (not google_tos and 'google_tos' in params['license'] and params['license']['google_tos'])):
             continue
-        else:
-            config_dict[source_key] = params
+        # pylint: enable=bad-continuation
+        config_dict[source_key] = params
     return config_dict
 
 def col_params_to_col_list(data_columns_params):
@@ -55,8 +98,8 @@ def col_params_to_col_list(data_columns_params):
     for data_type in data_columns_params.keys():
         data_type_formats = data_columns_params[data_type]
         schema_cols = data_schema[data_type]['columns']
-        for format in data_type_formats:
-            col_name = schema_cols[format]
+        for data_type_format in data_type_formats:
+            col_name = schema_cols[data_type_format]
             column_list.append(col_name)
     return column_list
 
@@ -81,8 +124,8 @@ def get_rename_dict(data_columns):
     schema = read_data_schema()
     rename_dict = {}
     for data_type in data_columns.keys():
-        for format in data_columns[data_type].keys():
-            our_col_name = schema[data_type]['columns'][format]
-            source_col_name = data_columns[data_type][format]
+        for data_format in data_columns[data_type].keys():
+            our_col_name = schema[data_type]['columns'][data_format]
+            source_col_name = data_columns[data_type][data_format]
             rename_dict[source_col_name] = our_col_name
     return rename_dict

@@ -24,14 +24,14 @@ load:
     date_format: '%Y%m%d'
     parse_function: 'default'
   regions:
-    mapping_file: 'data/inputs/static/locations/regions/united_states_states.csv'
+    level_1_region_code: 'USA'
     mapping_keys:
-      source_region_code: 'state'
+      local_alpha_code: 'state'
 data:
   hospitalized:
     new: 'hospitalizedIncrease'
 attribution:
-  country: 'United States'
+  title: 'COVIDTracking'
   source_name: 'COVID-19 Tracking Project'
   main_link: 'https://github.com/COVID19Tracking/'
   data_link: 'https://github.com/COVID19Tracking/covid-tracking-data/tree/master/data'
@@ -40,5 +40,5 @@ license:
   name: 'Apache 2.0'
   file: 'docs/license_files/apache-2.0'
   link: 'https://github.com/COVID19Tracking/covid-tracking-data/blob/master/LICENSE'
-cc-by-sa: False
-approved: True
+  cc_by: True
+  cc_by_sa: False

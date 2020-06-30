@@ -26,7 +26,6 @@ load:
     parse_function: 'default'
     date_format: '%Y%m%d'
   regions:
-    mapping_file: 'data/inputs/static/locations/countries_iso_to_name.csv'
     mapping_keys:
       region_code: 'CountryCode'
 data:
@@ -71,7 +70,7 @@ data:
     economic_support_index: 'EconomicSupportIndex'
     economic_support_index_for_display: 'EconomicSupportIndexForDisplay'
 attribution:
-  country: 'Oxford Covid-19 Government Response Tracker'
+  title: 'Oxford Covid-19 Government Response Tracker'
   source_name: 'Oxford Covid-19 Government Response Tracker'
   citation: 'Thomas Hale, Sam Webster, Anna Petherick, Toby Phillips, and Beatriz Kira. (2020). Oxford COVID-19 Government Response Tracker. Blavatnik School of Government.'
   main_link: 'https://github.com/OxCGRT/covid-policy-tracker'
@@ -80,5 +79,5 @@ license:
   name: 'Creative Commons Attribution 4.0 International'
   file: 'docs/license_files/cc-by-4.0'
   link: 'https://creativecommons.org/licenses/by/4.0/'
-cc-by-sa: False
-approved: True
+  cc_by: True
+  cc_by_sa: False

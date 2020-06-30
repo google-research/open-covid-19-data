@@ -14,28 +14,39 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-import os
 import pandas as pd
-import yaml
 
-import load_utils
 import load_functions
 import config
-
+import path_utils
 
 
 data_columns_by_type = config.get_data_columns_by_type()
 identifier_columns = config.get_identifier_columns()
 
-def load_data_type(data_type, cc_by_sa):
-    config_dict = config.read_config(cc_by_sa=cc_by_sa)
+def load_most_recent_loadable_data(params):
+    load_func_name = params['load']['function']
+    load_func = getattr(load_functions, load_func_name)
+    all_data_sorted = path_utils.all_data_most_to_least_recent(params)
+    df = None
+    for data_dict in all_data_sorted:
+        data_path = data_dict['path']
+        data_date = data_dict['date']
+        try:
+            df = load_func(data_path, params)
+            print('Loading succeeded on source {} for date {}'.format(params['config_key'], data_date))
+            break
+        except Exception:  # pylint: disable=broad-except
+            print('Loading failed on source {} for date {}'.format(params['config_key'], data_date))
+            continue
+    return df
+
+def load_data_type(data_type, config_dict):
     list_of_dfs = []
     for k in config_dict:
         params = config_dict[k]
         if 'data' in params and data_type in params['data']:
-            load_func_name = params['load']['function']
-            load_func = getattr(load_functions, load_func_name)
-            df = load_func(params)
+            df = load_most_recent_loadable_data(params)
             columns_to_keep = identifier_columns + data_columns_by_type[data_type]
             df = df[df.columns[df.columns.isin(columns_to_keep)]]
             load_params = params['load']
@@ -45,5 +56,8 @@ def load_data_type(data_type, cc_by_sa):
                     omit_regions = omit_params[data_type]
                     df = df[~df.region_code.isin(omit_regions)]
             list_of_dfs.append(df)
-    joined = pd.concat(list_of_dfs)
-    return joined
+    if list_of_dfs:
+        joined = pd.concat(list_of_dfs)
+        return joined
+    else:
+        return None

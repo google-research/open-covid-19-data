@@ -15,19 +15,23 @@
 # limitations under the License.
 
 
-import os
 import pandas as pd
 import numpy as np
+import logging
 
 import region_utils
 import load_utils
 import date_utils
-import path_utils
 
 
-def default_load_function(params):
-    df = load_utils.default_read_function(params)
+def default_load_function(data_path, params):
+    df = load_utils.default_read_function(data_path, params)
     df = region_utils.join_region_codes(df, params)
+    duplicates = df[df[['region_code', 'date']].duplicated(keep=False)]
+    if duplicates.shape[0] != 0:
+        logging.warning('Dropping the following duplicate data for %s data source:\n%s',
+                        params['config_key'], duplicates[['region_code', 'date']])
+        df = df.drop_duplicates(subset=['region_code', 'date'], keep='first')
     load_params = params['load']
     if 'regions' in load_params:
         if 'aggregate_by' in load_params['regions']:
@@ -35,44 +39,53 @@ def default_load_function(params):
     df = load_utils.compute_cumulative_from_new(df, params)
     return df
 
-def covidtracking(params):
-    data_df = default_load_function(params)
+def mobility_load_function(data_path, params):
+    df = load_utils.default_read_function(data_path, params)
+    df = region_utils.join_mobility_region_codes(df, params)
+    return df
+
+def covidtracking(data_path, params):
+    data_df = default_load_function(data_path, params)
     data_df = data_df.reindex(index=data_df.index[::-1])
     return data_df
 
 # Note: we only include regions that are computing cumulative hospitalizations
 # and don't compute a country-level hospitalization number for Spain
-def spain_and_regions(params):
-    data_df = default_load_function(params)
+# pylint: disable=bad-continuation
+def spain_and_regions(data_path, params):
+    data_df = default_load_function(data_path, params)
     data_df['hospitalized_current'] = data_df.apply(
-        lambda row: row['hospitalized_cumulative'] if
-            (row['source_region_code'] == 'CM' and row['date'] < '2020-04-11') or \
-            (row['source_region_code'] == 'MD' and row['date'] < '2020-04-26') else np.nan, axis=1
+        lambda row: (row['hospitalized_cumulative']
+            if ((row['local_alpha_code'] == 'CM' and row['date'] < '2020-04-11')
+                or (row['local_alpha_code'] == 'MD' and row['date'] < '2020-04-26'))
+            else np.nan), axis=1
     )
     data_df['hospitalized_cumulative'] = data_df.apply(
         lambda row: row['hospitalized_cumulative'] if pd.isnull(row['hospitalized_current']) else np.nan, axis=1
     )
     data_df['icu_current'] = data_df.apply(
-        lambda row: row['icu_cumulative'] if
-            (row['source_region_code'] == 'CL' and row['date'] < '2020-04-17') or \
-            (row['source_region_code'] == 'GA' and row['date'] < '2020-04-28') or \
-            (row['source_region_code'] == 'CM' and row['date'] < '2020-04-12') or \
-            (row['source_region_code'] == 'MD' and row['date'] < '2020-04-26') else np.nan, axis=1
+        lambda row: (row['icu_cumulative']
+            if ((row['local_alpha_code'] == 'CL' and row['date'] < '2020-04-17')
+                or (row['local_alpha_code'] == 'GA' and row['date'] < '2020-04-28')
+                or (row['local_alpha_code'] == 'CM' and row['date'] < '2020-04-12')
+                or (row['local_alpha_code'] == 'MD' and row['date'] < '2020-04-26'))
+            else np.nan), axis=1
     )
     data_df['icu_cumulative'] = data_df.apply(
         lambda row: row['icu_cumulative'] if pd.isnull(row['icu_current']) else np.nan, axis=1
     )
     return data_df
+# pylint: enable=bad-continuation
 
-def japan_hospitalizations(params):
-    data_df = load_utils.default_read_function(params)
+def japan_hospitalizations(data_path, params):
+    data_df = load_utils.default_read_function(data_path, params)
     data_df['deaths_cumulative'] = data_df['deaths_cumulative'].replace(to_replace='-', value=0).astype('int32')
     data_df = region_utils.join_region_codes(data_df, params)
     data_df = region_utils.aggregate_and_append(data_df, params)
     return data_df
 
-def netherlands_hospitalizations(params):
-    df = default_load_function(params)
+def netherlands_hospitalizations(data_path, params):
+    df = default_load_function(data_path, params)
     df = df.rename(columns={
         'nieuw': 'new_reports',
         'tot en met gisteren': 'reported_through_yesterday'
@@ -82,12 +95,11 @@ def netherlands_hospitalizations(params):
 
 # Tricky because hospitalization data for scotland data comes from UK
 # data source, but ICU data comes from here. Make sure they get joined correctly.
-def scotland_hospitalizations(params):
-    data_path = path_utils.most_recent_data(params)['path']
+def scotland_hospitalizations(data_path, params):
     df = pd.read_excel(data_path, 'Table 2 - Hospital Care', skiprows=4)
     df = df.rename(columns={
-        df.columns[1]: "icu_current",
-        df.columns[4]: "hospitalized_current",
+        df.columns[1]: 'icu_current',
+        df.columns[4]: 'hospitalized_current',
     })
     df = date_utils.parse_date(df, params)
     df = region_utils.join_region_codes(df, params)
