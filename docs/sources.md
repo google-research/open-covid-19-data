@@ -5,7 +5,7 @@
 **Source name:** COVID-19 Tracking Project ([link](https://github.com/COVID19Tracking/))<br>**Link to data:** https://github.com/COVID19Tracking/covid-tracking-data/tree/master/data<br>**Description:** Data is downloaded automatically from the source link. Data for the United States consists of time series data for current and cumulative hospitalizations.<br>**License:** Apache 2.0 ([link](https://github.com/COVID19Tracking/covid-tracking-data/blob/master/LICENSE))<br>**Last accessed:** 2020-06-30
 
 #### Colombia
-**Original data source:** GOV.CO ([link](https://www.datos.gov.co))<br>**Link to original data:** https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data<br>**Data aggregated by:** COVID-19 Colombia ([link](https://github.com/dfuribez/COVID-19-Colombia))<br>**Description:** Data is automatically downloaded from the linked github repository, which is sourced from datos.gov.co. Data for Colombia consists of time series data for current hospitalizations and ICU cases.<br>**License:** Creative Commons Attribution-ShareAlike 4.0 International ([link](https://creativecommons.org/licenses/by-sa/4.0/))<br>**Last accessed:** 2020-06-30
+**Original data source:** GOV.CO ([link](https://www.datos.gov.co))<br>**Link to original data:** https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data<br>**Data aggregated by:** COVID-19 Colombia ([link](https://github.com/dfuribez/COVID-19-Colombia))<br>**License:** Creative Commons Attribution-ShareAlike 4.0 International ([link](https://creativecommons.org/licenses/by-sa/4.0/))<br>**Last accessed:** 2020-06-30
 
 #### Czech Republic
 **Source name:** National Health Information System, Regional Hygiene Stations, Ministry of Health of the Czech Republic ([link](https://onemocneni-aktualne.mzcr.cz/covid-19))<br>**Link to data:** https://onemocneni-aktualne.mzcr.cz/covid-19<br>**Description:** Data is scraped manually from the charts provided at the source link. Data for the Czech Republic consists of time series data for current ICU cases, and current and cumulative hospitalizations.<br>**Citation:**
@@ -71,6 +71,13 @@ Thomas Hale, Sam Webster, Anna Petherick, Toby Phillips, and Beatriz Kira. (2020
 
 #### Switzerland
 **Source name:** Switzerland Federal Office of Public Health BAG ([link](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html))<br>**Link to data:** https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html<br>**Last accessed:** 2020-06-29
+
+#### The New York Times
+**Source name:** The New York Times COVID-19 Data ([link](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html))<br>**Link to data:** https://github.com/nytimes/covid-19-data<br>**License:** Creative Commons Attribution-NonCommercial 4.0 International ([link](https://creativecommons.org/licenses/by-nc/4.0/legalcode))<br>**Citation:**
+```
+Data from The New York Times, based on reports from state and local health agencies.
+```
+**Last accessed:** 2020-06-30
 
 #### United Kingdom
 **Source name:** GOV.UK ([link](https://www.gov.uk))<br>**Link to data:** https://www.gov.uk/government/publications/<br>**Description:** Data is downloaded manually from the publications provided at the source link. Data is aggregated across regions in England and reported at the country level for England, Scotland, Wales and Northern Ireland. Data consists of time series data for current hospitalizations.<br>**License:** Open Government License 3.0 ([link](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))<br>**Last accessed:** 2020-06-23

@@ -34,7 +34,11 @@ args = args_utils.get_parser().parse_args()
 if not args.whitelist:
     logging.warning('RUNNING WITHOUT THE WHITELIST! DO NOT MAKE A PULL REQUEST WITH THE OUTPUT!')
 
-scraped = config.read_config(filter_by_fetch_method='SCRAPED', filter_not_approved=args.whitelist)
+scraped = config.read_config(cc_by=True, cc_by_sa=True, google_tos=True, cc_by_nc=True,
+                             filter_by_fetch_method='SCRAPED',
+                             filter_no_load_func=False,
+                             filter_no_data=False,
+                             filter_not_approved=args.whitelist)
 
 spreadsheet_dir = os.path.join(ROOT_DIR, 'data/inputs/scraped/spreadsheets')
 spreadsheet_file = 'hospitalizations.xlsx'

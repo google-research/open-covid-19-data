@@ -39,7 +39,7 @@ if not args.whitelist:
 # Iterate through all the sources, and for anything that is an AUTOMATIC_DOWNLOAD
 # get the file from the source url and store it at the desired path.
 
-automatic_downloads = config.read_config(cc_by=True, cc_by_sa=True, google_tos=True,
+automatic_downloads = config.read_config(cc_by=True, cc_by_sa=True, google_tos=True, cc_by_nc=True,
                                          filter_by_fetch_method='AUTOMATIC_DOWNLOAD',
                                          filter_no_load_func=False,
                                          filter_no_data=False,

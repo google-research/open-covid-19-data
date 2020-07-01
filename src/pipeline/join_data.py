@@ -14,6 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+import logging
 import pandas as pd
 import os
 
@@ -42,11 +43,15 @@ def get_time_series_df(config_dict):
             joined_df = df
         else:
             joined_df = joined_df.merge(df, on=['date', 'region_code'], how='outer')
-    location_names_df = pd.read_csv(LOCATIONS_PATH)
-    location_names_df = location_names_df[['region_code', 'region_name']]
-    time_series_df = joined_df.merge(location_names_df, on=['region_code'], how='inner')
-    identifier_cols = ['region_code', 'region_name', 'date']
-    time_series_df_cols = [c for c in time_series_df.columns if c not in identifier_cols]
-    time_series_df = time_series_df[identifier_cols + time_series_df_cols]
-    time_series_df.sort_values(by=['region_code', 'date'])
-    return time_series_df
+    if joined_df is None:
+        logging.warning('No dataframe loaded for any data type, get_time_series_df returning None.')
+        return None
+    else:
+        location_names_df = pd.read_csv(LOCATIONS_PATH)
+        location_names_df = location_names_df[['region_code', 'region_name']]
+        time_series_df = joined_df.merge(location_names_df, on=['region_code'], how='inner')
+        identifier_cols = ['region_code', 'region_name', 'date']
+        time_series_df_cols = [c for c in time_series_df.columns if c not in identifier_cols]
+        time_series_df = time_series_df[identifier_cols + time_series_df_cols]
+        time_series_df.sort_values(by=['region_code', 'date'])
+        return time_series_df

@@ -37,11 +37,11 @@ attribution:
     source_name: 'COVID-19 Colombia'
     main_link: 'https://github.com/dfuribez/COVID-19-Colombia'
     data_link: 'https://github.com/dfuribez/COVID-19-Colombia'
-  description: 'Data is automatically downloaded from the linked github repository, which is sourced from datos.gov.co. Data for Colombia consists of time series data for current hospitalizations and ICU cases.'
-  data_modifications: None
 license:
   name: 'Creative Commons Attribution-ShareAlike 4.0 International'
   file: 'docs/license_files/cc-by-sa-4.0'
   link: 'https://creativecommons.org/licenses/by-sa/4.0/'
   cc_by: False
   cc_by_sa: True
+  cc_by_nc: False
+  google_tos: False
