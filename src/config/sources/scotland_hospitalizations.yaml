@@ -25,3 +25,5 @@ license:
   link: 'http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
   cc_by: True
   cc_by_sa: False
+  cc_by_nc: False
+  google_tos: False

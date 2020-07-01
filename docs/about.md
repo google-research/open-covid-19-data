@@ -7,9 +7,10 @@ In particular, we support data that comes in three formats: data that can be dow
 ## To use the data
 
 ##### Latest data
-If you just want to use the latest data for models, visualizations, or research, we provide three aggregated data files under three different licenses:
-- The CC-BY data can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/cc_by/aggregated_cc_by.csv)
-- The CC-BY-SA data can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/cc_by_sa/aggregated_cc_by_sa.csv).
+If you just want to use the latest data for models, visualizations, or research, we provide four aggregated data files under four different licenses. This is to provide you with options so that you can use data with a license that is acceptable for your use case, while respecting the original licenses of the data sources.
+- The CC-BY aggregation can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/cc_by/aggregated_cc_by.csv)
+- The CC-BY-SA aggregation can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/cc_by_sa/aggregated_cc_by_sa.csv).
+- The CC-BY-NC aggregation can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/cc_by_nc/aggregated_cc_by_nc.csv).
 - The Google TOS data can be downloaded from [this link](https://raw.githubusercontent.com/google-research/open-covid-19-data/master/data/exports/google_tos/aggregated_google_tos.csv). In order to download or use the data or reports, you must agree to the [Google Terms of Service](https://policies.google.com/terms).
 
 ##### Versioned data

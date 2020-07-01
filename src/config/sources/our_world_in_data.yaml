@@ -54,3 +54,5 @@ license:
   link: 'https://creativecommons.org/licenses/by/4.0/'
   cc_by: True
   cc_by_sa: False
+  cc_by_nc: False
+  google_tos: False

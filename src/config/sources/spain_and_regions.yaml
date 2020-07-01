@@ -28,7 +28,6 @@ load:
     date_format: '%d/%m/%Y'
   regions:
     level_1_region_code: 'ESP'
-    mapping_file: 'data/exports/locations/locations.csv'
     mapping_keys:
       local_alpha_code: 'CCAA'
 data:
@@ -49,3 +48,5 @@ attribution:
 license:
   cc_by: True
   cc_by_sa: False
+  cc_by_nc: False
+  google_tos: False

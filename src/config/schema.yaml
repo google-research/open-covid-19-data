@@ -1,0 +1,101 @@
+# Copyright 2020 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+fetch: any(
+  include('manual_fetch', strict=True),
+  include('automatic_fetch', strict=True),
+  include('scraped_fetch', strict=True), required=False)
+data: map(required=False)  # doesn't validate which fields are present
+load: include('load_fields', strict=True, required=False)
+license: any(
+  include('with_license', strict=True),
+  include('without_license', strict=True), required=True)
+attribution: any(
+  include('source_attribution', strict=True),
+  include('aggregated_attribution', strict=True), required=True)
+---
+load_fields:
+  function: str(required=True)
+  dates: include('dates_fields', strict=True, required=True)
+  read: include('read_fields', strict=True, required=False)
+  regions: include('regions_fields', strict=True, required=False)
+---
+read_fields:
+  delimiter: str(required=False)
+  skipfooter: int(required=False)
+  sheet_name: str(required=False)
+  skiprows: int(required=False)
+  encoding: str(required=False)
+---
+dates_fields:
+  parse_function: str(required=True)
+  date_format: str(required=False)
+  columns: list(required=False)
+---
+regions_fields:
+  level_1_region_code: str(required=False)
+  single_region_code: str(required=False)
+  mapping_keys: map(required=False)
+  aggregate_by: str(required=False)
+  omit: map(required=False)
+---
+manual_fetch:
+  method: enum('MANUAL_DOWNLOAD', required=True)
+  file: str(required=True)
+  source_url: str(required=True)
+  instructions: str(required=True)
+---
+automatic_fetch:
+  source_url: str(required=True)
+  file: str(required=True)
+  method: enum('AUTOMATIC_DOWNLOAD', required=True)
+---
+scraped_fetch:
+  method: enum('SCRAPED', required=True)
+  file: str(required=True)
+---
+with_license:
+  name: str(required=True)
+  file: str(required=True)  # should be a path, but this just requires that it's a string
+  link: str(required=True)
+  cc_by: bool(required=True)
+  cc_by_sa: bool(required=True)
+  cc_by_nc: bool(required=True)
+  google_tos: bool(required=False)
+without_license:
+  cc_by: bool(required=True)
+  cc_by_sa: bool(required=True)
+  cc_by_nc: bool(required=True)
+  google_tos: bool(required=True)
+---
+source_attribution:
+  title: str(required=True)
+  source_name: str(required=True)
+  main_link: str(required=False)  # google_mobility_reports doesn't have main_link field
+  data_link: str(required=True)
+  description: str(required=False)
+  citation: str(required=False)
+  terms: str(required=False)
+  copyright_notice: str(required=False)  # used by japan_hospitalizations
+  help_center: str(required=False)  # used by google_mobility_reports
+---
+aggregated_attribution:  # used by colombia_hospitalizations
+  title: str(required=True)
+  original: include('original_source_attribution', strict=True, required=True)
+  aggregated_by: include('original_source_attribution', strict=True, required=True)
+---
+original_source_attribution:
+  source_name: str(required=True)
+  main_link: str(required=True)
+  data_link: str(required=True)
