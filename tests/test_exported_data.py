@@ -24,7 +24,8 @@ PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
 EXPORT_DIR = os.path.join(ROOT_DIR, 'data/exports')
 EXPORT_FILES = ['cc_by/aggregated_cc_by.csv',
                 'cc_by_sa/aggregated_cc_by_sa.csv',
-                'google_tos/aggregated_google_tos.csv']
+                'google_tos/aggregated_google_tos.csv',
+                'cc_by_nc/aggregated_cc_by_nc.csv']
 
 sys.path.append(PIPELINE_DIR)
 

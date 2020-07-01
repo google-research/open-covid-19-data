@@ -33,6 +33,17 @@ def join_region_codes(data_df, params):
         data_df = join_on_keys(data_df, reg_params)
     return data_df
 
+# This drops states (which have county = Unknown, state = state name, fips = NaN)
+# It also drops New York City (which has county = New York City, state = New York, fips = NaN)
+def join_nytimes_region_codes(data_df, params):
+    locations_df = pd.read_csv(LOCATIONS_PATH)
+    fips_data_df = data_df[data_df['fips'].notna()]
+    fips_locations = locations_df[locations_df['region_code_type'] == 'fips_6-4']
+    fips_data_df['padded_fips_code'] = fips_data_df['fips'].apply(lambda x: str(int(x)).zfill(5))
+    fips_data_joined = fips_data_df.merge(fips_locations, left_on=['padded_fips_code'],
+                                          right_on=['leaf_region_code'], how='left')
+    return fips_data_joined
+
 def join_mobility_region_codes(data_df, params):
     locations_df = pd.read_csv(LOCATIONS_PATH)
     iso1_data = data_df[
