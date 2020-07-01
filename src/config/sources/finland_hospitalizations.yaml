@@ -13,7 +13,21 @@
 # limitations under the License.
 
 ---
-
+fetch:
+  method: 'SCRAPED'
+  file: 'finland_hospitalizations.csv'
+load:
+  function: 'default_load_function'
+  regions:
+    single_region_code: 'FIN'
+  dates:
+    columns: ['date']
+    parse_function: 'default'
+data:
+  hospitalized:
+    current: 'hospitalized_current'
+  icu:
+    current: 'icu_current'
 attribution:
   title: 'Finland'
   source_name: 'Finnish institute for health and welfare'

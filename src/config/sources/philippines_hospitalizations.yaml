@@ -13,6 +13,23 @@
 # limitations under the License.
 
 ---
+fetch:
+  method: 'SCRAPED'
+  file: 'philippines_hospitalizations.csv'
+load:
+  function: 'default_load_function'
+  regions:
+    single_region_code: 'PHL'
+  dates:
+    columns: ['date']
+    parse_function: 'default'
+data:
+  hospitalized:
+    current: 'hospitalized_current'
+  icu:
+    current: 'icu_current'
+  ventilator:
+    current: 'ventilator_current'
 attribution:
   title: 'Philippines'
   source_name: 'Philippines Department of Health'
