@@ -62,6 +62,7 @@ def get_sources_with_data():
 
 def read_config(cc_by=True,
                 cc_by_sa=False,
+                cc_by_nc=False,
                 google_tos=False,
                 filter_no_load_func=True,
                 filter_no_data=True,
@@ -86,7 +87,8 @@ def read_config(cc_by=True,
             or (filter_no_data and (source_key not in sources_with_data))
             or (not cc_by and params['license']['cc_by'])
             or (not cc_by_sa and params['license']['cc_by_sa'])
-            or (not google_tos and 'google_tos' in params['license'] and params['license']['google_tos'])):
+            or (not cc_by_nc and params['license']['cc_by_nc'])
+            or (not google_tos and params['license']['google_tos'])):
             continue
         # pylint: enable=bad-continuation
         config_dict[source_key] = params

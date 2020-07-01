@@ -41,3 +41,5 @@ license:
   link: 'https://github.com/kaz-ogiwara/covid19/blob/master/LICENSE'
   cc_by: True
   cc_by_sa: False
+  cc_by_nc: False
+  google_tos: False
