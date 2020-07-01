@@ -25,6 +25,8 @@ ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../'))
 PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
 SPREADSHEET_DIR = os.path.join(ROOT_DIR, 'data/inputs/scraped/spreadsheets')
 SOURCES_DIR = os.path.join(ROOT_DIR, 'src/config/sources')
+DOWNLOADED_DIR = os.path.join(ROOT_DIR, 'data/inputs/downloaded')
+SCRAPED_DIR = os.path.join(ROOT_DIR, 'data/inputs/scraped')
 
 sys.path.append(PIPELINE_DIR)
 
@@ -38,8 +40,21 @@ def test_data_is_whitelisted():
         assert source in whitelist
 
 # Test that yaml files for config sources are on the whitelist
-def test_source_files_are_whitelist():
+def test_source_files_are_whitelisted():
     whitelist = config.read_whitelist()
     for source_file_name in os.listdir(SOURCES_DIR):
+        source_key = os.path.splitext(source_file_name)[0]
+        assert source_key in whitelist
+
+# Test that downloaded and scraped inputs are on the whitelist
+def test_inputs_are_whitelisted():
+    whitelist = config.read_whitelist()
+    for source_file_name in os.listdir(DOWNLOADED_DIR):
+        source_key = os.path.splitext(source_file_name)[0]
+        assert source_key in whitelist
+
+    for source_file_name in os.listdir(SCRAPED_DIR):
+        if source_file_name == 'spreadsheets':
+          continue
         source_key = os.path.splitext(source_file_name)[0]
         assert source_key in whitelist
