@@ -34,3 +34,4 @@ concat_df = pd.concat([fips_df, iso_level_1_df, iso_level_2_df, other_df])
 st.write(concat_df)
 
 concat_df.to_csv(LOCATIONS_PATH, index=False)
+print('Wrote concatenated locations file to %s.' % LOCATIONS_PATH)

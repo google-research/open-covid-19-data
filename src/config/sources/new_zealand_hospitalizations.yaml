@@ -13,6 +13,21 @@
 # limitations under the License.
 
 ---
+fetch:
+  method: 'SCRAPED'
+  file: 'new_zealand_hospitalizations.csv'
+load:
+  function: 'default_load_function'
+  regions:
+    single_region_code: 'NZL'
+  dates:
+    columns: ['date']
+    parse_function: 'default'
+data:
+  hospitalized:
+    current: 'hospitalized_current'
+  icu:
+    current: 'icu_current'
 attribution:
   title: 'New Zealand'
   source_name: 'New Zealand Ministry of Health'
@@ -21,3 +36,5 @@ attribution:
 license:
   cc_by: True
   cc_by_sa: False
+  cc_by_nc: False
+  google_tos: False

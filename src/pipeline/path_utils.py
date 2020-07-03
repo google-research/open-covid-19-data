@@ -15,6 +15,7 @@
 # limitations under the License.
 
 import datetime
+import logging
 import os
 
 
@@ -53,7 +54,11 @@ def all_data_most_to_least_recent(params):
     return all_subdirs_most_to_least_recent(directory_path, file_name)
 
 def all_subdirs_most_to_least_recent(directory_path, file_name):
-    _, subdirs, _ = next(os.walk(directory_path))
+    try:
+        _, subdirs, _ = next(os.walk(directory_path))
+    except StopIteration:
+        logging.warning('No subdirectories found for directory_path %s: skipping.', directory_path)
+        subdirs = []
     subdirs_that_are_dates = []
     for sd in subdirs:
         try:

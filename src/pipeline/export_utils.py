@@ -14,8 +14,13 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+import logging
 import join_data
 
 def export_data(config_dict=None, export_path=None):
     time_series_df = join_data.get_time_series_df(config_dict)
-    time_series_df.to_csv(export_path, index=False)
+    if time_series_df is None:
+        logging.warning('time_series_df is None, will not export to %s. config_dict keys: %s',
+                        export_path, config_dict.keys())
+    else:
+        time_series_df.to_csv(export_path, index=False)

@@ -13,6 +13,27 @@
 # limitations under the License.
 
 ---
+fetch:
+  method: 'SCRAPED'
+  file: 'moldova_hospitalizations.csv'
+load:
+  function: 'default_load_function'
+  regions:
+    single_region_code: 'MDA'
+  dates:
+    columns: ['date']
+    parse_function: 'default'
+data:
+  hospitalized:
+    current: 'hospitalized_current'
+    new: 'hospitalized_new'
+  icu:
+    current: 'icu_current'
+  ventilator:
+    current: 'ventilator_current'
+  discharged:
+    new: 'discharged_new'
+    cumulative: 'discharged_cumulative'
 attribution:
   title: 'Moldova'
   source_name: 'Ministry of Health, Labour and Social Protection'
@@ -21,3 +42,5 @@ attribution:
 license:
   cc_by: True
   cc_by_sa: False
+  cc_by_nc: False
+  google_tos: False

@@ -22,9 +22,6 @@ Original data source: GOV.CO (https://www.datos.gov.co)
 Link to original data:
 https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data
 Data aggregated by: COVID-19 Colombia (https://github.com/dfuribez/COVID-19-Colombia)
-Description: Data is automatically downloaded from the linked github repository, which is sourced
-from datos.gov.co. Data for Colombia consists of time series data for current hospitalizations and
-ICU cases.
 License: Creative Commons Attribution-ShareAlike 4.0 International
 (https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -49,6 +46,13 @@ Source name: Statens Serum Institute (https://www.sst.dk/)
 Link to data: https://www.sst.dk/da/corona/tal-og-overvaagning
 Description: Data is manually scraped from charts at the source link. Data for Denmark consists of
 time series data for current hospitalizations and ICU cases.
+
+Finland
+Source name: Finnish institute for health and welfare (https://thl.fi/en/web/thlfi-en)
+Link to data:
+https://thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates
+License: Creative Commons Attribution 4.0 International
+(https://creativecommons.org/licenses/by/4.0/)
 
 France
 Source name: data.gouv.fr (https://www.data.gouv.fr/)
@@ -98,12 +102,22 @@ time series data for current hospitalizations and ICU cases.
 License: Creative Commons Zero 1.0 Universal
 (https://creativecommons.org/share-your-work/public-domain/cc0/)
 
+Moldova
+Source name: Ministry of Health, Labour and Social Protection (https://msmps.gov.md/)
+Link to data: https://msmps.gov.md/ro/advanced-page-type/comunicate-de-presa
+
 Netherlands
 Source name: National Institute for Public Health and The Environment
 (https://www.rivm.nl/coronavirus-covid-19/grafieken)
 Link to data: https://www.rivm.nl/coronavirus-covid-19/grafieken
 Description: Data is downloaded manually from the source link. Data for the Netherlands consists of
 time series data for current hospitalizations.
+
+New Zealand
+Source name: New Zealand Ministry of Health
+(https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus)
+Link to data:
+https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases
 
 Norway
 Source name: Norwegian Institute of Public Health (www.fhi.no)
@@ -133,6 +147,10 @@ Citation:
 Thomas Hale, Sam Webster, Anna Petherick, Toby Phillips, and Beatriz Kira. (2020). Oxford COVID-19
 Government Response Tracker. Blavatnik School of Government.
 ```
+
+Philippines
+Source name: Philippines Department of Health (https://www.doh.gov.ph/)
+Link to data: http://www.doh.gov.ph/covid19tracker
 
 Spain
 Source name: Ministerio de Sanidad, Consumo y Bienestar Social

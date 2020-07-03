@@ -48,3 +48,5 @@ license:
   link: 'https://www.etalab.gouv.fr/licence-ouverte-open-licence'
   cc_by: True
   cc_by_sa: False
+  cc_by_nc: False
+  google_tos: False

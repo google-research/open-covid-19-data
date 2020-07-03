@@ -36,10 +36,11 @@ attribution:
   main_link: 'https://www.covid19data.com.au/'
   data_link: 'https://www.covid19data.com.au/hospitalisations-icu'
   description: 'Data is scraped manually from the charts provided at the source link. Data for Australia consists of time series data for current hospitalizations, ICU and ventilator cases.'
-  data_modifications: None
 license:
   name: 'Creative Commons Attribution 4.0 International'
   file: 'docs/license_files/cc-by-4.0'
   link: 'https://creativecommons.org/licenses/by/4.0/'
   cc_by: True
   cc_by_sa: False
+  cc_by_nc: False
+  google_tos: False

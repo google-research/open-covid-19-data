@@ -39,6 +39,11 @@ def default_load_function(data_path, params):
     df = load_utils.compute_cumulative_from_new(df, params)
     return df
 
+def nytimes_load_function(data_path, params):
+    df = load_utils.default_read_function(data_path, params)
+    df = region_utils.join_nytimes_region_codes(df, params)
+    return df
+
 def mobility_load_function(data_path, params):
     df = load_utils.default_read_function(data_path, params)
     df = region_utils.join_mobility_region_codes(df, params)
