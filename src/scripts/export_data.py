@@ -33,8 +33,8 @@ import config
 
 args = args_utils.get_parser().parse_args()
 
-if not args.whitelist:
-    logging.warning('RUNNING WITHOUT THE WHITELIST! DO NOT MAKE A PULL REQUEST WITH THE OUTPUT!')
+if not args.allowlist:
+    logging.warning('RUNNING WITHOUT THE ALLOWLIST! DO NOT MAKE A PULL REQUEST WITH THE OUTPUT!')
 
 # For Google TOS, this script only updates the exported data, but doesn't modify docs or licenses.
 # The Google TOS license file in data/exports/sources_google_tos is a static file not an aggregated license.
@@ -56,15 +56,15 @@ EXPORT_PATH_CC_BY_SA_LICENSE = os.path.join(ROOT_DIR, 'data/exports/cc_by_sa/LIC
 EXPORT_PATH_CC_BY_NC_LICENSE = os.path.join(ROOT_DIR, 'data/exports/cc_by_nc/LICENSE')
 
 sources_all = config.read_config(
-    cc_by=True, cc_by_sa=True, cc_by_nc=True, google_tos=True, filter_not_approved=args.whitelist)
+    cc_by=True, cc_by_sa=True, cc_by_nc=True, google_tos=True, filter_not_approved=args.allowlist)
 sources_cc_by = config.read_config(
-    cc_by=True, cc_by_sa=False, cc_by_nc=False, google_tos=False, filter_not_approved=args.whitelist)
+    cc_by=True, cc_by_sa=False, cc_by_nc=False, google_tos=False, filter_not_approved=args.allowlist)
 sources_cc_by_sa = config.read_config(
-    cc_by=True, cc_by_sa=True, cc_by_nc=False, google_tos=False, filter_not_approved=args.whitelist)
+    cc_by=True, cc_by_sa=True, cc_by_nc=False, google_tos=False, filter_not_approved=args.allowlist)
 sources_cc_by_nc = config.read_config(
-    cc_by=True, cc_by_sa=False, cc_by_nc=True, google_tos=False, filter_not_approved=args.whitelist)
+    cc_by=True, cc_by_sa=False, cc_by_nc=True, google_tos=False, filter_not_approved=args.allowlist)
 sources_google_tos = config.read_config(
-    cc_by=False, cc_by_sa=False, cc_by_nc=False, google_tos=True, filter_not_approved=args.whitelist)
+    cc_by=False, cc_by_sa=False, cc_by_nc=False, google_tos=True, filter_not_approved=args.allowlist)
 
 # Step 1: Write source docs
 
