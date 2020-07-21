@@ -18,7 +18,7 @@ import yaml
 import os
 
 DATA_YAML = os.path.abspath(os.path.join(__file__, '../../config/data.yaml'))
-WHITELIST_YAML = os.path.abspath(os.path.join(__file__, '../../config/whitelist.yaml'))
+allowlist_YAML = os.path.abspath(os.path.join(__file__, '../../config/allowlist.yaml'))
 SOURCES_DIR = os.path.abspath(os.path.join(__file__, '../../config/sources'))
 DATA_INPUTS_DIR = os.path.abspath(os.path.join(__file__, '../../../data/inputs/'))
 
@@ -36,8 +36,8 @@ def all_data_schema_columns():
         column_list.extend(column_values)
     return column_list
 
-def read_whitelist():
-    with open(WHITELIST_YAML) as file:
+def read_allowlist():
+    with open(allowlist_YAML) as file:
         return yaml.load(file, Loader=yaml.FullLoader)
 
 def all_region_columns():
@@ -69,12 +69,12 @@ def read_config(cc_by=True,
                 filter_not_approved=True,
                 filter_by_fetch_method=None):
     config_dict = {}
-    whitelist = read_whitelist()
+    allowlist = read_allowlist()
     sources_with_data = get_sources_with_data()
     for source_file_name in os.listdir(SOURCES_DIR):
         source_file = os.path.join(SOURCES_DIR, source_file_name)
         source_key = os.path.splitext(source_file_name)[0]
-        if filter_not_approved and source_key not in whitelist:
+        if filter_not_approved and source_key not in allowlist:
             continue
         with open(source_file) as file:
             params = yaml.load(file, Loader=yaml.FullLoader)

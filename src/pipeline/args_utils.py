@@ -18,11 +18,11 @@ import argparse
 
 def get_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--whitelist', '-w', dest='whitelist', action='store_true',
-                        help='Filter configs against whitelist.yaml.')
-    parser.add_argument('--no-whitelist', dest='whitelist', action='store_false',
-                        help='Disable filtering of configs against whitelist.yaml.')
+    parser.add_argument('--allowlist', '-w', dest='allowlist', action='store_true',
+                        help='Filter configs against allowlist.yaml.')
+    parser.add_argument('--no-allowlist', dest='allowlist', action='store_false',
+                        help='Disable filtering of configs against allowlist.yaml.')
     parser.add_argument('--source', nargs=1, help='Specify a single source.')
     parser.add_argument('--date', nargs=1, help='Specify a single date in YYYY-MM-DD format.')
-    parser.set_defaults(whitelist=True)
+    parser.set_defaults(allowlist=True)
     return parser
