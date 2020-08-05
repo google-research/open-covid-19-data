@@ -18,7 +18,7 @@ import yaml
 import os
 
 DATA_YAML = os.path.abspath(os.path.join(__file__, '../../config/data.yaml'))
-allowlist_YAML = os.path.abspath(os.path.join(__file__, '../../config/allowlist.yaml'))
+ALLOWLIST_YAML = os.path.abspath(os.path.join(__file__, '../../config/allowlist.yaml'))
 SOURCES_DIR = os.path.abspath(os.path.join(__file__, '../../config/sources'))
 DATA_INPUTS_DIR = os.path.abspath(os.path.join(__file__, '../../../data/inputs/'))
 
@@ -37,7 +37,7 @@ def all_data_schema_columns():
     return column_list
 
 def read_allowlist():
-    with open(allowlist_YAML) as file:
+    with open(ALLOWLIST_YAML) as file:
         return yaml.load(file, Loader=yaml.FullLoader)
 
 def all_region_columns():
