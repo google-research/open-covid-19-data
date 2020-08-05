@@ -33,8 +33,8 @@ import config
 
 args = args_utils.get_parser().parse_args()
 
-if not args.whitelist:
-    logging.warning('RUNNING WITHOUT THE WHITELIST! DO NOT MAKE A PULL REQUEST WITH THE OUTPUT!')
+if not args.allowlist:
+    logging.warning('RUNNING WITHOUT THE ALLOWLIST! DO NOT MAKE A PULL REQUEST WITH THE OUTPUT!')
 
 # Iterate through all the sources, and for anything that is an AUTOMATIC_DOWNLOAD
 # get the file from the source url and store it at the desired path.
@@ -43,7 +43,7 @@ automatic_downloads = config.read_config(cc_by=True, cc_by_sa=True, google_tos=T
                                          filter_by_fetch_method='AUTOMATIC_DOWNLOAD',
                                          filter_no_load_func=False,
                                          filter_no_data=False,
-                                         filter_not_approved=args.whitelist)
+                                         filter_not_approved=args.allowlist)
 todays_date = datetime.today().strftime('%Y-%m-%d')
 
 for k in automatic_downloads:

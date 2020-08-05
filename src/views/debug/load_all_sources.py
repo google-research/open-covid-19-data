@@ -37,7 +37,7 @@ config_dict = config.read_config(cc_by=True, cc_by_sa=True, google_tos=True, cc_
                                  filter_by_fetch_method=None,
                                  filter_no_load_func=False,
                                  filter_no_data=False,
-                                 filter_not_approved=args.whitelist)
+                                 filter_not_approved=args.allowlist)
 
 if args.source:
     filtered_config_dict = {}
