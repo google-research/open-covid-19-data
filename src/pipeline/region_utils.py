@@ -47,9 +47,18 @@ def join_nytimes_region_codes(data_df, params):
 def join_mobility_region_codes(data_df, params):
     locations_df = pd.read_csv(LOCATIONS_PATH)
     iso1_data = data_df[
-        data_df['country_region_code'].notna() & data_df['sub_region_1'].isna() & data_df['sub_region_2'].isna()]
-    iso2_data = data_df[data_df['iso_3166_2_code'].notna() & data_df['census_fips_code'].isna()]
-    fips_data = data_df[data_df['iso_3166_2_code'].isna() & data_df['census_fips_code'].notna()]
+        data_df['country_region_code'].notna() &
+        data_df['sub_region_1'].isna() &
+        data_df['sub_region_2'].isna() &
+        data_df['metro_area'].isna()]
+    iso2_data = data_df[
+        data_df['iso_3166_2_code'].notna() &
+        data_df['census_fips_code'].isna() &
+        data_df['metro_area'].isna()]
+    fips_data = data_df[
+        data_df['iso_3166_2_code'].isna() &
+        data_df['census_fips_code'].notna() &
+        data_df['metro_area'].isna()]
     iso1_locations = locations_df[locations_df['region_code_type'] == 'iso_3166-1']
     iso1_joined = iso1_data.merge(iso1_locations, left_on=['country_region_code'],
                                   right_on=['country_iso_3166-1_alpha-2'], how='left')

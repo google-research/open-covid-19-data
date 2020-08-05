@@ -17,6 +17,7 @@
 import os
 import pandas as pd
 import sys
+import streamlit as st
 
 CURRENT_DIR = os.path.dirname(__file__)
 ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../'))
@@ -37,3 +38,5 @@ def test_location_and_date_unique():
         duplicate_info = duplicates[['region_code', 'date']]
         print(duplicate_info)
         assert duplicates.shape[0] == 0
+
+test_location_and_date_unique()
