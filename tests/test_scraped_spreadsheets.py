@@ -57,9 +57,9 @@ def test_spreadsheet_subdirectory_contents():
             'The file in directory {} should be named `hospitalizations.xlsx`.'.format(subdir_path)
 
 # Each hospitalizations.xlsx spreadsheet should contain only tabs
-# where the tab names are on the whitelist
-def test_spreadsheet_tabs_against_whitelist():
-    whitelist = config.read_whitelist()
+# where the tab names are on the allowlist
+def test_spreadsheet_tabs_against_allowlist():
+    allowlist = config.read_allowlist()
     dirpath, subdirs, filenames = next(os.walk(SPREADSHEET_DIR))
     for subdir in subdirs:
         subdir_path = os.path.join(dirpath, subdir)
@@ -68,10 +68,10 @@ def test_spreadsheet_tabs_against_whitelist():
         sheet_names = xl.sheet_names
         print('File: ', hosp_file)
         print('Sheet names in spreadsheet: ', sheet_names)
-        print('Sheet names allowed in whitelist: ', whitelist)
+        print('Sheet names allowed in allowlist: ', allowlist)
         for sheet in sheet_names:
-            assert sheet in whitelist, \
-            "Spreadsheet {} contains a sheet name {} that is not on the whitelist.".format(hosp_file, sheet)
+            assert sheet in allowlist, \
+            "Spreadsheet {} contains a sheet name {} that is not on the allowlist.".format(hosp_file, sheet)
 
 # Columns in the spreadsheets should only be names that exist in data.yaml
 def test_spreadsheet_column_names_against_schema():

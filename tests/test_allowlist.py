@@ -32,29 +32,29 @@ sys.path.append(PIPELINE_DIR)
 
 import config
 
-# Test that data directories are on the whitelist
-def test_data_is_whitelisted():
+# Test that data directories are on the allowlist
+def test_data_is_allowed():
     sources_with_data = config.get_sources_with_data()
-    whitelist = config.read_whitelist()
+    allowlist = config.read_allowlist()
     for source in sources_with_data:
-        assert source in whitelist
+        assert source in allowlist
 
-# Test that yaml files for config sources are on the whitelist
-def test_source_files_are_whitelisted():
-    whitelist = config.read_whitelist()
+# Test that yaml files for config sources are on the allowlist
+def test_source_files_are_allowed():
+    allowlist = config.read_allowlist()
     for source_file_name in os.listdir(SOURCES_DIR):
         source_key = os.path.splitext(source_file_name)[0]
-        assert source_key in whitelist
+        assert source_key in allowlist
 
-# Test that downloaded and scraped inputs are on the whitelist
-def test_inputs_are_whitelisted():
-    whitelist = config.read_whitelist()
+# Test that downloaded and scraped inputs are on the allowlist
+def test_inputs_are_allowed():
+    allowlist = config.read_allowlist()
     for source_file_name in os.listdir(DOWNLOADED_DIR):
         source_key = os.path.splitext(source_file_name)[0]
-        assert source_key in whitelist
+        assert source_key in allowlist
 
     for source_file_name in os.listdir(SCRAPED_DIR):
         if source_file_name == 'spreadsheets':
           continue
         source_key = os.path.splitext(source_file_name)[0]
-        assert source_key in whitelist
+        assert source_key in allowlist
