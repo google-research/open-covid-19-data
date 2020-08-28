@@ -53,7 +53,7 @@ def test_spreadsheet_subdirectory_contents():
             'The file in directory {} should be named `hospitalizations.xlsx`.'.format(subdir_path)
 
 # Each hospitalizations.xlsx spreadsheet should contain only tabs
-# where the tab names are on the whitelist
+# where the tab names are on the allowlist
 def test_spreadsheet_tabs_against_allowlist():
     allowlist = config.read_allowlist()
     dirpath, subdirs, filenames = next(os.walk(path_utils.path_to('spreadsheets_dir')))
