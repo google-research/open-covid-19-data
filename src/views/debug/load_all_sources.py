@@ -20,9 +20,7 @@ import streamlit as st
 import sys
 import os
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../../'))
-PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
+PIPELINE_DIR = os.path.join(os.path.dirname(__file__), '../../../', 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 

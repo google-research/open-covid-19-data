@@ -20,10 +20,14 @@ import requests
 import pandas as pd
 import streamlit as st
 import os
+import sys
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../../'))
-LOCATIONS_INTERMEDIATE_DIR = os.path.join(ROOT_DIR, 'data/inputs/static/locations/intermediate')
+PIPELINE_DIR = os.path.join(os.path.dirname(__file__), '../../', 'src/pipeline')
+
+sys.path.append(PIPELINE_DIR)
+
+import path_utils
+
 
 ################################################################################
 ##### Query wikidata for all ISO-3166-1 countries                         ######
@@ -134,4 +138,6 @@ country_df['datacommons_id'] = country_df.apply(lambda x: 'country/' + x['region
 st.write(country_df)
 st.write(country_df.shape)
 
-country_df.to_csv(os.path.join(LOCATIONS_INTERMEDIATE_DIR, 'iso_3166_1_locations.csv'), index=False)
+country_df.to_csv(
+    os.path.join(path_utils.path_to('locations_intermediate_dir'), 'iso_3166_1_locations.csv'), index=False)
+

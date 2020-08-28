@@ -17,21 +17,23 @@
 import streamlit as st
 import pandas as pd
 import os
+import sys
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../../'))
-LOCATIONS_INTERMEDATE_DIR = os.path.join(ROOT_DIR, 'data/inputs/static/locations/intermediate')
-LOCATIONS_EXPORT_DIR = os.path.join(ROOT_DIR, 'data/exports/locations')
-LOCATIONS_PATH = os.path.join(LOCATIONS_EXPORT_DIR, 'locations.csv')
+PIPELINE_DIR = os.path.join(os.path.dirname(__file__), '../../../', 'src/pipeline')
+
+sys.path.append(PIPELINE_DIR)
+
+import path_utils
+
 
 # Load FIPS codes as strings so you don't lose the leading zeros
-fips_df = pd.read_csv(os.path.join(LOCATIONS_INTERMEDATE_DIR, 'fips_locations.csv'), dtype=str)
-iso_level_1_df = pd.read_csv(os.path.join(LOCATIONS_INTERMEDATE_DIR, 'iso_3166_1_locations.csv'))
-iso_level_2_df = pd.read_csv(os.path.join(LOCATIONS_INTERMEDATE_DIR, 'iso_3166_2_locations.csv'))
-other_df = pd.read_csv(os.path.join(LOCATIONS_INTERMEDATE_DIR, 'other_locations.csv'))
+fips_df = pd.read_csv(os.path.join(path_utils.path_to('locations_intermediate_dir'), 'fips_locations.csv'), dtype=str)
+iso_level_1_df = pd.read_csv(os.path.join(path_utils.path_to('locations_intermediate_dir'), 'iso_3166_1_locations.csv'))
+iso_level_2_df = pd.read_csv(os.path.join(path_utils.path_to('locations_intermediate_dir'), 'iso_3166_2_locations.csv'))
+other_df = pd.read_csv(os.path.join(path_utils.path_to('locations_intermediate_dir'), 'other_locations.csv'))
 
 concat_df = pd.concat([fips_df, iso_level_1_df, iso_level_2_df, other_df])
 st.write(concat_df)
 
-concat_df.to_csv(LOCATIONS_PATH, index=False)
-print('Wrote concatenated locations file to %s.' % LOCATIONS_PATH)
+concat_df.to_csv(path_utils.path_to('locations_csv'), index=False)
+print('Wrote concatenated locations file to %s.' % path_utils.path_to('locations_csv'))

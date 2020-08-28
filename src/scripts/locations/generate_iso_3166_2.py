@@ -20,18 +20,21 @@ import requests
 import pandas as pd
 import streamlit as st
 import os
+import sys
 import datacommons as dc
 
 dc.set_api_key(os.environ['DATACOMMONS_API_KEY'])
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../../'))
-LOCATIONS_INPUT_DIR = os.path.join(ROOT_DIR, 'data/inputs/static/locations/raw')
-LOCATIONS_INTERMEDATE_DIR = os.path.join(ROOT_DIR, 'data/inputs/static/locations/intermediate')
+PIPELINE_DIR = os.path.join(os.path.dirname(__file__), '../../', 'src/pipeline')
 
-locations_df = pd.read_csv(os.path.join(LOCATIONS_INPUT_DIR, 'iso_3166_2_locations_raw.csv'))
-aggregations_df = pd.read_csv(os.path.join(LOCATIONS_INPUT_DIR, 'iso_3166_2_aggregations.csv'))
-country_df = pd.read_csv(os.path.join(LOCATIONS_INTERMEDATE_DIR, 'iso_3166_1_locations.csv'))
+sys.path.append(PIPELINE_DIR)
+
+import path_utils
+
+
+locations_df = pd.read_csv(os.path.join(path_utils.path_to('locations_input_dir'), 'iso_3166_2_locations_raw.csv'))
+aggregations_df = pd.read_csv(os.path.join(path_utils.path_to('locations_input_dir'), 'iso_3166_2_aggregations.csv'))
+country_df = pd.read_csv(os.path.join(path_utils.path_to('locations_intermediate_dir'), 'iso_3166_1_locations.csv'))
 
 
 country_df = country_df[['country_iso_3166-1_alpha-2', 'country_iso_3166-1_alpha-3', 'country_iso_3166-1_numeric']]
@@ -101,14 +104,15 @@ wikidata_df = wikidata_df.rename(columns={
 wikidata_df['wikidata_id'] = wikidata_df['wikidata_id'].apply(lambda s: s.split('/')[-1])
 wikidata_df = wikidata_df[['wikidata_id', 'region_code', 'wikidata_name']]
 wiki_duplicates = wikidata_df[wikidata_df['region_code'].duplicated(keep=False)]
-wiki_duplicates.to_csv(os.path.join(LOCATIONS_INTERMEDATE_DIR, 'wikidata_iso_3166_2_duplicates.csv'), index=False)
+wiki_duplicates.to_csv(
+    os.path.join(path_utils.path_to('locations_intermediate_dir'), 'wikidata_iso_3166_2_duplicates.csv'), index=False)
 st.write('Wikidata original: ')
 st.write(wikidata_df)
 st.subheader('Wikidata duplicates: ')
 st.write(wiki_duplicates)
 st.write(wiki_duplicates.count())
 
-wiki_ids_to_keep = pd.read_csv(os.path.join(LOCATIONS_INPUT_DIR, 'wikidata_canonical_ids.csv'))
+wiki_ids_to_keep = pd.read_csv(os.path.join(path_utils.path_to('locations_input_dir'), 'wikidata_canonical_ids.csv'))
 st.write(wiki_ids_to_keep)
 
 wiki_duplicates_to_discard = wiki_duplicates[~wiki_duplicates['wikidata_id'].isin(wiki_ids_to_keep['wikidata_id'])]
@@ -177,4 +181,5 @@ st.write(dc_duplicates)
 locations_df = locations_df.merge(iso_level_2_df, how='left', on=['region_code'])
 st.write(locations_df)
 
-locations_df.to_csv(os.path.join(LOCATIONS_INTERMEDATE_DIR, 'iso_3166_2_locations.csv'), index=False)
+locations_df.to_csv(
+    os.path.join(path_utils.path_to('locations_intermediate_dir'), 'iso_3166_2_locations.csv'), index=False)

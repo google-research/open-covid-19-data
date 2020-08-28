@@ -20,20 +20,17 @@ import datetime
 import pandas as pd
 import sys
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../'))
-PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
-SPREADSHEET_DIR = os.path.join(ROOT_DIR, 'data/inputs/scraped/spreadsheets')
+PIPELINE_DIR = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')), 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 
 import config
+import path_utils
 
 
-# All subdirectories within SPREADSHEET_DIR should be named
-# as '%Y-%m-%d' dates
+# All subdirectories within spreadsheets_dir should be named as '%Y-%m-%d' dates.
 def test_spreadsheet_dates():
-    _, subdirs, _ = next(os.walk(SPREADSHEET_DIR))
+    _, subdirs, _ = next(os.walk(path_utils.path_to('spreadsheets_dir')))
     print(subdirs)
     for subdir in subdirs:
         try:
@@ -41,12 +38,11 @@ def test_spreadsheet_dates():
         except ValueError:
             print('Okay value error', subdir)
             assert False, 'The subdirectory name {} in {} must be formatted as a YYYY-MM-DD date.'.format(
-                subdir, SPREADSHEET_DIR)
+                subdir, path_utils.path_to('spreadsheets_dir'))
 
-# Each subdirectory within SPREADSHEET_DIR should contain
-# exactly one file named 'hospitalizations.xlsx'
+# Each subdirectory within spreadsheets_dir should contain exactly one file named 'hospitalizations.xlsx'.
 def test_spreadsheet_subdirectory_contents():
-    dirpath, subdirs, filenames = next(os.walk(SPREADSHEET_DIR))
+    dirpath, subdirs, filenames = next(os.walk(path_utils.path_to('spreadsheets_dir')))
     for subdir in subdirs:
         subdir_path = os.path.join(dirpath, subdir)
         dir_contents = os.listdir(subdir_path)
@@ -60,7 +56,7 @@ def test_spreadsheet_subdirectory_contents():
 # where the tab names are on the allowlist
 def test_spreadsheet_tabs_against_allowlist():
     allowlist = config.read_allowlist()
-    dirpath, subdirs, filenames = next(os.walk(SPREADSHEET_DIR))
+    dirpath, subdirs, filenames = next(os.walk(path_utils.path_to('spreadsheets_dir')))
     for subdir in subdirs:
         subdir_path = os.path.join(dirpath, subdir)
         hosp_file = os.path.join(subdir_path, 'hospitalizations.xlsx')
@@ -76,7 +72,7 @@ def test_spreadsheet_tabs_against_allowlist():
 # Columns in the spreadsheets should only be names that exist in data.yaml
 def test_spreadsheet_column_names_against_schema():
     allowed_data_columns = config.all_data_schema_columns()
-    dirpath, subdirs, filenames = next(os.walk(SPREADSHEET_DIR))
+    dirpath, subdirs, filenames = next(os.walk(path_utils.path_to('spreadsheets_dir')))
     for subdir in subdirs:
         subdir_path = os.path.join(dirpath, subdir)
         hosp_file = os.path.join(subdir_path, 'hospitalizations.xlsx')
