@@ -19,20 +19,20 @@ import pandas as pd
 import sys
 import streamlit as st
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../'))
-PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
-EXPORT_DIR = os.path.join(ROOT_DIR, 'data/exports')
+PIPELINE_DIR = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')), 'src/pipeline')
+
+sys.path.append(PIPELINE_DIR)
+
+import path_utils
+
 EXPORT_FILES = ['cc_by/aggregated_cc_by.csv',
                 'cc_by_sa/aggregated_cc_by_sa.csv',
                 'google_tos/aggregated_google_tos.csv',
                 'cc_by_nc/aggregated_cc_by_nc.csv']
 
-sys.path.append(PIPELINE_DIR)
-
 def test_location_and_date_unique():
     for f in EXPORT_FILES:
-        export_path = os.path.join(EXPORT_DIR, f)
+        export_path = os.path.join(path_utils.path_to('export_dir'), f)
         exported_df = pd.read_csv(export_path)
         duplicates = exported_df[exported_df[['region_code', 'date']].duplicated(keep=False)]
         duplicate_info = duplicates[['region_code', 'date']]
