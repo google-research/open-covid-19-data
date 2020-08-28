@@ -18,9 +18,43 @@ import datetime
 import logging
 import os
 
+root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'))
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
+_resources = dict(
+    about_md='docs/about.md',
+    debug_dir='src/views/debug',
+    downloaded_dir='data/inputs/downloaded',
+    export_cc_by_csv='data/exports/cc_by/aggregated_cc_by.csv',
+    export_cc_by_license='data/exports/cc_by/LICENSE',
+    export_cc_by_nc_csv='data/exports/cc_by_nc/aggregated_cc_by_nc.csv',
+    export_cc_by_nc_license='data/exports/cc_by_nc/LICENSE',
+    export_cc_by_sa_csv='data/exports/cc_by_sa/aggregated_cc_by_sa.csv',
+    export_cc_by_sa_license='data/exports/cc_by_sa/LICENSE',
+    export_dir='data/exports',
+    export_google_tos_csv='data/exports/google_tos/aggregated_google_tos.csv',
+    inputs_dir='data/inputs',
+    locations_csv='data/exports/locations/locations.csv',
+    locations_export_dir='data/exports/locations',
+    locations_input_dir='data/inputs/static/locations/raw',
+    locations_intermediate_dir='data/inputs/static/locations/intermediate',
+    main_dir='src/views/main',
+    readme_md='README.md',
+    schema_yaml='src/config/schema.yaml',
+    scraped_dir='data/inputs/scraped',
+    sources_dir='src/config/sources',
+    sources_md='docs/sources.md',
+    sources_cc_by_md='docs/sources_cc_by.md',
+    sources_cc_by_nc_md='docs/sources_cc_by_nc.md',
+    sources_cc_by_sa_md='docs/sources_cc_by_sa.md',
+    spreadsheets_dir='data/inputs/scraped/spreadsheets',
+    utils_dir='src/views/utils',
+)
+
+def path_to(resource_name):
+    if resource_name not in _resources:
+        raise ValueError(
+            '"%s" is an unknown resource. Available resources are: %s' % (resource_name, _resources.keys()))
+    return os.path.join(root_dir, _resources[resource_name])
 
 def fetch_method_to_path_string(fetch_method):
     lookup_dict = {
@@ -35,7 +69,7 @@ def get_data_directory_path(params):
     source_key = params['config_key']
     fetch_method = params['fetch']['method']
     fetch_string = fetch_method_to_path_string(fetch_method)
-    data_dir = os.path.join(ROOT_DIR, 'data/inputs', fetch_string, source_key)
+    data_dir = os.path.join(path_to('inputs_dir'), fetch_string, source_key)
     file_name = params['fetch']['file']
     return data_dir, file_name
 

@@ -16,16 +16,19 @@
 
 import yamale
 import os
+import sys
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../'))
-PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
-SOURCE_DIR = os.path.join(ROOT_DIR, 'src/config/sources')
+PIPELINE_DIR = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')), 'src/pipeline')
+
+sys.path.append(PIPELINE_DIR)
+
+import path_utils
+
 
 def test_config_file_schema():
-     schema = yamale.make_schema(os.path.join(ROOT_DIR, 'src/config/schema.yaml'))
-     source_files = os.listdir(SOURCE_DIR)
+     schema = yamale.make_schema(path_utils.path_to('schema_yaml'))
+     source_files = os.listdir(path_utils.path_to('sources_dir'))
      for source_file in source_files:
          print(source_file)
-         data = yamale.make_data(os.path.join(SOURCE_DIR, source_file))
+         data = yamale.make_data(os.path.join(path_utils.path_to('sources_dir'), source_file))
          yamale.validate(schema, data, strict=True)

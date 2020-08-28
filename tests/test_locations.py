@@ -18,24 +18,24 @@ import os
 import pandas as pd
 import sys
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../'))
-PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
-LOCATIONS_PATH = os.path.join(ROOT_DIR, 'data/exports/locations/locations.csv')
-LOCATIONS_INTERMEDIATE_DIR = os.path.join(ROOT_DIR, 'data/inputs/static/locations/intermediate')
-LOCATIONS_INTERMEDIATE_FILES = ['fips_locations.csv', 'iso_3166_1_locations.csv', 'iso_3166_2_locations.csv', 'other_locations.csv']
+PIPELINE_DIR = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')), 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 
+import path_utils
+
+LOCATIONS_INTERMEDIATE_FILES = ['fips_locations.csv', 'iso_3166_1_locations.csv', 'iso_3166_2_locations.csv', 'other_locations.csv']
+
+
 def test_locations_unique():
-    locations_df = pd.read_csv(LOCATIONS_PATH)
+    locations_df = pd.read_csv(path_utils.path_to('locations_csv'))
     location_duplicates = locations_df[locations_df['region_code'].duplicated(keep=False)]
     print(location_duplicates)
     assert location_duplicates.shape[0] == 0
 
 def test_intermediate_locations_unique():
     for f in LOCATIONS_INTERMEDIATE_FILES:
-        loc_path = os.path.join(LOCATIONS_INTERMEDIATE_DIR, f)
+        loc_path = os.path.join(path_utils.path_to('locations_intermediate_dir'), f)
         locations_df = pd.read_csv(loc_path)
         location_duplicates = locations_df[locations_df['region_code'].duplicated(keep=False)]
         print(location_duplicates)

@@ -20,15 +20,14 @@ import streamlit as st
 import sys
 import os
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
-PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
-MAIN_DIR = os.path.join(ROOT_DIR, 'src/views/main')
-UTILS_DIR = os.path.join(ROOT_DIR, 'src/views/utils')
+PIPELINE_DIR = os.path.join(os.path.dirname(__file__), '../../', 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
-sys.path.append(MAIN_DIR)
-sys.path.append(UTILS_DIR)
+
+import path_utils
+
+sys.path.append(path_utils.path_to('main_dir'))
+sys.path.append(path_utils.path_to('utils_dir'))
 
 import pipeline_explorer
 

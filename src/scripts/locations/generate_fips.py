@@ -19,17 +19,20 @@
 import streamlit as st
 import pandas as pd
 import os
+import sys
 import datacommons as dc
 
 dc.set_api_key(os.environ['DATACOMMONS_API_KEY'])
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../../'))
-LOCATIONS_INPUT_DIR = os.path.join(ROOT_DIR, 'data/inputs/static/locations/raw')
-LOCATIONS_EXPORT_DIR = os.path.join(ROOT_DIR, 'data/exports/locations')
+PIPELINE_DIR = os.path.join(os.path.dirname(__file__), '../../', 'src/pipeline')
 
-df = pd.read_csv(os.path.join(LOCATIONS_INPUT_DIR, 'us_state_and_county_fips_codes.csv'))
-state_codes = pd.read_csv(os.path.join(LOCATIONS_INPUT_DIR, 'us_states_and_numeric_codes.csv'))
+sys.path.append(PIPELINE_DIR)
+
+import path_utils
+
+
+df = pd.read_csv(os.path.join(path_utils.path_to('locations_input_dir'), 'us_state_and_county_fips_codes.csv'))
+state_codes = pd.read_csv(os.path.join(path_utils.path_to('locations_input_dir'), 'us_states_and_numeric_codes.csv'))
 
 ################################################################################
 ##### Create table of fips codes with correct region_code formats          #####
@@ -157,4 +160,4 @@ locations = locations.drop(columns=[
 
 st.write(locations.columns)
 
-locations.to_csv(os.path.join(LOCATIONS_EXPORT_DIR, 'fips_locations.csv'), index=False)
+locations.to_csv(os.path.join(path_utils.path_to('locations_export_dir'), 'fips_locations.csv'), index=False)
