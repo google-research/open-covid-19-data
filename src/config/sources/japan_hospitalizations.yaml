@@ -15,8 +15,9 @@
 ---
 fetch:
   source_url: 'https://raw.githubusercontent.com/kaz-ogiwara/covid19/master/data/summary.csv'
-  method: 'AUTOMATIC_DOWNLOAD'
+  method: 'MANUAL_DOWNLOAD'
   file: 'summary.csv'
+  instructions: 'File structure has changed, need to locate new csv with hospitalization data.'
 load:
   function: 'default_load_function'
   dates:
