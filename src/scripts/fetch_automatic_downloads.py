@@ -20,9 +20,7 @@ import sys
 import wget  # pip3 install python3-wget, not pip install wget
 from datetime import datetime
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
-PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
+PIPELINE_DIR = os.path.join(os.path.dirname(__file__), '../../', 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 
@@ -32,6 +30,7 @@ import config
 
 
 args = args_utils.get_parser().parse_args()
+path_utils.root_dir = args.publish_dir
 
 if not args.allowlist:
     logging.warning('RUNNING WITHOUT THE ALLOWLIST! DO NOT MAKE A PULL REQUEST WITH THE OUTPUT!')
