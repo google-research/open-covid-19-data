@@ -14,9 +14,10 @@
 
 ---
 fetch:
-  method: 'AUTOMATIC_DOWNLOAD'
+  method: 'MANUAL_DOWNLOAD'
   source_url: 'https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv'
   file: 'Global_Mobility_Report.csv'
+  instructions: 'Data exceeds 100MB limit per file, need to split data into smaller files.'
 load:
   function: 'mobility_load_function'
   dates:
