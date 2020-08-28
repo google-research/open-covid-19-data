@@ -18,9 +18,7 @@ import logging
 import sys
 import os
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
-PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
+PIPELINE_DIR = os.path.join(os.path.dirname(__file__), '../../', 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 
@@ -29,31 +27,14 @@ import license_utils
 import export_utils
 import doc_utils
 import config
+import path_utils
 
 
 args = args_utils.get_parser().parse_args()
+path_utils.root_dir = args.publish_dir
 
 if not args.allowlist:
     logging.warning('RUNNING WITHOUT THE ALLOWLIST! DO NOT MAKE A PULL REQUEST WITH THE OUTPUT!')
-
-# For Google TOS, this script only updates the exported data, but doesn't modify docs or licenses.
-# The Google TOS license file in data/exports/sources_google_tos is a static file not an aggregated license.
-EXPORT_PATH_CC_BY = os.path.join(ROOT_DIR, 'data/exports/cc_by/aggregated_cc_by.csv')
-EXPORT_PATH_CC_BY_SA = os.path.join(ROOT_DIR, 'data/exports/cc_by_sa/aggregated_cc_by_sa.csv')
-EXPORT_PATH_CC_BY_NC = os.path.join(ROOT_DIR, 'data/exports/cc_by_nc/aggregated_cc_by_nc.csv')
-EXPORT_PATH_GOOGLE_TOS = os.path.join(ROOT_DIR, 'data/exports/google_tos/aggregated_google_tos.csv')
-
-SOURCES_PATH_ALL = os.path.join(ROOT_DIR, 'docs/sources.md')
-SOURCES_PATH_CC_BY = os.path.join(ROOT_DIR, 'docs/sources_cc_by.md')
-SOURCES_PATH_CC_BY_SA = os.path.join(ROOT_DIR, 'docs/sources_cc_by_sa.md')
-SOURCES_PATH_CC_BY_NC = os.path.join(ROOT_DIR, 'docs/sources_cc_by_nc.md')
-
-ABOUT_PATH = os.path.join(ROOT_DIR, 'docs/about.md')
-README_PATH = os.path.join(ROOT_DIR, 'README.md')
-
-EXPORT_PATH_CC_BY_LICENSE = os.path.join(ROOT_DIR, 'data/exports/cc_by/LICENSE')
-EXPORT_PATH_CC_BY_SA_LICENSE = os.path.join(ROOT_DIR, 'data/exports/cc_by_sa/LICENSE')
-EXPORT_PATH_CC_BY_NC_LICENSE = os.path.join(ROOT_DIR, 'data/exports/cc_by_nc/LICENSE')
 
 sources_all = config.read_config(
     cc_by=True, cc_by_sa=True, cc_by_nc=True, google_tos=True, filter_not_approved=args.allowlist)
@@ -68,23 +49,23 @@ sources_google_tos = config.read_config(
 
 # Step 1: Write source docs
 
-# SOURCES_PATH_ALL contains every source, used to create the README.
-doc_utils.write_sources(sources_all, SOURCES_PATH_ALL)
-# SOURCES_PATH_CC_BY used to create aggregated license for cc-by.
-doc_utils.write_sources(sources_cc_by, SOURCES_PATH_CC_BY)
-# SOURCES_PATH_CC_BY_SA used to create aggregated license for cc-by-sa.
-doc_utils.write_sources(sources_cc_by_sa, SOURCES_PATH_CC_BY_SA)
-# SOURCES_PATH_CC_BY_NC used to create aggregated license for cc-by-nc.
-doc_utils.write_sources(sources_cc_by_nc, SOURCES_PATH_CC_BY_NC)
+# sources_md contains every source, used to create the README.
+doc_utils.write_sources(sources_all, path_utils.path_to('sources_md'))
+# sources_cc_by_md is used to create aggregated license for cc-by.
+doc_utils.write_sources(sources_cc_by, path_utils.path_to('sources_cc_by_md'))
+# sources_cc_by_sa_md is used to create aggregated license for cc-by-sa.
+doc_utils.write_sources(sources_cc_by_sa, path_utils.path_to('sources_cc_by_sa_md'))
+# sources_cc_by_nc_md is used to create aggregated license for cc-by-nc.
+doc_utils.write_sources(sources_cc_by_nc, path_utils.path_to('sources_cc_by_nc_md'))
 
 # Step 2: Write the README (needs to happen after writing the source docs)
 
-with open(README_PATH, 'w') as outfile:
-    with open(ABOUT_PATH, 'r') as infile:
+with open(path_utils.path_to('readme_md'), 'w') as outfile:
+    with open(path_utils.path_to('about_md'), 'r') as infile:
         outfile.write(infile.read())
 
     outfile.write('\n\n## Data Sources\n')
-    with open(SOURCES_PATH_ALL, 'r') as infile:
+    with open(path_utils.path_to('sources_md'), 'r') as infile:
         outfile.write(infile.read())
 
 # Step 3: Export aggregated license files
@@ -107,23 +88,31 @@ all_license_files_cc_by_nc = license_utils.get_license_files(sources_cc_by_nc,
                                                                  'docs/license_files/cc-by-nc-4.0',
                                                                  'docs/license_files/nytimes'])
 
-license_utils.export_aggregated_license(EXPORT_PATH_CC_BY_LICENSE, SOURCES_PATH_CC_BY,
-                                        all_license_files_cc_by, cc_by_header)
-license_utils.export_aggregated_license(EXPORT_PATH_CC_BY_SA_LICENSE, SOURCES_PATH_CC_BY_SA,
-                                        all_license_files_cc_by_sa, cc_by_sa_header)
-license_utils.export_aggregated_license(EXPORT_PATH_CC_BY_NC_LICENSE, SOURCES_PATH_CC_BY_NC,
-                                        all_license_files_cc_by_nc, cc_by_nc_header)
+license_utils.export_aggregated_license(path_utils.path_to('export_cc_by_license'),
+                                        path_utils.path_to('sources_cc_by_md'),
+                                        all_license_files_cc_by,
+                                        cc_by_header)
+license_utils.export_aggregated_license(path_utils.path_to('export_cc_by_sa_license'),
+                                        path_utils.path_to('sources_cc_by_sa_md'),
+                                        all_license_files_cc_by_sa,
+                                        cc_by_sa_header)
+license_utils.export_aggregated_license(path_utils.path_to('export_cc_by_nc_license'),
+                                        path_utils.path_to('sources_cc_by_nc_md'),
+                                        all_license_files_cc_by_nc,
+                                        cc_by_nc_header)
 
 # Step 4: Export aggregated data files
 
-export_utils.export_data(config_dict=sources_cc_by, export_path=EXPORT_PATH_CC_BY)
+export_utils.export_data(config_dict=sources_cc_by, export_path=path_utils.path_to('export_cc_by_csv'))
 print('Done exporting cc by data.')
 
-export_utils.export_data(config_dict=sources_cc_by_sa, export_path=EXPORT_PATH_CC_BY_SA)
+export_utils.export_data(config_dict=sources_cc_by_sa, export_path=path_utils.path_to('export_cc_by_sa_csv'))
 print('Done exporting cc by-sa data.')
 
-export_utils.export_data(config_dict=sources_cc_by_nc, export_path=EXPORT_PATH_CC_BY_NC)
+export_utils.export_data(config_dict=sources_cc_by_nc, export_path=path_utils.path_to('export_cc_by_nc_csv'))
 print('Done exporting cc by-nc data.')
 
-export_utils.export_data(config_dict=sources_google_tos, export_path=EXPORT_PATH_GOOGLE_TOS)
+# For Google TOS, this script only updates the exported data, but doesn't modify docs or licenses.
+# The Google TOS license file in data/exports/sources_google_tos is a static file not an aggregated license.
+export_utils.export_data(config_dict=sources_google_tos, export_path=path_utils.path_to('export_google_tos_csv'))
 print('Done exporting Google TOS data.')

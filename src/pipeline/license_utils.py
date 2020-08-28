@@ -16,7 +16,7 @@
 
 import textwrap
 import os
-from path_utils import ROOT_DIR
+import path_utils
 
 def get_license_files(config_dict, required_licenses=None):
     if required_licenses is None:
@@ -62,7 +62,7 @@ def export_aggregated_license(export_path, sources_path, license_files, header):
         outfile.write('=======================================================================\n')
         outfile.write(complete_texts)
         for fname in license_files:
-            with open(os.path.join(ROOT_DIR, fname)) as infile:
+            with open(os.path.join(path_utils.root_dir, fname)) as infile:
                 outfile.write(infile.read())
                 outfile.write('\n')
                 outfile.write('=======================================================================')

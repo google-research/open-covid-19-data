@@ -19,9 +19,7 @@ import pandas as pd
 import os
 import sys
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
-PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
+PIPELINE_DIR = os.path.join(os.path.dirname(__file__), '../../', 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 
@@ -30,6 +28,7 @@ import config
 import path_utils
 
 args = args_utils.get_parser().parse_args()
+path_utils.root_dir = args.publish_dir
 
 if not args.allowlist:
     logging.warning('RUNNING WITHOUT THE ALLOWLIST! DO NOT MAKE A PULL REQUEST WITH THE OUTPUT!')
@@ -40,15 +39,14 @@ scraped = config.read_config(cc_by=True, cc_by_sa=True, google_tos=True, cc_by_n
                              filter_no_data=False,
                              filter_not_approved=args.allowlist)
 
-spreadsheet_dir = os.path.join(ROOT_DIR, 'data/inputs/scraped/spreadsheets')
 spreadsheet_file = 'hospitalizations.xlsx'
 
-most_recent_spreadsheet = path_utils.most_recent_subdir(spreadsheet_dir, spreadsheet_file)
+most_recent_spreadsheet = path_utils.most_recent_subdir(path_utils.path_to('spreadsheets_dir'), spreadsheet_file)
 if args.date:
     spreadsheet_date = str(args.date[0])
 else:
     spreadsheet_date = str(most_recent_spreadsheet['date'])
-spreadsheet_path = os.path.join(spreadsheet_dir, spreadsheet_date, spreadsheet_file)
+spreadsheet_path = os.path.join(path_utils.path_to('spreadsheets_dir'), spreadsheet_date, spreadsheet_file)
 
 print('Fetching spreadsheet for date: ', spreadsheet_date)
 print('Spreadsheet path: ', spreadsheet_path)
