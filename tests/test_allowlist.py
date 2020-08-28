@@ -35,14 +35,14 @@ def test_data_is_allowed():
     for source in sources_with_data:
         assert source in allowlist
 
-# Test that yaml files for config sources are on the whitelist
+# Test that yaml files for config sources are on the allowlist
 def test_source_files_are_allowlisted():
     allowlist = config.read_allowlist()
     for source_file_name in os.listdir(path_utils.path_to('sources_dir')):
         source_key = os.path.splitext(source_file_name)[0]
         assert source_key in allowlist
 
-# Test that downloaded and scraped inputs are on the whitelist
+# Test that downloaded and scraped inputs are on the allowlist
 def test_inputs_are_allowlisted():
     allowlist = config.read_allowlist()
     for source_file_name in os.listdir(path_utils.path_to('downloaded_dir')):
