@@ -20,17 +20,13 @@ import datetime
 import pandas as pd
 import sys
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../'))
-PIPELINE_DIR = os.path.join(ROOT_DIR, 'src/pipeline')
-SPREADSHEET_DIR = os.path.join(ROOT_DIR, 'data/inputs/scraped/spreadsheets')
-SOURCES_DIR = os.path.join(ROOT_DIR, 'src/config/sources')
-DOWNLOADED_DIR = os.path.join(ROOT_DIR, 'data/inputs/downloaded')
-SCRAPED_DIR = os.path.join(ROOT_DIR, 'data/inputs/scraped')
+PIPELINE_DIR = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')), 'src/pipeline')
 
 sys.path.append(PIPELINE_DIR)
 
 import config
+import path_utils
+
 
 # Test that data directories are on the allowlist
 def test_data_is_allowed():
@@ -39,21 +35,21 @@ def test_data_is_allowed():
     for source in sources_with_data:
         assert source in allowlist
 
-# Test that yaml files for config sources are on the allowlist
-def test_source_files_are_allowed():
+# Test that yaml files for config sources are on the whitelist
+def test_source_files_are_allowlisted():
     allowlist = config.read_allowlist()
-    for source_file_name in os.listdir(SOURCES_DIR):
+    for source_file_name in os.listdir(path_utils.path_to('sources_dir')):
         source_key = os.path.splitext(source_file_name)[0]
         assert source_key in allowlist
 
-# Test that downloaded and scraped inputs are on the allowlist
-def test_inputs_are_allowed():
+# Test that downloaded and scraped inputs are on the whitelist
+def test_inputs_are_allowlisted():
     allowlist = config.read_allowlist()
-    for source_file_name in os.listdir(DOWNLOADED_DIR):
+    for source_file_name in os.listdir(path_utils.path_to('downloaded_dir')):
         source_key = os.path.splitext(source_file_name)[0]
         assert source_key in allowlist
 
-    for source_file_name in os.listdir(SCRAPED_DIR):
+    for source_file_name in os.listdir(path_utils.path_to('scraped_dir')):
         if source_file_name == 'spreadsheets':
           continue
         source_key = os.path.splitext(source_file_name)[0]

@@ -21,9 +21,7 @@ import os
 
 import config
 
-CURRENT_DIR = os.path.dirname(__file__)
-ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, '../../'))
-LOCATIONS_PATH = os.path.join(ROOT_DIR, 'data/exports/locations/locations.csv')
+LOCATIONS_PATH = os.path.join(os.path.dirname(__file__), '../../', 'data/exports/locations/locations.csv')
 
 def join_region_codes(data_df, params):
     reg_params = params['load']['regions']

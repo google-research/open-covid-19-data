@@ -15,6 +15,16 @@
 # limitations under the License.
 
 import argparse
+import os
+
+import path_utils
+
+
+class _AbsPathAction(argparse.Action):
+    def __call__(self, parser, namespace, values, option_string=None):
+        print('%r %r %r' % (namespace, values, option_string))
+        setattr(namespace, self.dest, os.path.abspath(values))
+
 
 def get_parser():
     parser = argparse.ArgumentParser()
@@ -22,7 +32,12 @@ def get_parser():
                         help='Filter configs against allowlist.yaml.')
     parser.add_argument('--no-allowlist', dest='allowlist', action='store_false',
                         help='Disable filtering of configs against allowlist.yaml.')
+
     parser.add_argument('--source', nargs=1, help='Specify a single source.')
     parser.add_argument('--date', nargs=1, help='Specify a single date in YYYY-MM-DD format.')
+    parser.add_argument(
+        '--publish_dir', default=path_utils.root_dir, action=_AbsPathAction,
+        help='Base directory where outputs are written. Default value writes to the current directory tree.')
     parser.set_defaults(allowlist=True)
+
     return parser
