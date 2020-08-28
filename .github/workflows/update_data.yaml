@@ -44,8 +44,9 @@ jobs:
         echo ::set-env name=EXPORT_TIMESTAMP::"$(date +'%Y-%m-%d %H:%M') UTC"
         python src/scripts/export_data.py
     - name: Create pull request
-      uses: peter-evans/create-pull-request@v2
+      uses: peter-evans/create-pull-request@v3
       with:
+        author: Katie Everett <everettk@google.com>
         title: Update data for ${{ env.EXPORT_TIMESTAMP }}
         body: Data update for ${{ env.EXPORT_TIMESTAMP }}.
         labels: data update
