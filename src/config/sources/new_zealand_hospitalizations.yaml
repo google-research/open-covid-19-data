@@ -16,7 +16,9 @@
 fetch:
   method: 'SCRAPED'
   file: 'new_zealand_hospitalizations.csv'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'default_load_function'
   regions:
     single_region_code: 'NZL'

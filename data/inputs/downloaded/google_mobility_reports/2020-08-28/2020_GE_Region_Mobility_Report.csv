@@ -1,0 +1,303 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+GE,Georgia,,,,,,2020-02-15,4,8,2,4,4,0
+GE,Georgia,,,,,,2020-02-16,7,10,8,6,8,-1
+GE,Georgia,,,,,,2020-02-17,1,3,-1,1,4,0
+GE,Georgia,,,,,,2020-02-18,9,10,2,4,5,-1
+GE,Georgia,,,,,,2020-02-19,4,7,6,6,5,-1
+GE,Georgia,,,,,,2020-02-20,7,10,6,5,4,-1
+GE,Georgia,,,,,,2020-02-21,11,18,14,8,12,-2
+GE,Georgia,,,,,,2020-02-22,6,9,8,6,5,-1
+GE,Georgia,,,,,,2020-02-23,6,9,4,5,8,-1
+GE,Georgia,,,,,,2020-02-24,4,7,7,5,5,-1
+GE,Georgia,,,,,,2020-02-25,1,5,-9,-2,3,0
+GE,Georgia,,,,,,2020-02-26,6,12,8,7,6,-2
+GE,Georgia,,,,,,2020-02-27,7,14,10,4,5,-1
+GE,Georgia,,,,,,2020-02-28,6,13,6,5,12,-1
+GE,Georgia,,,,,,2020-02-29,1,11,0,3,8,0
+GE,Georgia,,,,,,2020-03-01,-4,5,-8,-1,7,1
+GE,Georgia,,,,,,2020-03-02,2,5,4,-1,-7,2
+GE,Georgia,,,,,,2020-03-03,13,11,14,-1,-35,5
+GE,Georgia,,,,,,2020-03-04,4,10,13,4,-6,0
+GE,Georgia,,,,,,2020-03-05,7,11,17,2,-7,0
+GE,Georgia,,,,,,2020-03-06,4,12,13,2,-1,1
+GE,Georgia,,,,,,2020-03-07,1,9,10,1,3,0
+GE,Georgia,,,,,,2020-03-08,16,16,32,7,8,-3
+GE,Georgia,,,,,,2020-03-09,-2,0,13,-4,-11,1
+GE,Georgia,,,,,,2020-03-10,2,6,12,-2,-10,0
+GE,Georgia,,,,,,2020-03-11,-6,6,10,-4,-11,1
+GE,Georgia,,,,,,2020-03-12,-9,5,7,-9,-13,2
+GE,Georgia,,,,,,2020-03-13,-14,7,1,-11,-10,4
+GE,Georgia,,,,,,2020-03-14,-21,8,-11,-12,-5,4
+GE,Georgia,,,,,,2020-03-15,-20,5,3,-12,1,2
+GE,Georgia,,,,,,2020-03-16,-30,-10,-22,-25,-24,9
+GE,Georgia,,,,,,2020-03-17,-34,-7,-23,-28,-30,10
+GE,Georgia,,,,,,2020-03-18,-43,-11,-26,-33,-37,13
+GE,Georgia,,,,,,2020-03-19,-41,-12,-16,-33,-37,13
+GE,Georgia,,,,,,2020-03-20,-45,-4,-13,-32,-37,14
+GE,Georgia,,,,,,2020-03-21,-55,-13,-20,-39,-33,12
+GE,Georgia,,,,,,2020-03-22,-61,-29,-14,-45,-32,10
+GE,Georgia,,,,,,2020-03-23,-59,-32,-12,-47,-52,18
+GE,Georgia,,,,,,2020-03-24,-59,-30,-20,-49,-55,18
+GE,Georgia,,,,,,2020-03-25,-60,-29,-18,-48,-55,18
+GE,Georgia,,,,,,2020-03-26,-60,-31,-18,-50,-55,19
+GE,Georgia,,,,,,2020-03-27,-60,-28,-14,-49,-51,19
+GE,Georgia,,,,,,2020-03-28,-63,-32,-16,-48,-41,13
+GE,Georgia,,,,,,2020-03-29,-67,-36,-24,-53,-38,12
+GE,Georgia,,,,,,2020-03-30,-65,-36,-32,-56,-58,21
+GE,Georgia,,,,,,2020-03-31,-67,-39,-33,-61,-62,22
+GE,Georgia,,,,,,2020-04-01,-68,-39,-30,-59,-62,22
+GE,Georgia,,,,,,2020-04-02,-70,-42,-34,-63,-64,24
+GE,Georgia,,,,,,2020-04-03,-67,-37,-26,-59,-60,23
+GE,Georgia,,,,,,2020-04-04,-71,-40,-33,-61,-52,18
+GE,Georgia,,,,,,2020-04-05,-68,-36,-23,-56,-43,14
+GE,Georgia,,,,,,2020-04-06,-68,-41,-29,-61,-62,23
+GE,Georgia,,,,,,2020-04-07,-69,-40,-34,-63,-64,23
+GE,Georgia,,,,,,2020-04-08,-70,-43,-29,-62,-63,23
+GE,Georgia,,,,,,2020-04-09,-69,-43,-26,-62,-70,24
+GE,Georgia,,,,,,2020-04-10,-65,-36,-21,-57,-59,22
+GE,Georgia,,,,,,2020-04-11,-68,-39,-25,-57,-50,16
+GE,Georgia,,,,,,2020-04-12,-69,-38,-27,-56,-45,14
+GE,Georgia,,,,,,2020-04-13,-65,-40,-18,-58,-60,21
+GE,Georgia,,,,,,2020-04-14,-62,-34,-17,-55,-60,19
+GE,Georgia,,,,,,2020-04-15,-61,-26,-14,-52,-60,18
+GE,Georgia,,,,,,2020-04-16,-67,-35,-26,-60,-63,22
+GE,Georgia,,,,,,2020-04-17,-74,-40,-28,-64,-73,28
+GE,Georgia,,,,,,2020-04-18,-81,-61,-38,-72,-65,23
+GE,Georgia,,,,,,2020-04-19,-84,-71,-37,-74,-59,19
+GE,Georgia,,,,,,2020-04-20,-85,-72,-37,-78,-81,31
+GE,Georgia,,,,,,2020-04-21,-84,-68,-50,-78,-75,29
+GE,Georgia,,,,,,2020-04-22,-83,-64,-50,-77,-73,29
+GE,Georgia,,,,,,2020-04-23,-81,-61,-45,-75,-72,29
+GE,Georgia,,,,,,2020-04-24,-80,-60,-41,-76,-69,29
+GE,Georgia,,,,,,2020-04-25,-81,-60,-42,-73,-60,22
+GE,Georgia,,,,,,2020-04-26,-78,-59,-33,-70,-51,18
+GE,Georgia,,,,,,2020-04-27,-57,-29,-13,-51,-58,17
+GE,Georgia,,,,,,2020-04-28,-58,-31,-18,-53,-59,15
+GE,Georgia,,,,,,2020-04-29,-64,-39,-21,-57,-59,19
+GE,Georgia,,,,,,2020-04-30,-62,-39,-17,-56,-59,19
+GE,Georgia,,,,,,2020-05-01,-64,-39,-23,-58,-56,20
+GE,Georgia,,,,,,2020-05-02,-64,-38,-22,-54,-44,14
+GE,Georgia,,,,,,2020-05-03,-63,-37,-15,-52,-36,11
+GE,Georgia,,,,,,2020-05-04,-64,-43,-24,-58,-57,20
+GE,Georgia,,,,,,2020-05-05,-61,-39,-27,-58,-57,18
+GE,Georgia,,,,,,2020-05-06,-66,-40,-35,-58,-58,20
+GE,Georgia,,,,,,2020-05-07,-63,-38,-25,-60,-57,20
+GE,Georgia,,,,,,2020-05-08,-62,-35,-28,-56,-53,20
+GE,Georgia,,,,,,2020-05-09,-66,-41,-33,-59,-44,15
+GE,Georgia,,,,,,2020-05-10,-67,-41,-32,-59,-36,13
+GE,Georgia,,,,,,2020-05-11,-51,-29,-14,-48,-51,16
+GE,Georgia,,,,,,2020-05-12,-48,-25,-7,-47,-58,15
+GE,Georgia,,,,,,2020-05-13,-54,-30,-18,-49,-50,15
+GE,Georgia,,,,,,2020-05-14,-50,-27,-8,-47,-49,13
+GE,Georgia,,,,,,2020-05-15,-51,-25,-9,-47,-45,14
+GE,Georgia,,,,,,2020-05-16,-52,-27,-7,-44,-32,8
+GE,Georgia,,,,,,2020-05-17,-53,-27,-10,-45,-23,6
+GE,Georgia,,,,,,2020-05-18,-49,-28,-14,-47,-45,13
+GE,Georgia,,,,,,2020-07-03,-5,10,30,-8,-20,1
+GE,Georgia,,,,,,2020-07-04,-8,7,37,-9,-9,-2
+GE,Georgia,,,,,,2020-07-05,-8,6,42,-8,0,-5
+GE,Georgia,,,,,,2020-07-06,-7,3,31,-11,-26,1
+GE,Georgia,,,,,,2020-07-07,-3,8,29,-9,-27,0
+GE,Georgia,,,,,,2020-07-08,-12,2,14,-12,-26,2
+GE,Georgia,,,,,,2020-07-09,-6,5,19,-11,-25,2
+GE,Georgia,,,,,,2020-07-10,-6,9,21,-9,-19,1
+GE,Georgia,,,,,,2020-07-11,-10,5,18,-12,-7,-1
+GE,Georgia,,,,,,2020-07-12,-5,6,34,-8,2,-4
+GE,Georgia,,,,,,2020-07-13,-12,-2,8,-14,-24,3
+GE,Georgia,,,,,,2020-07-14,-2,7,19,-10,-24,1
+GE,Georgia,,,,,,2020-07-15,-6,7,27,-9,-22,1
+GE,Georgia,,,,,,2020-07-16,-3,7,31,-10,-22,0
+GE,Georgia,,,,,,2020-07-17,-6,8,21,-11,-18,1
+GE,Georgia,,,,,,2020-07-18,-6,7,40,-9,-5,-3
+GE,Georgia,,,,,,2020-07-19,-6,5,48,-9,2,-6
+GE,Georgia,,,,,,2020-07-20,-7,4,33,-12,-23,0
+GE,Georgia,,,,,,2020-07-21,-4,7,13,-12,-24,0
+GE,Georgia,,,,,,2020-07-22,-5,7,26,-10,-22,1
+GE,Georgia,,,,,,2020-07-23,-2,7,35,-11,-22,0
+GE,Georgia,,,,,,2020-07-24,-3,10,38,-11,-17,0
+GE,Georgia,,,,,,2020-07-25,-6,7,43,-11,-7,-3
+GE,Georgia,,,,,,2020-07-26,-6,5,48,-12,0,-5
+GE,Georgia,,,,,,2020-07-27,-7,2,37,-14,-25,0
+GE,Georgia,,,,,,2020-07-28,-5,3,24,-16,-25,0
+GE,Georgia,,,,,,2020-07-29,-6,5,30,-12,-25,1
+GE,Georgia,,,,,,2020-07-30,-4,7,40,-12,-25,0
+GE,Georgia,,,,,,2020-07-31,-4,9,40,-12,-22,0
+GE,Georgia,,,,,,2020-08-01,-8,6,33,-11,-11,-3
+GE,Georgia,,,,,,2020-08-02,-8,4,34,-12,-3,-5
+GE,Georgia,,,,,,2020-08-03,-2,4,40,-12,-26,0
+GE,Georgia,,,,,,2020-08-04,2,9,45,-11,-27,-1
+GE,Georgia,,,,,,2020-08-05,-3,9,52,-12,-27,-1
+GE,Georgia,,,,,,2020-08-06,1,8,57,-12,-28,-1
+GE,Georgia,,,,,,2020-08-07,0,9,66,-13,-23,-2
+GE,Georgia,,,,,,2020-08-08,-3,5,72,-13,-12,-5
+GE,Georgia,,,,,,2020-08-09,-1,5,84,-13,-4,-8
+GE,Georgia,,,,,,2020-08-10,-4,3,60,-14,-29,-2
+GE,Georgia,,,,,,2020-08-11,-1,5,47,-15,-30,-1
+GE,Georgia,,,,,,2020-08-12,-3,6,63,-13,-29,-1
+GE,Georgia,,,,,,2020-08-13,-1,6,65,-13,-29,-1
+GE,Georgia,,,,,,2020-08-14,-1,12,64,-12,-24,-1
+GE,Georgia,,,,,,2020-08-15,-1,9,74,-11,-11,-5
+GE,Georgia,,,,,,2020-08-16,0,8,82,-11,-4,-6
+GE,Georgia,,,,,,2020-08-17,0,4,76,-14,-29,-1
+GE,Georgia,,,,,,2020-08-18,5,8,76,-13,-28,-1
+GE,Georgia,,,,,,2020-08-19,0,7,83,-14,-30,-1
+GE,Georgia,,,,,,2020-08-20,3,7,86,-15,-30,-2
+GE,Georgia,,,,,,2020-08-21,1,8,69,-15,-26,-1
+GE,Georgia,,,,,,2020-08-22,-6,4,54,-17,-15,-2
+GE,Georgia,,,,,,2020-08-23,-3,5,62,-10,-5,-4
+GE,Georgia,,,,,,2020-08-24,5,9,79,-12,-28,-1
+GE,Georgia,,,,,,2020-08-25,12,12,79,-10,-29,-2
+GE,Georgia,,,,,,2020-08-26,7,12,84,-10,-29,-2
+GE,Georgia,,,,,,2020-08-27,13,19,90,-9,-30,-3
+GE,Georgia,,,,,,2020-08-28,2,9,93,-23,-51,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-15,2,5,-3,4,3,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-16,4,7,9,6,6,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-17,-2,-1,-15,1,2,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-18,3,4,-3,2,3,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-19,3,3,5,5,3,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-20,3,4,3,4,2,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-21,7,13,14,8,9,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-22,2,4,6,6,3,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-23,5,4,9,6,5,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-24,3,5,3,5,4,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-25,-3,1,-16,-3,1,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-26,6,9,7,7,3,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-27,2,8,8,3,2,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-28,5,10,11,5,9,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-02-29,-3,5,-4,3,5,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-01,-6,2,-11,-1,3,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-02,-1,2,-10,-1,-8,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-03,8,7,16,-2,-43,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-04,2,4,9,3,-8,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-05,2,5,13,1,-9,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-06,-1,6,6,0,-3,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-07,-5,1,6,-1,0,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-08,9,9,41,5,3,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-09,-5,-3,0,-5,-11,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-10,-6,-1,3,-7,-13,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-11,-10,0,3,-7,-15,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-12,-15,-1,-3,-12,-16,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-13,-21,2,-18,-14,-14,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-14,-27,1,-25,-14,-9,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-15,-26,-5,-2,-14,-5,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-16,-34,-13,-46,-26,-27,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-17,-41,-15,-46,-32,-36,13
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-18,-49,-18,-52,-36,-43,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-19,-48,-18,-38,-36,-44,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-20,-53,-12,-39,-37,-44,18
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-21,-64,-24,-53,-44,-40,14
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-22,-71,-40,-51,-51,-40,13
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-23,-67,-39,-48,-52,-59,22
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-24,-69,-39,-56,-55,-62,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-25,-68,-38,-54,-53,-63,23
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-26,-69,-39,-54,-55,-62,23
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-27,-68,-36,-53,-54,-59,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-28,-70,-41,-54,-52,-48,15
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-29,-74,-45,-64,-58,-44,14
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-30,-70,-40,-67,-59,-63,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-03-31,-75,-48,-72,-66,-68,28
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-01,-75,-46,-66,-64,-68,26
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-02,-76,-48,-70,-67,-69,29
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-03,-74,-43,-63,-63,-66,28
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-04,-78,-49,-71,-66,-57,21
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-05,-75,-43,-58,-61,-50,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-06,-75,-46,-68,-65,-67,27
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-07,-77,-48,-72,-68,-71,29
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-08,-76,-50,-70,-67,-69,28
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-09,-76,-49,-66,-67,-76,30
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-10,-72,-42,-54,-61,-65,27
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-11,-75,-47,-63,-62,-55,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-12,-75,-44,-59,-60,-50,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-13,-72,-45,-58,-62,-66,25
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-14,-71,-43,-55,-61,-67,25
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-15,-70,-38,-52,-57,-66,23
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-16,-75,-45,-65,-65,-69,26
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-17,-82,-49,-67,-69,-81,34
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-18,-87,-62,-68,-74,-72,26
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-19,-89,-72,-68,-76,-67,23
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-20,-90,-72,-74,-81,-87,38
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-21,-89,-68,-80,-80,-82,36
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-22,-89,-66,-85,-80,-80,35
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-23,-86,-62,-79,-78,-79,35
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-24,-88,-64,-81,-80,-77,37
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-25,-86,-62,-76,-76,-68,26
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-26,-85,-62,-65,-74,-61,22
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-27,-67,-36,-52,-54,-64,20
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-28,-68,-38,-54,-57,-66,22
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-29,-71,-43,-57,-60,-66,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-04-30,-69,-43,-43,-59,-65,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-01,-71,-42,-51,-60,-62,25
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-02,-71,-43,-44,-56,-50,17
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-03,-70,-41,-34,-54,-43,13
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-04,-70,-46,-53,-60,-63,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-05,-70,-44,-56,-62,-64,25
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-06,-71,-45,-63,-61,-65,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-07,-73,-47,-64,-64,-65,26
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-08,-69,-39,-50,-59,-60,25
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-09,-74,-47,-65,-62,-52,18
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-10,-75,-47,-63,-62,-46,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-11,-60,-34,-43,-52,-59,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-12,-58,-32,-28,-51,-67,20
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-13,-62,-38,-44,-53,-59,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-14,-60,-34,-34,-51,-58,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-15,-61,-31,-34,-50,-54,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-16,-61,-34,-29,-48,-41,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-17,-63,-35,-38,-48,-35,8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-05-18,-58,-36,-40,-50,-54,17
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-03,-15,1,12,-11,-33,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-04,-20,-6,8,-12,-22,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-05,-21,-7,11,-12,-16,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-06,-18,-6,3,-14,-36,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-07,-16,-5,6,-14,-37,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-08,-20,-8,-6,-15,-36,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-09,-17,-6,-1,-15,-35,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-10,-17,-1,3,-13,-31,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-11,-24,-9,-17,-16,-19,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-12,-18,-8,11,-12,-12,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-13,-20,-11,-16,-17,-34,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-14,-15,-6,0,-15,-34,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-15,-17,-6,8,-12,-32,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-16,-17,-5,10,-14,-32,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-17,-20,-4,-14,-16,-28,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-18,-21,-9,2,-14,-15,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-19,-24,-11,11,-14,-11,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-20,-21,-8,-5,-16,-29,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-21,-17,-7,-7,-17,-31,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-22,-17,-7,-3,-14,-31,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-23,-17,-7,3,-15,-31,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-24,-18,-2,3,-15,-27,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-25,-24,-11,5,-16,-17,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-26,-25,-13,9,-17,-12,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-27,-22,-10,-7,-19,-33,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-28,-24,-12,-18,-22,-33,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-29,-20,-8,-7,-17,-33,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-30,-21,-9,1,-17,-34,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-07-31,-19,-3,4,-16,-30,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-01,-24,-11,-5,-15,-19,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-02,-26,-15,-11,-18,-14,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-03,-20,-11,-15,-17,-34,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-04,-19,-10,-5,-18,-36,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-05,-23,-9,-5,-18,-36,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-06,-22,-11,0,-19,-36,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-07,-23,-8,4,-19,-32,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-08,-30,-17,-3,-21,-21,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-09,-30,-19,6,-22,-15,-8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-10,-27,-15,-13,-22,-37,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-11,-26,-15,-19,-24,-39,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-12,-26,-14,-12,-21,-38,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-13,-26,-15,-9,-22,-38,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-14,-26,-9,-11,-20,-34,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-15,-31,-16,-12,-21,-22,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-16,-31,-17,-8,-21,-16,-7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-17,-27,-16,-13,-23,-39,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-18,-25,-15,-7,-24,-38,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-19,-27,-14,-6,-23,-39,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-20,-27,-15,-5,-24,-40,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-21,-30,-15,-20,-24,-37,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-22,-34,-18,-28,-26,-26,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-23,-29,-17,-19,-22,-18,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-24,-22,-11,-6,-20,-38,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-25,-19,-10,0,-20,-39,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-26,-20,-9,2,-19,-38,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-27,-16,-5,2,-19,-40,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,2020-08-28,-29,-13,-4,-32,-63,6

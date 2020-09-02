@@ -18,7 +18,9 @@ fetch:
   file: 'data.xlsx'
   source_url: 'https://www.gov.uk/government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences'
   instructions: 'Go to this page which lists individual pages for slides/datasets for each press release. Go to the page for the relevant date, then download the link to "Datasets to accompany press conference: <date>". Rename the file to data.xlsx.'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'default_load_function'
   read:
     skiprows: 4

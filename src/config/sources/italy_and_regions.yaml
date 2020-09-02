@@ -17,7 +17,9 @@ fetch:
   source_url: 'https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv'
   method: 'AUTOMATIC_DOWNLOAD'
   file: 'dpc-covid19-ita-regioni.csv'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'default_load_function'
   dates:
     columns: ['data']

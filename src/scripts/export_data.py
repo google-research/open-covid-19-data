@@ -46,6 +46,10 @@ sources_cc_by_nc = config.read_config(
     cc_by=True, cc_by_sa=False, cc_by_nc=True, google_tos=False, filter_not_approved=args.allowlist)
 sources_google_tos = config.read_config(
     cc_by=False, cc_by_sa=False, cc_by_nc=False, google_tos=True, filter_not_approved=args.allowlist)
+google_search_source = {'search_trends_symptoms_dataset': sources_google_tos['search_trends_symptoms_dataset']}
+del sources_google_tos['search_trends_symptoms_dataset']
+print('sources google tos: ', sources_google_tos)
+print('google_search_source:', google_search_source)
 
 # Step 1: Write source docs
 
@@ -78,6 +82,7 @@ cc_by_sa_header = ('''The file `aggregated_cc_by_sa.csv` is licensed under Creat
 
 cc_by_nc_header = ('''The file `aggregated_cc_by_nc.csv` is licensed under Creative Commons Attribution-NonCommercial'''
                    ''' 4.0 International.\n\nIt includes content under the following licenses:\n\n''')
+
 
 all_license_files_cc_by = license_utils.get_license_files(sources_cc_by,
                                                           required_licenses=['docs/license_files/cc-by-4.0'])
@@ -112,7 +117,7 @@ print('Done exporting cc by-sa data.')
 export_utils.export_data(config_dict=sources_cc_by_nc, export_path=path_utils.path_to('export_cc_by_nc_csv'))
 print('Done exporting cc by-nc data.')
 
-# For Google TOS, this script only updates the exported data, but doesn't modify docs or licenses.
-# The Google TOS license file in data/exports/sources_google_tos is a static file not an aggregated license.
-export_utils.export_data(config_dict=sources_google_tos, export_path=path_utils.path_to('export_google_tos_csv'))
-print('Done exporting Google TOS data.')
+export_utils.export_data(config_dict=sources_google_tos, export_path=path_utils.path_to('export_mobility'))
+print('Done exporting Google Mobility data.')
+export_utils.export_data(config_dict=google_search_source, export_path=path_utils.path_to('export_search'))
+print('Done exporting Google Search data.')

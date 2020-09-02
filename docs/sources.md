@@ -24,12 +24,20 @@ Komenda M., Karolyi M., Bulhart V., Žofka J., Brauner T., Hak J., Jarkovský J.
 **Source name:** data.gouv.fr ([link](https://www.data.gouv.fr/))<br>**Link to data:** https://www.data.gouv.fr/en/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/<br>**Description:** Data is scraped manually from the charts provided at the source link. Data for France consists of time series data for cumulative hospitalizations and ICU cases.<br>**License:** Open License 2.0 ([link](https://www.etalab.gouv.fr/licence-ouverte-open-licence))<br>**Last accessed:** 2020-09-01
 
 #### Google's COVID19 Community Mobility Reports
-**Source name:** https://www.google.com/covid19/mobility/<br>**Link to data:** https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv<br>**Help Center:** https://support.google.com/covid19-mobility<br>**Description:** These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places.<br>**Terms:** In order to download or use the data or reports, you must agree to the Google [Terms of Service](https://policies.google.com/terms).<br>**License:** Google Terms of Service ([link](https://policies.google.com/terms))<br>**Citation:**
+**Source name:** Google's COVID19 Community Mobility Reports ([link](https://www.google.com/covid19/mobility/))<br>**Link to data:** https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv<br>**Help Center:** https://support.google.com/covid19-mobility<br>**Description:** These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places.<br>**Terms:** In order to download or use the data or reports, you must agree to the Google [Terms of Service](https://policies.google.com/terms).<br>**License:** Google Terms of Service ([link](https://policies.google.com/terms))<br>**Citation:**
 ```
 Google LLC "Google COVID-19 Community Mobility Reports".
 https://www.google.com/covid19/mobility/ Accessed: <date>.
 ```
-**Last accessed:** 2020-08-03
+**Last accessed:** 2020-08-28
+
+#### Google's COVID19 Search Trends symptoms dataset
+**Source name:** Google's COVID19 Search Trends symptoms dataset ([link](http://goo.gle/covid19symptomdataset))<br>**Link to data:** http://goo.gle/covid19symptomdataset<br>**Description:** The **COVID-19 Search Trends symptoms dataset** shows aggregated, anonymized trends in Google searches for symptoms, signs and some health conditions. The dataset provides a daily or weekly time series for each region showing the relative volume of searches for each symptom.<br>**Terms:** In order to download or use the data or reports, you must agree to the Google [Terms of Service](https://policies.google.com/terms).<br>**License:** Google Terms of Service ([link](https://policies.google.com/terms))<br>**Citation:**
+```
+Google LLC "Google COVID-19 Search Trends symptoms dataset".
+http://goo.gle/covid19symptomdataset, Accessed: <date>.
+```
+**Last accessed:** 2020-08-30
 
 #### Iceland
 **Source name:** Directorate of Health in Iceland (Embaetti landlaeknis) ([link](https://www.covid.is/data))<br>**Link to data:** https://www.covid.is/data<br>**Description:** Data is downloaded manually from the source link. Data for Iceland consists of time series data for current ICU cases, and current and cumulative hospitalizations.<br>**Last accessed:** 2020-06-22

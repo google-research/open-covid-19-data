@@ -17,7 +17,9 @@ fetch:
   source_url: 'https://cnecovid.isciii.es/covid19/resources/agregados.csv'
   file: 'agregados.csv'
   method: 'AUTOMATIC_DOWNLOAD'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'spain_and_regions'
   read:
     encoding: 'latin1'

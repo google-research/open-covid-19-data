@@ -1,0 +1,1563 @@
+open_covid_region_code,country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+BRB,BB,Barbados,,,,,,2020-02-15,1.0,0.0,4.0,2.0,0.0,0.0
+BRB,BB,Barbados,,,,,,2020-02-16,4.0,4.0,5.0,0.0,1.0,0.0
+BRB,BB,Barbados,,,,,,2020-02-17,-4.0,-5.0,0.0,4.0,1.0,1.0
+BRB,BB,Barbados,,,,,,2020-02-18,-2.0,-3.0,-5.0,1.0,2.0,1.0
+BRB,BB,Barbados,,,,,,2020-02-19,-7.0,-5.0,-18.0,-3.0,1.0,2.0
+BRB,BB,Barbados,,,,,,2020-02-20,2.0,2.0,3.0,4.0,1.0,0.0
+BRB,BB,Barbados,,,,,,2020-02-21,2.0,0.0,4.0,2.0,2.0,0.0
+BRB,BB,Barbados,,,,,,2020-02-22,3.0,2.0,2.0,-3.0,-1.0,0.0
+BRB,BB,Barbados,,,,,,2020-02-23,9.0,4.0,5.0,-4.0,0.0,0.0
+BRB,BB,Barbados,,,,,,2020-02-24,-3.0,-5.0,-1.0,0.0,2.0,1.0
+BRB,BB,Barbados,,,,,,2020-02-25,8.0,6.0,2.0,4.0,3.0,-1.0
+BRB,BB,Barbados,,,,,,2020-02-26,7.0,6.0,9.0,3.0,3.0,-1.0
+BRB,BB,Barbados,,,,,,2020-02-27,11.0,8.0,14.0,7.0,1.0,-1.0
+BRB,BB,Barbados,,,,,,2020-02-28,7.0,5.0,26.0,6.0,1.0,-1.0
+BRB,BB,Barbados,,,,,,2020-02-29,10.0,2.0,34.0,3.0,0.0,-1.0
+BRB,BB,Barbados,,,,,,2020-03-01,19.0,2.0,58.0,6.0,1.0,-1.0
+BRB,BB,Barbados,,,,,,2020-03-02,-4.0,0.0,4.0,0.0,3.0,1.0
+BRB,BB,Barbados,,,,,,2020-03-03,1.0,2.0,-1.0,0.0,5.0,0.0
+BRB,BB,Barbados,,,,,,2020-03-04,1.0,3.0,4.0,-1.0,4.0,-1.0
+BRB,BB,Barbados,,,,,,2020-03-05,3.0,4.0,5.0,-1.0,1.0,0.0
+BRB,BB,Barbados,,,,,,2020-03-06,2.0,3.0,10.0,-1.0,2.0,0.0
+BRB,BB,Barbados,,,,,,2020-03-07,0.0,-1.0,5.0,-6.0,-3.0,0.0
+BRB,BB,Barbados,,,,,,2020-03-08,5.0,1.0,6.0,-3.0,0.0,0.0
+BRB,BB,Barbados,,,,,,2020-03-09,-7.0,-5.0,1.0,-7.0,3.0,1.0
+BRB,BB,Barbados,,,,,,2020-03-10,-1.0,-1.0,2.0,-6.0,5.0,0.0
+BRB,BB,Barbados,,,,,,2020-03-11,1.0,2.0,5.0,-7.0,3.0,0.0
+BRB,BB,Barbados,,,,,,2020-03-12,2.0,12.0,0.0,-3.0,1.0,0.0
+BRB,BB,Barbados,,,,,,2020-03-13,1.0,12.0,2.0,-7.0,1.0,1.0
+BRB,BB,Barbados,,,,,,2020-03-14,-3.0,4.0,5.0,-6.0,-1.0,2.0
+BRB,BB,Barbados,,,,,,2020-03-15,-1.0,0.0,0.0,-3.0,-1.0,2.0
+BRB,BB,Barbados,,,,,,2020-03-16,-8.0,2.0,-7.0,1.0,1.0,2.0
+BRB,BB,Barbados,,,,,,2020-03-17,-5.0,18.0,-11.0,1.0,1.0,2.0
+BRB,BB,Barbados,,,,,,2020-03-18,-14.0,9.0,-12.0,-13.0,-9.0,6.0
+BRB,BB,Barbados,,,,,,2020-03-19,-15.0,8.0,-17.0,-25.0,-14.0,8.0
+BRB,BB,Barbados,,,,,,2020-03-20,-21.0,-1.0,-23.0,-21.0,-16.0,10.0
+BRB,BB,Barbados,,,,,,2020-03-21,-27.0,-4.0,-28.0,-19.0,-12.0,9.0
+BRB,BB,Barbados,,,,,,2020-03-22,-37.0,-10.0,-38.0,-36.0,-21.0,8.0
+BRB,BB,Barbados,,,,,,2020-03-23,-29.0,-7.0,-32.0,-33.0,-25.0,13.0
+BRB,BB,Barbados,,,,,,2020-03-24,-26.0,-6.0,-33.0,-35.0,-29.0,14.0
+BRB,BB,Barbados,,,,,,2020-03-25,-30.0,-6.0,-25.0,-42.0,-33.0,14.0
+BRB,BB,Barbados,,,,,,2020-03-26,-27.0,-6.0,-29.0,-43.0,-34.0,15.0
+BRB,BB,Barbados,,,,,,2020-03-27,-25.0,-6.0,-28.0,-42.0,-33.0,16.0
+BRB,BB,Barbados,,,,,,2020-03-28,-39.0,-27.0,-41.0,-54.0,-33.0,15.0
+BRB,BB,Barbados,,,,,,2020-03-29,-70.0,-47.0,-60.0,-77.0,-52.0,15.0
+BRB,BB,Barbados,,,,,,2020-03-30,-67.0,-46.0,-57.0,-70.0,-63.0,28.0
+BRB,BB,Barbados,,,,,,2020-03-31,-66.0,-41.0,-55.0,-68.0,-65.0,28.0
+BRB,BB,Barbados,,,,,,2020-04-01,-64.0,-34.0,-53.0,-72.0,-67.0,28.0
+BRB,BB,Barbados,,,,,,2020-04-02,-60.0,-29.0,-56.0,-74.0,-69.0,29.0
+BRB,BB,Barbados,,,,,,2020-04-03,-65.0,-26.0,-54.0,-74.0,-71.0,27.0
+BRB,BB,Barbados,,,,,,2020-04-04,-95.0,-95.0,-89.0,-92.0,-82.0,
+BRB,BB,Barbados,,,,,,2020-04-05,-88.0,-92.0,-88.0,-90.0,-75.0,
+BRB,BB,Barbados,,,,,,2020-04-06,-90.0,-89.0,-81.0,-89.0,-84.0,39.0
+BRB,BB,Barbados,,,,,,2020-04-07,-87.0,-86.0,-81.0,-83.0,-82.0,37.0
+BRB,BB,Barbados,,,,,,2020-04-08,-82.0,-70.0,-75.0,-84.0,-80.0,35.0
+BRB,BB,Barbados,,,,,,2020-04-09,-77.0,-59.0,-69.0,-80.0,-79.0,33.0
+BRB,BB,Barbados,,,,,,2020-04-10,-93.0,-94.0,-84.0,-95.0,-90.0,
+BRB,BB,Barbados,,,,,,2020-04-11,-77.0,-62.0,-67.0,-81.0,-67.0,25.0
+BRB,BB,Barbados,,,,,,2020-04-12,-82.0,-88.0,-78.0,-89.0,-70.0,
+BRB,BB,Barbados,,,,,,2020-04-13,-89.0,-91.0,-81.0,-93.0,-89.0,40.0
+BRB,BB,Barbados,,,,,,2020-04-14,-81.0,-76.0,-70.0,-84.0,-76.0,34.0
+BRB,BB,Barbados,,,,,,2020-04-15,-68.0,-43.0,-64.0,-80.0,-72.0,30.0
+BRB,BB,Barbados,,,,,,2020-04-16,-71.0,-46.0,-64.0,-79.0,-73.0,32.0
+BRB,BB,Barbados,,,,,,2020-04-17,-70.0,-45.0,-63.0,-80.0,-71.0,35.0
+BRB,BB,Barbados,,,,,,2020-04-18,-74.0,-54.0,-66.0,-76.0,-60.0,23.0
+BRB,BB,Barbados,,,,,,2020-04-19,-76.0,-57.0,-76.0,-84.0,-60.0,17.0
+BRB,BB,Barbados,,,,,,2020-04-20,-73.0,-54.0,-66.0,-80.0,-71.0,31.0
+BRB,BB,Barbados,,,,,,2020-04-21,-75.0,-56.0,-65.0,-79.0,-70.0,31.0
+BRB,BB,Barbados,,,,,,2020-04-22,-70.0,-45.0,-60.0,-79.0,-70.0,30.0
+BRB,BB,Barbados,,,,,,2020-04-23,-75.0,-51.0,-68.0,-81.0,-72.0,32.0
+BRB,BB,Barbados,,,,,,2020-04-24,-72.0,-47.0,-62.0,-78.0,-70.0,34.0
+BRB,BB,Barbados,,,,,,2020-04-25,-74.0,-53.0,-65.0,-79.0,-59.0,23.0
+BRB,BB,Barbados,,,,,,2020-04-26,-76.0,-57.0,-73.0,-85.0,-59.0,17.0
+BRB,BB,Barbados,,,,,,2020-04-27,-69.0,-47.0,-62.0,-77.0,-68.0,31.0
+BRB,BB,Barbados,,,,,,2020-04-28,-91.0,-89.0,-80.0,-91.0,-87.0,37.0
+BRB,BB,Barbados,,,,,,2020-04-29,-66.0,-38.0,-59.0,-75.0,-68.0,29.0
+BRB,BB,Barbados,,,,,,2020-04-30,-63.0,-29.0,-58.0,-72.0,-68.0,28.0
+BRB,BB,Barbados,,,,,,2020-05-01,-91.0,-88.0,-76.0,-91.0,-87.0,43.0
+BRB,BB,Barbados,,,,,,2020-05-02,-71.0,-46.0,-64.0,-72.0,-55.0,22.0
+BRB,BB,Barbados,,,,,,2020-05-03,-76.0,-58.0,-72.0,-84.0,-56.0,17.0
+BRB,BB,Barbados,,,,,,2020-05-04,-59.0,-41.0,-50.0,-72.0,-55.0,26.0
+BRB,BB,Barbados,,,,,,2020-05-05,-60.0,-42.0,-53.0,-70.0,-55.0,25.0
+BRB,BB,Barbados,,,,,,2020-05-06,-54.0,-33.0,-44.0,-63.0,-55.0,24.0
+BRB,BB,Barbados,,,,,,2020-05-07,-57.0,-36.0,-46.0,-66.0,-56.0,26.0
+BRB,BB,Barbados,,,,,,2020-05-08,-58.0,-35.0,-43.0,-67.0,-53.0,28.0
+BRB,BB,Barbados,,,,,,2020-05-09,-58.0,-36.0,-41.0,-68.0,-46.0,19.0
+BRB,BB,Barbados,,,,,,2020-05-10,-64.0,-47.0,-51.0,-77.0,-46.0,14.0
+BRB,BB,Barbados,,,,,,2020-05-11,-58.0,-43.0,-43.0,-64.0,-52.0,25.0
+BRB,BB,Barbados,,,,,,2020-05-12,-60.0,-43.0,-42.0,-59.0,-52.0,25.0
+BRB,BB,Barbados,,,,,,2020-05-13,-55.0,-34.0,-42.0,-62.0,-52.0,24.0
+BRB,BB,Barbados,,,,,,2020-05-14,-57.0,-36.0,-45.0,-66.0,-54.0,24.0
+BRB,BB,Barbados,,,,,,2020-05-15,-58.0,-36.0,-43.0,-64.0,-50.0,27.0
+BRB,BB,Barbados,,,,,,2020-05-16,-59.0,-37.0,-43.0,-67.0,-43.0,18.0
+BRB,BB,Barbados,,,,,,2020-05-17,-64.0,-47.0,-49.0,-79.0,-45.0,14.0
+BRB,BB,Barbados,,,,,,2020-05-18,-47.0,-38.0,-36.0,-63.0,-46.0,23.0
+BRB,BB,Barbados,,,,,,2020-05-19,-49.0,-39.0,-38.0,-61.0,-47.0,23.0
+BRB,BB,Barbados,,,,,,2020-05-20,-50.0,-33.0,-46.0,-61.0,-48.0,23.0
+BRB,BB,Barbados,,,,,,2020-05-21,-48.0,-32.0,-37.0,-60.0,-48.0,24.0
+BRB,BB,Barbados,,,,,,2020-05-22,-47.0,-30.0,-33.0,-59.0,-45.0,24.0
+BRB,BB,Barbados,,,,,,2020-05-23,-45.0,-29.0,-33.0,-63.0,-36.0,16.0
+BRB,BB,Barbados,,,,,,2020-05-24,-54.0,-39.0,-40.0,-69.0,-39.0,13.0
+BRB,BB,Barbados,,,,,,2020-05-25,-43.0,-32.0,-30.0,-59.0,-45.0,22.0
+BRB,BB,Barbados,,,,,,2020-05-26,-45.0,-31.0,-35.0,-56.0,-43.0,21.0
+BRB,BB,Barbados,,,,,,2020-05-27,-38.0,-23.0,-27.0,-58.0,-44.0,20.0
+BRB,BB,Barbados,,,,,,2020-05-28,-42.0,-26.0,-34.0,-55.0,-44.0,22.0
+BRB,BB,Barbados,,,,,,2020-05-29,-44.0,-27.0,-31.0,-60.0,-42.0,24.0
+BRB,BB,Barbados,,,,,,2020-05-30,-43.0,-26.0,-29.0,-62.0,-32.0,15.0
+BRB,BB,Barbados,,,,,,2020-05-31,-52.0,-31.0,-39.0,-73.0,-35.0,12.0
+BRB,BB,Barbados,,,,,,2020-06-01,-72.0,-79.0,-35.0,-82.0,-78.0,32.0
+BRB,BB,Barbados,,,,,,2020-06-02,-31.0,-16.0,-26.0,-52.0,-36.0,18.0
+BRB,BB,Barbados,,,,,,2020-06-03,-34.0,-18.0,-27.0,-50.0,-38.0,18.0
+BRB,BB,Barbados,,,,,,2020-06-04,-33.0,-18.0,-28.0,-54.0,-39.0,19.0
+BRB,BB,Barbados,,,,,,2020-06-05,-40.0,-26.0,-35.0,-57.0,-38.0,23.0
+BRB,BB,Barbados,,,,,,2020-06-06,-39.0,-24.0,-32.0,-61.0,-31.0,16.0
+BRB,BB,Barbados,,,,,,2020-06-07,-46.0,-28.0,-31.0,-72.0,-33.0,12.0
+BRB,BB,Barbados,,,,,,2020-06-08,-35.0,-26.0,-27.0,-55.0,-37.0,19.0
+BRB,BB,Barbados,,,,,,2020-06-09,-33.0,-21.0,-25.0,-49.0,-35.0,18.0
+BRB,BB,Barbados,,,,,,2020-06-10,-30.0,-20.0,-20.0,-53.0,-36.0,17.0
+BRB,BB,Barbados,,,,,,2020-06-11,-32.0,-21.0,-26.0,-55.0,-37.0,19.0
+BRB,BB,Barbados,,,,,,2020-06-12,-37.0,-25.0,-30.0,-53.0,-34.0,21.0
+BRB,BB,Barbados,,,,,,2020-06-13,-31.0,-19.0,-17.0,-54.0,-24.0,14.0
+BRB,BB,Barbados,,,,,,2020-06-14,-41.0,-27.0,-23.0,-67.0,-29.0,11.0
+BRB,BB,Barbados,,,,,,2020-06-15,-31.0,-24.0,-21.0,-54.0,-34.0,17.0
+BRB,BB,Barbados,,,,,,2020-06-16,-29.0,-19.0,-21.0,-47.0,-33.0,17.0
+BRB,BB,Barbados,,,,,,2020-06-17,-28.0,-19.0,-19.0,-53.0,-34.0,16.0
+BRB,BB,Barbados,,,,,,2020-06-18,-29.0,-23.0,-28.0,-56.0,-36.0,18.0
+BRB,BB,Barbados,,,,,,2020-06-19,-32.0,-20.0,-28.0,-55.0,-33.0,19.0
+BRB,BB,Barbados,,,,,,2020-06-20,-31.0,-15.0,-27.0,-60.0,-24.0,14.0
+BRB,BB,Barbados,,,,,,2020-06-21,-35.0,-26.0,-21.0,-69.0,-23.0,9.0
+BRB,BB,Barbados,,,,,,2020-06-22,-32.0,-24.0,-23.0,-53.0,-34.0,17.0
+BRB,BB,Barbados,,,,,,2020-06-23,-28.0,-19.0,-23.0,-49.0,-33.0,17.0
+BRB,BB,Barbados,,,,,,2020-06-24,-26.0,-18.0,-17.0,-49.0,-32.0,16.0
+BRB,BB,Barbados,,,,,,2020-06-25,-20.0,-11.0,-20.0,-48.0,-34.0,16.0
+BRB,BB,Barbados,,,,,,2020-06-26,-24.0,-14.0,-19.0,-49.0,-32.0,18.0
+BRB,BB,Barbados,,,,,,2020-06-27,-20.0,-11.0,-10.0,-51.0,-21.0,11.0
+BRB,BB,Barbados,,,,,,2020-06-28,-32.0,-22.0,-16.0,-66.0,-25.0,9.0
+BRB,BB,Barbados,,,,,,2020-06-29,-24.0,-20.0,-20.0,-47.0,-32.0,15.0
+BRB,BB,Barbados,,,,,,2020-06-30,-22.0,-14.0,-19.0,-49.0,-31.0,15.0
+BRB,BB,Barbados,,,,,,2020-07-01,-22.0,-13.0,-15.0,-46.0,-31.0,14.0
+BRB,BB,Barbados,,,,,,2020-07-02,-21.0,-14.0,-15.0,-49.0,-33.0,15.0
+BRB,BB,Barbados,,,,,,2020-07-03,-21.0,-12.0,-14.0,-50.0,-30.0,16.0
+BRB,BB,Barbados,,,,,,2020-07-04,-18.0,-12.0,-4.0,-49.0,-20.0,10.0
+BRB,BB,Barbados,,,,,,2020-07-05,-25.0,-22.0,-8.0,-67.0,-24.0,8.0
+BRB,BB,Barbados,,,,,,2020-07-06,-28.0,-22.0,-25.0,-54.0,-33.0,16.0
+BRB,BB,Barbados,,,,,,2020-07-07,-24.0,-15.0,-19.0,-48.0,-31.0,15.0
+BRB,BB,Barbados,,,,,,2020-07-08,-22.0,-15.0,-15.0,-50.0,-30.0,14.0
+BRB,BB,Barbados,,,,,,2020-07-09,-22.0,-15.0,-16.0,-46.0,-32.0,14.0
+BRB,BB,Barbados,,,,,,2020-07-10,-22.0,-16.0,-16.0,-52.0,-29.0,15.0
+BRB,BB,Barbados,,,,,,2020-07-11,-20.0,-14.0,-7.0,-52.0,-21.0,10.0
+BRB,BB,Barbados,,,,,,2020-07-12,-26.0,-24.0,-16.0,-63.0,-25.0,8.0
+BRB,BB,Barbados,,,,,,2020-07-13,-28.0,-22.0,-19.0,-49.0,-32.0,15.0
+BRB,BB,Barbados,,,,,,2020-07-14,-19.0,-17.0,-7.0,-49.0,-31.0,13.0
+BRB,BB,Barbados,,,,,,2020-07-15,-22.0,-18.0,-12.0,-48.0,-30.0,13.0
+BRB,BB,Barbados,,,,,,2020-07-16,-22.0,-16.0,-11.0,-46.0,-31.0,14.0
+BRB,BB,Barbados,,,,,,2020-07-17,-22.0,-13.0,-13.0,-49.0,-29.0,15.0
+BRB,BB,Barbados,,,,,,2020-07-18,-20.0,-13.0,-2.0,-49.0,-20.0,9.0
+BRB,BB,Barbados,,,,,,2020-07-19,-19.0,-21.0,1.0,-56.0,-24.0,7.0
+BRB,BB,Barbados,,,,,,2020-07-20,-28.0,-24.0,-17.0,-48.0,-31.0,15.0
+BRB,BB,Barbados,,,,,,2020-07-21,-22.0,-18.0,-15.0,-44.0,-30.0,14.0
+BRB,BB,Barbados,,,,,,2020-07-22,-20.0,-9.0,-10.0,-43.0,-29.0,13.0
+BRB,BB,Barbados,,,,,,2020-07-23,-13.0,5.0,-9.0,-41.0,-29.0,12.0
+BRB,BB,Barbados,,,,,,2020-07-24,-20.0,-1.0,-21.0,-45.0,-29.0,16.0
+BRB,BB,Barbados,,,,,,2020-07-25,-35.0,-32.0,-31.0,-59.0,-35.0,16.0
+BRB,BB,Barbados,,,,,,2020-07-26,-23.0,-26.0,-14.0,-56.0,-25.0,8.0
+BRB,BB,Barbados,,,,,,2020-07-27,-21.0,-19.0,-18.0,-45.0,-31.0,14.0
+BRB,BB,Barbados,,,,,,2020-07-28,-30.0,-23.0,-38.0,-47.0,-31.0,16.0
+BRB,BB,Barbados,,,,,,2020-07-29,-20.0,-13.0,-23.0,-48.0,-31.0,14.0
+BRB,BB,Barbados,,,,,,2020-07-30,-14.0,-5.0,-11.0,-41.0,-29.0,12.0
+BRB,BB,Barbados,,,,,,2020-07-31,-7.0,9.0,-2.0,-37.0,-26.0,10.0
+BRB,BB,Barbados,,,,,,2020-08-01,-46.0,-62.0,-1.0,-61.0,-42.0,12.0
+BRB,BB,Barbados,,,,,,2020-08-02,-8.0,10.0,11.0,-48.0,-21.0,4.0
+BRB,BB,Barbados,,,,,,2020-08-03,-49.0,-69.0,20.0,-71.0,-76.0,24.0
+BRB,BB,Barbados,,,,,,2020-08-04,-11.0,1.0,-12.0,-35.0,-29.0,11.0
+BRB,BB,Barbados,,,,,,2020-08-05,-15.0,-6.0,-10.0,-37.0,-29.0,12.0
+BRB,BB,Barbados,,,,,,2020-08-06,-18.0,-11.0,-15.0,-41.0,-32.0,13.0
+BRB,BB,Barbados,,,,,,2020-08-07,-19.0,-14.0,-9.0,-42.0,-28.0,13.0
+BRB,BB,Barbados,,,,,,2020-08-08,-25.0,-19.0,-18.0,-45.0,-23.0,11.0
+BRB,BB,Barbados,,,,,,2020-08-09,-19.0,-19.0,-2.0,-49.0,-21.0,6.0
+BRB,BB,Barbados,,,,,,2020-08-10,-24.0,-21.0,-14.0,-45.0,-31.0,13.0
+BRB,BB,Barbados,,,,,,2020-08-11,-22.0,-17.0,-14.0,-43.0,-30.0,13.0
+BRB,BB,Barbados,,,,,,2020-08-12,-21.0,-15.0,-16.0,-43.0,-30.0,12.0
+BRB,BB,Barbados,,,,,,2020-08-13,-16.0,-11.0,-9.0,-43.0,-30.0,12.0
+BRB,BB,Barbados,,,,,,2020-08-14,-20.0,-13.0,-7.0,-45.0,-29.0,14.0
+BRB,BB,Barbados,,,,,,2020-08-15,-18.0,-12.0,1.0,-40.0,-20.0,8.0
+BRB,BB,Barbados,,,,,,2020-08-16,-23.0,-21.0,-11.0,-53.0,-24.0,6.0
+BRB,BB,Barbados,,,,,,2020-08-17,-39.0,-32.0,-42.0,-55.0,-36.0,18.0
+BRB,BB,Barbados,,,,,,2020-08-18,-20.0,-13.0,-16.0,-41.0,-27.0,12.0
+BRB,BB,Barbados,,,,,,2020-08-19,-15.0,-12.0,-11.0,-39.0,-29.0,11.0
+BRB,BB,Barbados,,,,,,2020-08-20,-18.0,-14.0,-14.0,-44.0,-31.0,12.0
+BRB,BB,Barbados,,,,,,2020-08-21,-15.0,-13.0,-8.0,-42.0,-28.0,12.0
+BRB,BB,Barbados,,,,,,2020-08-22,-14.0,-11.0,0.0,-40.0,-20.0,7.0
+BRB,BB,Barbados,,,,,,2020-08-23,-15.0,-18.0,-3.0,-50.0,-21.0,5.0
+BRB,BB,Barbados,,,,,,2020-08-24,-20.0,-18.0,-13.0,-44.0,-30.0,13.0
+BRB,BB,Barbados,,,,,,2020-08-25,-9.0,-7.0,-6.0,-37.0,-28.0,11.0
+BRB,BB,Barbados,,,,,,2020-08-26,-6.0,-5.0,-3.0,-37.0,-28.0,10.0
+BRB,BB,Barbados,,,,,,2020-08-27,-3.0,-4.0,-1.0,-38.0,-29.0,10.0
+BRB,BB,Barbados,,,,,,2020-08-28,-5.0,-5.0,-2.0,-39.0,-27.0,10.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-15,-5.0,-1.0,,-4.0,-1.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-16,1.0,3.0,,-1.0,3.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-17,-4.0,-3.0,,5.0,1.0,2.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-18,-3.0,-5.0,,5.0,-1.0,2.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-19,-4.0,-6.0,,0.0,1.0,1.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-20,4.0,-2.0,,10.0,0.0,0.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-21,2.0,1.0,,-1.0,1.0,0.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-22,8.0,1.0,,-7.0,1.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-23,14.0,3.0,,-4.0,1.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-24,6.0,2.0,,-7.0,1.0,2.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-25,15.0,13.0,,9.0,4.0,0.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-26,16.0,9.0,,5.0,2.0,-1.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-27,11.0,10.0,,12.0,1.0,0.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-28,3.0,11.0,,5.0,0.0,0.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-02-29,7.0,6.0,,-1.0,1.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-01,11.0,7.0,,5.0,5.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-02,-2.0,0.0,,-1.0,3.0,2.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-03,4.0,6.0,,3.0,6.0,0.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-04,4.0,4.0,,-3.0,5.0,0.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-05,3.0,2.0,,0.0,0.0,0.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-06,2.0,7.0,,-4.0,2.0,1.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-07,1.0,4.0,,-10.0,-2.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-08,22.0,5.0,,-5.0,5.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-09,-7.0,-1.0,,-11.0,4.0,2.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-10,-2.0,2.0,,-6.0,4.0,0.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-11,1.0,7.0,,-10.0,3.0,0.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-12,1.0,11.0,,-1.0,0.0,1.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-13,-4.0,16.0,,-13.0,0.0,1.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-14,-6.0,3.0,,-5.0,-1.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-15,-3.0,1.0,,-8.0,1.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-16,-7.0,6.0,,-1.0,1.0,2.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-17,-10.0,20.0,,9.0,1.0,2.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-18,-15.0,10.0,,-8.0,-11.0,7.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-19,-15.0,6.0,,-28.0,-16.0,9.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-20,-28.0,-7.0,,-22.0,-19.0,12.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-21,-32.0,-6.0,,-20.0,-12.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-22,-44.0,-21.0,,-34.0,-20.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-23,-34.0,-9.0,,-41.0,-27.0,14.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-24,-32.0,-11.0,,-38.0,-31.0,15.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-25,-34.0,-13.0,,-49.0,-35.0,15.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-26,-34.0,-15.0,,-54.0,-36.0,17.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-27,-35.0,-20.0,,-54.0,-36.0,17.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-28,-47.0,-39.0,,-71.0,-34.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-29,-81.0,-57.0,,-83.0,-51.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-30,-75.0,-52.0,,-77.0,-64.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-03-31,-74.0,-42.0,,-66.0,-65.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-01,-70.0,-38.0,,-77.0,-69.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-02,-67.0,-35.0,,-82.0,-69.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-03,-76.0,-36.0,,-83.0,-72.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-04,-100.0,-97.0,,-93.0,-83.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-05,-93.0,-94.0,,-100.0,-78.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-06,-94.0,-93.0,,-91.0,-83.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-07,-92.0,-90.0,,-82.0,-82.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-08,-89.0,-75.0,,-86.0,-79.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-09,-86.0,-64.0,,-85.0,-80.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-10,-96.0,-96.0,,-96.0,-91.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-11,-87.0,-71.0,-82.0,-86.0,-69.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-12,-89.0,-91.0,,-89.0,-72.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-13,-93.0,-95.0,,-92.0,-90.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-14,-88.0,-85.0,,-84.0,-76.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-15,-76.0,-50.0,,-83.0,-72.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-16,-79.0,-52.0,,-84.0,-74.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-17,-78.0,-55.0,-70.0,-86.0,-72.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-18,-84.0,-59.0,-83.0,-86.0,-63.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-19,-86.0,-64.0,,-90.0,-64.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-20,-82.0,-53.0,,-85.0,-71.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-21,-83.0,-55.0,,-81.0,-70.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-22,-77.0,-43.0,-74.0,-83.0,-71.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-23,-82.0,-52.0,,-85.0,-73.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-24,-80.0,-51.0,-74.0,-87.0,-70.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-25,-84.0,-57.0,-76.0,-90.0,-61.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-26,-86.0,-60.0,,-88.0,-60.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-27,-76.0,-45.0,,-83.0,-69.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-28,-95.0,-92.0,,-90.0,-88.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-29,-75.0,-36.0,-72.0,-80.0,-69.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-04-30,-74.0,-30.0,,-78.0,-69.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-01,-95.0,-90.0,,-91.0,-88.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-02,-81.0,-49.0,-80.0,-81.0,-54.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-03,-87.0,-63.0,,-88.0,-59.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-04,-65.0,-40.0,,-80.0,-56.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-05,-65.0,-39.0,,-77.0,-56.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-06,-62.0,-33.0,,-70.0,-55.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-07,-66.0,-38.0,,-76.0,-56.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-08,-66.0,-39.0,-59.0,-78.0,-54.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-09,-67.0,-39.0,,-81.0,-49.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-10,-74.0,-57.0,,-85.0,-52.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-11,-65.0,-43.0,,-72.0,-53.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-12,-67.0,-44.0,,-63.0,-53.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-13,-61.0,-35.0,,-70.0,-54.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-14,-64.0,-39.0,,-75.0,-55.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-15,-67.0,-41.0,-63.0,-78.0,-52.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-16,-69.0,-42.0,-62.0,-80.0,-43.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-17,-76.0,-55.0,,-85.0,-49.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-18,-55.0,-38.0,,-76.0,-48.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-19,-57.0,-42.0,,-64.0,-47.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-20,-55.0,-32.0,,-71.0,-48.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-21,-56.0,-35.0,,-67.0,-50.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-22,-57.0,-35.0,-57.0,-70.0,-46.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-23,-57.0,-33.0,,-79.0,-38.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-24,-66.0,-48.0,,-75.0,-41.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-25,-51.0,-31.0,,-69.0,-46.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-26,-53.0,-31.0,,-59.0,-44.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-27,-47.0,-20.0,,-70.0,-45.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-28,-52.0,-27.0,,-65.0,-45.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-29,-55.0,-29.0,-57.0,-74.0,-42.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-30,-54.0,-28.0,,-79.0,-34.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-05-31,-66.0,-41.0,,-80.0,-39.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-01,-78.0,-75.0,,-79.0,-79.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-02,-37.0,-17.0,,-62.0,-37.0,18.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-03,-38.0,-16.0,,-59.0,-38.0,19.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-04,-38.0,-20.0,,-63.0,-40.0,20.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-05,-49.0,-30.0,-55.0,-73.0,-40.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-06,-46.0,-30.0,,-82.0,-35.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-07,-56.0,-38.0,,-78.0,-34.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-08,-40.0,-28.0,,-69.0,-38.0,19.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-09,-37.0,-23.0,,-56.0,-37.0,18.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-10,-31.0,-19.0,,-69.0,-36.0,17.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-11,-36.0,-21.0,,-67.0,-39.0,19.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-12,-46.0,-31.0,-51.0,-66.0,-36.0,22.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-13,-39.0,-19.0,,-74.0,-28.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-14,-52.0,-37.0,,-72.0,-31.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-15,-33.0,-24.0,,-72.0,-35.0,18.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-16,-31.0,-19.0,,-52.0,-33.0,17.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-17,-28.0,-16.0,,-68.0,-34.0,16.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-18,-31.0,-20.0,,-74.0,-37.0,18.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-19,-38.0,-24.0,-50.0,-73.0,-34.0,18.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-20,-35.0,-14.0,,-78.0,-24.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-21,-44.0,-32.0,,-78.0,-23.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-22,-35.0,-22.0,,-67.0,-35.0,17.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-23,-32.0,-21.0,,-62.0,-33.0,17.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-24,-23.0,-8.0,,-65.0,-33.0,16.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-25,-19.0,-9.0,,-64.0,-35.0,17.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-26,-28.0,-16.0,,-69.0,-32.0,18.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-27,-21.0,-11.0,,-74.0,-22.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-28,-42.0,-30.0,,-77.0,-25.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-29,-23.0,-16.0,,-62.0,-32.0,16.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-06-30,-24.0,-14.0,,-64.0,-32.0,15.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-01,-21.0,-10.0,,-61.0,-31.0,15.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-02,-19.0,-15.0,,-65.0,-36.0,16.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-03,-24.0,-17.0,,-70.0,-31.0,17.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-04,-20.0,-13.0,,-73.0,-23.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-05,-33.0,-26.0,,-79.0,-23.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-06,-29.0,-20.0,,-71.0,-33.0,17.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-07,-25.0,-15.0,,-60.0,-31.0,15.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-08,-21.0,-12.0,,-65.0,-31.0,14.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-09,-22.0,-19.0,,-60.0,-33.0,15.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-10,-23.0,-21.0,,-71.0,-30.0,15.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-11,-22.0,-11.0,,-77.0,-24.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-12,-38.0,-27.0,,-69.0,-22.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-13,-27.0,-20.0,,-63.0,-32.0,15.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-14,-19.0,-16.0,,-60.0,-32.0,13.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-15,-21.0,-17.0,,-62.0,-31.0,13.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-16,-23.0,-17.0,,-60.0,-32.0,14.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-17,-26.0,-18.0,,-65.0,-30.0,15.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-18,-26.0,-13.0,,-70.0,-22.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-19,-28.0,-27.0,,-62.0,-22.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-20,-30.0,-23.0,,-60.0,-33.0,15.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-21,-24.0,-17.0,,-51.0,-32.0,14.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-22,-19.0,-3.0,,-56.0,-30.0,13.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-23,-16.0,3.0,,-56.0,-31.0,13.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-24,-27.0,-7.0,,-64.0,-31.0,16.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-25,-34.0,-32.0,,-72.0,-36.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-26,-24.0,-34.0,,-57.0,-24.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-27,-20.0,-18.0,,-61.0,-32.0,14.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-28,-34.0,-26.0,,-56.0,-33.0,16.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-29,-17.0,-10.0,,-60.0,-32.0,13.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-30,-15.0,-5.0,,-55.0,-30.0,13.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-07-31,-11.0,1.0,,-60.0,-28.0,11.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-01,-56.0,-57.0,,-61.0,-43.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-02,-17.0,-3.0,,-51.0,-22.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-03,-54.0,-59.0,,-66.0,-76.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-04,-10.0,2.0,,-45.0,-30.0,11.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-05,-9.0,-1.0,,-49.0,-31.0,12.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-06,-19.0,-11.0,,-55.0,-34.0,13.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-07,-21.0,-16.0,,-60.0,-31.0,13.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-08,-25.0,-20.0,,-63.0,-22.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-09,-26.0,-28.0,,-55.0,-23.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-10,-23.0,-18.0,,-62.0,-34.0,14.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-11,-22.0,-15.0,,-52.0,-32.0,13.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-12,-17.0,-10.0,,-57.0,-31.0,12.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-13,-16.0,-15.0,,-56.0,-32.0,13.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-14,-22.0,-16.0,,-62.0,-32.0,13.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-15,-22.0,-13.0,,-60.0,-20.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-16,-28.0,-26.0,,-56.0,-22.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-17,-38.0,-30.0,,-67.0,-37.0,17.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-18,-19.0,-15.0,,-49.0,-29.0,13.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-19,-9.0,-9.0,,-56.0,-29.0,11.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-20,-18.0,-13.0,,-56.0,-33.0,13.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-21,-16.0,-15.0,,-61.0,-30.0,12.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-22,-14.0,-11.0,,-59.0,-21.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-23,-21.0,-24.0,,-56.0,-19.0,
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-24,-18.0,-14.0,,-62.0,-31.0,12.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-25,-9.0,-4.0,,-47.0,-30.0,11.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-26,-4.0,-2.0,,-54.0,-29.0,10.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-27,-4.0,-3.0,,-52.0,-30.0,11.0
+BB-01,BB,Barbados,Christ Church,,,BB-01,,2020-08-28,-8.0,-7.0,,-60.0,-29.0,10.0
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-15,,,0.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-16,,,0.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-17,,,-9.0,,1.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-18,,,-8.0,,3.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-19,,,-16.0,,-3.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-20,,,0.0,,3.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-21,,,0.0,,3.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-22,-21.0,,-5.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-23,,,-5.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-24,,,-7.0,,4.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-25,,,-2.0,,3.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-26,,,-3.0,,-1.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-27,,,4.0,,4.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-28,,,6.0,,4.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-02-29,,,-3.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-01,,,-5.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-02,,,-1.0,,2.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-03,,,0.0,,4.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-04,,,7.0,,2.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-05,,,3.0,,3.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-06,,,-1.0,,6.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-07,,,-4.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-08,,,1.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-09,,,-7.0,,3.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-10,,,2.0,,8.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-11,,,3.0,,-4.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-12,,,-1.0,,2.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-13,,,-8.0,,-1.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-14,,,-7.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-15,,,-10.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-16,,,-16.0,,-2.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-17,,,-8.0,,4.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-18,,,-9.0,,-15.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-19,,,-9.0,,-16.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-20,,,-16.0,,-16.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-21,-28.0,,-21.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-22,,,-28.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-23,,,-26.0,,-28.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-24,,,-17.0,,-27.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-25,,,-12.0,,-33.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-26,,,-15.0,,-33.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-27,,,-19.0,,-33.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-28,-35.0,,-34.0,,-29.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-29,,,-53.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-30,,,-50.0,,-66.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-03-31,,,-42.0,,-65.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-01,,,-34.0,,-68.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-02,,,-35.0,,-70.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-03,,,-33.0,,-72.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-04,,,-87.0,,-83.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-05,,,-83.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-06,,,-71.0,,-84.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-07,,,-71.0,,-80.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-08,,,-61.0,,-80.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-09,,,-49.0,,-80.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-10,,,-72.0,,-90.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-11,,,-55.0,,-68.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-12,,,-69.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-13,,,-65.0,,-89.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-14,,,-52.0,,-76.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-15,,,-45.0,,-74.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-16,,,-51.0,,-74.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-17,,,-42.0,,-69.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-18,,,-51.0,,-55.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-19,,,-65.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-20,,,-49.0,,-72.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-21,,,-48.0,,-69.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-22,,,-39.0,,-72.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-23,,,-48.0,,-71.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-24,,,-40.0,,-71.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-25,,,-50.0,,-60.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-26,,,-60.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-27,,,-40.0,,-68.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-28,,,-62.0,,-87.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-29,,,-33.0,,-70.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-04-30,,,-36.0,,-66.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-01,,,-55.0,,-89.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-02,,,-45.0,,-53.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-03,,,-58.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-04,,,-29.0,,-54.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-05,,,-28.0,,-52.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-06,,,-17.0,,-55.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-07,,,-17.0,,-54.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-08,,,-15.0,,-52.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-09,,,-21.0,,-45.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-10,,,-35.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-11,,,-25.0,,-49.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-12,,,-15.0,,-48.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-13,,,-13.0,,-50.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-14,,,-14.0,,-49.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-15,,,-13.0,,-48.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-16,,,-20.0,,-44.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-17,,,-28.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-18,,,-16.0,,-44.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-19,,,-9.0,,-48.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-20,,,-20.0,,-49.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-21,,,-6.0,,-43.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-22,,,-10.0,,-43.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-23,,,-16.0,,-33.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-24,,,-25.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-25,,,-12.0,,-42.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-26,,,-10.0,,-40.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-27,,,2.0,,-44.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-28,,,-6.0,,-41.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-29,,,-4.0,,-42.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-30,,,-11.0,,-30.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-05-31,,,-21.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-01,,,-7.0,,-79.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-02,,,-7.0,,-34.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-03,,,-1.0,,-40.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-04,,,-3.0,,-34.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-05,,,-14.0,,-31.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-06,,,-14.0,,-30.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-07,,,-18.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-08,,,-7.0,,-32.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-09,,,1.0,,-30.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-10,,,10.0,,-35.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-11,,,2.0,,-31.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-12,,,-13.0,,-34.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-13,,,-2.0,,-22.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-14,,,-14.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-15,,,-2.0,,-29.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-16,,,4.0,,-35.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-17,,,4.0,,-34.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-18,,,-1.0,,-32.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-19,,,-1.0,,-27.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-20,,,-10.0,,-16.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-21,,,-2.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-22,,,-3.0,,-31.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-23,,,2.0,,-29.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-24,,,17.0,,-35.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-25,,,14.0,,-33.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-26,,,4.0,,-29.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-27,,,6.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-28,,,-1.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-29,,,-4.0,,-29.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-06-30,,,14.0,,-26.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-01,,,8.0,,-31.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-02,,,14.0,,-30.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-03,,,12.0,,-29.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-04,,,14.0,,-16.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-05,,,0.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-06,,,-6.0,,-30.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-07,,,8.0,,-28.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-08,,,11.0,,-33.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-09,,,11.0,,-27.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-10,,,7.0,,-26.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-11,,,10.0,,-18.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-12,,,-5.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-13,,,1.0,,-29.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-14,,,13.0,,-29.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-15,,,13.0,,-30.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-16,,,11.0,,-27.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-17,,,7.0,,-27.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-18,,,7.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-19,,,1.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-20,,,3.0,,-29.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-21,,,8.0,,-28.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-22,,,19.0,,-28.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-23,,,16.0,,-27.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-24,,,-4.0,,-26.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-25,,,-14.0,,-35.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-26,,,-9.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-27,,,-4.0,,-30.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-28,,,-20.0,,-27.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-29,,,2.0,,-28.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-30,,,13.0,,-28.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-07-31,,,14.0,,-22.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-01,,,-3.0,,-41.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-02,,,3.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-03,,,14.0,,-79.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-04,,,6.0,,-28.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-05,,,4.0,,-32.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-06,,,10.0,,-29.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-07,,,5.0,,-27.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-08,,,-14.0,,-26.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-09,,,0.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-10,,,-3.0,,-32.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-11,,,2.0,,-28.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-12,,,6.0,,-31.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-13,,,10.0,,-27.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-14,,,8.0,,-29.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-15,,,10.0,,-18.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-16,,,-12.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-17,,,-26.0,,-34.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-18,,,4.0,,-24.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-19,,,7.0,,-29.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-20,,,0.0,,-28.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-21,,,2.0,,-27.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-22,,,2.0,,-17.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-23,,,-2.0,,,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-24,,,-3.0,,-30.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-25,,,8.0,,-26.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-26,,,11.0,,-29.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-27,,,15.0,,-23.0,
+BB-03,BB,Barbados,Saint George,,,BB-03,,2020-08-28,,,5.0,,-24.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-15,-5.0,0.0,,,0.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-16,0.0,18.0,,,,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-17,0.0,-8.0,,,2.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-18,-1.0,6.0,,,6.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-19,-10.0,3.0,,,4.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-20,9.0,5.0,,,4.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-21,6.0,12.0,,,4.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-22,22.0,34.0,,,0.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-23,26.0,31.0,,,,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-24,3.0,-9.0,,,-1.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-25,-5.0,5.0,,,4.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-26,4.0,0.0,,,3.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-27,4.0,7.0,,,3.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-28,-3.0,-3.0,,,4.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-02-29,-3.0,4.0,,,0.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-01,-6.0,0.0,,,,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-02,8.0,-9.0,,,4.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-03,-2.0,5.0,,,7.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-04,4.0,4.0,,,4.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-05,6.0,5.0,,,3.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-06,-1.0,6.0,,,4.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-07,-3.0,-2.0,,,0.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-08,-2.0,-1.0,,,,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-09,1.0,-12.0,,,3.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-10,-5.0,-5.0,,,7.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-11,10.0,8.0,,,4.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-12,3.0,24.0,,,4.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-13,-2.0,18.0,,,3.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-14,-5.0,12.0,,,0.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-15,-7.0,0.0,,,,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-16,-4.0,0.0,,,3.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-17,-11.0,37.0,,,3.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-18,-10.0,11.0,,,-7.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-19,-12.0,7.0,,,-12.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-20,-23.0,10.0,,,-13.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-21,-29.0,6.0,,,-8.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-22,-50.0,6.0,,,,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-23,-31.0,1.0,,,-27.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-24,-35.0,3.0,,,-28.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-25,-39.0,-9.0,,,-35.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-26,-38.0,-3.0,,,-35.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-27,-34.0,-8.0,,,-33.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-28,-53.0,-26.0,,,-31.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-29,-76.0,-50.0,,,-56.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-30,-68.0,-45.0,,,-62.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-03-31,-72.0,-40.0,,,-65.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-01,-59.0,-44.0,,,-66.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-02,-55.0,-43.0,,,-69.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-03,-69.0,-42.0,,,-73.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-04,-95.0,-100.0,,,-78.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-05,-93.0,,,,-76.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-06,,,,,-82.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-07,,,,,-83.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-08,,,,,-81.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-09,,,,,-80.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-10,,,,,-91.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-11,,,,,-69.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-12,,,,,-71.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-13,,,,,-90.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-14,,,,,-79.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-15,,,,,-74.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-16,,,,,-75.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-17,,,,,-73.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-18,,,,,-62.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-19,,,,,-67.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-20,,,,,-74.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-21,,,,,-73.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-22,,,,,-71.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-23,,,,,-74.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-24,,,,,-72.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-25,,,,,-63.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-26,,,,,-61.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-27,,,,,-72.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-28,,,,,-89.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-29,,,,,-70.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-04-30,,,,,-70.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-01,,,,,-88.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-02,,,,,-60.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-03,,,,,-58.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-04,,,,,-58.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-05,,,,,-59.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-06,,,,,-58.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-07,,,,,-59.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-08,,,,,-58.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-09,,,,,-43.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-11,,,,,-53.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-12,,,,,-55.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-13,,,,,-55.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-14,,,,,-57.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-15,-69.0,,,,-53.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-16,,-29.0,,,-45.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-17,,,,,-54.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-18,,-42.0,,,-49.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-19,,,,,-51.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-20,,,,,-54.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-21,,,,,-49.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-22,-60.0,,,,-49.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-23,,-26.0,,,-40.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-25,,,,,-50.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-26,,,,,-47.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-27,,,,,-48.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-28,,,,,-47.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-29,-55.0,,,,-47.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-05-30,,,,,-33.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-01,,,,,-81.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-02,,,,,-43.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-03,,,,,-43.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-04,,,,,-44.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-05,-50.0,,,,-44.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-06,,,,,-33.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-08,,,,,-43.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-09,,,,,-41.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-10,,,,,-42.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-11,,,,,-44.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-12,,,,,-39.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-13,,,,,-25.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-15,,,,,-40.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-16,,,,,-38.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-17,,,,,-39.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-18,,,,,-41.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-19,,,,,-37.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-20,,,,,-27.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-22,,,,,-37.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-23,,,,,-36.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-24,,,,,-37.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-25,,,,,-38.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-26,,,,,-36.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-27,-34.0,,,,-23.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-29,,,,,-36.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-06-30,,,,,-37.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-01,,,,,-37.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-02,,,,,-36.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-03,-36.0,,,,-34.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-04,,,,,-16.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-06,,,,,-34.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-07,,,,,-36.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-08,,,,,-31.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-09,,,,,-34.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-10,-36.0,,,,-35.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-11,-28.0,,,,-19.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-13,,,,,-35.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-14,,,,,-36.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-15,,,,,-34.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-16,,,,,-34.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-17,-29.0,,,,-33.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-18,-27.0,,,,-18.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-20,,,,,-35.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-21,,,,,-31.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-22,,,,,-32.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-23,,,,,-29.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-24,,,,,-35.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-25,,-27.0,,,-35.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-27,,,,,-33.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-28,,,,,-36.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-29,,,,,-36.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-30,,,,,-32.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-07-31,-26.0,,,,-30.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-01,-38.0,,,,-39.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-03,,,,,-77.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-04,,,,,-32.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-05,,,,,-34.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-06,,,,,-34.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-07,-31.0,,,,-32.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-08,-33.0,,,,-20.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-10,,,,,-33.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-11,,,,,-33.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-12,,,,,-31.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-13,,,,,-30.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-14,-26.0,,,,-28.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-15,,,,,-17.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-17,,,,,-38.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-18,,,,,-30.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-19,,,,,-33.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-20,,,,,-30.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-21,-24.0,,,,-28.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-22,,,,,-19.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-24,,,,,-31.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-25,,,,,-29.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-26,,,,,-29.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-27,,,,,-29.0,
+BB-04,BB,Barbados,Saint James,,,BB-04,,2020-08-28,,,,,-26.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-03-25,,,,,-32.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-03-26,,,,,-36.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-03-30,,,,,-63.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-03-31,,,,,-61.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-01,,,,,-66.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-02,,,,,-62.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-03,,,,,-68.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-06,,,,,-84.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-08,,,,,-76.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-09,,,,,-74.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-14,,,,,-74.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-15,,,,,-74.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-16,,,,,-72.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-17,,,,,-65.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-20,,,,,-69.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-21,,,,,-69.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-22,,,,,-66.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-23,,,,,-70.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-24,,,,,-69.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-27,,,,,-64.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-28,,,,,-83.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-29,,,,,-63.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-04-30,,,,,-66.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-01,,,,,-87.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-04,,,,,-51.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-05,,,,,-51.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-06,,,,,-51.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-07,,,,,-57.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-08,,,,,-57.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-11,,,,,-46.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-12,,,,,-50.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-13,,,,,-48.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-14,,,,,-58.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-15,,,,,-43.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-18,,,,,-39.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-19,,,,,-41.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-20,,,,,-38.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-21,,,,,-40.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-22,,,,,-37.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-25,,,,,-42.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-26,,,,,-43.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-27,,,,,-39.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-05-28,,,,,-43.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-01,,,,,-75.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-03,,,,,-35.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-04,,,,,-34.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-08,,,,,-35.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-09,,,,,-29.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-10,,,,,-32.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-11,,,,,-36.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-15,,,,,-31.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-17,,,,,-31.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-18,,,,,-33.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-22,,,,,-40.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-23,,,,,-32.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-25,,,,,-28.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-06-30,,,,,-29.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-07-02,,,,,-30.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-07-09,,,,,-32.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-07-16,,,,,-37.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-07-21,,,,,-30.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-07-23,,,,,-27.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-07-28,,,,,-30.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-08-03,,,,,-72.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-08-06,,,,,-31.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-08-10,,,,,-30.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-08-11,,,,,-32.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-08-13,,,,,-29.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-08-17,,,,,-31.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-08-19,,,,,-31.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-08-20,,,,,-30.0,
+BB-05,BB,Barbados,Saint John,,,BB-05,,2020-08-27,,,,,-29.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-03-30,,,,,-63.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-03-31,,,,,-59.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-01,,,,,-62.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-02,,,,,-71.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-03,,,,,-71.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-06,,,,,-80.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-08,,,,,-76.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-09,,,,,-83.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-14,,,,,-74.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-15,,,,,-71.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-16,,,,,-71.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-17,,,,,-68.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-20,,,,,-64.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-21,,,,,-69.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-22,,,,,-67.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-23,,,,,-74.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-24,,,,,-66.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-27,,,,,-67.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-29,,,,,-67.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-04-30,,,,,-61.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-05-01,,,,,-81.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-05-04,,,,,-54.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-05-05,,,,,-55.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-05-07,,,,,-60.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-05-08,,,,,-54.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-05-11,,,,,-50.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-05-12,,,,,-53.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-05-13,,,,,-49.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-05-14,,,,,-53.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-05-15,,,,,-50.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-05-18,,,,,-45.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-05-21,,,,,-46.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-06-01,,,,,-76.0,
+BB-07,BB,Barbados,Saint Lucy,,,BB-07,,2020-08-03,,,,,-74.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-15,4.0,-4.0,7.0,-1.0,-1.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-16,6.0,1.0,22.0,8.0,-2.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-17,-5.0,-6.0,6.0,2.0,1.0,1.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-18,0.0,-3.0,1.0,-2.0,1.0,1.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-19,-6.0,-5.0,-14.0,-7.0,2.0,2.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-20,0.0,2.0,1.0,-5.0,1.0,0.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-21,1.0,-2.0,10.0,0.0,2.0,0.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-22,-1.0,-4.0,11.0,-2.0,-2.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-23,9.0,0.0,9.0,2.0,2.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-24,-7.0,-7.0,6.0,4.0,2.0,1.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-25,7.0,6.0,7.0,0.0,2.0,0.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-26,6.0,5.0,23.0,1.0,2.0,-1.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-27,12.0,8.0,28.0,6.0,1.0,-1.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-28,10.0,3.0,53.0,4.0,1.0,-1.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-02-29,16.0,-1.0,103.0,5.0,-1.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-01,41.0,4.0,,12.0,0.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-02,-6.0,-1.0,15.0,2.0,2.0,0.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-03,2.0,1.0,8.0,-1.0,4.0,0.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-04,0.0,3.0,11.0,-1.0,4.0,0.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-05,1.0,4.0,2.0,-2.0,1.0,0.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-06,2.0,1.0,25.0,-1.0,2.0,0.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-07,1.0,-6.0,10.0,-3.0,-3.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-08,-3.0,-1.0,16.0,0.0,0.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-09,-8.0,-7.0,10.0,-4.0,1.0,1.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-10,-1.0,-1.0,4.0,-5.0,3.0,1.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-11,-1.0,1.0,12.0,-4.0,4.0,0.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-12,1.0,13.0,-1.0,-7.0,1.0,0.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-13,2.0,12.0,11.0,-6.0,1.0,1.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-14,-1.0,3.0,6.0,-9.0,-1.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-15,5.0,0.0,25.0,15.0,-2.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-16,-10.0,5.0,3.0,7.0,1.0,1.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-17,-5.0,21.0,-9.0,-3.0,0.0,2.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-18,-15.0,11.0,-12.0,-16.0,-8.0,6.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-19,-20.0,8.0,-27.0,-22.0,-15.0,7.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-20,-22.0,2.0,-26.0,-24.0,-14.0,9.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-21,-26.0,-4.0,-33.0,-18.0,-13.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-22,-36.0,-7.0,-55.0,-42.0,-22.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-23,-29.0,-7.0,-32.0,-25.0,-24.0,11.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-24,-24.0,-3.0,-39.0,-33.0,-28.0,12.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-25,-30.0,-5.0,-33.0,-34.0,-31.0,13.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-26,-27.0,-4.0,-38.0,-33.0,-33.0,14.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-27,-23.0,-3.0,-26.0,-32.0,-31.0,14.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-28,-36.0,-27.0,-47.0,-36.0,-32.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-29,-70.0,-48.0,-70.0,-73.0,-55.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-30,-70.0,-48.0,-69.0,-66.0,-63.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-03-31,-69.0,-43.0,-63.0,-68.0,-67.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-01,-68.0,-38.0,-68.0,-69.0,-66.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-02,-65.0,-33.0,-75.0,-70.0,-69.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-03,-69.0,-28.0,-70.0,-70.0,-71.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-04,-97.0,-97.0,-100.0,-93.0,-81.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-05,-90.0,-93.0,,-85.0,-77.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-06,-93.0,-91.0,,-89.0,-84.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-07,-91.0,-86.0,-91.0,-87.0,-83.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-08,-86.0,-72.0,-88.0,-84.0,-80.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-09,-82.0,-61.0,-85.0,-75.0,-78.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-10,-96.0,-95.0,-93.0,-100.0,-91.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-11,-79.0,-63.0,-81.0,-80.0,-67.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-12,-83.0,-89.0,-86.0,-87.0,-71.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-13,-93.0,-94.0,,-95.0,-88.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-14,-84.0,-77.0,-84.0,-86.0,-76.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-15,-71.0,-45.0,-75.0,-79.0,-71.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-16,-73.0,-50.0,-78.0,-78.0,-72.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-17,-74.0,-49.0,-71.0,-76.0,-70.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-18,-75.0,-58.0,-73.0,-67.0,-60.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-19,-76.0,-59.0,-86.0,-79.0,-60.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-20,-75.0,-57.0,-76.0,-78.0,-70.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-21,-77.0,-58.0,-75.0,-80.0,-69.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-22,-71.0,-48.0,-71.0,-78.0,-70.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-23,-77.0,-54.0,-79.0,-78.0,-73.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-24,-72.0,-50.0,-73.0,-73.0,-70.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-25,-74.0,-56.0,-75.0,-70.0,-59.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-26,-77.0,-56.0,-81.0,-79.0,-60.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-27,-70.0,-50.0,-67.0,-74.0,-69.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-28,-93.0,-93.0,-91.0,-92.0,-86.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-29,-65.0,-40.0,-72.0,-72.0,-67.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-04-30,-62.0,-31.0,-70.0,-69.0,-68.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-01,-94.0,-90.0,-90.0,-93.0,-87.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-02,-70.0,-47.0,-78.0,-64.0,-55.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-03,-75.0,-58.0,-83.0,-77.0,-56.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-04,-58.0,-43.0,-60.0,-68.0,-56.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-05,-60.0,-44.0,-61.0,-69.0,-55.0,23.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-06,-53.0,-33.0,-59.0,-60.0,-54.0,22.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-07,-56.0,-38.0,-64.0,-59.0,-56.0,23.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-08,-58.0,-37.0,-56.0,-58.0,-52.0,25.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-09,-59.0,-39.0,-51.0,-54.0,-46.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-10,-62.0,-47.0,-64.0,-66.0,-46.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-11,-59.0,-45.0,-55.0,-58.0,-52.0,22.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-12,-59.0,-44.0,-58.0,-60.0,-52.0,22.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-13,-54.0,-35.0,-52.0,-57.0,-52.0,21.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-14,-57.0,-37.0,-61.0,-61.0,-54.0,22.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-15,-58.0,-37.0,-57.0,-55.0,-50.0,25.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-16,-59.0,-40.0,-59.0,-55.0,-45.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-17,-61.0,-46.0,-62.0,-70.0,-43.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-18,-46.0,-40.0,-49.0,-53.0,-46.0,21.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-19,-48.0,-40.0,-53.0,-58.0,-47.0,21.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-20,-47.0,-34.0,-52.0,-55.0,-47.0,21.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-21,-45.0,-35.0,-55.0,-57.0,-48.0,21.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-22,-45.0,-30.0,-45.0,-52.0,-45.0,22.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-23,-41.0,-32.0,-41.0,-49.0,-37.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-24,-52.0,-38.0,-51.0,-67.0,-41.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-25,-41.0,-33.0,-37.0,-51.0,-46.0,20.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-26,-42.0,-32.0,-47.0,-55.0,-44.0,19.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-27,-34.0,-22.0,-34.0,-52.0,-43.0,19.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-28,-40.0,-28.0,-48.0,-49.0,-46.0,20.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-29,-42.0,-28.0,-39.0,-50.0,-42.0,22.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-30,-39.0,-30.0,-36.0,-49.0,-34.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-05-31,-48.0,-25.0,-54.0,-69.0,-35.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-01,-78.0,-84.0,-67.0,-88.0,-78.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-02,-26.0,-17.0,-35.0,-44.0,-36.0,16.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-03,-30.0,-17.0,-34.0,-44.0,-37.0,16.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-04,-30.0,-20.0,-42.0,-45.0,-39.0,17.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-05,-37.0,-28.0,-42.0,-45.0,-38.0,21.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-06,-33.0,-27.0,-36.0,-40.0,-30.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-07,-43.0,-26.0,-48.0,-65.0,-34.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-08,-32.0,-27.0,-32.0,-43.0,-36.0,16.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-09,-30.0,-23.0,-41.0,-46.0,-35.0,16.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-10,-29.0,-21.0,-31.0,-40.0,-34.0,16.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-11,-30.0,-23.0,-45.0,-44.0,-36.0,16.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-12,-35.0,-26.0,-38.0,-44.0,-35.0,19.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-13,-26.0,-23.0,-19.0,-35.0,-24.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-14,-38.0,-24.0,-35.0,-60.0,-31.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-15,-30.0,-25.0,-30.0,-41.0,-34.0,15.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-16,-27.0,-21.0,-40.0,-45.0,-34.0,15.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-17,-27.0,-20.0,-18.0,-42.0,-32.0,14.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-18,-29.0,-26.0,-45.0,-44.0,-36.0,16.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-19,-30.0,-20.0,-37.0,-41.0,-33.0,17.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-20,-28.0,-19.0,-33.0,-42.0,-25.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-21,-32.0,-21.0,-45.0,-55.0,-25.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-22,-32.0,-27.0,-36.0,-40.0,-36.0,15.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-23,-24.0,-21.0,-39.0,-39.0,-33.0,14.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-24,-25.0,-18.0,-28.0,-37.0,-32.0,14.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-25,-20.0,-15.0,-37.0,-36.0,-34.0,15.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-26,-23.0,-15.0,-31.0,-37.0,-31.0,16.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-27,-17.0,-13.0,-19.0,-30.0,-22.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-28,-27.0,-18.0,-32.0,-53.0,-27.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-29,-23.0,-21.0,-27.0,-34.0,-32.0,13.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-06-30,-18.0,-16.0,-36.0,-37.0,-32.0,14.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-01,-20.0,-11.0,-21.0,-38.0,-30.0,12.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-02,-20.0,-16.0,-30.0,-36.0,-33.0,13.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-03,-20.0,-13.0,-24.0,-33.0,-30.0,14.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-04,-16.0,-15.0,-12.0,-27.0,-22.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-05,-19.0,-20.0,-11.0,-55.0,-28.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-06,-26.0,-24.0,-35.0,-39.0,-34.0,14.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-07,-21.0,-16.0,-29.0,-38.0,-32.0,13.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-08,-21.0,-16.0,-20.0,-39.0,-31.0,12.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-09,-22.0,-18.0,-31.0,-35.0,-33.0,13.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-10,-22.0,-18.0,-25.0,-37.0,-29.0,13.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-11,-19.0,-19.0,-15.0,-28.0,-22.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-12,-19.0,-22.0,-27.0,-53.0,-28.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-13,-28.0,-25.0,-29.0,-38.0,-34.0,13.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-14,-19.0,-21.0,-24.0,-39.0,-32.0,12.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-15,-20.0,-18.0,-15.0,-36.0,-30.0,12.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-16,-21.0,-21.0,-28.0,-38.0,-32.0,12.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-17,-22.0,-16.0,-22.0,-38.0,-29.0,13.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-18,-16.0,-19.0,-8.0,-29.0,-20.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-19,-11.0,-20.0,-2.0,-55.0,-26.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-20,-26.0,-26.0,-27.0,-32.0,-32.0,13.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-21,-20.0,-22.0,-28.0,-39.0,-32.0,12.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-22,-20.0,-11.0,-20.0,-34.0,-28.0,11.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-23,-12.0,1.0,-28.0,-33.0,-29.0,11.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-24,-17.0,-3.0,-30.0,-33.0,-29.0,13.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-25,-36.0,-35.0,-46.0,-49.0,-34.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-26,-19.0,-22.0,-22.0,-60.0,-26.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-27,-19.0,-20.0,-22.0,-33.0,-33.0,12.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-28,-24.0,-25.0,-46.0,-39.0,-32.0,14.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-29,-19.0,-12.0,-26.0,-38.0,-30.0,12.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-30,-13.0,-6.0,-24.0,-31.0,-30.0,11.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-07-31,-4.0,9.0,-2.0,-21.0,-26.0,9.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-01,-49.0,-71.0,-5.0,-64.0,-44.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-02,3.0,15.0,10.0,-44.0,-21.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-03,-59.0,-79.0,-17.0,-81.0,-74.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-04,-7.0,0.0,-19.0,-28.0,-29.0,10.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-05,-14.0,-7.0,-12.0,-26.0,-27.0,11.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-06,-17.0,-13.0,-30.0,-30.0,-30.0,11.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-07,-19.0,-15.0,-12.0,-28.0,-27.0,11.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-08,-24.0,-24.0,-13.0,-26.0,-24.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-09,-16.0,-17.0,1.0,-47.0,-22.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-10,-24.0,-25.0,-21.0,-31.0,-31.0,11.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-11,-22.0,-20.0,-26.0,-37.0,-30.0,11.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-12,-22.0,-16.0,-18.0,-32.0,-30.0,11.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-13,-18.0,-14.0,-18.0,-33.0,-31.0,11.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-14,-22.0,-18.0,-14.0,-32.0,-29.0,12.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-15,-18.0,-18.0,3.0,-20.0,-21.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-16,-22.0,-20.0,-4.0,-52.0,-28.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-17,-38.0,-35.0,-50.0,-44.0,-38.0,16.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-18,-20.0,-16.0,-31.0,-33.0,-30.0,11.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-19,-16.0,-15.0,-11.0,-26.0,-29.0,10.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-20,-19.0,-17.0,-19.0,-35.0,-31.0,10.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-21,-17.0,-14.0,-8.0,-28.0,-28.0,11.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-22,-15.0,-16.0,2.0,-21.0,-20.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-23,-13.0,-17.0,-8.0,-45.0,-22.0,
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-24,-21.0,-22.0,-21.0,-30.0,-31.0,10.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-25,-9.0,-10.0,-16.0,-27.0,-30.0,9.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-26,-7.0,-4.0,-2.0,-24.0,-28.0,9.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-27,-5.0,-6.0,-13.0,-26.0,-29.0,9.0
+BB-08,BB,Barbados,Saint Michael,,,BB-08,,2020-08-28,-6.0,-4.0,-3.0,-22.0,-28.0,9.0
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-02-15,30.0,43.0,,,,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-02-17,,-4.0,,,0.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-02-18,,,,,4.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-02-19,4.0,,,,-3.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-02-20,,,,,0.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-02-21,10.0,8.0,,,0.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-02-22,10.0,2.0,,,,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-02-24,,4.0,,,0.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-02-25,,,,,7.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-02-26,7.0,,,,4.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-02-27,13.0,2.0,,,3.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-02-28,7.0,16.0,,,3.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-02-29,5.0,0.0,,,,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-02,,2.0,,,3.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-03,,,,,4.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-04,,,,,1.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-05,2.0,2.0,,,6.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-06,-8.0,2.0,,,1.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-07,-11.0,5.0,,,,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-09,,6.0,,,6.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-10,,,,,4.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-11,0.0,,,,0.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-12,0.0,,,,1.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-13,-8.0,18.0,,,6.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-14,-11.0,11.0,,,,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-16,-7.0,,,,3.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-17,-7.0,,,,4.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-18,4.0,,,,-7.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-19,-15.0,,,,-17.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-20,-22.0,4.0,,,-16.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-21,-18.0,-2.0,,,,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-22,-39.0,,,,,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-23,-27.0,6.0,,,-24.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-24,-26.0,,,,-28.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-25,-26.0,,,,-32.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-26,-28.0,0.0,,,-34.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-27,-23.0,10.0,,,-31.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-28,-41.0,-18.0,,,,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-29,-74.0,,,,,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-30,-66.0,-45.0,,,-63.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-03-31,-72.0,-42.0,,,-68.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-01,-65.0,-35.0,,,-68.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-02,-60.0,-29.0,,,-67.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-03,-75.0,-12.0,,,-71.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-04,,,,,-79.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-06,,,,,-86.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-07,,,,,-85.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-08,,,,,-82.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-09,,,,,-80.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-10,,,,,-89.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-11,,,,,-67.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-13,,,,,-90.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-14,,,,,-76.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-15,,,,,-73.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-16,,,,,-74.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-17,,,,,-73.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-18,,,,,-60.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-20,,,,,-73.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-21,,,,,-73.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-22,,,,,-72.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-23,,,,,-72.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-24,,,,,-71.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-25,,,,,-56.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-27,,,,,-72.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-28,,,,,-84.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-29,,,,,-69.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-04-30,,,,,-67.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-01,,,,,-83.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-02,,,,,-63.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-04,,,,,-54.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-05,,,,,-51.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-06,,,,,-57.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-07,,,,,-59.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-08,,,,,-55.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-09,,,,,-54.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-11,,,,,-56.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-12,,,,,-54.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-13,,,,,-54.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-14,,,,,-55.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-15,,,,,-51.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-18,,,,,-49.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-19,,,,,-49.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-20,,,,,-47.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-21,,,,,-48.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-22,,,,,-45.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-25,,,,,-47.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-26,,,,,-42.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-27,,,,,-44.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-28,,,,,-43.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-05-29,,,,,-40.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-01,,,,,-77.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-02,,,,,-38.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-03,,,,,-40.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-04,,,,,-37.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-05,,,,,-34.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-08,,,,,-37.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-09,,,,,-36.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-10,,,,,-37.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-11,,,,,-33.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-12,,,,,-35.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-15,,,,,-33.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-16,,,,,-30.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-17,,,,,-41.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-18,,,,,-38.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-19,,,,,-34.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-22,,,,,-33.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-23,,,,,-33.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-24,,,,,-33.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-25,,,,,-33.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-26,,,,,-29.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-29,,,,,-33.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-06-30,,,,,-31.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-01,,,,,-35.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-02,,,,,-31.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-03,,,,,-29.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-06,,,,,-37.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-07,,,,,-34.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-08,,,,,-32.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-09,,,,,-32.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-10,,,,,-29.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-13,,,,,-33.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-14,,,,,-29.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-15,,,,,-32.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-16,,,,,-32.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-17,,,,,-28.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-20,,,,,-30.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-21,,,,,-30.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-22,,,,,-33.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-23,,,,,-27.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-24,,,,,-29.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-27,,,,,-35.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-28,,,,,-34.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-29,,,,,-32.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-30,,,,,-31.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-07-31,,,,,-28.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-03,,,,,-74.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-04,,,,,-26.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-05,,,,,-31.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-06,,,,,-31.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-07,,,,,-32.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-10,,,,,-35.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-11,,,,,-27.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-12,,,,,-32.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-13,,,,,-30.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-14,,,,,-31.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-17,,,,,-36.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-18,,,,,-26.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-19,,,,,-29.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-20,,,,,-29.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-21,,,,,-28.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-24,,,,,-28.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-25,,,,,-26.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-26,,,,,-28.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-27,,,,,-29.0,
+BB-09,BB,Barbados,Saint Peter,,,BB-09,,2020-08-28,,,,,-26.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-15,-4.0,-4.0,,,1.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-16,20.0,-3.0,,,4.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-17,-26.0,-1.0,,,4.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-18,-22.0,-9.0,,,2.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-19,-18.0,-8.0,,,1.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-20,-16.0,-1.0,,,1.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-21,-7.0,4.0,,,3.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-22,-7.0,7.0,,,7.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-23,-5.0,0.0,,,6.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-24,-6.0,0.0,,,4.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-25,7.0,6.0,,,1.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-26,12.0,3.0,,,3.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-27,11.0,6.0,,,1.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-28,1.0,10.0,,,1.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-02-29,5.0,3.0,,,6.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-01,5.0,-13.0,,,4.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-02,-5.0,3.0,,,4.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-03,2.0,4.0,,,3.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-04,-2.0,-1.0,,,2.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-05,9.0,6.0,,,-2.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-06,10.0,8.0,,,1.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-07,5.0,-3.0,,,3.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-08,5.0,0.0,,,6.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-09,2.0,-9.0,,,3.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-10,0.0,-4.0,,,4.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-11,14.0,1.0,,,2.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-12,3.0,20.0,,,-1.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-13,1.0,19.0,,,3.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-14,-4.0,10.0,,,7.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-15,7.0,2.0,,,6.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-16,2.0,5.0,,,4.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-17,13.0,24.0,,,-1.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-18,10.0,17.0,,,-12.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-19,-3.0,20.0,,,-16.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-20,-1.0,18.0,,,-16.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-21,-14.0,5.0,,,-4.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-22,-22.0,3.0,,,-15.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-23,-23.0,-1.0,,,-24.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-24,-13.0,4.0,,,-31.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-25,-7.0,1.0,,,-35.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-26,-4.0,9.0,,,-35.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-27,-3.0,15.0,,,-34.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-28,-20.0,-22.0,,,-31.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-29,-72.0,-49.0,,,-49.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-30,-68.0,-39.0,,,-61.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-03-31,-37.0,-31.0,,,-65.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-01,-48.0,-15.0,,,-67.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-02,-47.0,-19.0,,,-69.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-03,-44.0,-8.0,,,-71.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-04,-92.0,-100.0,,,-80.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-05,-85.0,,,,-72.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-06,,,,,-83.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-07,,,,,-81.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-08,,,,,-80.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-09,,,,,-78.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-10,,,,,-90.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-11,,,,,-61.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-12,,,,,-68.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-13,,,,,-88.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-14,,,,,-75.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-15,,,,,-72.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-16,,,,,-72.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-17,,,,,-70.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-18,,,,,-59.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-19,,,,,-56.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-20,,,,,-67.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-21,,,,,-69.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-22,,,,,-70.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-23,,,,,-71.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-24,,,,,-69.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-25,,,,,-57.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-26,,,,,-54.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-27,,,,,-66.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-28,,,,,-87.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-29,,,,,-68.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-04-30,,,,,-68.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-01,,,,,-88.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-02,,,,,-51.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-03,,,,,-52.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-04,,,,,-54.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-05,,,,,-56.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-06,,,,,-55.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-07,,,,,-57.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-08,,,,,-52.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-09,,,,,-41.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-10,,,,,-46.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-11,,,,,-50.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-12,,,,,-52.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-13,,,,,-52.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-14,,,,,-53.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-15,,,,,-50.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-16,,,,,-37.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-17,,,,,-39.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-18,,,,,-45.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-19,,,,,-47.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-20,,,,,-50.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-21,,,,,-49.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-22,,,,,-44.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-23,,,,,-33.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-24,,,,,-37.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-25,,,,,-43.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-26,,,,,-41.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-27,,,,,-43.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-28,,,,,-43.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-29,,,,,-39.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-30,,,,,-25.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-05-31,,,,,-31.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-01,,,,,-78.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-02,,,,,-35.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-03,,,,,-38.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-04,,,,,-38.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-05,,,,,-37.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-06,,,,,-30.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-07,,,,,-30.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-08,,,,,-35.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-09,,,,,-35.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-10,,,,,-36.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-11,,,,,-37.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-12,,,,,-35.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-13,,,,,-19.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-14,,,,,-25.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-15,,,,,-33.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-16,,,,,-34.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-17,,,,,-34.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-18,,,,,-36.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-19,,,,,-34.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-20,,,,,-20.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-21,,,,,-20.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-22,,,,,-32.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-23,,,,,-33.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-24,,,,,-32.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-25,,,,,-31.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-26,,,,,-31.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-27,,,,,-19.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-28,,,,,-25.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-29,,,,,-30.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-06-30,,,,,-31.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-01,,,,,-32.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-02,,,,,-33.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-03,,,,,-30.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-04,,,,,-18.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-05,,,,,-21.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-06,,,,,-33.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-07,,,,,-32.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-08,,,,,-31.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-09,,,,,-30.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-10,,,,,-30.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-11,,,,,-19.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-12,,,,,-23.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-13,,,,,-31.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-14,,,,,-31.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-15,,,,,-31.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-16,,,,,-31.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-17,,,,,-28.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-18,,,,,-16.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-19,,,,,-12.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-20,,,,,-30.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-21,,,,,-30.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-22,,,,,-29.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-23,,,,,-29.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-24,,,,,-27.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-25,,,,,-32.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-26,,,,,-24.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-27,,,,,-27.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-28,,,,,-30.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-29,,,,,-32.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-30,,,,,-30.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-07-31,,,,,-26.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-01,,,,,-40.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-02,,,,,-14.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-03,,,,,-76.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-04,,,,,-29.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-05,,,,,-31.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-06,,,,,-33.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-07,,,,,-29.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-08,,,,,-23.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-09,,,,,-18.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-10,,,,,-28.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-11,,,,,-29.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-12,,,,,-30.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-13,,,,,-30.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-14,,,,,-27.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-15,,,,,-14.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-16,,,,,-17.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-17,,,,,-34.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-18,,,,,-27.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-19,,,,,-29.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-20,,,,,-31.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-21,,,,,-25.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-22,,,,,-18.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-23,,,,,-18.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-24,,,,,-28.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-25,,,,,-26.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-26,,,,,-28.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-27,,,,,-32.0,
+BB-10,BB,Barbados,Saint Philip,,,BB-10,,2020-08-28,,,,,-25.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-02-17,-21.0,,,,-3.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-02-18,,,,,3.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-02-19,,,,,-4.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-02-20,-19.0,,,,-3.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-02-21,2.0,,,,0.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-02-24,,,,,-1.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-02-25,,,,,1.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-02-26,,,,,-3.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-02-27,,,,,-4.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-02-28,-11.0,,,,-1.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-02,-9.0,,,,-1.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-03,,,,,1.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-04,,,,,-1.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-05,-7.0,,,,-5.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-06,0.0,,,,1.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-09,-19.0,,,,0.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-10,,,,,1.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-11,,,,,-4.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-12,,,,,-5.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-13,6.0,,,,3.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-16,-7.0,,,,-4.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-17,,,,,1.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-18,,,,,-12.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-19,-19.0,,,,-18.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-20,-15.0,,,,-11.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-23,-35.0,,,,-27.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-24,-33.0,,,,-30.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-25,-43.0,,,,-33.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-26,-21.0,,,,-34.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-27,-13.0,,,,-29.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-30,-84.0,,,,-64.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-03-31,-77.0,,,,-63.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-01,-74.0,,,,-64.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-02,-53.0,,,,-70.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-03,-40.0,,,,-71.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-06,,,,,-84.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-07,,,,,-82.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-08,,,,,-79.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-09,,,,,-78.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-11,,,,,-59.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-13,,,,,-91.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-14,,,,,-76.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-15,,,,,-71.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-16,,,,,-74.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-17,,,,,-68.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-20,,,,,-70.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-21,,,,,-67.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-22,,,,,-70.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-23,,,,,-69.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-24,,,,,-69.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-27,,,,,-67.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-28,,,,,-89.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-29,,,,,-68.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-04-30,,,,,-69.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-01,,,,,-89.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-04,,,,,-53.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-05,,,,,-52.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-06,,,,,-52.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-07,,,,,-53.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-08,,,,,-49.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-11,,,,,-49.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-12,,,,,-47.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-13,,,,,-50.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-14,,,,,-52.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-15,,,,,-47.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-18,,,,,-47.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-19,,,,,-45.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-20,,,,,-47.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-21,,,,,-46.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-22,,,,,-40.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-25,,,,,-43.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-26,,,,,-41.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-27,,,,,-44.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-28,,,,,-47.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-05-29,,,,,-44.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-01,,,,,-81.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-02,,,,,-39.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-03,,,,,-42.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-04,,,,,-42.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-05,,,,,-38.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-08,,,,,-38.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-09,,,,,-33.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-10,,,,,-35.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-11,,,,,-41.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-12,,,,,-32.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-15,,,,,-38.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-16,,,,,-33.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-17,,,,,-38.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-18,,,,,-35.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-19,,,,,-32.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-22,,,,,-36.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-23,,,,,-33.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-24,,,,,-33.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-25,,,,,-36.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-26,,,,,-29.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-29,,,,,-31.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-06-30,,,,,-31.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-01,,,,,-34.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-02,,,,,-31.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-03,,,,,-30.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-06,,,,,-31.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-07,,,,,-25.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-08,,,,,-30.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-09,,,,,-31.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-10,,,,,-24.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-13,,,,,-30.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-14,,,,,-25.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-15,,,,,-33.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-16,,,,,-32.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-17,,,,,-29.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-20,,,,,-30.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-21,,,,,-27.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-22,,,,,-29.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-23,,,,,-28.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-24,,,,,-27.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-27,,,,,-30.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-28,,,,,-30.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-29,,,,,-33.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-30,,,,,-27.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-07-31,,,,,-23.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-03,,,,,-76.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-04,,,,,-26.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-05,,,,,-28.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-06,,,,,-32.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-07,,,,,-24.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-10,,,,,-33.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-11,,,,,-27.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-12,,,,,-32.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-13,,,,,-29.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-14,,,,,-27.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-17,,,,,-34.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-18,,,,,-23.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-19,,,,,-30.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-20,,,,,-34.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-21,,,,,-26.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-24,,,,,-33.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-25,,,,,-27.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-26,,,,,-31.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-27,,,,,-29.0,
+BB-11,BB,Barbados,Saint Thomas,,,BB-11,,2020-08-28,,,,,-26.0,
