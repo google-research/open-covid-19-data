@@ -1,0 +1,1109 @@
+open_covid_region_code,country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+BLZ,BZ,Belize,,,,,,2020-02-15,10.0,4.0,18.0,19.0,4,-2.0
+BLZ,BZ,Belize,,,,,,2020-02-16,8.0,1.0,11.0,16.0,1,-2.0
+BLZ,BZ,Belize,,,,,,2020-02-17,3.0,-2.0,5.0,7.0,0,0.0
+BLZ,BZ,Belize,,,,,,2020-02-18,4.0,-1.0,13.0,5.0,0,0.0
+BLZ,BZ,Belize,,,,,,2020-02-19,0.0,-5.0,7.0,4.0,3,0.0
+BLZ,BZ,Belize,,,,,,2020-02-20,3.0,1.0,30.0,10.0,-12,3.0
+BLZ,BZ,Belize,,,,,,2020-02-21,0.0,-2.0,7.0,2.0,3,0.0
+BLZ,BZ,Belize,,,,,,2020-02-22,0.0,1.0,10.0,10.0,2,0.0
+BLZ,BZ,Belize,,,,,,2020-02-23,5.0,1.0,18.0,18.0,1,-1.0
+BLZ,BZ,Belize,,,,,,2020-02-24,3.0,-1.0,3.0,5.0,1,1.0
+BLZ,BZ,Belize,,,,,,2020-02-25,1.0,0.0,9.0,10.0,2,0.0
+BLZ,BZ,Belize,,,,,,2020-02-26,1.0,-1.0,-1.0,7.0,3,0.0
+BLZ,BZ,Belize,,,,,,2020-02-27,0.0,5.0,-2.0,8.0,0,1.0
+BLZ,BZ,Belize,,,,,,2020-02-28,8.0,3.0,8.0,9.0,2,-1.0
+BLZ,BZ,Belize,,,,,,2020-02-29,6.0,7.0,28.0,19.0,5,-2.0
+BLZ,BZ,Belize,,,,,,2020-03-01,4.0,3.0,3.0,16.0,0,-1.0
+BLZ,BZ,Belize,,,,,,2020-03-02,8.0,1.0,12.0,9.0,2,0.0
+BLZ,BZ,Belize,,,,,,2020-03-03,1.0,0.0,2.0,4.0,2,0.0
+BLZ,BZ,Belize,,,,,,2020-03-04,1.0,1.0,10.0,9.0,4,1.0
+BLZ,BZ,Belize,,,,,,2020-03-05,4.0,7.0,17.0,12.0,2,0.0
+BLZ,BZ,Belize,,,,,,2020-03-06,0.0,2.0,20.0,4.0,-1,0.0
+BLZ,BZ,Belize,,,,,,2020-03-07,-1.0,3.0,26.0,10.0,-1,-1.0
+BLZ,BZ,Belize,,,,,,2020-03-08,2.0,4.0,-2.0,2.0,-4,0.0
+BLZ,BZ,Belize,,,,,,2020-03-09,-21.0,-25.0,10.0,-26.0,-62,12.0
+BLZ,BZ,Belize,,,,,,2020-03-10,1.0,7.0,3.0,9.0,3,-1.0
+BLZ,BZ,Belize,,,,,,2020-03-11,0.0,6.0,10.0,5.0,4,0.0
+BLZ,BZ,Belize,,,,,,2020-03-12,3.0,25.0,15.0,7.0,1,0.0
+BLZ,BZ,Belize,,,,,,2020-03-13,5.0,27.0,11.0,3.0,3,-1.0
+BLZ,BZ,Belize,,,,,,2020-03-14,3.0,22.0,10.0,8.0,4,0.0
+BLZ,BZ,Belize,,,,,,2020-03-15,-5.0,5.0,2.0,-2.0,-1,1.0
+BLZ,BZ,Belize,,,,,,2020-03-16,-3.0,9.0,-5.0,-6.0,1,1.0
+BLZ,BZ,Belize,,,,,,2020-03-17,-9.0,8.0,-10.0,-8.0,-1,2.0
+BLZ,BZ,Belize,,,,,,2020-03-18,-10.0,6.0,-19.0,-11.0,0,3.0
+BLZ,BZ,Belize,,,,,,2020-03-19,-10.0,17.0,-3.0,-12.0,-4,3.0
+BLZ,BZ,Belize,,,,,,2020-03-20,-7.0,31.0,-6.0,-12.0,-3,3.0
+BLZ,BZ,Belize,,,,,,2020-03-21,-14.0,24.0,-3.0,-11.0,-7,5.0
+BLZ,BZ,Belize,,,,,,2020-03-22,-38.0,-13.0,-25.0,-27.0,-17,7.0
+BLZ,BZ,Belize,,,,,,2020-03-23,-22.0,15.0,-22.0,-29.0,-30,11.0
+BLZ,BZ,Belize,,,,,,2020-03-24,-42.0,-16.0,-33.0,-54.0,-43,17.0
+BLZ,BZ,Belize,,,,,,2020-03-25,-44.0,-11.0,-39.0,-60.0,-45,18.0
+BLZ,BZ,Belize,,,,,,2020-03-26,-54.0,-37.0,-38.0,-62.0,-49,20.0
+BLZ,BZ,Belize,,,,,,2020-03-27,-53.0,-34.0,-33.0,-64.0,-46,21.0
+BLZ,BZ,Belize,,,,,,2020-03-28,-57.0,-40.0,-36.0,-65.0,-42,16.0
+BLZ,BZ,Belize,,,,,,2020-03-29,-63.0,-49.0,-38.0,-68.0,-42,13.0
+BLZ,BZ,Belize,,,,,,2020-03-30,-47.0,-29.0,-36.0,-62.0,-50,20.0
+BLZ,BZ,Belize,,,,,,2020-03-31,-43.0,-20.0,-36.0,-60.0,-50,18.0
+BLZ,BZ,Belize,,,,,,2020-04-01,-46.0,-20.0,-38.0,-61.0,-53,19.0
+BLZ,BZ,Belize,,,,,,2020-04-02,-67.0,-50.0,-52.0,-75.0,-64,26.0
+BLZ,BZ,Belize,,,,,,2020-04-03,-68.0,-47.0,-55.0,-75.0,-62,28.0
+BLZ,BZ,Belize,,,,,,2020-04-04,-74.0,-51.0,-56.0,-78.0,-57,22.0
+BLZ,BZ,Belize,,,,,,2020-04-05,-76.0,-64.0,-63.0,-82.0,-57,
+BLZ,BZ,Belize,,,,,,2020-04-06,-66.0,-47.0,-54.0,-77.0,-66,27.0
+BLZ,BZ,Belize,,,,,,2020-04-07,-69.0,-48.0,-57.0,-78.0,-69,28.0
+BLZ,BZ,Belize,,,,,,2020-04-08,-69.0,-47.0,-60.0,-76.0,-69,28.0
+BLZ,BZ,Belize,,,,,,2020-04-09,-62.0,-27.0,-52.0,-71.0,-70,27.0
+BLZ,BZ,Belize,,,,,,2020-04-10,-91.0,-92.0,-74.0,-94.0,-87,
+BLZ,BZ,Belize,,,,,,2020-04-11,-76.0,-50.0,-64.0,-81.0,-68,
+BLZ,BZ,Belize,,,,,,2020-04-12,-90.0,-94.0,-78.0,-93.0,-71,
+BLZ,BZ,Belize,,,,,,2020-04-13,-80.0,-68.0,-64.0,-91.0,-84,
+BLZ,BZ,Belize,,,,,,2020-04-14,-68.0,-44.0,-55.0,-80.0,-71,28.0
+BLZ,BZ,Belize,,,,,,2020-04-15,-67.0,-41.0,-57.0,-80.0,-69,28.0
+BLZ,BZ,Belize,,,,,,2020-04-16,-68.0,-40.0,-53.0,-79.0,-70,28.0
+BLZ,BZ,Belize,,,,,,2020-04-17,-69.0,-41.0,-53.0,-79.0,-68,30.0
+BLZ,BZ,Belize,,,,,,2020-04-18,-71.0,-45.0,-54.0,-78.0,-58,21.0
+BLZ,BZ,Belize,,,,,,2020-04-19,-91.0,-94.0,-77.0,-94.0,-72,
+BLZ,BZ,Belize,,,,,,2020-04-20,-63.0,-45.0,-49.0,-80.0,-66,26.0
+BLZ,BZ,Belize,,,,,,2020-04-21,-65.0,-42.0,-49.0,-78.0,-67,26.0
+BLZ,BZ,Belize,,,,,,2020-04-22,-68.0,-47.0,-54.0,-79.0,-67,27.0
+BLZ,BZ,Belize,,,,,,2020-04-23,-69.0,-49.0,-51.0,-81.0,-67,26.0
+BLZ,BZ,Belize,,,,,,2020-04-24,-69.0,-47.0,-51.0,-81.0,-64,28.0
+BLZ,BZ,Belize,,,,,,2020-04-25,-70.0,-45.0,-49.0,-81.0,-54,20.0
+BLZ,BZ,Belize,,,,,,2020-04-26,-73.0,-59.0,-54.0,-82.0,-50,
+BLZ,BZ,Belize,,,,,,2020-04-27,-53.0,-39.0,-44.0,-68.0,-57,23.0
+BLZ,BZ,Belize,,,,,,2020-04-28,-56.0,-35.0,-43.0,-69.0,-58,18.0
+BLZ,BZ,Belize,,,,,,2020-04-29,-53.0,-28.0,-45.0,-65.0,-57,23.0
+BLZ,BZ,Belize,,,,,,2020-04-30,-48.0,-14.0,-35.0,-58.0,-57,20.0
+BLZ,BZ,Belize,,,,,,2020-05-01,-72.0,-55.0,-53.0,-85.0,-75,31.0
+BLZ,BZ,Belize,,,,,,2020-05-02,-53.0,-28.0,-41.0,-66.0,-43,17.0
+BLZ,BZ,Belize,,,,,,2020-05-03,-68.0,-49.0,-52.0,-74.0,-44,14.0
+BLZ,BZ,Belize,,,,,,2020-05-04,-35.0,-27.0,-34.0,-55.0,-46,19.0
+BLZ,BZ,Belize,,,,,,2020-05-05,-40.0,-26.0,-36.0,-57.0,-47,19.0
+BLZ,BZ,Belize,,,,,,2020-05-06,-40.0,-24.0,-40.0,-55.0,-45,19.0
+BLZ,BZ,Belize,,,,,,2020-05-07,-45.0,-24.0,-38.0,-58.0,-47,20.0
+BLZ,BZ,Belize,,,,,,2020-05-08,-45.0,-24.0,-36.0,-58.0,-44,21.0
+BLZ,BZ,Belize,,,,,,2020-05-09,-40.0,-14.0,-35.0,-57.0,-34,15.0
+BLZ,BZ,Belize,,,,,,2020-05-10,-53.0,-25.0,-45.0,-63.0,-29,11.0
+BLZ,BZ,Belize,,,,,,2020-05-11,-37.0,-26.0,-32.0,-51.0,-42,17.0
+BLZ,BZ,Belize,,,,,,2020-05-12,-39.0,-22.0,-34.0,-54.0,-43,18.0
+BLZ,BZ,Belize,,,,,,2020-05-13,-41.0,-27.0,-38.0,-55.0,-42,18.0
+BLZ,BZ,Belize,,,,,,2020-05-14,-41.0,-20.0,-31.0,-54.0,-43,16.0
+BLZ,BZ,Belize,,,,,,2020-05-15,-36.0,-14.0,-25.0,-53.0,-39,18.0
+BLZ,BZ,Belize,,,,,,2020-05-16,-35.0,-12.0,-24.0,-50.0,-29,12.0
+BLZ,BZ,Belize,,,,,,2020-05-17,-48.0,-26.0,-30.0,-59.0,-33,9.0
+BLZ,BZ,Belize,,,,,,2020-05-18,-29.0,-18.0,-29.0,-48.0,-39,15.0
+BLZ,BZ,Belize,,,,,,2020-05-19,-32.0,-18.0,-27.0,-52.0,-41,16.0
+BLZ,BZ,Belize,,,,,,2020-05-20,-34.0,-20.0,-32.0,-50.0,-39,16.0
+BLZ,BZ,Belize,,,,,,2020-05-21,-35.0,-16.0,-25.0,-52.0,-40,17.0
+BLZ,BZ,Belize,,,,,,2020-05-22,-37.0,-14.0,-25.0,-50.0,-35,17.0
+BLZ,BZ,Belize,,,,,,2020-05-23,-35.0,-13.0,-23.0,-48.0,-26,11.0
+BLZ,BZ,Belize,,,,,,2020-05-24,-42.0,-19.0,-17.0,-55.0,-30,7.0
+BLZ,BZ,Belize,,,,,,2020-05-25,-52.0,-42.0,-20.0,-71.0,-72,21.0
+BLZ,BZ,Belize,,,,,,2020-05-26,-31.0,-17.0,-25.0,-45.0,-36,14.0
+BLZ,BZ,Belize,,,,,,2020-05-27,-33.0,-16.0,-31.0,-52.0,-36,15.0
+BLZ,BZ,Belize,,,,,,2020-05-28,-32.0,-10.0,-26.0,-46.0,-36,16.0
+BLZ,BZ,Belize,,,,,,2020-05-29,-28.0,-4.0,-19.0,-44.0,-33,15.0
+BLZ,BZ,Belize,,,,,,2020-05-30,-32.0,-8.0,-29.0,-48.0,-25,12.0
+BLZ,BZ,Belize,,,,,,2020-05-31,-50.0,-25.0,-40.0,-56.0,-28,10.0
+BLZ,BZ,Belize,,,,,,2020-06-01,-22.0,-9.0,-27.0,-43.0,-34,14.0
+BLZ,BZ,Belize,,,,,,2020-06-02,-32.0,-14.0,-32.0,-47.0,-35,15.0
+BLZ,BZ,Belize,,,,,,2020-06-03,-29.0,-11.0,-31.0,-47.0,-31,14.0
+BLZ,BZ,Belize,,,,,,2020-06-04,-29.0,-7.0,-28.0,-45.0,-33,15.0
+BLZ,BZ,Belize,,,,,,2020-06-05,-28.0,-8.0,-20.0,-45.0,-29,15.0
+BLZ,BZ,Belize,,,,,,2020-06-06,-28.0,-6.0,-19.0,-46.0,-17,10.0
+BLZ,BZ,Belize,,,,,,2020-06-07,-40.0,-19.0,-28.0,-47.0,-18,7.0
+BLZ,BZ,Belize,,,,,,2020-06-08,-21.0,-10.0,-23.0,-43.0,-29,12.0
+BLZ,BZ,Belize,,,,,,2020-06-09,-27.0,-16.0,-24.0,-47.0,-31,14.0
+BLZ,BZ,Belize,,,,,,2020-06-10,-29.0,-16.0,-29.0,-47.0,-30,14.0
+BLZ,BZ,Belize,,,,,,2020-06-11,-28.0,-12.0,-22.0,-44.0,-31,14.0
+BLZ,BZ,Belize,,,,,,2020-06-12,-19.0,-3.0,-14.0,-41.0,-27,12.0
+BLZ,BZ,Belize,,,,,,2020-06-13,-16.0,1.0,-10.0,-39.0,-12,6.0
+BLZ,BZ,Belize,,,,,,2020-06-14,-33.0,-11.0,-22.0,-45.0,-10,5.0
+BLZ,BZ,Belize,,,,,,2020-06-15,-16.0,-6.0,-19.0,-39.0,-27,11.0
+BLZ,BZ,Belize,,,,,,2020-06-16,-23.0,-7.0,-25.0,-42.0,-29,13.0
+BLZ,BZ,Belize,,,,,,2020-06-17,-30.0,-11.0,-34.0,-47.0,-30,14.0
+BLZ,BZ,Belize,,,,,,2020-06-18,-35.0,-18.0,-33.0,-55.0,-35,17.0
+BLZ,BZ,Belize,,,,,,2020-06-19,-22.0,-5.0,-16.0,-40.0,-25,11.0
+BLZ,BZ,Belize,,,,,,2020-06-20,-18.0,-1.0,-11.0,-39.0,-10,7.0
+BLZ,BZ,Belize,,,,,,2020-06-21,-31.0,-12.0,-21.0,-45.0,-6,5.0
+BLZ,BZ,Belize,,,,,,2020-06-22,-17.0,-12.0,-16.0,-40.0,-27,11.0
+BLZ,BZ,Belize,,,,,,2020-06-23,-20.0,-6.0,-16.0,-39.0,-29,11.0
+BLZ,BZ,Belize,,,,,,2020-06-24,-21.0,-7.0,-24.0,-42.0,-26,11.0
+BLZ,BZ,Belize,,,,,,2020-06-25,-20.0,-2.0,-19.0,-40.0,-27,11.0
+BLZ,BZ,Belize,,,,,,2020-06-26,-12.0,2.0,-8.0,-39.0,-23,9.0
+BLZ,BZ,Belize,,,,,,2020-06-27,-9.0,3.0,-4.0,-33.0,-11,5.0
+BLZ,BZ,Belize,,,,,,2020-06-28,-30.0,-8.0,-15.0,-39.0,-14,5.0
+BLZ,BZ,Belize,,,,,,2020-06-29,-10.0,0.0,-14.0,-33.0,-26,9.0
+BLZ,BZ,Belize,,,,,,2020-06-30,-14.0,1.0,-14.0,-35.0,-28,10.0
+BLZ,BZ,Belize,,,,,,2020-07-01,-16.0,-4.0,-20.0,-40.0,-26,10.0
+BLZ,BZ,Belize,,,,,,2020-07-02,-19.0,-2.0,-12.0,-38.0,-28,11.0
+BLZ,BZ,Belize,,,,,,2020-07-03,-15.0,0.0,-10.0,-35.0,-26,10.0
+BLZ,BZ,Belize,,,,,,2020-07-04,-15.0,-2.0,-10.0,-36.0,-13,6.0
+BLZ,BZ,Belize,,,,,,2020-07-05,-27.0,-12.0,-19.0,-35.0,-12,4.0
+BLZ,BZ,Belize,,,,,,2020-07-06,-13.0,-3.0,-15.0,-35.0,-28,10.0
+BLZ,BZ,Belize,,,,,,2020-07-07,-16.0,-3.0,-15.0,-38.0,-29,10.0
+BLZ,BZ,Belize,,,,,,2020-07-08,-22.0,-9.0,-23.0,-42.0,-28,11.0
+BLZ,BZ,Belize,,,,,,2020-07-09,-21.0,-8.0,-15.0,-40.0,-28,11.0
+BLZ,BZ,Belize,,,,,,2020-07-10,-19.0,-4.0,-9.0,-38.0,-26,10.0
+BLZ,BZ,Belize,,,,,,2020-07-11,-14.0,-3.0,-8.0,-36.0,-10,5.0
+BLZ,BZ,Belize,,,,,,2020-07-12,-26.0,-12.0,-13.0,-36.0,-12,3.0
+BLZ,BZ,Belize,,,,,,2020-07-13,-14.0,-6.0,-17.0,-39.0,-28,10.0
+BLZ,BZ,Belize,,,,,,2020-07-14,-18.0,-6.0,-14.0,-39.0,-30,11.0
+BLZ,BZ,Belize,,,,,,2020-07-15,-17.0,-3.0,-21.0,-41.0,-27,10.0
+BLZ,BZ,Belize,,,,,,2020-07-16,-17.0,0.0,-10.0,-37.0,-28,11.0
+BLZ,BZ,Belize,,,,,,2020-07-17,-13.0,0.0,-13.0,-37.0,-25,10.0
+BLZ,BZ,Belize,,,,,,2020-07-18,-12.0,1.0,-3.0,-36.0,-13,5.0
+BLZ,BZ,Belize,,,,,,2020-07-19,-22.0,-8.0,-9.0,-34.0,-11,3.0
+BLZ,BZ,Belize,,,,,,2020-07-20,-14.0,-6.0,-15.0,-37.0,-28,10.0
+BLZ,BZ,Belize,,,,,,2020-07-21,-19.0,-9.0,-18.0,-41.0,-30,11.0
+BLZ,BZ,Belize,,,,,,2020-07-22,-20.0,-9.0,-26.0,-43.0,-28,11.0
+BLZ,BZ,Belize,,,,,,2020-07-23,-20.0,-8.0,-15.0,-37.0,-29,10.0
+BLZ,BZ,Belize,,,,,,2020-07-24,-16.0,-6.0,-8.0,-38.0,-27,10.0
+BLZ,BZ,Belize,,,,,,2020-07-25,-15.0,-6.0,-1.0,-37.0,-13,5.0
+BLZ,BZ,Belize,,,,,,2020-07-26,-25.0,-12.0,-7.0,-35.0,-13,3.0
+BLZ,BZ,Belize,,,,,,2020-07-27,-15.0,-7.0,-18.0,-40.0,-29,10.0
+BLZ,BZ,Belize,,,,,,2020-07-28,-17.0,-6.0,-16.0,-42.0,-29,10.0
+BLZ,BZ,Belize,,,,,,2020-07-29,-17.0,-7.0,-23.0,-42.0,-29,10.0
+BLZ,BZ,Belize,,,,,,2020-07-30,-15.0,-1.0,-13.0,-37.0,-31,11.0
+BLZ,BZ,Belize,,,,,,2020-07-31,-6.0,6.0,1.0,-30.0,-25,7.0
+BLZ,BZ,Belize,,,,,,2020-08-01,-3.0,8.0,15.0,-24.0,-12,3.0
+BLZ,BZ,Belize,,,,,,2020-08-02,-24.0,-7.0,-11.0,-27.0,-14,3.0
+BLZ,BZ,Belize,,,,,,2020-08-03,-11.0,-1.0,-11.0,-32.0,-27,8.0
+BLZ,BZ,Belize,,,,,,2020-08-04,-15.0,1.0,-14.0,-38.0,-29,9.0
+BLZ,BZ,Belize,,,,,,2020-08-05,-22.0,-4.0,-29.0,-42.0,-28,11.0
+BLZ,BZ,Belize,,,,,,2020-08-06,-28.0,-4.0,-27.0,-47.0,-33,12.0
+BLZ,BZ,Belize,,,,,,2020-08-07,-34.0,-13.0,-25.0,-52.0,-32,14.0
+BLZ,BZ,Belize,,,,,,2020-08-08,-37.0,-12.0,-26.0,-57.0,-24,12.0
+BLZ,BZ,Belize,,,,,,2020-08-09,-51.0,-30.0,-38.0,-62.0,-30,9.0
+BLZ,BZ,Belize,,,,,,2020-08-10,-34.0,-20.0,-37.0,-56.0,-36,15.0
+BLZ,BZ,Belize,,,,,,2020-08-11,-35.0,-22.0,-29.0,-55.0,-37,15.0
+BLZ,BZ,Belize,,,,,,2020-08-12,-35.0,-19.0,-37.0,-58.0,-35,15.0
+BLZ,BZ,Belize,,,,,,2020-08-13,-37.0,-16.0,-31.0,-55.0,-37,16.0
+BLZ,BZ,Belize,,,,,,2020-08-14,-33.0,-9.0,-28.0,-53.0,-35,16.0
+BLZ,BZ,Belize,,,,,,2020-08-15,-34.0,-10.0,-29.0,-57.0,-28,13.0
+BLZ,BZ,Belize,,,,,,2020-08-16,-55.0,-29.0,-39.0,-64.0,-35,12.0
+BLZ,BZ,Belize,,,,,,2020-08-17,-33.0,-19.0,-32.0,-56.0,-38,17.0
+BLZ,BZ,Belize,,,,,,2020-08-18,-35.0,-20.0,-30.0,-60.0,-40,16.0
+BLZ,BZ,Belize,,,,,,2020-08-19,-38.0,-23.0,-35.0,-60.0,-39,17.0
+BLZ,BZ,Belize,,,,,,2020-08-20,-37.0,-22.0,-31.0,-59.0,-41,17.0
+BLZ,BZ,Belize,,,,,,2020-08-21,-36.0,-18.0,-27.0,-57.0,-38,18.0
+BLZ,BZ,Belize,,,,,,2020-08-22,-37.0,-19.0,-25.0,-61.0,-30,14.0
+BLZ,BZ,Belize,,,,,,2020-08-23,-54.0,-32.0,-40.0,-71.0,-39,12.0
+BLZ,BZ,Belize,,,,,,2020-08-24,-34.0,-26.0,-30.0,-60.0,-39,17.0
+BLZ,BZ,Belize,,,,,,2020-08-25,-35.0,-24.0,-29.0,-62.0,-41,17.0
+BLZ,BZ,Belize,,,,,,2020-08-26,-35.0,-22.0,-36.0,-61.0,-38,16.0
+BLZ,BZ,Belize,,,,,,2020-08-27,-33.0,-16.0,-24.0,-60.0,-41,17.0
+BLZ,BZ,Belize,,,,,,2020-08-28,-27.0,-7.0,-19.0,-54.0,-37,16.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-15,7.0,10.0,25.0,13.0,5,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-16,6.0,6.0,21.0,12.0,2,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-17,1.0,-1.0,12.0,4.0,2,0.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-18,2.0,-1.0,8.0,3.0,1,0.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-19,0.0,1.0,9.0,8.0,1,0.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-20,0.0,1.0,55.0,12.0,-8,3.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-21,1.0,-1.0,4.0,-2.0,0,0.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-22,-6.0,-4.0,18.0,3.0,3,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-23,11.0,9.0,61.0,18.0,1,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-24,-5.0,-3.0,4.0,-2.0,3,0.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-25,-4.0,-3.0,10.0,3.0,2,0.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-26,-1.0,1.0,17.0,8.0,2,0.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-27,-2.0,6.0,-3.0,6.0,0,2.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-28,10.0,3.0,10.0,8.0,1,-1.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-02-29,5.0,6.0,67.0,16.0,8,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-01,4.0,8.0,4.0,15.0,0,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-02,-1.0,4.0,36.0,8.0,1,0.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-03,-1.0,-1.0,0.0,7.0,1,0.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-04,1.0,1.0,16.0,16.0,1,1.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-05,-1.0,5.0,16.0,12.0,2,0.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-06,3.0,2.0,8.0,8.0,-3,1.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-07,-9.0,-6.0,13.0,7.0,1,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-08,17.0,5.0,1.0,6.0,-7,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-09,-25.0,-36.0,25.0,-25.0,-70,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-10,0.0,5.0,8.0,10.0,2,0.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-11,-3.0,8.0,18.0,6.0,2,1.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-12,0.0,28.0,27.0,7.0,-1,1.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-13,4.0,25.0,23.0,2.0,1,-1.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-14,-2.0,17.0,23.0,3.0,8,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-15,-8.0,5.0,9.0,-6.0,-3,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-16,-9.0,6.0,1.0,-8.0,2,2.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-17,-13.0,6.0,-11.0,-9.0,-3,3.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-18,-14.0,4.0,-18.0,-15.0,-3,4.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-19,-15.0,11.0,3.0,-18.0,-4,4.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-20,-9.0,32.0,-7.0,-15.0,-3,3.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-21,-13.0,25.0,3.0,-11.0,-3,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-22,-30.0,-14.0,-33.0,-34.0,-15,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-23,-28.0,9.0,-18.0,-31.0,-25,10.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-24,-37.0,-13.0,-29.0,-52.0,-35,15.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-25,-41.0,-3.0,-40.0,-59.0,-38,17.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-26,-51.0,-35.0,-38.0,-62.0,-43,19.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-27,-50.0,-31.0,-43.0,-62.0,-40,21.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-28,-53.0,-39.0,-38.0,-66.0,-36,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-29,-54.0,,-50.0,-76.0,-39,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-30,-48.0,-25.0,-37.0,-62.0,-45,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-03-31,-44.0,-19.0,-43.0,-59.0,-48,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-01,-45.0,-16.0,-45.0,-63.0,-50,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-02,-72.0,-51.0,-66.0,-77.0,-65,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-03,-73.0,-48.0,-73.0,-78.0,-64,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-04,-76.0,-49.0,-71.0,-81.0,-60,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-05,-74.0,,-75.0,-86.0,-57,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-06,-73.0,-47.0,-70.0,-80.0,-66,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-07,-73.0,-49.0,-71.0,-81.0,-71,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-08,-73.0,-44.0,-74.0,-77.0,-71,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-09,-63.0,-19.0,-65.0,-71.0,-71,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-10,-95.0,-96.0,-87.0,-100.0,-90,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-11,-77.0,-48.0,-80.0,-83.0,-72,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-12,-92.0,,-84.0,-100.0,-73,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-13,-86.0,-74.0,-79.0,-94.0,-88,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-14,-76.0,-43.0,-73.0,-81.0,-73,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-15,-72.0,-40.0,-74.0,-80.0,-73,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-16,-73.0,-40.0,-69.0,-78.0,-73,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-17,-74.0,-45.0,-73.0,-82.0,-72,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-18,-75.0,-45.0,-70.0,-81.0,-62,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-19,-93.0,,-85.0,-100.0,-73,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-20,-70.0,-45.0,-67.0,-83.0,-68,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-21,-72.0,-44.0,-70.0,-81.0,-71,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-22,-74.0,-46.0,-71.0,-81.0,-70,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-23,-75.0,-49.0,-68.0,-85.0,-69,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-24,-74.0,-51.0,-72.0,-84.0,-68,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-25,-74.0,-46.0,-69.0,-84.0,-60,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-26,-72.0,,-69.0,-85.0,-52,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-27,-61.0,-42.0,-65.0,-73.0,-59,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-28,-62.0,-38.0,-61.0,-72.0,-60,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-29,-59.0,-32.0,-68.0,-69.0,-59,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-04-30,-52.0,-14.0,-56.0,-64.0,-58,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-01,-79.0,-65.0,-78.0,-89.0,-82,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-02,-51.0,-28.0,-54.0,-69.0,-43,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-03,-67.0,,-71.0,-80.0,-43,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-04,-35.0,-27.0,-38.0,-59.0,-45,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-05,-39.0,-26.0,-49.0,-60.0,-47,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-06,-39.0,-26.0,-51.0,-60.0,-46,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-07,-45.0,-26.0,-52.0,-64.0,-47,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-08,-43.0,-25.0,-59.0,-62.0,-46,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-09,-33.0,-14.0,-47.0,-63.0,-33,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-10,-47.0,-27.0,-68.0,-73.0,-32,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-11,-39.0,-31.0,-44.0,-60.0,-43,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-12,-40.0,-27.0,-53.0,-59.0,-43,20.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-13,-39.0,-29.0,-52.0,-63.0,-43,20.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-14,-40.0,-23.0,-47.0,-62.0,-43,19.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-15,-34.0,-17.0,-44.0,-59.0,-39,20.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-16,-32.0,-15.0,-34.0,-57.0,-26,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-17,-47.0,-30.0,-50.0,-74.0,-36,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-18,-33.0,-27.0,-37.0,-59.0,-39,17.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-19,-33.0,-20.0,-40.0,-57.0,-42,19.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-20,-35.0,-21.0,-45.0,-59.0,-41,18.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-21,-35.0,-23.0,-38.0,-59.0,-42,20.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-22,-35.0,-16.0,-42.0,-57.0,-36,18.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-23,-30.0,-17.0,-33.0,-52.0,-23,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-24,-39.0,-23.0,-38.0,-66.0,-30,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-25,-66.0,-60.0,-42.0,-78.0,-80,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-26,-31.0,-24.0,-37.0,-55.0,-37,16.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-27,-31.0,-18.0,-43.0,-62.0,-38,18.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-28,-32.0,-15.0,-32.0,-55.0,-38,18.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-29,-25.0,-7.0,-32.0,-50.0,-35,17.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-30,-25.0,-7.0,-30.0,-55.0,-23,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-05-31,-47.0,,-55.0,-68.0,-29,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-01,-22.0,-14.0,-30.0,-55.0,-33,15.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-02,-33.0,-21.0,-45.0,-56.0,-35,17.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-03,-26.0,-14.0,-36.0,-58.0,-34,16.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-04,-26.0,-12.0,-39.0,-54.0,-34,16.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-05,-22.0,-11.0,-36.0,-53.0,-29,16.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-06,-21.0,-10.0,-30.0,-51.0,-17,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-07,-35.0,-19.0,-45.0,-58.0,-19,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-08,-22.0,-19.0,-27.0,-52.0,-27,14.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-09,-23.0,-20.0,-38.0,-54.0,-30,15.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-10,-28.0,-19.0,-35.0,-54.0,-32,15.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-11,-27.0,-18.0,-31.0,-50.0,-31,16.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-12,-14.0,-9.0,-22.0,-46.0,-26,12.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-13,-9.0,-3.0,-5.0,-44.0,-11,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-14,-30.0,-12.0,-34.0,-53.0,-13,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-15,-14.0,-9.0,-20.0,-48.0,-25,12.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-16,-23.0,-12.0,-41.0,-46.0,-28,14.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-17,-27.0,-13.0,-49.0,-54.0,-30,15.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-18,-28.0,-18.0,-39.0,-57.0,-32,17.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-19,-15.0,-7.0,-24.0,-43.0,-24,11.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-20,-8.0,-2.0,-5.0,-44.0,-7,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-21,-24.0,-11.0,-33.0,-56.0,-4,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-22,-18.0,-19.0,-18.0,-47.0,-28,13.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-23,-18.0,-11.0,-23.0,-45.0,-30,13.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-24,-19.0,-10.0,-33.0,-50.0,-27,13.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-25,-16.0,-8.0,-21.0,-47.0,-27,13.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-26,-6.0,-3.0,-11.0,-43.0,-22,10.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-27,-4.0,-2.0,-3.0,-40.0,-10,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-28,-25.0,-10.0,-24.0,-49.0,-15,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-29,-11.0,-5.0,-14.0,-38.0,-25,11.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-06-30,-13.0,-2.0,-21.0,-40.0,-27,11.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-01,-14.0,-7.0,-20.0,-46.0,-26,11.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-02,-14.0,-9.0,-15.0,-43.0,-26,12.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-03,-9.0,-4.0,-12.0,-38.0,-24,10.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-04,-9.0,-9.0,-3.0,-42.0,-12,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-05,-18.0,-15.0,-15.0,-42.0,-10,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-06,-14.0,-7.0,-11.0,-42.0,-26,10.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-07,-12.0,-5.0,-19.0,-40.0,-26,10.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-08,-20.0,-11.0,-29.0,-48.0,-26,12.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-09,-19.0,-12.0,-16.0,-46.0,-26,11.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-10,-11.0,-4.0,-13.0,-40.0,-23,10.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-11,-10.0,-9.0,2.0,-42.0,-9,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-12,-17.0,-9.0,-12.0,-43.0,-8,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-13,-13.0,-11.0,-14.0,-45.0,-26,10.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-14,-10.0,-13.0,-10.0,-43.0,-26,11.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-15,-12.0,-3.0,-23.0,-44.0,-26,11.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-16,-14.0,-5.0,-11.0,-42.0,-26,11.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-17,-8.0,-3.0,-19.0,-38.0,-22,9.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-18,-6.0,-7.0,2.0,-41.0,-12,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-19,-14.0,-10.0,-6.0,-39.0,-12,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-20,-12.0,-9.0,-13.0,-41.0,-25,9.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-21,-16.0,-16.0,-19.0,-44.0,-27,10.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-22,-18.0,-11.0,-31.0,-46.0,-27,10.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-23,-16.0,-15.0,-14.0,-41.0,-26,10.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-24,-11.0,-10.0,-16.0,-41.0,-25,9.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-25,-10.0,-17.0,6.0,-43.0,-9,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-26,-16.0,-12.0,-3.0,-42.0,-15,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-27,-14.0,-12.0,-16.0,-45.0,-27,11.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-28,-14.0,-13.0,-25.0,-45.0,-27,10.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-29,-12.0,-11.0,-24.0,-46.0,-29,10.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-30,-8.0,-5.0,-18.0,-40.0,-29,11.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-07-31,4.0,2.0,-3.0,-28.0,-24,7.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-01,6.0,0.0,16.0,-29.0,-9,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-02,-13.0,-10.0,-21.0,-34.0,-19,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-03,-4.0,-5.0,-4.0,-35.0,-25,8.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-04,-7.0,-4.0,-19.0,-37.0,-27,9.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-05,-17.0,-4.0,-25.0,-46.0,-27,11.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-06,-24.0,-6.0,-26.0,-48.0,-30,13.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-07,-26.0,-10.0,-29.0,-50.0,-29,13.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-08,-29.0,-10.0,-24.0,-58.0,-17,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-09,-45.0,-28.0,-49.0,-68.0,-27,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-10,-31.0,-17.0,-34.0,-59.0,-33,14.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-11,-30.0,-21.0,-39.0,-54.0,-34,14.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-12,-30.0,-18.0,-40.0,-61.0,-34,14.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-13,-35.0,-19.0,-33.0,-56.0,-34,16.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-14,-27.0,-7.0,-36.0,-51.0,-33,16.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-15,-29.0,-10.0,-26.0,-59.0,-24,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-16,-49.0,-30.0,-47.0,-70.0,-35,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-17,-31.0,-23.0,-36.0,-59.0,-35,17.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-18,-30.0,-21.0,-41.0,-61.0,-37,17.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-19,-34.0,-22.0,-39.0,-59.0,-36,18.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-20,-35.0,-26.0,-37.0,-60.0,-38,18.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-21,-30.0,-16.0,-35.0,-56.0,-32,18.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-22,-31.0,-19.0,-27.0,-63.0,-28,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-23,-49.0,-34.0,-53.0,-78.0,-38,
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-24,-34.0,-26.0,-38.0,-62.0,-35,17.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-25,-31.0,-25.0,-39.0,-63.0,-37,18.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-26,-33.0,-25.0,-42.0,-62.0,-35,17.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-27,-30.0,-17.0,-29.0,-59.0,-37,17.0
+BZ-BZ,BZ,Belize,Belize District,,,BZ-BZ,,2020-08-28,-21.0,-9.0,-31.0,-54.0,-33,16.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-15,13.0,9.0,5.0,,3,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-16,,,7.0,,1,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-17,4.0,6.0,2.0,0.0,-2,1.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-18,6.0,8.0,13.0,1.0,1,-1.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-19,2.0,-7.0,7.0,-6.0,2,0.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-20,2.0,2.0,10.0,10.0,-9,2.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-21,4.0,1.0,4.0,2.0,4,-1.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-22,10.0,4.0,6.0,,7,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-23,,,8.0,,7,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-24,5.0,5.0,0.0,1.0,2,1.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-25,1.0,7.0,4.0,0.0,4,0.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-26,4.0,2.0,-1.0,5.0,2,1.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-27,1.0,8.0,-7.0,10.0,3,1.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-28,9.0,11.0,4.0,7.0,6,-1.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-02-29,13.0,16.0,12.0,,7,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-01,,,4.0,,3,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-02,8.0,9.0,1.0,-4.0,4,0.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-03,4.0,2.0,-4.0,-9.0,7,-1.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-04,-1.0,4.0,4.0,1.0,6,1.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-05,8.0,12.0,19.0,9.0,3,-1.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-06,5.0,2.0,45.0,-2.0,-1,0.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-07,12.0,15.0,68.0,,1,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-08,-1.0,,5.0,,-1,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-09,-31.0,,12.0,-32.0,-61,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-10,3.0,10.0,-2.0,-2.0,6,-2.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-11,9.0,12.0,13.0,-2.0,5,0.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-12,5.0,28.0,6.0,9.0,3,0.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-13,7.0,37.0,6.0,-2.0,6,0.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-14,5.0,32.0,7.0,,4,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-15,-1.0,,0.0,,6,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-16,-4.0,19.0,-1.0,-16.0,-1,2.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-17,-7.0,15.0,-7.0,-24.0,1,2.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-18,-4.0,10.0,-11.0,-8.0,-1,2.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-19,-5.0,29.0,1.0,-5.0,-2,3.0
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-20,-1.0,35.0,-4.0,-19.0,-2,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-21,-12.0,24.0,1.0,-19.0,-8,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-22,-29.0,,-17.0,,-9,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-23,-14.0,30.0,-15.0,-33.0,-27,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-24,-31.0,-10.0,-22.0,-56.0,-35,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-25,-33.0,-3.0,-29.0,-59.0,-40,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-26,-49.0,,-27.0,-58.0,-43,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-27,-47.0,,-19.0,-66.0,-41,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-28,-51.0,-39.0,-20.0,-62.0,-36,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-29,-54.0,,-23.0,-65.0,-34,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-30,-46.0,,-31.0,-59.0,-46,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-03-31,-32.0,,-22.0,-65.0,-46,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-01,-40.0,-14.0,-24.0,-62.0,-49,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-02,-61.0,,-39.0,-76.0,-60,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-03,-66.0,-44.0,-38.0,-76.0,-60,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-04,-74.0,-57.0,-48.0,-78.0,-54,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-05,,,-54.0,-79.0,-54,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-06,-69.0,,-43.0,-80.0,-67,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-07,-67.0,,-45.0,-82.0,-70,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-08,-72.0,,-52.0,-86.0,-73,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-09,-68.0,,-38.0,-88.0,-73,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-10,-93.0,-94.0,-65.0,,-88,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-11,-80.0,-57.0,-55.0,,-65,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-12,-89.0,,-73.0,,-67,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-13,-85.0,,-52.0,,-85,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-14,-67.0,,-42.0,,-71,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-15,-67.0,,-43.0,,-69,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-16,-68.0,,-41.0,-84.0,-70,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-17,-69.0,-49.0,-32.0,-85.0,-67,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-18,-72.0,-51.0,-45.0,-85.0,-53,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-19,,,-74.0,,-71,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-20,-64.0,,-34.0,-85.0,-68,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-21,-65.0,,-37.0,-85.0,-68,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-22,-67.0,,-36.0,-86.0,-67,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-23,-67.0,,-39.0,-86.0,-68,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-24,-67.0,-49.0,-34.0,-87.0,-64,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-25,-68.0,-52.0,-35.0,-72.0,-49,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-26,,,-41.0,,-44,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-27,-55.0,-35.0,-28.0,-73.0,-57,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-28,-53.0,,-29.0,-72.0,-56,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-29,-53.0,,-30.0,-71.0,-56,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-04-30,-48.0,-15.0,-21.0,-63.0,-57,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-01,-70.0,-51.0,-35.0,-85.0,-74,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-02,-50.0,,-29.0,-62.0,-40,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-03,,,-37.0,-72.0,-38,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-04,-34.0,-18.0,-21.0,-58.0,-44,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-05,-35.0,-18.0,-24.0,-63.0,-45,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-06,-38.0,-20.0,-24.0,-56.0,-43,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-07,-44.0,-19.0,-21.0,-59.0,-45,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-08,-41.0,-16.0,-18.0,-59.0,-42,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-09,-37.0,-7.0,-23.0,-53.0,-32,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-10,-48.0,,-31.0,-52.0,-22,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-11,-36.0,-16.0,-18.0,-52.0,-40,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-12,-36.0,-12.0,-24.0,-53.0,-40,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-13,-38.0,-24.0,-19.0,-54.0,-40,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-14,-37.0,-18.0,-17.0,-48.0,-40,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-15,-33.0,-8.0,-7.0,-50.0,-36,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-16,-29.0,1.0,-5.0,-29.0,-26,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-17,-43.0,,-11.0,-52.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-18,-25.0,-6.0,-17.0,-44.0,-36,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-19,-25.0,-11.0,-20.0,-50.0,-37,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-20,-25.0,-11.0,-14.0,-44.0,-34,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-21,-29.0,,-14.0,-46.0,-36,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-22,-29.0,-7.0,-9.0,-51.0,-31,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-23,-27.0,0.0,-10.0,-33.0,-22,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-24,-33.0,,-2.0,-50.0,-26,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-25,-52.0,,4.0,-62.0,-70,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-26,-26.0,-10.0,-14.0,-44.0,-33,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-27,-24.0,-11.0,-19.0,-50.0,-31,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-28,-22.0,1.0,-11.0,-36.0,-32,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-29,-19.0,5.0,-1.0,-48.0,-30,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-30,-25.0,2.0,-17.0,-32.0,-18,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-05-31,-41.0,,-22.0,-47.0,-19,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-01,-16.0,2.0,-14.0,-41.0,-30,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-02,-22.0,,-20.0,-42.0,-29,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-03,-21.0,-8.0,-20.0,-45.0,-28,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-04,-22.0,-3.0,-15.0,-44.0,-28,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-05,-18.0,5.0,-2.0,-42.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-06,-17.0,4.0,-3.0,-35.0,-10,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-07,-30.0,,-11.0,-42.0,-10,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-08,-18.0,1.0,-13.0,-39.0,-27,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-09,-22.0,-6.0,-15.0,-47.0,-27,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-10,-18.0,-5.0,-13.0,-40.0,-24,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-11,-19.0,-2.0,-7.0,-44.0,-26,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-12,-7.0,9.0,3.0,-40.0,-23,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-13,-6.0,11.0,0.0,-26.0,-5,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-14,-16.0,,-5.0,,1,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-15,-13.0,6.0,-4.0,-35.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-16,-11.0,9.0,-12.0,-40.0,-26,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-17,-18.0,0.0,-16.0,-38.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-18,-41.0,-17.0,-28.0,-68.0,-34,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-19,-17.0,1.0,-7.0,-47.0,-23,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-20,-13.0,6.0,-1.0,-27.0,-2,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-21,-19.0,,-5.0,,5,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-22,-11.0,3.0,2.0,-31.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-23,-11.0,6.0,-5.0,-40.0,-26,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-24,-13.0,4.0,-6.0,-37.0,-22,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-25,-14.0,8.0,-5.0,-37.0,-26,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-26,-4.0,17.0,-1.0,-39.0,-20,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-27,5.0,12.0,7.0,-17.0,-1,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-28,-16.0,,3.0,,-2,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-29,-7.0,13.0,2.0,-30.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-06-30,-2.0,15.0,1.0,-34.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-01,-4.0,10.0,-5.0,-29.0,-24,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-02,-11.0,8.0,-3.0,-27.0,-27,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-03,-5.0,13.0,1.0,-30.0,-24,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-04,-4.0,13.0,-1.0,-25.0,-7,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-05,-13.0,,-6.0,,-4,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-06,-10.0,10.0,-3.0,-28.0,-27,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-07,-7.0,13.0,-9.0,-35.0,-27,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-08,-14.0,2.0,-8.0,-36.0,-26,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-09,-10.0,3.0,-7.0,-28.0,-26,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-10,-10.0,1.0,-3.0,-38.0,-24,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-11,0.0,14.0,5.0,-20.0,-1,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-12,-11.0,,3.0,,0,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-13,-11.0,11.0,-5.0,-33.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-14,-10.0,12.0,-10.0,-40.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-15,-8.0,,-9.0,-32.0,-23,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-16,-8.0,15.0,1.0,-31.0,-22,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-17,-5.0,13.0,-4.0,-35.0,-21,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-18,-4.0,18.0,3.0,-18.0,-4,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-19,-12.0,,8.0,,4,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-20,-11.0,5.0,1.0,-34.0,-27,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-21,-13.0,9.0,-11.0,-41.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-22,-10.0,5.0,-9.0,-34.0,-24,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-23,-14.0,5.0,-6.0,-33.0,-26,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-24,-10.0,6.0,8.0,-35.0,-24,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-25,-4.0,11.0,9.0,-26.0,-4,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-26,-11.0,,4.0,,4,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-27,-10.0,8.0,1.0,-37.0,-27,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-28,-6.0,7.0,-6.0,-45.0,-24,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-29,-7.0,5.0,-11.0,-33.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-30,-9.0,9.0,2.0,-33.0,-29,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-07-31,2.0,24.0,10.0,-34.0,-22,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-01,9.0,28.0,37.0,-13.0,-4,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-02,-6.0,,7.0,,-1,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-03,-6.0,13.0,7.0,-32.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-04,-6.0,19.0,2.0,-44.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-05,-6.0,10.0,-15.0,-35.0,-25,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-06,-17.0,,-15.0,-41.0,-27,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-07,-24.0,0.0,-10.0,-51.0,-27,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-08,-26.0,4.0,-16.0,-44.0,-15,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-09,-40.0,,-21.0,-49.0,-14,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-10,-27.0,-11.0,-27.0,-54.0,-32,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-11,-23.0,-8.0,-16.0,-60.0,-31,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-12,-22.0,-8.0,-24.0,-54.0,-30,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-13,-25.0,-2.0,-25.0,-54.0,-32,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-14,-21.0,2.0,-19.0,-60.0,-28,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-15,-18.0,6.0,-18.0,-53.0,-17,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-16,-41.0,,-26.0,-58.0,-21,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-17,-24.0,-6.0,-19.0,-58.0,-36,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-18,-22.0,-6.0,-18.0,-66.0,-35,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-19,-25.0,-11.0,-20.0,-57.0,-35,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-20,-31.0,-12.0,-18.0,-58.0,-36,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-21,-27.0,-9.0,-17.0,-64.0,-34,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-22,-25.0,-10.0,-13.0,-60.0,-16,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-23,-41.0,,-24.0,-61.0,-32,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-24,-28.0,-15.0,-19.0,-63.0,-39,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-25,-28.0,-13.0,-20.0,-63.0,-38,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-26,-27.0,-16.0,-19.0,-62.0,-36,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-27,-27.0,-11.0,-10.0,-61.0,-38,
+BZ-CY,BZ,Belize,Cayo District,,,BZ-CY,,2020-08-28,-18.0,6.0,-7.0,-57.0,-34,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-15,2.0,,,,2,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-16,0.0,,,,-4,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-17,,,,,6,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-18,2.0,,,,-2,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-19,3.0,,,,8,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-20,12.0,,,,-13,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-21,2.0,,,,7,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-22,-4.0,,,,-3,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-23,-3.0,,,,-3,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-24,,,,,4,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-25,10.0,,,,3,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-26,1.0,,,,7,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-27,3.0,,,,-1,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-28,4.0,,,,2,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-29,0.0,,,,0,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-01,-5.0,,,,1,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-02,,,,,7,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-03,6.0,,,,4,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-04,3.0,,,,5,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-05,15.0,,,,3,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-06,-1.0,,,,4,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-07,-6.0,,,,-3,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-08,-2.0,,,,1,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-09,,,,,-48,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-10,4.0,,,,4,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-11,-4.0,,,,4,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-12,6.0,,,,3,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-13,11.0,,,,8,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-14,-1.0,,,,2,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-15,-10.0,,,,0,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-16,,,,,2,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-17,-7.0,,,,4,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-18,-11.0,,,,2,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-19,-6.0,,,,-4,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-20,-13.0,,,,-7,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-21,-26.0,,,,-16,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-22,-63.0,,,,-30,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-23,-36.0,,,,-40,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-24,-75.0,,,,-68,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-25,-78.0,,,,-70,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-26,-78.0,,,,-68,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-27,-77.0,,,-71.0,-66,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-28,-82.0,,,-72.0,-63,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-29,-86.0,,,,-59,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-30,,,,-64.0,-66,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-03-31,-73.0,,,,-64,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-01,-63.0,,,,-67,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-02,-80.0,,,,-70,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-03,-77.0,,,-66.0,-68,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-04,-85.0,,,-77.0,-70,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-05,-88.0,,,,-70,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-06,,,,-72.0,-67,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-07,-79.0,,,,-70,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-08,-76.0,,,,-69,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-09,-73.0,,,,-70,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-10,,,,,-87,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-11,-84.0,,,-76.0,-70,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-12,-97.0,,,,-76,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-13,,,,,-80,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-14,-80.0,,,,-71,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-15,-77.0,,,,-70,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-16,-77.0,,,,-69,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-17,-76.0,,,-67.0,-68,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-18,-81.0,,,-70.0,-64,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-19,,,,,-78,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-20,,,,-67.0,-63,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-21,-75.0,,,,-66,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-22,-76.0,,,,-66,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-23,-77.0,,,,-67,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-24,-72.0,,,-68.0,-62,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-25,-76.0,,,-80.0,-61,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-26,-86.0,,,,-61,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-27,-63.0,,,,-56,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-28,,,,,-60,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-29,-61.0,,,,-57,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-04-30,,,,,-61,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-01,-74.0,,,-79.0,-72,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-02,-70.0,,,-68.0,-55,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-03,-82.0,,,,-54,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-04,-51.0,,,,-50,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-05,-58.0,,,,-53,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-06,-58.0,,,,-51,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-07,-63.0,,,,-55,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-08,-65.0,,,,-50,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-09,-67.0,,,,-46,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-10,-71.0,,,,-41,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-11,-52.0,,,,-44,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-12,,,,,-48,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-13,-62.0,,,,-48,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-14,-57.0,,,,-49,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-15,-52.0,,,,-45,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-16,-60.0,,,,-42,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-17,-65.0,,,,-46,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-18,-48.0,,,,-43,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-19,-55.0,,,,-44,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-20,-50.0,,,,-44,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-21,-53.0,,,,-44,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-22,-54.0,,,,-41,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-23,-61.0,,,,-39,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-24,-61.0,,,,-40,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-25,-48.0,,,,-65,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-26,-51.0,,,,-40,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-27,,,,,-38,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-28,-52.0,,,,-42,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-29,-52.0,,,,-39,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-30,-59.0,,,,-39,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-05-31,-70.0,,,,-39,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-01,-47.0,,,,-40,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-02,-56.0,,,,-41,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-03,-49.0,,,,-38,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-04,-53.0,,,,-40,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-05,-53.0,,,,-37,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-06,-58.0,,,,-32,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-07,-64.0,,,,-29,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-08,-39.0,,,,-32,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-09,-48.0,,,,-36,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-10,-48.0,,,,-34,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-11,-51.0,,,,-37,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-12,-47.0,,,,-35,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-13,-52.0,,,,-29,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-14,-60.0,,,,-25,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-15,-38.0,,,,-29,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-16,-49.0,,,,-37,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-17,-50.0,,,,-39,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-18,,,,,-41,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-19,-47.0,,,,-32,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-20,-48.0,,,,-28,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-21,-59.0,,,,-25,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-22,,,,,-27,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-23,-44.0,,,,-32,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-24,-42.0,,,,-30,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-25,-43.0,,,,-33,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-26,-41.0,,,,-28,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-27,-48.0,,,,-27,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-28,-55.0,,,,-26,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-29,-32.0,,,,-29,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-06-30,-40.0,,,,-31,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-01,-40.0,,,,-33,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-02,-45.0,,,,-35,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-03,-43.0,,,,-35,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-04,-52.0,,,,-26,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-05,-57.0,,,,-27,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-06,-34.0,,,,-34,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-07,-44.0,,,,-39,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-08,-43.0,,,,-37,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-09,-49.0,,,,-38,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-10,-46.0,,,,-35,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-11,-47.0,,,,-29,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-12,-57.0,,,,-31,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-13,-36.0,,,,-34,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-14,-47.0,,,,-38,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-15,-45.0,,,,-37,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-16,-42.0,,,,-38,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-17,-39.0,,,,-36,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-18,-41.0,,,,-30,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-19,-52.0,,,,-35,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-20,-31.0,,,,-35,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-21,-44.0,,,,-39,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-22,-43.0,,,,-39,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-23,-43.0,,,,-38,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-24,-37.0,,,,-34,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-25,-44.0,,,,-34,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-26,-54.0,,,,-31,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-27,-35.0,,,,-33,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-28,-42.0,,,,-35,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-29,-44.0,,,,-38,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-30,-44.0,,,,-39,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-07-31,-38.0,,,,-34,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-01,-40.0,,,,-29,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-02,-57.0,,,,-31,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-03,-39.0,,,,-33,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-04,-46.0,,,,-39,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-05,,,,,-42,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-06,,,,,-48,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-07,-64.0,,,-65.0,-51,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-08,-70.0,,,,-53,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-09,-77.0,,,,-55,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-10,,,,-66.0,-51,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-11,,,,,-54,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-12,,,,,-52,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-13,-68.0,,,,-55,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-14,-65.0,,,-56.0,-52,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-15,-73.0,,,-78.0,-54,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-16,-81.0,,,,-53,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-17,-56.0,,,-64.0,-49,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-18,-65.0,,,,-56,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-19,-64.0,,,,-55,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-20,-63.0,,,,-55,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-21,-61.0,,,,-53,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-22,-72.0,,,-73.0,-52,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-23,-79.0,,,,-57,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-24,,,,-68.0,-48,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-25,-60.0,,,,-53,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-26,-57.0,,,,-49,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-27,-59.0,,,,-52,
+BZ-CZL,BZ,Belize,Corozal District,,,BZ-CZL,,2020-08-28,-55.0,,,-65.0,-51,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-15,,,,,7,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-17,,,,,0,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-18,,,,,0,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-19,,,,,7,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-20,,,,,-22,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-21,,,,,4,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-22,,,,,7,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-24,,,,,2,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-25,,,,,1,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-26,,,,,6,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-27,,,,,-3,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-28,,,,,-1,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-29,,,,,0,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-02,,,,,1,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-03,,,,,2,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-04,,,,,8,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-05,,,,,-2,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-06,,,,,-5,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-07,,,,,-2,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-09,,,,,-64,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-10,,,,,4,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-11,,,,,5,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-12,,,,,2,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-13,,,,,3,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-14,,,,,4,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-16,,,,,1,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-17,,,,,-3,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-18,,,,,3,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-19,,,,,-5,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-20,,,,,-3,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-21,,,,,-7,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-23,,,,,-30,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-24,,,,,-47,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-25,,,,,-50,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-26,,,,,-52,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-27,,,,,-51,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-28,,,,,-40,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-30,,,,,-53,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-03-31,,,,,-53,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-01,,,,,-53,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-02,,,,,-63,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-03,,,,,-61,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-04,,,,,-56,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-06,,,,,-67,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-07,,,,,-69,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-08,,,,,-68,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-09,,,,,-69,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-10,,,,,-89,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-11,,,,,-64,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-12,,,,,-70,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-13,,,,,-84,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-14,,,,,-70,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-15,,,,,-69,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-16,,,,,-70,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-17,,,,-88.0,-67,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-18,,,,,-50,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-19,,,,,-67,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-20,,,,,-61,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-21,,,,,-63,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-22,,,,,-63,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-23,,,,,-66,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-24,,,,,-65,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-25,,,,,-45,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-27,,,,,-56,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-28,,,,,-54,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-29,,,,,-56,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-04-30,,,,,-55,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-01,,,,,-74,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-02,,,,,-30,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-04,,,,,-42,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-05,,,,,-47,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-06,,,,,-41,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-07,,,,,-46,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-08,,,,,-44,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-09,,,,,-24,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-11,,,,,-37,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-12,,,,,-38,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-13,,,,,-39,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-14,,,,,-38,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-15,,,,,-34,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-16,,,,,-21,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-18,,,,,-36,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-19,,,,,-39,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-20,,,,,-34,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-21,,,,,-37,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-22,,,,,-34,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-23,,,,,-19,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-25,,,,,-67,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-26,,,,,-34,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-27,,,,,-29,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-28,,,,,-33,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-29,,,,,-30,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-05-30,,,,,-25,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-01,,,,,-33,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-02,,,,,-30,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-03,,,,,-26,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-04,,,,,-32,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-05,,,,,-26,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-06,,,,,-11,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-08,,,,,-26,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-09,,,,,-31,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-10,,,,,-25,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-11,,,,,-33,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-12,,,,,-26,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-13,,,,,-3,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-15,,,,,-23,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-16,,,,,-26,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-17,,,,,-26,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-18,,,,,-34,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-19,,,,,-22,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-20,,,,,-1,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-22,,,,,-24,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-23,,,,,-25,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-24,,,,,-20,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-25,,,,,-24,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-26,,,,,-21,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-27,,,,,0,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-29,,,,,-22,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-06-30,,,,,-22,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-01,,,,,-24,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-02,,,,,-27,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-03,,,,,-26,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-04,,,,,0,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-06,,,,,-24,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-07,,,,,-24,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-08,,,,,-23,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-09,,,,,-26,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-10,,,,,-23,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-11,,,,,0,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-13,,,,,-26,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-14,,,,,-28,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-15,,,,,-24,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-16,,,,,-29,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-17,,,,,-24,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-18,,,,,-5,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-20,,,,,-26,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-21,,,,,-29,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-22,,,,,-26,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-23,,,,,-28,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-24,,,,,-25,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-25,,,,,-8,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-27,,,,,-25,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-28,,,,,-28,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-29,,,,,-26,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-30,,,,,-30,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-07-31,,,,,-22,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-01,,,,,-5,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-03,,,,,-19,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-04,,,,,-25,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-05,,,,,-24,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-06,,,,,-34,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-07,,,,,-37,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-08,,,,,-19,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-10,,,,,-37,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-11,,,,,-37,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-12,,,,,-35,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-13,,,,,-39,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-14,,,,,-37,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-15,,,,,-22,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-17,,,,,-40,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-18,,,,,-42,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-19,,,,,-38,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-20,,,,,-44,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-21,,,,,-38,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-22,,,,,-24,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-24,,,,,-43,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-25,,,,,-45,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-26,,,,,-43,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-27,,,,,-47,
+BZ-OW,BZ,Belize,Orange Walk District,,,BZ-OW,,2020-08-28,,,,,-43,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-02-17,,,,,3,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-02-18,,,,,9,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-02-19,,,,,7,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-02-20,,,,,-16,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-02-21,,,,,6,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-02-24,,,,,4,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-02-25,,,,,4,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-02-26,,,,,9,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-02-27,,,,,6,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-02-28,,,,,-5,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-02,,,,,3,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-03,,,,,3,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-04,,,,,7,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-05,,,,,7,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-06,,,,,6,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-09,,,,,-50,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-10,,,,,3,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-11,,,,,9,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-12,,,,,6,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-13,,,,,2,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-16,,,,,6,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-17,,,,,1,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-18,,,,,7,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-19,,,,,3,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-20,,,,,2,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-23,,,,,-29,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-24,,,,,-42,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-25,,,,,-40,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-26,,,,,-44,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-27,,,,,-41,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-28,,,,,-32,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-30,,,,,-47,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-03-31,,,,,-45,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-01,,,,,-46,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-02,,,,,-56,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-03,-63.0,,,,-53,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-04,,,,,-43,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-06,,,,,-59,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-07,,,,,-59,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-08,,,,,-58,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-09,,,,,-57,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-10,,,,,-80,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-11,,,,,-55,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-12,,,,,-62,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-13,,,,,-76,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-14,,,,,-62,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-15,,,,,-60,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-16,,,,,-59,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-17,,,,,-61,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-18,,,,,-45,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-19,,,,,-68,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-20,,,,,-59,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-21,,,,,-56,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-22,,,,,-57,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-23,,,,,-60,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-24,,,,,-54,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-25,,,,,-39,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-27,,,,,-51,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-28,,,,,-52,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-29,,,,,-49,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-04-30,,,,,-52,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-01,,,,,-67,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-02,,,,,-38,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-04,,,,,-46,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-05,,,,,-46,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-06,,,,,-42,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-07,,,,,-40,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-08,,,,,-41,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-09,,,,,-33,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-11,,,,,-40,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-12,,,,,-43,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-13,,,,,-41,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-14,,,,,-39,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-15,,,,,-39,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-16,,,,,-21,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-18,,,,,-39,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-19,,,,,-43,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-20,,,,,-35,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-21,,,,,-39,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-22,,,,,-32,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-23,,,,,-27,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-25,,,,,-63,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-26,,,,,-37,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-27,,,,,-40,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-28,,,,,-33,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-29,,,,,-28,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-05-30,,,,,-21,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-01,,,,,-32,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-02,,,,,-34,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-03,,,,,-29,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-04,,,,,-29,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-05,,,,,-31,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-08,,,,,-32,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-09,,,,,-30,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-10,,,,,-31,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-11,,,,,-30,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-12,,,,,-29,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-15,,,,,-33,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-16,,,,,-29,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-17,,,,,-37,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-18,,,,,-36,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-19,,,,,-26,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-22,,,,,-30,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-23,,,,,-31,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-24,,,,,-26,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-25,,,,,-27,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-26,,,,,-25,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-29,,,,,-28,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-06-30,,,,,-35,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-01,,,,,-29,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-02,,,,,-32,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-03,,,,,-29,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-06,,,,,-31,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-07,,,,,-35,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-08,,,,,-30,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-09,,,,,-31,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-10,,,,,-29,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-13,,,,,-32,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-14,,,,,-38,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-15,,,,,-31,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-16,,,,,-31,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-17,,,,,-32,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-20,,,,,-32,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-21,,,,,-34,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-22,,,,,-28,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-23,,,,,-31,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-24,,,,,-27,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-27,,,,,-33,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-28,,,,,-33,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-29,,,,,-32,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-30,,,,,-30,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-07-31,,,,,-28,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-03,,,,,-29,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-04,,,,,-29,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-05,,,,,-28,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-06,,,,,-36,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-07,,,,,-29,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-10,,,,,-34,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-11,,,,,-31,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-12,,,,,-27,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-13,,,,,-31,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-14,,,,,-35,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-15,,,,,-28,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-17,,,,,-38,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-18,,,,,-36,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-19,,,,,-36,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-20,,,,,-27,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-21,,,,,-38,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-22,,,,,-27,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-24,,,,,-37,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-25,,,,,-39,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-26,,,,,-38,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-27,,,,,-38,
+BZ-SC,BZ,Belize,Stann Creek District,,,BZ-SC,,2020-08-28,,,,,-37,
