@@ -18,7 +18,9 @@ fetch:
   file: 'in-ziekenhuis-opgenomen-patienten.csv'
   source_url: 'https://www.rivm.nl/coronavirus-covid-19/grafieken'
   instructions: 'Scoll down to the "In ziekenhuis opgenomen patienten" chart. Click the hamburger menu in the top right and then "CSV downloaden". Rename the file so it has an e instead of an ë.'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'netherlands_hospitalizations'
   read:
     delimiter: ';'

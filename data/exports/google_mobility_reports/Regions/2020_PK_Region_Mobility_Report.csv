@@ -1,0 +1,1765 @@
+open_covid_region_code,country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+PAK,PK,Pakistan,,,,,,2020-02-15,3.0,3.0,8,4.0,2,0.0
+PAK,PK,Pakistan,,,,,,2020-02-16,3.0,3.0,8,4.0,2,0.0
+PAK,PK,Pakistan,,,,,,2020-02-17,8.0,8.0,11,9.0,3,-1.0
+PAK,PK,Pakistan,,,,,,2020-02-18,4.0,4.0,9,6.0,4,-1.0
+PAK,PK,Pakistan,,,,,,2020-02-19,0.0,0.0,6,3.0,4,-1.0
+PAK,PK,Pakistan,,,,,,2020-02-20,-3.0,-4.0,1,-1.0,2,0.0
+PAK,PK,Pakistan,,,,,,2020-02-21,1.0,0.0,7,4.0,3,0.0
+PAK,PK,Pakistan,,,,,,2020-02-22,1.0,2.0,7,3.0,3,0.0
+PAK,PK,Pakistan,,,,,,2020-02-23,2.0,1.0,8,2.0,3,0.0
+PAK,PK,Pakistan,,,,,,2020-02-24,8.0,8.0,10,7.0,4,-1.0
+PAK,PK,Pakistan,,,,,,2020-02-25,4.0,5.0,10,5.0,5,-1.0
+PAK,PK,Pakistan,,,,,,2020-02-26,0.0,1.0,8,4.0,5,-1.0
+PAK,PK,Pakistan,,,,,,2020-02-27,0.0,2.0,6,2.0,2,0.0
+PAK,PK,Pakistan,,,,,,2020-02-28,-1.0,-2.0,2,1.0,1,1.0
+PAK,PK,Pakistan,,,,,,2020-02-29,-3.0,-2.0,-3,-3.0,2,1.0
+PAK,PK,Pakistan,,,,,,2020-03-01,3.0,6.0,6,4.0,6,0.0
+PAK,PK,Pakistan,,,,,,2020-03-02,10.0,12.0,11,9.0,2,0.0
+PAK,PK,Pakistan,,,,,,2020-03-03,6.0,10.0,12,6.0,3,-1.0
+PAK,PK,Pakistan,,,,,,2020-03-04,2.0,4.0,9,4.0,3,0.0
+PAK,PK,Pakistan,,,,,,2020-03-05,-2.0,-1.0,3,-1.0,1,1.0
+PAK,PK,Pakistan,,,,,,2020-03-06,-5.0,-4.0,-3,-3.0,-1,2.0
+PAK,PK,Pakistan,,,,,,2020-03-07,-1.0,2.0,3,1.0,2,1.0
+PAK,PK,Pakistan,,,,,,2020-03-08,4.0,6.0,8,5.0,5,0.0
+PAK,PK,Pakistan,,,,,,2020-03-09,12.0,15.0,17,11.0,2,-1.0
+PAK,PK,Pakistan,,,,,,2020-03-10,7.0,10.0,16,9.0,4,-1.0
+PAK,PK,Pakistan,,,,,,2020-03-11,-6.0,-4.0,1,-1.0,3,1.0
+PAK,PK,Pakistan,,,,,,2020-03-12,-2.0,-1.0,3,-1.0,2,1.0
+PAK,PK,Pakistan,,,,,,2020-03-13,1.0,6.0,8,5.0,3,1.0
+PAK,PK,Pakistan,,,,,,2020-03-14,-3.0,8.0,7,7.0,0,1.0
+PAK,PK,Pakistan,,,,,,2020-03-15,-5.0,6.0,4,1.0,4,1.0
+PAK,PK,Pakistan,,,,,,2020-03-16,3.0,14.0,11,5.0,-7,2.0
+PAK,PK,Pakistan,,,,,,2020-03-17,-4.0,8.0,7,0.0,-8,2.0
+PAK,PK,Pakistan,,,,,,2020-03-18,-13.0,2.0,4,-4.0,-12,4.0
+PAK,PK,Pakistan,,,,,,2020-03-19,-18.0,-5.0,-2,-10.0,-16,6.0
+PAK,PK,Pakistan,,,,,,2020-03-20,-26.0,-10.0,-7,-15.0,-19,7.0
+PAK,PK,Pakistan,,,,,,2020-03-21,-34.0,-14.0,-14,-19.0,-18,8.0
+PAK,PK,Pakistan,,,,,,2020-03-22,-48.0,-25.0,-26,-34.0,-21,9.0
+PAK,PK,Pakistan,,,,,,2020-03-23,-59.0,-39.0,-29,-44.0,-68,22.0
+PAK,PK,Pakistan,,,,,,2020-03-24,-66.0,-48.0,-36,-52.0,-58,21.0
+PAK,PK,Pakistan,,,,,,2020-03-25,-68.0,-52.0,-38,-57.0,-62,23.0
+PAK,PK,Pakistan,,,,,,2020-03-26,-69.0,-52.0,-41,-60.0,-63,24.0
+PAK,PK,Pakistan,,,,,,2020-03-27,-73.0,-58.0,-46,-65.0,-64,25.0
+PAK,PK,Pakistan,,,,,,2020-03-28,-72.0,-54.0,-44,-62.0,-59,23.0
+PAK,PK,Pakistan,,,,,,2020-03-29,-70.0,-55.0,-45,-62.0,-41,18.0
+PAK,PK,Pakistan,,,,,,2020-03-30,-66.0,-49.0,-36,-59.0,-62,24.0
+PAK,PK,Pakistan,,,,,,2020-03-31,-68.0,-53.0,-39,-60.0,-62,23.0
+PAK,PK,Pakistan,,,,,,2020-04-01,-68.0,-52.0,-37,-58.0,-60,22.0
+PAK,PK,Pakistan,,,,,,2020-04-02,-66.0,-50.0,-36,-58.0,-59,22.0
+PAK,PK,Pakistan,,,,,,2020-04-03,-69.0,-53.0,-39,-60.0,-60,23.0
+PAK,PK,Pakistan,,,,,,2020-04-04,-67.0,-49.0,-39,-58.0,-52,20.0
+PAK,PK,Pakistan,,,,,,2020-04-05,-65.0,-51.0,-41,-57.0,-34,15.0
+PAK,PK,Pakistan,,,,,,2020-04-06,-60.0,-42.0,-30,-53.0,-53,20.0
+PAK,PK,Pakistan,,,,,,2020-04-07,-62.0,-45.0,-31,-53.0,-54,20.0
+PAK,PK,Pakistan,,,,,,2020-04-08,-64.0,-48.0,-32,-53.0,-55,20.0
+PAK,PK,Pakistan,,,,,,2020-04-09,-65.0,-50.0,-35,-56.0,-57,22.0
+PAK,PK,Pakistan,,,,,,2020-04-10,-66.0,-50.0,-35,-57.0,-55,21.0
+PAK,PK,Pakistan,,,,,,2020-04-11,-65.0,-47.0,-36,-55.0,-48,19.0
+PAK,PK,Pakistan,,,,,,2020-04-12,-65.0,-49.0,-40,-56.0,-33,15.0
+PAK,PK,Pakistan,,,,,,2020-04-13,-59.0,-42.0,-30,-52.0,-52,20.0
+PAK,PK,Pakistan,,,,,,2020-04-14,-61.0,-45.0,-31,-53.0,-52,19.0
+PAK,PK,Pakistan,,,,,,2020-04-15,-59.0,-43.0,-28,-49.0,-48,19.0
+PAK,PK,Pakistan,,,,,,2020-04-16,-57.0,-41.0,-27,-49.0,-48,19.0
+PAK,PK,Pakistan,,,,,,2020-04-17,-63.0,-47.0,-33,-54.0,-50,19.0
+PAK,PK,Pakistan,,,,,,2020-04-18,-60.0,-42.0,-33,-50.0,-40,16.0
+PAK,PK,Pakistan,,,,,,2020-04-19,-57.0,-41.0,-34,-50.0,-23,12.0
+PAK,PK,Pakistan,,,,,,2020-04-20,-51.0,-34.0,-24,-46.0,-43,16.0
+PAK,PK,Pakistan,,,,,,2020-04-21,-53.0,-35.0,-25,-45.0,-43,16.0
+PAK,PK,Pakistan,,,,,,2020-04-22,-53.0,-36.0,-26,-45.0,-43,15.0
+PAK,PK,Pakistan,,,,,,2020-04-23,-52.0,-33.0,-26,-45.0,-43,16.0
+PAK,PK,Pakistan,,,,,,2020-04-24,-55.0,-34.0,-30,-49.0,-46,17.0
+PAK,PK,Pakistan,,,,,,2020-04-25,-64.0,-46.0,-41,-56.0,-42,20.0
+PAK,PK,Pakistan,,,,,,2020-04-26,-63.0,-48.0,-42,-57.0,-26,17.0
+PAK,PK,Pakistan,,,,,,2020-04-27,-58.0,-43.0,-32,-53.0,-45,21.0
+PAK,PK,Pakistan,,,,,,2020-04-28,-57.0,-43.0,-30,-50.0,-43,18.0
+PAK,PK,Pakistan,,,,,,2020-04-29,-58.0,-44.0,-31,-50.0,-42,19.0
+PAK,PK,Pakistan,,,,,,2020-04-30,-57.0,-43.0,-30,-50.0,-42,19.0
+PAK,PK,Pakistan,,,,,,2020-05-01,-63.0,-48.0,-37,-57.0,-61,22.0
+PAK,PK,Pakistan,,,,,,2020-05-02,-59.0,-41.0,-34,-51.0,-37,17.0
+PAK,PK,Pakistan,,,,,,2020-05-03,-58.0,-42.0,-36,-52.0,-20,13.0
+PAK,PK,Pakistan,,,,,,2020-05-04,-51.0,-35.0,-25,-47.0,-39,17.0
+PAK,PK,Pakistan,,,,,,2020-05-05,-53.0,-37.0,-26,-47.0,-40,17.0
+PAK,PK,Pakistan,,,,,,2020-05-06,-52.0,-35.0,-28,-44.0,-39,17.0
+PAK,PK,Pakistan,,,,,,2020-05-07,-51.0,-35.0,-29,-45.0,-38,18.0
+PAK,PK,Pakistan,,,,,,2020-05-08,-56.0,-39.0,-33,-49.0,-41,19.0
+PAK,PK,Pakistan,,,,,,2020-05-09,-52.0,-34.0,-32,-45.0,-30,16.0
+PAK,PK,Pakistan,,,,,,2020-05-10,-51.0,-35.0,-34,-46.0,-13,12.0
+PAK,PK,Pakistan,,,,,,2020-05-11,-38.0,-22.0,-21,-38.0,-32,15.0
+PAK,PK,Pakistan,,,,,,2020-05-12,-38.0,-23.0,-17,-37.0,-32,15.0
+PAK,PK,Pakistan,,,,,,2020-05-13,-39.0,-25.0,-18,-37.0,-31,14.0
+PAK,PK,Pakistan,,,,,,2020-05-14,-37.0,-23.0,-20,-38.0,-34,14.0
+PAK,PK,Pakistan,,,,,,2020-05-15,-53.0,-36.0,-26,-45.0,-42,18.0
+PAK,PK,Pakistan,,,,,,2020-05-16,-53.0,-35.0,-28,-44.0,-30,16.0
+PAK,PK,Pakistan,,,,,,2020-05-17,-52.0,-37.0,-33,-47.0,-13,13.0
+PAK,PK,Pakistan,,,,,,2020-05-18,-24.0,-7.0,-10,-29.0,-30,14.0
+PAK,PK,Pakistan,,,,,,2020-05-19,-28.0,-13.0,-14,-30.0,-30,13.0
+PAK,PK,Pakistan,,,,,,2020-05-20,-30.0,-14.0,-14,-29.0,-31,14.0
+PAK,PK,Pakistan,,,,,,2020-05-21,-26.0,-9.0,-14,-26.0,-33,13.0
+PAK,PK,Pakistan,,,,,,2020-05-22,-27.0,-6.0,-15,-28.0,-49,16.0
+PAK,PK,Pakistan,,,,,,2020-05-23,-19.0,5.0,-11,-19.0,-40,14.0
+PAK,PK,Pakistan,,,,,,2020-05-24,-36.0,-35.0,-5,-30.0,-30,6.0
+PAK,PK,Pakistan,,,,,,2020-05-25,-39.0,-37.0,-5,-33.0,-70,16.0
+PAK,PK,Pakistan,,,,,,2020-05-26,-40.0,-36.0,-7,-31.0,-66,14.0
+PAK,PK,Pakistan,,,,,,2020-05-27,-38.0,-30.0,-10,-27.0,-58,14.0
+PAK,PK,Pakistan,,,,,,2020-05-28,-33.0,-21.0,-10,-26.0,-34,11.0
+PAK,PK,Pakistan,,,,,,2020-05-29,-38.0,-25.0,-12,-30.0,-33,13.0
+PAK,PK,Pakistan,,,,,,2020-05-30,-36.0,-21.0,-15,-27.0,-21,10.0
+PAK,PK,Pakistan,,,,,,2020-05-31,-35.0,-23.0,-18,-27.0,-2,8.0
+PAK,PK,Pakistan,,,,,,2020-06-01,-24.0,-10.0,-5,-21.0,-23,10.0
+PAK,PK,Pakistan,,,,,,2020-06-02,-28.0,-15.0,-7,-23.0,-23,10.0
+PAK,PK,Pakistan,,,,,,2020-06-03,-30.0,-16.0,-9,-23.0,-23,10.0
+PAK,PK,Pakistan,,,,,,2020-06-04,-30.0,-16.0,-11,-25.0,-24,11.0
+PAK,PK,Pakistan,,,,,,2020-06-05,-35.0,-18.0,-13,-28.0,-24,12.0
+PAK,PK,Pakistan,,,,,,2020-06-06,-47.0,-29.0,-21,-34.0,-29,13.0
+PAK,PK,Pakistan,,,,,,2020-06-07,-46.0,-32.0,-23,-36.0,-15,10.0
+PAK,PK,Pakistan,,,,,,2020-06-08,-22.0,-6.0,-6,-20.0,-23,10.0
+PAK,PK,Pakistan,,,,,,2020-06-09,-29.0,-14.0,-9,-24.0,-24,10.0
+PAK,PK,Pakistan,,,,,,2020-06-10,-30.0,-16.0,-10,-24.0,-24,11.0
+PAK,PK,Pakistan,,,,,,2020-06-11,-29.0,-15.0,-12,-26.0,-24,11.0
+PAK,PK,Pakistan,,,,,,2020-06-12,-33.0,-17.0,-13,-28.0,-24,12.0
+PAK,PK,Pakistan,,,,,,2020-06-13,-46.0,-29.0,-21,-34.0,-28,13.0
+PAK,PK,Pakistan,,,,,,2020-06-14,-46.0,-33.0,-23,-37.0,-14,10.0
+PAK,PK,Pakistan,,,,,,2020-06-15,-22.0,-7.0,-5,-22.0,-23,10.0
+PAK,PK,Pakistan,,,,,,2020-06-16,-28.0,-13.0,-9,-24.0,-23,10.0
+PAK,PK,Pakistan,,,,,,2020-06-17,-32.0,-18.0,-11,-26.0,-24,11.0
+PAK,PK,Pakistan,,,,,,2020-06-18,-33.0,-20.0,-15,-29.0,-25,11.0
+PAK,PK,Pakistan,,,,,,2020-06-19,-36.0,-22.0,-14,-31.0,-26,12.0
+PAK,PK,Pakistan,,,,,,2020-06-20,-48.0,-32.0,-22,-37.0,-29,13.0
+PAK,PK,Pakistan,,,,,,2020-06-21,-48.0,-38.0,-27,-41.0,-17,11.0
+PAK,PK,Pakistan,,,,,,2020-06-22,-23.0,-9.0,-5,-21.0,-26,11.0
+PAK,PK,Pakistan,,,,,,2020-06-23,-28.0,-16.0,-8,-24.0,-26,10.0
+PAK,PK,Pakistan,,,,,,2020-06-24,-30.0,-17.0,-9,-24.0,-25,10.0
+PAK,PK,Pakistan,,,,,,2020-06-25,-30.0,-19.0,-12,-26.0,-27,11.0
+PAK,PK,Pakistan,,,,,,2020-06-26,-33.0,-20.0,-13,-28.0,-26,11.0
+PAK,PK,Pakistan,,,,,,2020-06-27,-46.0,-31.0,-21,-35.0,-29,12.0
+PAK,PK,Pakistan,,,,,,2020-06-28,-45.0,-34.0,-24,-37.0,-16,9.0
+PAK,PK,Pakistan,,,,,,2020-06-29,-22.0,-9.0,-6,-21.0,-25,10.0
+PAK,PK,Pakistan,,,,,,2020-06-30,-26.0,-14.0,-9,-25.0,-24,9.0
+PAK,PK,Pakistan,,,,,,2020-07-01,-29.0,-17.0,-10,-26.0,-25,10.0
+PAK,PK,Pakistan,,,,,,2020-07-02,-27.0,-15.0,-11,-25.0,-25,10.0
+PAK,PK,Pakistan,,,,,,2020-07-03,-28.0,-14.0,-11,-26.0,-23,10.0
+PAK,PK,Pakistan,,,,,,2020-07-04,-42.0,-27.0,-19,-33.0,-28,11.0
+PAK,PK,Pakistan,,,,,,2020-07-05,-39.0,-26.0,-17,-32.0,-15,7.0
+PAK,PK,Pakistan,,,,,,2020-07-06,-16.0,-2.0,0,-16.0,-23,8.0
+PAK,PK,Pakistan,,,,,,2020-07-07,-19.0,-6.0,-2,-19.0,-23,8.0
+PAK,PK,Pakistan,,,,,,2020-07-08,-24.0,-11.0,-6,-21.0,-22,8.0
+PAK,PK,Pakistan,,,,,,2020-07-09,-22.0,-10.0,-7,-22.0,-23,9.0
+PAK,PK,Pakistan,,,,,,2020-07-10,-24.0,-10.0,-6,-23.0,-21,9.0
+PAK,PK,Pakistan,,,,,,2020-07-11,-40.0,-26.0,-16,-30.0,-26,10.0
+PAK,PK,Pakistan,,,,,,2020-07-12,-37.0,-25.0,-15,-30.0,-14,7.0
+PAK,PK,Pakistan,,,,,,2020-07-13,-11.0,2.0,2,-14.0,-21,7.0
+PAK,PK,Pakistan,,,,,,2020-07-14,-18.0,-6.0,-2,-18.0,-22,7.0
+PAK,PK,Pakistan,,,,,,2020-07-15,-20.0,-8.0,-4,-19.0,-21,7.0
+PAK,PK,Pakistan,,,,,,2020-07-16,-19.0,-7.0,-5,-19.0,-21,8.0
+PAK,PK,Pakistan,,,,,,2020-07-17,-23.0,-10.0,-6,-21.0,-20,8.0
+PAK,PK,Pakistan,,,,,,2020-07-18,-38.0,-23.0,-14,-27.0,-25,10.0
+PAK,PK,Pakistan,,,,,,2020-07-19,-35.0,-24.0,-14,-28.0,-13,7.0
+PAK,PK,Pakistan,,,,,,2020-07-20,-9.0,4.0,1,-13.0,-20,7.0
+PAK,PK,Pakistan,,,,,,2020-07-21,-13.0,0.0,1,-16.0,-22,7.0
+PAK,PK,Pakistan,,,,,,2020-07-22,-15.0,-3.0,-1,-15.0,-19,7.0
+PAK,PK,Pakistan,,,,,,2020-07-23,-16.0,-4.0,-3,-18.0,-20,8.0
+PAK,PK,Pakistan,,,,,,2020-07-24,-17.0,-2.0,-2,-18.0,-18,8.0
+PAK,PK,Pakistan,,,,,,2020-07-25,-34.0,-18.0,-10,-23.0,-23,9.0
+PAK,PK,Pakistan,,,,,,2020-07-26,-37.0,-25.0,-16,-29.0,-12,8.0
+PAK,PK,Pakistan,,,,,,2020-07-27,1.0,16.0,8,-7.0,-21,7.0
+PAK,PK,Pakistan,,,,,,2020-07-28,-18.0,0.0,-2,-13.0,-24,8.0
+PAK,PK,Pakistan,,,,,,2020-07-29,-19.0,0.0,-1,-10.0,-25,7.0
+PAK,PK,Pakistan,,,,,,2020-07-30,-14.0,6.0,0,-6.0,-29,7.0
+PAK,PK,Pakistan,,,,,,2020-07-31,-11.0,18.0,2,-9.0,-54,13.0
+PAK,PK,Pakistan,,,,,,2020-08-01,-51.0,-45.0,-12,-42.0,-65,14.0
+PAK,PK,Pakistan,,,,,,2020-08-02,-42.0,-40.0,-12,-34.0,-37,6.0
+PAK,PK,Pakistan,,,,,,2020-08-03,-32.0,-27.0,1,-24.0,-55,11.0
+PAK,PK,Pakistan,,,,,,2020-08-04,-22.0,-12.0,3,-14.0,-31,6.0
+PAK,PK,Pakistan,,,,,,2020-08-05,-21.0,-10.0,1,-12.0,-25,6.0
+PAK,PK,Pakistan,,,,,,2020-08-06,-22.0,-10.0,-1,-16.0,-25,7.0
+PAK,PK,Pakistan,,,,,,2020-08-07,-27.0,-15.0,-2,-19.0,-26,8.0
+PAK,PK,Pakistan,,,,,,2020-08-08,-31.0,-16.0,-4,-19.0,-23,8.0
+PAK,PK,Pakistan,,,,,,2020-08-09,-24.0,-12.0,-1,-16.0,-5,4.0
+PAK,PK,Pakistan,,,,,,2020-08-10,-3.0,7.0,11,-6.0,-20,5.0
+PAK,PK,Pakistan,,,,,,2020-08-11,-6.0,3.0,9,-8.0,-19,4.0
+PAK,PK,Pakistan,,,,,,2020-08-12,-8.0,0.0,7,-8.0,-19,5.0
+PAK,PK,Pakistan,,,,,,2020-08-13,-3.0,5.0,13,-2.0,-20,4.0
+PAK,PK,Pakistan,,,,,,2020-08-14,-9.0,-7.0,30,-11.0,-58,11.0
+PAK,PK,Pakistan,,,,,,2020-08-15,-12.0,-3.0,5,-11.0,-16,5.0
+PAK,PK,Pakistan,,,,,,2020-08-16,-13.0,-7.0,4,-10.0,-2,3.0
+PAK,PK,Pakistan,,,,,,2020-08-17,-1.0,7.0,14,-3.0,-18,4.0
+PAK,PK,Pakistan,,,,,,2020-08-18,-5.0,2.0,12,-7.0,-16,4.0
+PAK,PK,Pakistan,,,,,,2020-08-19,-6.0,0.0,12,-8.0,-17,4.0
+PAK,PK,Pakistan,,,,,,2020-08-20,-7.0,-2.0,9,-13.0,-20,5.0
+PAK,PK,Pakistan,,,,,,2020-08-21,-13.0,-7.0,7,-15.0,-20,7.0
+PAK,PK,Pakistan,,,,,,2020-08-22,-11.0,-3.0,6,-15.0,-12,6.0
+PAK,PK,Pakistan,,,,,,2020-08-23,-8.0,-2.0,8,-14.0,0,4.0
+PAK,PK,Pakistan,,,,,,2020-08-24,2.0,8.0,17,-8.0,-16,5.0
+PAK,PK,Pakistan,,,,,,2020-08-25,-11.0,-6.0,11,-14.0,-27,8.0
+PAK,PK,Pakistan,,,,,,2020-08-26,-8.0,-2.0,10,-13.0,-20,6.0
+PAK,PK,Pakistan,,,,,,2020-08-27,-21.0,-18.0,-1,-22.0,-29,8.0
+PAK,PK,Pakistan,,,,,,2020-08-28,-15.0,-8.0,6,-17.0,-33,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-15,2.0,5.0,13,9.0,4,-1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-16,6.0,,18,8.0,0,0.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-17,1.0,5.0,24,11.0,3,-1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-18,13.0,9.0,12,14.0,10,-2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-19,0.0,3.0,10,3.0,8,-2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-20,-11.0,-11.0,2,-10.0,2,0.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-21,7.0,6.0,11,11.0,4,-1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-22,5.0,7.0,6,3.0,3,-1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-23,6.0,,10,-2.0,-3,0.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-24,6.0,20.0,13,7.0,3,0.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-25,16.0,,10,17.0,10,-2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-26,4.0,11.0,9,5.0,8,-1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-27,0.0,13.0,8,-3.0,5,0.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-28,-8.0,-4.0,7,-8.0,-3,2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-02-29,-1.0,0.0,-2,0.0,4,1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-01,12.0,,7,9.0,4,-1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-02,7.0,,15,14.0,3,-1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-03,22.0,,14,18.0,10,-3.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-04,9.0,13.0,28,5.0,9,-1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-05,1.0,4.0,22,-8.0,4,2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-06,4.0,0.0,25,-5.0,3,3.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-07,6.0,12.0,22,-2.0,3,2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-08,12.0,,27,3.0,1,2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-09,15.0,,42,16.0,2,-1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-10,32.0,,33,31.0,9,-2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-11,10.0,17.0,32,11.0,8,0.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-12,8.0,10.0,27,-1.0,4,0.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-13,19.0,,37,15.0,6,0.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-14,21.0,26.0,34,19.0,1,-2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-15,12.0,,36,12.0,1,-1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-16,7.0,23.0,45,11.0,-11,1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-17,16.0,,43,12.0,-7,-1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-18,8.0,27.0,38,7.0,-9,2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-19,1.0,16.0,33,2.0,-11,3.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-20,-1.0,,42,-1.0,-11,4.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-21,-5.0,15.0,33,-12.0,-9,5.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-22,-27.0,,35,-24.0,-18,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-23,-48.0,-26.0,48,-45.0,-53,14.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-24,-52.0,-33.0,28,-52.0,-45,15.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-25,-57.0,-35.0,28,-51.0,-48,15.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-26,-58.0,-37.0,26,-56.0,-48,17.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-27,-65.0,,24,-62.0,-53,22.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-28,-57.0,-38.0,25,-53.0,-44,16.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-29,-57.0,,26,-52.0,-31,15.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-30,-58.0,-35.0,43,-52.0,-51,18.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-03-31,-61.0,-36.0,28,-55.0,-49,18.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-01,-61.0,-32.0,35,-54.0,-48,16.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-02,-60.0,-39.0,34,-55.0,-47,17.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-03,-57.0,-32.0,39,-54.0,-45,17.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-04,-56.0,-35.0,29,-53.0,-41,17.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-05,-56.0,,30,-54.0,-31,15.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-06,-55.0,-29.0,42,-49.0,-47,17.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-07,-52.0,-29.0,38,-48.0,-45,16.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-08,-57.0,-36.0,38,-53.0,-45,15.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-09,-61.0,-41.0,29,-57.0,-48,18.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-10,-59.0,,39,-54.0,-46,18.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-11,-59.0,-38.0,25,-54.0,-43,18.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-12,-58.0,,29,-56.0,-32,16.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-13,-59.0,-36.0,45,-52.0,-48,18.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-14,-54.0,-35.0,39,-49.0,-44,15.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-15,-57.0,-29.0,33,-54.0,-44,15.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-16,-52.0,,34,-51.0,-43,16.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-17,-55.0,,34,-55.0,-42,18.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-18,-54.0,-36.0,27,-54.0,-39,17.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-19,-49.0,,34,-52.0,-26,13.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-20,-49.0,-20.0,46,-49.0,-42,15.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-21,-44.0,-24.0,42,-45.0,-37,12.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-22,-53.0,-30.0,36,-49.0,-40,12.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-23,-50.0,,31,-46.0,-40,14.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-24,-46.0,-22.0,37,-41.0,-37,14.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-25,-40.0,-23.0,18,-43.0,-28,16.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-26,-35.0,,25,-38.0,-12,15.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-27,-42.0,-16.0,35,-41.0,-35,18.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-28,-58.0,,30,-54.0,-42,17.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-29,-34.0,-6.0,33,-33.0,-27,13.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-04-30,-41.0,,29,-38.0,-29,15.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-01,-63.0,,31,-56.0,-51,20.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-02,-36.0,-14.0,25,-33.0,-21,15.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-03,-36.0,,32,-38.0,-8,10.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-04,-38.0,-10.0,47,-34.0,-29,14.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-05,-58.0,-40.0,33,-53.0,-39,15.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-06,-30.0,0.0,38,-26.0,-22,12.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-07,-29.0,-11.0,34,-28.0,-23,13.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-08,-53.0,-31.0,37,-46.0,-34,17.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-09,-25.0,-9.0,29,-24.0,-13,12.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-10,-22.0,,33,-30.0,1,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-11,-28.0,-6.0,42,-26.0,-24,13.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-12,-50.0,-35.0,41,-42.0,-33,13.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-13,-25.0,1.0,42,-25.0,-18,11.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-14,-34.0,-9.0,31,-37.0,-24,13.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-15,-46.0,-27.0,48,-40.0,-29,13.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-16,-18.0,3.0,42,-20.0,-8,11.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-17,-18.0,,35,-23.0,5,10.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-18,-9.0,,50,-7.0,-20,9.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-19,-48.0,-30.0,36,-39.0,-30,13.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-20,-47.0,-23.0,39,-41.0,-30,14.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-21,-14.0,14.0,42,-15.0,-19,11.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-22,-9.0,,55,-6.0,-22,11.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-23,6.0,38.0,52,8.0,-13,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-24,-41.0,,71,-41.0,-21,1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-25,-57.0,,84,-52.0,-57,10.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-26,-55.0,,66,-47.0,-51,8.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-27,-56.0,-29.0,61,-48.0,-48,11.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-28,-48.0,-21.0,54,-42.0,-34,10.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-29,-41.0,-18.0,65,-36.0,-27,11.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-30,-44.0,-29.0,44,-40.0,-22,10.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-05-31,-41.0,,48,-40.0,-10,8.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-01,-37.0,-13.0,58,-34.0,-24,10.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-02,-38.0,-19.0,52,-31.0,-19,8.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-03,-22.0,0.0,51,-23.0,-11,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-04,-20.0,-1.0,43,-20.0,-12,8.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-05,-43.0,-24.0,49,-32.0,-23,10.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-06,-16.0,3.0,43,-10.0,-3,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-07,-16.0,,47,-14.0,10,5.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-08,-24.0,0.0,53,-15.0,-14,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-09,-45.0,-33.0,43,-38.0,-26,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-10,-17.0,3.0,43,-11.0,-8,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-11,-12.0,2.0,40,-12.0,-13,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-12,-45.0,-22.0,44,-45.0,-25,11.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-13,-24.0,-7.0,40,-24.0,-6,8.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-14,-24.0,,43,-28.0,5,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-15,-28.0,0.0,53,-30.0,-18,8.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-16,-46.0,-31.0,44,-45.0,-28,10.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-17,-25.0,-4.0,43,-23.0,-16,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-18,-28.0,-10.0,38,-27.0,-16,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-19,-44.0,-23.0,47,-40.0,-26,11.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-20,-25.0,-7.0,40,-20.0,-8,9.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-21,-26.0,,39,-32.0,2,8.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-22,-26.0,5.0,57,-20.0,-19,9.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-23,-45.0,-30.0,42,-38.0,-28,9.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-24,-22.0,0.0,49,-21.0,-14,5.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-25,-25.0,-3.0,39,-28.0,-15,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-26,-36.0,-23.0,48,-31.0,-24,10.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-27,-19.0,-5.0,39,-19.0,-9,8.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-28,-19.0,,40,-23.0,2,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-29,-22.0,-3.0,52,-23.0,-19,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-06-30,-39.0,-29.0,43,-35.0,-28,9.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-01,-26.0,-6.0,43,-16.0,-17,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-02,-24.0,-8.0,36,-17.0,-16,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-03,-39.0,-26.0,45,-31.0,-25,9.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-04,-15.0,3.0,41,-3.0,-6,5.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-05,-8.0,,45,-5.0,6,5.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-06,-17.0,12.0,55,-5.0,-18,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-07,-41.0,-28.0,40,-31.0,-29,9.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-08,-34.0,-10.0,37,-14.0,-17,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-09,-34.0,-13.0,36,-17.0,-19,9.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-10,-42.0,-24.0,44,-32.0,-26,10.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-11,-28.0,-11.0,35,-12.0,-10,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-12,-29.0,,39,-11.0,0,5.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-13,-36.0,-16.0,48,-9.0,-31,10.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-14,-41.0,-29.0,41,-30.0,-27,8.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-15,-30.0,-5.0,33,-11.0,-18,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-16,-24.0,-7.0,36,-14.0,-16,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-17,-38.0,-23.0,46,-29.0,-25,10.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-18,-11.0,-6.0,41,-2.0,-7,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-19,-11.0,,42,-10.0,6,4.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-20,-15.0,9.0,51,-5.0,-18,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-21,-42.0,-28.0,36,-35.0,-29,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-22,-11.0,6.0,45,-4.0,-11,4.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-23,-15.0,2.0,40,-8.0,-13,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-24,-35.0,-21.0,47,-30.0,-25,8.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-25,-7.0,2.0,42,-4.0,-7,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-26,-5.0,,42,-7.0,5,5.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-27,-13.0,10.0,52,-3.0,-16,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-28,-32.0,-17.0,42,-25.0,-26,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-29,7.0,,47,15.0,-13,2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-30,9.0,24.0,46,7.0,-18,4.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-07-31,-14.0,3.0,59,-12.0,-42,9.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-01,-53.0,,47,-59.0,-53,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-02,-44.0,,55,-51.0,-37,5.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-03,-40.0,,74,-39.0,-48,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-04,-31.0,-23.0,69,-23.0,-35,4.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-05,-17.0,-2.0,58,-7.0,-25,3.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-06,-13.0,-3.0,57,-5.0,-18,3.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-07,-31.0,-14.0,69,-20.0,-24,5.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-08,-7.0,7.0,59,1.0,-8,3.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-09,-4.0,,63,1.0,6,2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-10,-12.0,4.0,71,3.0,-16,3.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-11,-26.0,-13.0,55,-12.0,-23,4.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-12,-10.0,3.0,60,2.0,-12,2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-13,-11.0,7.0,60,-2.0,-13,2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-14,-27.0,-16.0,82,-16.0,-39,7.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-15,-2.0,4.0,63,5.0,-8,2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-16,-1.0,,68,1.0,3,0.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-17,-12.0,2.0,68,0.0,-16,2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-18,-3.0,2.0,63,-2.0,-12,1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-19,-11.0,-1.0,62,-8.0,-15,1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-20,-7.0,3.0,56,-7.0,-14,2.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-21,-14.0,-12.0,63,-14.0,-22,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-22,4.0,5.0,55,-7.0,-8,3.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-23,4.0,,60,-7.0,2,3.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-24,-2.0,6.0,65,-7.0,-14,3.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-25,7.0,4.0,60,-2.0,-11,1.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-26,-12.0,-14.0,49,-16.0,-17,3.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-27,-26.0,-26.0,37,-28.0,-23,6.0
+PK-JK,PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,2020-08-28,-7.0,-10.0,65,-12.0,-23,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-15,2.0,-2.0,0,2.0,6,0.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-16,4.0,2.0,-3,7.0,5,0.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-17,4.0,5.0,2,12.0,2,0.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-18,-5.0,-18.0,-12,6.0,-5,1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-19,2.0,-3.0,-6,-3.0,3,-1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-20,3.0,-3.0,-5,0.0,3,1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-21,2.0,-3.0,-3,1.0,3,1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-22,5.0,-1.0,0,-1.0,5,0.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-23,5.0,0.0,-1,5.0,3,0.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-24,9.0,7.0,2,10.0,2,0.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-25,8.0,3.0,-1,2.0,2,0.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-26,3.0,-1.0,-3,1.0,7,-1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-27,0.0,-4.0,-4,-3.0,3,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-28,1.0,-1.0,-3,-2.0,1,1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-02-29,2.0,-2.0,-4,-1.0,6,0.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-01,4.0,4.0,1,3.0,5,1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-02,16.0,15.0,6,11.0,0,0.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-03,8.0,8.0,3,5.0,0,0.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-04,7.0,6.0,5,6.0,5,0.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-05,0.0,-3.0,-5,-1.0,0,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-06,4.0,1.0,5,3.0,2,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-07,5.0,4.0,6,2.0,4,0.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-08,7.0,4.0,6,6.0,5,1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-09,11.0,10.0,9,11.0,0,0.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-10,0.0,-6.0,0,0.0,-1,1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-11,0.0,-4.0,-2,-2.0,2,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-12,-2.0,-1.0,2,0.0,1,3.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-13,2.0,3.0,5,3.0,0,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-14,2.0,2.0,4,5.0,4,1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-15,-1.0,4.0,4,4.0,5,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-16,8.0,19.0,12,9.0,-3,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-17,-1.0,3.0,2,2.0,-4,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-18,-4.0,-1.0,1,4.0,-3,3.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-19,-8.0,-2.0,3,2.0,-5,4.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-20,-13.0,-5.0,5,-2.0,-10,4.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-21,-20.0,-12.0,-6,-7.0,-5,4.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-22,-40.0,-30.0,-13,-12.0,-18,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-23,-49.0,-37.0,-15,-19.0,-49,15.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-24,-53.0,-42.0,-17,-28.0,-42,14.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-25,-57.0,-50.0,-21,-34.0,-44,16.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-26,-59.0,-49.0,-23,-37.0,-46,18.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-27,-56.0,-42.0,-22,-35.0,-38,16.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-28,-61.0,-52.0,-23,-38.0,-42,16.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-29,-60.0,-52.0,-24,-33.0,-37,15.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-30,-54.0,-43.0,-19,-31.0,-44,16.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-03-31,-54.0,-44.0,-19,-34.0,-44,15.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-01,-56.0,-46.0,-20,-36.0,-40,14.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-02,-54.0,-47.0,-22,-36.0,-40,16.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-03,-52.0,-39.0,-22,-35.0,-34,14.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-04,-55.0,-49.0,-23,-34.0,-36,12.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-05,-53.0,-46.0,-22,-30.0,-32,12.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-06,-49.0,-38.0,-14,-27.0,-38,14.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-07,-49.0,-42.0,-15,-30.0,-38,13.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-08,-52.0,-46.0,-18,-35.0,-37,13.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-09,-55.0,-50.0,-26,-37.0,-41,17.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-10,-50.0,-40.0,-18,-36.0,-33,13.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-11,-53.0,-46.0,-24,-34.0,-34,13.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-12,-53.0,-48.0,-26,-33.0,-30,12.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-13,-48.0,-40.0,-15,-31.0,-36,14.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-14,-49.0,-40.0,-20,-32.0,-36,12.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-15,-48.0,-38.0,-14,-30.0,-31,12.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-16,-46.0,-38.0,-19,-29.0,-32,13.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-17,-47.0,-37.0,-17,-32.0,-29,11.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-18,-46.0,-38.0,-16,-27.0,-27,11.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-19,-45.0,-37.0,-15,-23.0,-24,10.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-20,-38.0,-25.0,-8,-20.0,-30,11.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-21,-39.0,-30.0,-15,-24.0,-30,10.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-22,-40.0,-32.0,-14,-29.0,-29,9.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-23,-41.0,-30.0,-14,-31.0,-30,12.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-24,-35.0,-17.0,-14,-31.0,-25,11.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-25,-54.0,-43.0,-30,-39.0,-35,18.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-26,-52.0,-45.0,-35,-41.0,-29,17.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-27,-49.0,-39.0,-26,-36.0,-36,19.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-28,-49.0,-40.0,-31,-36.0,-35,15.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-29,-49.0,-41.0,-30,-37.0,-31,16.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-04-30,-48.0,-40.0,-29,-38.0,-33,17.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-01,-47.0,-32.0,-28,-39.0,-41,18.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-02,-46.0,-39.0,-28,-37.0,-30,15.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-03,-47.0,-39.0,-29,-34.0,-23,14.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-04,-40.0,-30.0,-19,-31.0,-30,15.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-05,-41.0,-34.0,-23,-33.0,-31,14.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-06,-40.0,-31.0,-24,-32.0,-27,14.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-07,-40.0,-33.0,-25,-30.0,-28,15.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-08,-38.0,-27.0,-24,-31.0,-23,15.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-09,-36.0,-29.0,-24,-30.0,-20,13.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-10,-31.0,-21.0,-22,-27.0,-14,13.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-11,-24.0,-12.0,-13,-25.0,-23,14.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-12,-24.0,-16.0,-16,-28.0,-25,12.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-13,-29.0,-18.0,-14,-30.0,-22,11.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-14,-25.0,-18.0,-16,-30.0,-22,12.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-15,-24.0,-8.0,-12,-27.0,-18,14.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-16,-25.0,-15.0,-11,-26.0,-17,13.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-17,-24.0,-14.0,-18,-28.0,-12,13.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-18,-18.0,-2.0,-8,-23.0,-22,13.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-19,-18.0,-8.0,-15,-26.0,-24,12.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-20,-19.0,-9.0,-9,-25.0,-23,12.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-21,-13.0,-2.0,-9,-19.0,-24,13.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-22,3.0,25.0,0,-15.0,-24,12.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-23,9.0,25.0,5,-8.0,-23,10.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-24,-32.0,-39.0,-9,-21.0,-41,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-25,-35.0,-42.0,2,-27.0,-62,12.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-26,-34.0,-42.0,4,-29.0,-59,11.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-27,-31.0,-34.0,-5,-29.0,-50,10.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-28,-26.0,-26.0,-8,-20.0,-36,10.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-29,-21.0,-13.0,-3,-19.0,-24,8.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-30,-20.0,-16.0,-10,-18.0,-17,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-05-31,-20.0,-19.0,-10,-15.0,-8,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-01,-18.0,-10.0,-7,-11.0,-21,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-02,-40.0,-43.0,-27,-32.0,-33,8.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-03,-20.0,-17.0,-11,-21.0,-17,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-04,-17.0,-11.0,-10,-17.0,-17,9.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-05,-26.0,-21.0,-11,-21.0,-21,9.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-06,-17.0,-14.0,-9,-15.0,-11,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-07,-17.0,-13.0,-10,-12.0,-6,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-08,-9.0,-1.0,-6,-6.0,-15,8.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-09,-15.0,-10.0,-9,-16.0,-15,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-10,-15.0,-12.0,-8,-17.0,-11,8.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-11,-12.0,-12.0,-10,-17.0,-13,9.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-12,-27.0,-26.0,-14,-17.0,-20,10.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-13,-12.0,-12.0,-7,-19.0,-8,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-14,-13.0,-14.0,-6,-13.0,-4,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-15,-8.0,-3.0,-5,-6.0,-13,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-16,-10.0,-9.0,-8,-13.0,-13,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-17,-13.0,-12.0,-5,-15.0,-11,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-18,-14.0,-14.0,-8,-14.0,-12,8.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-19,-26.0,-25.0,-11,-18.0,-19,10.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-20,-11.0,-14.0,-7,-14.0,-7,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-21,-13.0,-16.0,-10,-9.0,-1,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-22,-2.0,-3.0,4,-2.0,-13,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-23,-5.0,-6.0,-2,-10.0,-15,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-24,-7.0,-11.0,-5,-11.0,-9,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-25,-9.0,-12.0,-8,-11.0,-12,8.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-26,-23.0,-25.0,-8,-14.0,-19,9.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-27,-6.0,-9.0,-1,-8.0,-8,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-28,-9.0,-13.0,-6,-12.0,-4,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-29,-5.0,-4.0,-2,-5.0,-12,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-06-30,-5.0,-5.0,1,-9.0,-12,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-01,-6.0,-10.0,-1,-14.0,-10,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-02,-5.0,0.0,0,-8.0,-11,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-03,-17.0,-19.0,-6,-12.0,-19,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-04,1.0,0.0,7,-5.0,-8,5.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-05,0.0,1.0,4,-4.0,-4,5.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-06,4.0,9.0,10,2.0,-12,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-07,3.0,5.0,6,-3.0,-12,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-08,-1.0,-2.0,5,-4.0,-8,4.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-09,-4.0,-1.0,2,-9.0,-11,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-10,-17.0,-20.0,-3,-12.0,-18,8.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-11,0.0,-1.0,8,-6.0,-7,5.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-12,-2.0,-2.0,6,-7.0,-4,4.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-13,4.0,7.0,7,3.0,-11,5.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-14,-1.0,-2.0,4,-4.0,-12,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-15,0.0,-2.0,6,-8.0,-8,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-16,1.0,-1.0,1,-9.0,-10,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-17,-14.0,-17.0,-2,-10.0,-17,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-18,2.0,2.0,6,-7.0,-8,5.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-19,3.0,3.0,4,-2.0,-4,5.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-20,8.0,13.0,10,2.0,-11,5.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-21,4.0,5.0,4,-3.0,-13,4.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-22,2.0,0.0,3,-5.0,-7,4.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-23,1.0,-1.0,-2,-6.0,-9,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-24,-13.0,-15.0,-5,-8.0,-16,6.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-25,4.0,5.0,4,-4.0,-8,4.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-26,1.0,5.0,4,-5.0,-5,4.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-27,14.0,22.0,14,4.0,-12,5.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-28,12.0,18.0,15,1.0,-13,4.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-29,11.0,17.0,12,-2.0,-10,3.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-30,18.0,30.0,18,-2.0,-16,5.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-07-31,31.0,65.0,26,7.0,-30,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-01,-45.0,-53.0,-13,-37.0,-59,12.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-02,-33.0,-47.0,-6,-25.0,-49,7.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-03,-23.0,-32.0,17,-16.0,-57,9.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-04,-13.0,-26.0,15,-9.0,-41,5.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-05,-6.0,-17.0,12,-4.0,-27,4.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-06,-3.0,-12.0,11,0.0,-24,5.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-07,-7.0,-14.0,14,-2.0,-21,3.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-08,3.0,-4.0,19,-4.0,-17,1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-09,3.0,2.0,13,5.0,-7,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-10,13.0,14.0,21,11.0,-13,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-11,10.0,6.0,16,5.0,-14,1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-12,6.0,1.0,16,4.0,-9,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-13,4.0,-3.0,13,5.0,-11,3.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-14,-5.0,-17.0,28,-4.0,-40,9.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-15,9.0,3.0,23,5.0,-9,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-16,7.0,0.0,23,10.0,-5,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-17,17.0,10.0,27,16.0,-11,1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-18,13.0,3.0,22,11.0,-9,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-19,12.0,3.0,26,4.0,-7,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-20,11.0,3.0,24,-1.0,-8,4.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-21,7.0,-6.0,24,6.0,-11,4.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-22,11.0,4.0,28,2.0,-6,3.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-23,12.0,4.0,28,6.0,-1,3.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-24,21.0,14.0,29,8.0,-9,3.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-25,12.0,1.0,26,6.0,-12,2.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-26,10.0,-5.0,29,-3.0,-8,1.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-27,-28.0,-47.0,-11,-25.0,-28,8.0
+PK-BA,PK,Pakistan,Balochistan,,,PK-BA,,2020-08-28,7.0,-9.0,24,-5.0,-14,3.0
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-15,,,4,,8,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-16,,,2,,4,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-17,,,9,,8,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-18,,,2,,7,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-19,,,0,,10,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-20,,,2,,-2,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-21,,,3,,11,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-22,,,10,,10,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-23,,,3,,9,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-24,,,6,,1,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-25,,,1,,8,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-26,,,-1,,9,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-27,,,0,,4,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-28,,,0,,6,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-02-29,,,0,,3,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-01,,,2,,12,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-02,,,9,,11,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-03,,,6,,15,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-04,,,-2,,12,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-05,,,-3,,1,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-06,,,1,,9,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-07,,,9,,9,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-08,,,3,,9,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-09,,,12,,8,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-10,,,8,,12,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-11,,,7,,13,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-12,,,-3,,1,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-13,,,13,,16,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-14,,,9,,14,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-15,,,15,,12,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-16,,,18,,5,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-17,,,16,,12,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-18,,,15,,6,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-19,,,7,,0,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-20,,,14,,-3,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-21,,,23,,-5,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-22,,,13,,-4,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-23,,,15,,-31,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-24,,,7,,-32,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-25,,,9,,-40,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-26,,,11,,-36,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-27,,,6,,-28,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-28,,,17,,-31,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-29,,,17,,-28,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-30,,,22,,-34,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-03-31,,,13,,-36,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-01,,,15,,-28,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-02,,,20,,-32,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-03,,,20,,-21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-04,,,18,,-27,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-05,,,13,,-20,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-06,,,22,,-25,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-07,,,21,,-25,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-08,,,17,,-23,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-09,,,15,,-33,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-10,,,20,,-14,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-11,,,17,,-20,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-12,,,15,,-18,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-13,,,25,,-21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-14,,,9,,-22,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-15,,,17,,-15,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-16,,,17,,-16,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-17,,,14,,-8,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-18,,,21,,-6,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-19,,,23,,-4,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-20,,,22,,-8,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-21,,,15,,-5,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-22,,,11,,-8,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-23,,,12,,-11,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-24,,,-1,,-4,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-25,,,-2,,-13,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-26,,,-5,,-7,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-27,,,1,,-15,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-28,,,1,,-11,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-29,,,-3,,-6,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-04-30,,,0,,-14,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-01,,,4,,-8,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-02,,,4,,-7,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-03,,,1,,0,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-04,,,8,,-4,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-05,,,11,,-3,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-06,,,10,,-1,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-07,,,6,,-4,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-08,,,6,,7,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-09,,,10,,3,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-10,,,10,,5,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-11,,,15,,4,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-12,,,12,,1,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-13,,,5,,6,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-14,,,8,,1,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-15,,,15,,13,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-16,,,18,,6,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-17,,,8,,6,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-18,,,16,,7,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-19,,,12,,6,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-20,,,11,,5,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-21,,,7,,-1,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-22,,,17,,7,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-23,,,16,,-1,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-24,,,37,,-21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-25,,,52,,-36,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-26,,,50,,-25,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-27,,,37,,-12,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-28,,,27,,-1,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-29,,,33,,19,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-30,,,33,,20,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-05-31,,,29,,24,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-01,,,25,,19,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-02,,,18,,22,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-03,,,13,,20,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-04,,,14,,15,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-05,,,17,,23,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-06,,,18,,9,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-07,,,16,,12,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-08,,,19,,18,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-09,,,14,,19,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-10,,,9,,22,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-11,,,12,,10,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-12,,,13,,27,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-13,,,12,,8,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-14,,,11,,10,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-15,,,16,,19,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-16,,,12,,20,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-17,,,13,,19,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-18,,,5,,15,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-19,,,18,,31,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-20,,,20,,1,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-21,,,16,,10,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-22,,,15,,21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-23,,,15,,21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-24,,,7,,22,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-25,,,7,,15,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-26,,,12,,29,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-27,,,16,,3,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-28,,,15,,11,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-29,,,13,,15,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-06-30,,,15,,23,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-01,,,7,,20,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-02,,,10,,16,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-03,,,16,,32,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-04,,,18,,10,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-05,,,22,,13,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-06,,,21,,21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-07,,,17,,23,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-08,,,8,,21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-09,,,11,,18,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-10,,,12,,24,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-11,,,18,,15,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-12,,,22,,18,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-13,,,19,,20,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-14,,,14,,22,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-15,,,9,,20,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-16,,,11,,14,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-17,,,11,,28,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-18,,,15,,18,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-19,,,10,,18,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-20,,,24,,22,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-21,,,19,,22,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-22,,,14,,21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-23,,,12,,17,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-24,,,15,,24,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-25,,,21,,19,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-26,,,14,,19,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-27,,,21,,20,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-28,,,18,,21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-29,,,17,,20,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-30,,,24,,14,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-07-31,,,34,,2,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-01,,,21,,-44,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-02,,,33,,-31,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-03,,,50,,-24,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-04,,,44,,-5,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-05,,,29,,7,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-06,,,31,,7,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-07,,,31,,23,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-08,,,36,,16,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-09,,,37,,18,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-10,,,34,,19,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-11,,,28,,21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-12,,,20,,16,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-13,,,24,,9,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-14,,,40,,6,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-15,,,27,,21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-16,,,28,,25,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-17,,,27,,21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-18,,,23,,22,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-19,,,19,,20,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-20,,,24,,16,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-21,,,24,,24,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-22,,,25,,30,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-23,,,21,,28,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-24,,,37,,21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-25,,,30,,21,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-26,,,26,,23,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-27,,,28,,9,
+,PK,Pakistan,Federally Administered Tribal Area,,,PK-TA,,2020-08-28,,,31,,11,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-15,,,-1,,5,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-16,,,4,,-1,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-17,,,8,,8,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-18,,,9,,9,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-19,,,6,,7,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-20,,,3,,5,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-21,,,9,,8,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-22,,,2,,3,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-23,,,11,,1,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-24,,,10,,6,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-25,,,5,,14,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-26,,,9,,7,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-27,,,7,,11,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-28,,,11,,6,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-02-29,,,6,,13,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-01,,,7,,2,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-02,,,15,,14,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-03,,,12,,16,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-04,,,13,,15,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-05,,,16,,13,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-06,,,18,,14,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-07,,,11,,-1,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-08,,,16,,7,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-09,,,7,,-15,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-10,,,20,,14,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-11,,,21,,9,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-12,,,20,,14,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-13,,,21,,16,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-14,,,20,,17,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-15,,,23,,7,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-16,,,23,,14,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-17,,,22,,15,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-18,,,24,,10,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-19,,,27,,10,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-20,,,41,,-9,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-21,,,31,,-24,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-22,,,32,,-21,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-23,,,38,,-54,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-24,,,26,,-42,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-25,,,24,,-44,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-26,,,29,,-45,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-27,,,34,,-40,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-28,,,25,,-42,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-29,,,39,,-29,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-30,,,36,,-39,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-03-31,,,32,,-35,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-01,,,40,,-36,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-02,,,42,,-37,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-03,,,46,,-29,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-04,,,41,,-28,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-05,,,45,,-26,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-06,,,46,,-31,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-07,,,50,,-28,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-08,,,45,,-29,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-09,,,50,,-45,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-10,,,54,,-37,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-11,,,51,,-27,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-12,,,56,,-17,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-13,,,63,,-20,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-14,,,56,,-20,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-15,,,54,,-21,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-16,,,63,,-18,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-17,,,64,,-23,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-18,,,56,,-22,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-19,,,69,,-7,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-20,,,68,,-13,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-21,,,67,,-10,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-22,,,66,,-10,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-23,,,65,,-10,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-24,,,70,,-8,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-25,,,55,,-15,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-26,,,56,,-11,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-27,,,59,,-9,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-28,,,64,,0,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-29,,,67,,-3,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-04-30,,,73,,-4,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-01,,,71,,-26,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-02,,,58,,-11,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-03,,,64,,-1,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-04,,,74,,2,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-05,,,65,,3,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-06,,,72,,8,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-07,,,86,,9,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-08,,,83,,14,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-09,,,70,,4,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-10,,,79,,20,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-11,,,90,,20,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-12,,,83,,22,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-13,,,85,,21,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-14,,,80,,19,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-15,,,99,,3,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-16,,,88,,15,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-17,,,87,,7,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-18,,,90,,19,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-19,,,86,,27,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-20,,,90,,25,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-21,,,100,,6,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-22,,,103,,-3,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-23,,,98,,5,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-24,,,131,,-7,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-25,,,131,,-39,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-26,,,121,,-27,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-27,,,117,,-19,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-28,,,118,,12,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-29,,,122,,25,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-30,,,103,,18,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-05-31,,,108,,24,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-01,,,109,,30,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-02,,,104,,38,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-03,,,107,,37,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-04,,,112,,33,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-05,,,119,,35,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-06,,,100,,28,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-07,,,110,,19,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-08,,,104,,35,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-09,,,106,,37,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-10,,,104,,37,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-11,,,105,,33,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-12,,,116,,37,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-13,,,102,,28,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-14,,,110,,28,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-15,,,110,,38,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-16,,,103,,41,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-17,,,111,,36,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-18,,,106,,32,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-19,,,106,,29,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-20,,,96,,17,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-21,,,109,,16,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-22,,,111,,35,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-23,,,104,,39,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-24,,,99,,37,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-25,,,106,,37,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-26,,,118,,32,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-27,,,101,,33,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-28,,,97,,26,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-29,,,103,,40,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-06-30,,,100,,45,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-01,,,88,,29,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-02,,,87,,32,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-03,,,97,,28,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-04,,,78,,18,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-05,,,95,,20,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-06,,,91,,33,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-07,,,91,,34,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-08,,,83,,36,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-09,,,92,,34,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-10,,,110,,29,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-11,,,95,,15,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-12,,,105,,20,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-13,,,92,,34,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-14,,,92,,37,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-15,,,91,,31,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-16,,,92,,35,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-17,,,114,,31,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-18,,,93,,22,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-19,,,105,,26,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-20,,,96,,36,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-21,,,94,,36,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-22,,,91,,36,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-23,,,98,,35,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-24,,,110,,34,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-25,,,90,,24,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-26,,,106,,29,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-27,,,103,,36,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-28,,,90,,41,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-29,,,91,,31,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-30,,,99,,25,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-07-31,,,107,,-11,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-01,,,101,,-32,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-02,,,113,,-9,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-03,,,123,,6,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-04,,,122,,27,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-05,,,133,,32,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-06,,,137,,27,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-07,,,151,,32,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-08,,,141,,21,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-09,,,146,,16,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-10,,,156,,39,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-11,,,150,,46,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-12,,,146,,38,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-13,,,159,,36,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-14,,,168,,-2,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-15,,,148,,20,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-16,,,145,,26,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-17,,,153,,38,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-18,,,139,,44,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-19,,,140,,42,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-20,,,141,,46,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-21,,,146,,34,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-22,,,124,,34,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-23,,,139,,38,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-24,,,142,,48,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-25,,,147,,50,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-26,,,140,,44,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-27,,,137,,33,
+PK-GB,PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,2020-08-28,,,132,,24,
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-15,3.0,3.0,19,6.0,2,0.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-16,2.0,3.0,12,4.0,4,0.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-17,4.0,5.0,13,8.0,6,-1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-18,1.0,4.0,23,5.0,7,-1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-19,-1.0,1.0,5,7.0,8,-1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-20,-4.0,-6.0,-7,1.0,5,1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-21,-1.0,-1.0,16,6.0,6,0.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-22,0.0,0.0,23,2.0,2,0.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-23,0.0,0.0,14,3.0,4,1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-24,3.0,3.0,20,6.0,4,-1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-25,1.0,4.0,33,7.0,7,-1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-26,2.0,3.0,21,8.0,6,-1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-27,1.0,2.0,16,3.0,5,-1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-28,-6.0,-8.0,-6,-1.0,1,3.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-02-29,-12.0,-11.0,-23,-12.0,0,4.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-01,2.0,6.0,9,1.0,8,0.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-02,7.0,8.0,20,7.0,6,-1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-03,4.0,9.0,35,3.0,9,-2.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-04,0.0,2.0,11,0.0,9,-1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-05,-2.0,-2.0,-1,-3.0,6,1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-06,-7.0,-7.0,-8,-4.0,6,2.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-07,-5.0,-2.0,-7,-7.0,1,3.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-08,-2.0,2.0,-4,-3.0,6,2.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-09,6.0,8.0,24,4.0,7,-1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-10,3.0,7.0,34,4.0,9,-2.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-11,-3.0,0.0,11,3.0,9,-1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-12,-3.0,-1.0,5,-7.0,6,2.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-13,1.0,5.0,20,1.0,8,0.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-14,-7.0,3.0,13,14.0,1,1.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-15,-12.0,0.0,-7,-5.0,5,2.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-16,-7.0,2.0,5,-6.0,-9,3.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-17,-14.0,-3.0,6,-15.0,-12,4.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-18,-18.0,-6.0,-6,-19.0,-16,5.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-19,-24.0,-14.0,-15,-26.0,-20,7.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-20,-37.0,-24.0,-23,-35.0,-24,9.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-21,-46.0,-29.0,-33,-40.0,-17,9.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-22,-54.0,-37.0,-47,-51.0,-16,12.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-23,-66.0,-50.0,-51,-59.0,-71,24.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-24,-73.0,-58.0,-61,-70.0,-57,23.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-25,-76.0,-60.0,-63,-76.0,-64,26.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-26,-78.0,-63.0,-68,-80.0,-67,29.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-27,-84.0,-74.0,-77,-87.0,-70,31.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-28,-80.0,-64.0,-70,-82.0,-60,24.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-29,-80.0,-67.0,-73,-84.0,-46,22.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-30,-77.0,-63.0,-66,-83.0,-67,30.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-03-31,-80.0,-69.0,-68,-84.0,-68,28.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-01,-76.0,-62.0,-64,-81.0,-66,26.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-02,-75.0,-62.0,-64,-81.0,-66,28.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-03,-78.0,-66.0,-65,-82.0,-65,28.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-04,-77.0,-61.0,-65,-80.0,-55,22.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-05,-76.0,-64.0,-69,-80.0,-42,20.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-06,-71.0,-57.0,-58,-78.0,-60,26.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-07,-72.0,-60.0,-57,-76.0,-61,25.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-08,-73.0,-59.0,-63,-77.0,-61,25.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-09,-74.0,-62.0,-66,-79.0,-62,26.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-10,-76.0,-64.0,-65,-79.0,-61,26.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-11,-74.0,-59.0,-65,-77.0,-51,21.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-12,-74.0,-61.0,-68,-79.0,-40,19.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-13,-69.0,-56.0,-60,-76.0,-59,25.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-14,-71.0,-59.0,-58,-77.0,-58,24.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-15,-68.0,-55.0,-59,-74.0,-56,23.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-16,-66.0,-55.0,-58,-74.0,-55,23.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-17,-72.0,-62.0,-66,-79.0,-58,25.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-18,-68.0,-53.0,-61,-75.0,-45,19.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-19,-66.0,-53.0,-60,-73.0,-31,15.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-20,-58.0,-46.0,-51,-72.0,-51,21.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-21,-60.0,-48.0,-46,-70.0,-51,20.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-22,-58.0,-44.0,-49,-67.0,-50,19.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-23,-56.0,-44.0,-51,-68.0,-51,20.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-24,-61.0,-45.0,-53,-72.0,-52,21.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-25,-73.0,-58.0,-67,-77.0,-45,22.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-26,-71.0,-59.0,-67,-78.0,-32,21.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-27,-68.0,-56.0,-61,-76.0,-53,26.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-28,-66.0,-55.0,-53,-74.0,-51,22.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-29,-65.0,-53.0,-56,-73.0,-51,23.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-04-30,-65.0,-53.0,-59,-74.0,-51,23.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-01,-72.0,-61.0,-64,-79.0,-70,28.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-02,-67.0,-53.0,-63,-75.0,-42,20.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-03,-67.0,-54.0,-64,-74.0,-29,18.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-04,-61.0,-48.0,-56,-73.0,-49,23.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-05,-61.0,-49.0,-48,-71.0,-49,21.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-06,-61.0,-46.0,-51,-70.0,-48,21.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-07,-60.0,-45.0,-52,-71.0,-49,22.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-08,-66.0,-51.0,-56,-75.0,-51,24.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-09,-62.0,-44.0,-55,-71.0,-36,18.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-10,-61.0,-46.0,-59,-73.0,-24,16.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-11,-55.0,-41.0,-50,-69.0,-45,21.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-12,-54.0,-40.0,-42,-67.0,-44,20.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-13,-55.0,-39.0,-48,-67.0,-45,19.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-14,-60.0,-48.0,-55,-71.0,-51,21.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-15,-58.0,-43.0,-48,-69.0,-47,21.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-16,-60.0,-43.0,-51,-68.0,-35,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-17,-62.0,-47.0,-58,-72.0,-26,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-18,-42.0,-31.0,-42,-64.0,-44,19.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-19,-42.0,-31.0,-36,-60.0,-45,18.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-20,-44.0,-28.0,-39,-59.0,-46,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-21,-42.0,-27.0,-39,-54.0,-48,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-22,-50.0,-35.0,-49,-63.0,-66,21.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-23,-50.0,-28.0,-50,-61.0,-50,15.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-24,-65.0,-55.0,-52,-74.0,-36,9.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-25,-67.0,-60.0,-46,-73.0,-80,22.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-26,-66.0,-60.0,-41,-70.0,-78,20.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-27,-62.0,-52.0,-46,-66.0,-74,19.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-28,-55.0,-43.0,-43,-62.0,-55,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-29,-58.0,-43.0,-41,-64.0,-52,18.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-30,-54.0,-37.0,-40,-59.0,-35,13.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-05-31,-53.0,-36.0,-44,-56.0,-19,10.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-01,-43.0,-29.0,-29,-54.0,-41,16.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-02,-45.0,-30.0,-20,-53.0,-40,15.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-03,-44.0,-29.0,-28,-52.0,-40,15.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-04,-46.0,-31.0,-32,-53.0,-42,16.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-05,-51.0,-35.0,-35,-58.0,-43,18.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-06,-57.0,-37.0,-35,-57.0,-36,15.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-07,-58.0,-42.0,-44,-62.0,-28,14.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-08,-42.0,-27.0,-26,-53.0,-42,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-09,-46.0,-31.0,-22,-52.0,-42,16.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-10,-46.0,-30.0,-30,-51.0,-42,16.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-11,-45.0,-31.0,-31,-52.0,-43,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-12,-50.0,-34.0,-30,-56.0,-44,18.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-13,-62.0,-40.0,-38,-58.0,-38,16.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-14,-62.0,-44.0,-44,-62.0,-30,15.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-15,-48.0,-29.0,-26,-53.0,-44,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-16,-50.0,-31.0,-22,-52.0,-43,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-17,-50.0,-30.0,-30,-51.0,-44,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-18,-52.0,-36.0,-33,-55.0,-46,18.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-19,-53.0,-37.0,-29,-57.0,-46,19.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-20,-62.0,-42.0,-37,-58.0,-38,16.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-21,-63.0,-48.0,-46,-64.0,-32,16.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-22,-46.0,-29.0,-25,-52.0,-45,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-23,-47.0,-32.0,-22,-50.0,-44,16.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-24,-46.0,-29.0,-24,-49.0,-43,16.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-25,-49.0,-34.0,-30,-52.0,-44,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-26,-50.0,-34.0,-26,-53.0,-44,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-27,-59.0,-39.0,-34,-55.0,-37,15.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-28,-57.0,-41.0,-37,-58.0,-28,13.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-29,-40.0,-26.0,-23,-50.0,-41,16.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-06-30,-42.0,-27.0,-17,-49.0,-41,14.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-01,-42.0,-29.0,-23,-48.0,-42,15.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-02,-40.0,-27.0,-25,-48.0,-42,15.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-03,-43.0,-28.0,-26,-50.0,-41,15.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-04,-49.0,-29.0,-19,-50.0,-35,12.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-05,-52.0,-35.0,-32,-54.0,-25,12.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-06,-31.0,-17.0,-13,-44.0,-39,13.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-07,-34.0,-20.0,-10,-42.0,-39,13.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-08,-35.0,-20.0,-17,-43.0,-37,12.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-09,-34.0,-22.0,-19,-43.0,-38,13.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-10,-37.0,-24.0,-20,-46.0,-38,14.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-11,-50.0,-31.0,-28,-48.0,-32,12.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-12,-47.0,-31.0,-27,-49.0,-24,10.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-13,-26.0,-14.0,-11,-40.0,-37,12.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-14,-30.0,-17.0,-5,-35.0,-36,11.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-15,-29.0,-16.0,-15,-39.0,-35,11.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-16,-28.0,-17.0,-16,-40.0,-36,12.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-17,-30.0,-17.0,-14,-42.0,-35,12.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-18,-45.0,-25.0,-19,-43.0,-29,11.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-19,-43.0,-27.0,-21,-45.0,-20,10.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-20,-21.0,-8.0,-6,-37.0,-35,11.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-21,-24.0,-11.0,5,-35.0,-35,10.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-22,-26.0,-12.0,-9,-35.0,-33,11.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-23,-26.0,-15.0,-10,-38.0,-34,11.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-24,-30.0,-16.0,-13,-40.0,-32,12.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-25,-42.0,-21.0,-13,-37.0,-27,10.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-26,-43.0,-25.0,-23,-43.0,-17,10.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-27,-14.0,-1.0,-8,-34.0,-34,10.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-28,-23.0,-6.0,-2,-30.0,-34,10.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-29,-22.0,-5.0,-10,-22.0,-36,9.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-30,-25.0,-10.0,-17,-18.0,-43,9.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-07-31,-43.0,-26.0,-32,-44.0,-70,17.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-01,-72.0,-58.0,-51,-72.0,-61,13.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-02,-65.0,-54.0,-49,-64.0,-41,8.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-03,-53.0,-42.0,-29,-50.0,-61,13.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-04,-42.0,-30.0,-18,-40.0,-47,9.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-05,-38.0,-23.0,-22,-36.0,-41,9.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-06,-33.0,-19.0,-18,-36.0,-39,10.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-07,-34.0,-18.0,-13,-36.0,-36,10.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-08,-33.0,-15.0,-15,-32.0,-25,7.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-09,-25.0,-12.0,-13,-29.0,-15,5.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-10,-14.0,-4.0,0,-25.0,-33,8.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-11,-17.0,-5.0,6,-24.0,-32,8.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-12,-16.0,-4.0,-4,-24.0,-32,8.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-13,-6.0,1.0,10,-10.0,-33,6.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-14,-7.0,-6.0,43,-21.0,-68,14.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-15,-17.0,-6.0,-5,-27.0,-25,6.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-16,-18.0,-6.0,-15,-22.0,-13,5.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-17,-10.0,0.0,7,-21.0,-32,8.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-18,-15.0,-3.0,14,-22.0,-29,7.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-19,-14.0,-3.0,8,-22.0,-29,7.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-20,-11.0,-4.0,12,-23.0,-31,7.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-21,-13.0,-2.0,17,-25.0,-30,8.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-22,-14.0,0.0,9,-23.0,-18,6.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-23,-12.0,-1.0,5,-26.0,-11,5.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-24,-7.0,2.0,20,-21.0,-28,8.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-25,-11.0,-3.0,36,-17.0,-29,7.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-26,-11.0,-1.0,20,-22.0,-28,7.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-27,-7.0,-1.0,28,-19.0,-29,7.0
+PK-IS,PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,2020-08-28,-18.0,-8.0,14,-19.0,-31,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-15,0.0,3.0,-3,0.0,3,0.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-16,3.0,4.0,-1,1.0,2,-1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-17,4.0,7.0,0,7.0,5,-1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-18,1.0,6.0,-2,1.0,5,-1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-19,-3.0,1.0,-6,-1.0,7,-1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-20,-6.0,-1.0,-4,-4.0,2,0.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-21,-2.0,2.0,-2,-3.0,5,0.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-22,-1.0,3.0,-2,-3.0,4,0.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-23,1.0,5.0,-3,-3.0,4,0.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-24,2.0,5.0,-3,2.0,5,-1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-25,2.0,5.0,-2,-1.0,5,-1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-26,-2.0,4.0,-5,0.0,7,-1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-27,-1.0,2.0,-3,1.0,5,0.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-28,-5.0,1.0,-8,-2.0,4,0.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-02-29,-11.0,-7.0,-14,-9.0,2,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-01,6.0,9.0,-4,4.0,6,0.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-02,7.0,11.0,-2,10.0,7,-1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-03,7.0,12.0,1,5.0,9,-2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-04,-2.0,5.0,-6,2.0,9,-1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-05,-7.0,-2.0,-8,-6.0,4,1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-06,-7.0,1.0,-10,-3.0,7,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-07,-8.0,-1.0,-8,-4.0,6,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-08,6.0,10.0,-3,7.0,6,1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-09,9.0,13.0,3,14.0,8,-1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-10,7.0,14.0,3,9.0,10,-2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-11,1.0,8.0,0,6.0,9,-1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-12,-4.0,-1.0,-4,-3.0,4,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-13,4.0,11.0,0,6.0,8,-1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-14,-1.0,10.0,-3,7.0,2,-1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-15,-1.0,6.0,-3,-1.0,5,0.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-16,2.0,11.0,1,3.0,-5,1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-17,0.0,8.0,2,-3.0,-5,0.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-18,-5.0,7.0,-2,-3.0,-6,1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-19,-9.0,5.0,-2,-9.0,-10,3.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-20,-18.0,-1.0,-5,-16.0,-15,4.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-21,-22.0,-5.0,-11,-18.0,-8,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-22,-33.0,-20.0,-11,-28.0,-11,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-23,-48.0,-36.0,-10,-45.0,-52,15.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-24,-51.0,-39.0,-12,-48.0,-46,14.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-25,-55.0,-43.0,-14,-50.0,-49,15.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-26,-54.0,-42.0,-13,-53.0,-50,17.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-27,-58.0,-45.0,-22,-57.0,-49,18.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-28,-58.0,-45.0,-20,-55.0,-44,17.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-29,-54.0,-45.0,-20,-54.0,-28,14.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-30,-51.0,-39.0,-11,-50.0,-48,17.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-03-31,-57.0,-47.0,-17,-57.0,-50,18.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-01,-51.0,-38.0,-12,-51.0,-46,14.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-02,-51.0,-38.0,-10,-51.0,-46,15.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-03,-50.0,-35.0,-17,-51.0,-42,15.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-04,-53.0,-39.0,-18,-51.0,-38,14.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-05,-50.0,-40.0,-19,-50.0,-24,11.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-06,-45.0,-31.0,-10,-46.0,-42,15.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-07,-47.0,-35.0,-10,-48.0,-43,14.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-08,-49.0,-35.0,-13,-47.0,-42,13.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-09,-51.0,-40.0,-15,-51.0,-44,15.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-10,-49.0,-33.0,-16,-50.0,-39,14.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-11,-51.0,-37.0,-19,-49.0,-34,13.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-12,-49.0,-37.0,-20,-48.0,-22,11.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-13,-45.0,-33.0,-12,-45.0,-39,14.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-14,-48.0,-38.0,-14,-49.0,-40,13.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-15,-42.0,-28.0,-11,-42.0,-36,11.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-16,-41.0,-27.0,-10,-41.0,-35,12.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-17,-48.0,-33.0,-21,-49.0,-35,14.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-18,-41.0,-26.0,-17,-40.0,-25,11.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-19,-37.0,-23.0,-17,-39.0,-10,8.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-20,-33.0,-18.0,-10,-34.0,-31,11.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-21,-33.0,-18.0,-10,-35.0,-31,9.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-22,-35.0,-19.0,-13,-34.0,-31,8.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-23,-31.0,-13.0,-11,-32.0,-32,9.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-24,-42.0,-21.0,-23,-45.0,-34,14.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-25,-55.0,-41.0,-32,-54.0,-34,18.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-26,-52.0,-38.0,-31,-51.0,-20,16.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-27,-48.0,-35.0,-25,-49.0,-38,19.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-28,-47.0,-33.0,-22,-48.0,-36,15.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-29,-48.0,-34.0,-24,-48.0,-35,16.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-04-30,-48.0,-33.0,-22,-48.0,-35,17.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-01,-51.0,-34.0,-26,-53.0,-44,18.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-02,-49.0,-33.0,-28,-47.0,-28,15.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-03,-45.0,-31.0,-26,-45.0,-14,13.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-04,-41.0,-27.0,-20,-41.0,-33,16.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-05,-41.0,-26.0,-19,-43.0,-32,14.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-06,-40.0,-24.0,-19,-39.0,-31,14.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-07,-38.0,-22.0,-18,-40.0,-31,15.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-08,-42.0,-22.0,-22,-43.0,-28,15.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-09,-41.0,-24.0,-24,-41.0,-23,14.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-10,-39.0,-24.0,-23,-40.0,-9,12.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-11,-25.0,-13.0,-16,-31.0,-26,14.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-12,-24.0,-13.0,-14,-32.0,-26,12.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-13,-29.0,-17.0,-18,-35.0,-26,12.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-14,-28.0,-18.0,-17,-35.0,-28,13.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-15,-39.0,-20.0,-18,-39.0,-28,15.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-16,-42.0,-26.0,-21,-40.0,-25,15.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-17,-42.0,-29.0,-25,-43.0,-13,13.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-18,-12.0,-3.0,-15,-22.0,-26,13.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-19,-17.0,-6.0,-14,-25.0,-26,11.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-20,-17.0,-3.0,-15,-23.0,-26,11.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-21,-9.0,3.0,-10,-17.0,-29,11.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-22,0.0,24.0,-9,-10.0,-33,11.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-23,-10.0,6.0,-13,-16.0,-29,12.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-24,-33.0,-27.0,5,-33.0,-30,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-25,-32.0,-27.0,16,-33.0,-60,9.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-26,-31.0,-24.0,17,-31.0,-57,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-27,-25.0,-16.0,8,-25.0,-46,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-28,-19.0,-6.0,4,-19.0,-29,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-29,-25.0,-7.0,-2,-24.0,-25,8.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-30,-27.0,-11.0,-7,-22.0,-18,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-05-31,-27.0,-14.0,-11,-23.0,-3,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-01,-9.0,3.0,-4,-9.0,-15,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-02,-10.0,1.0,-4,-13.0,-13,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-03,-14.0,0.0,-8,-12.0,-13,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-04,-14.0,-3.0,-7,-14.0,-14,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-05,-19.0,-3.0,-11,-21.0,-12,8.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-06,-35.0,-21.0,-16,-29.0,-19,9.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-07,-34.0,-23.0,-16,-30.0,-9,8.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-08,-9.0,3.0,-10,-10.0,-14,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-09,-15.0,-3.0,-9,-15.0,-14,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-10,-17.0,-4.0,-11,-16.0,-14,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-11,-15.0,-3.0,-10,-18.0,-15,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-12,-16.0,-2.0,-10,-20.0,-11,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-13,-34.0,-19.0,-16,-28.0,-18,9.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-14,-31.0,-21.0,-15,-29.0,-8,8.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-15,-9.0,4.0,-10,-10.0,-14,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-16,-12.0,0.0,-10,-16.0,-14,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-17,-16.0,-3.0,-12,-17.0,-14,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-18,-17.0,-5.0,-12,-20.0,-15,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-19,-19.0,-5.0,-13,-23.0,-12,8.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-20,-35.0,-22.0,-17,-31.0,-19,9.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-21,-34.0,-25.0,-17,-33.0,-10,8.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-22,-9.0,2.0,-8,-12.0,-15,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-23,-11.0,-1.0,-7,-16.0,-15,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-24,-12.0,0.0,-11,-15.0,-14,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-25,-14.0,-3.0,-11,-17.0,-15,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-26,-17.0,-1.0,-10,-20.0,-13,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-27,-34.0,-20.0,-15,-30.0,-21,8.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-28,-32.0,-21.0,-16,-31.0,-12,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-29,-8.0,5.0,-8,-11.0,-15,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-06-30,-11.0,3.0,-8,-17.0,-14,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-01,-16.0,-2.0,-11,-18.0,-15,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-02,-12.0,2.0,-8,-15.0,-15,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-03,-12.0,6.0,-7,-18.0,-12,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-04,-27.0,-10.0,-6,-22.0,-19,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-05,-25.0,-11.0,-7,-24.0,-9,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-06,1.0,16.0,-1,-1.0,-13,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-07,-4.0,10.0,-2,-9.0,-14,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-08,-11.0,5.0,-7,-10.0,-12,4.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-09,-9.0,4.0,-5,-14.0,-15,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-10,-12.0,5.0,-6,-17.0,-12,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-11,-29.0,-11.0,-8,-24.0,-19,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-12,-23.0,-11.0,-5,-23.0,-9,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-13,0.0,14.0,-2,-3.0,-13,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-14,-6.0,8.0,-3,-10.0,-14,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-15,-9.0,4.0,-7,-13.0,-12,4.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-16,-7.0,6.0,-5,-13.0,-13,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-17,-6.0,9.0,-3,-13.0,-10,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-18,-25.0,-8.0,-6,-22.0,-17,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-19,-23.0,-9.0,-6,-23.0,-8,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-20,1.0,13.0,-3,-5.0,-13,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-21,1.0,11.0,-2,-8.0,-13,4.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-22,-5.0,7.0,-8,-10.0,-11,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-23,-6.0,8.0,-6,-12.0,-13,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-24,-7.0,10.0,-6,-14.0,-9,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-25,-24.0,-5.0,-9,-19.0,-15,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-26,-23.0,-6.0,-9,-21.0,-7,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-27,2.0,16.0,-3,-2.0,-13,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-28,1.0,18.0,-4,-4.0,-14,4.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-29,0.0,19.0,-2,0.0,-14,4.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-30,9.0,28.0,3,4.0,-20,4.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-07-31,19.0,52.0,5,8.0,-35,8.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-01,-53.0,-43.0,-6,-50.0,-57,12.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-02,-36.0,-27.0,7,-32.0,-38,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-03,-28.0,-19.0,24,-21.0,-49,7.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-04,-11.0,1.0,26,-6.0,-29,3.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-05,-8.0,6.0,19,1.0,-21,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-06,-5.0,5.0,21,0.0,-19,3.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-07,-5.0,9.0,20,-3.0,-13,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-08,-14.0,2.0,20,-4.0,-15,4.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-09,-7.0,4.0,22,-3.0,-3,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-10,9.0,17.0,20,11.0,-12,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-11,5.0,13.0,18,4.0,-11,1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-12,1.0,10.0,14,3.0,-11,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-13,6.0,13.0,24,8.0,-14,1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-14,5.0,8.0,43,-1.0,-39,6.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-15,0.0,8.0,25,0.0,-9,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-16,1.0,5.0,21,0.0,1,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-17,7.0,13.0,20,9.0,-12,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-18,8.0,15.0,22,4.0,-10,1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-19,6.0,13.0,20,5.0,-10,1.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-20,9.0,13.0,24,2.0,-11,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-21,4.0,11.0,23,-6.0,-20,5.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-22,3.0,11.0,22,-1.0,-7,3.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-23,6.0,11.0,20,-2.0,1,3.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-24,12.0,17.0,23,7.0,-10,3.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-25,11.0,15.0,21,0.0,-11,3.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-26,10.0,15.0,18,0.0,-10,2.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-27,12.0,14.0,24,-1.0,-13,3.0
+PK-KP,PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,2020-08-28,6.0,14.0,25,-8.0,-17,3.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-15,3.0,4.0,13,4.0,2,-1.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-16,3.0,3.0,10,5.0,2,0.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-17,12.0,12.0,17,10.0,3,-2.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-18,5.0,4.0,13,6.0,3,-1.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-19,1.0,0.0,8,3.0,4,-1.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-20,-3.0,-5.0,2,-2.0,2,0.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-21,1.0,0.0,10,4.0,3,0.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-22,2.0,1.0,12,4.0,3,0.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-23,2.0,1.0,10,4.0,3,0.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-24,12.0,12.0,17,9.0,4,-2.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-25,5.0,5.0,14,5.0,4,-1.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-26,1.0,1.0,10,4.0,4,-1.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-27,2.0,1.0,9,2.0,3,0.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-28,-1.0,-2.0,7,1.0,3,0.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-02-29,-3.0,-3.0,2,-2.0,2,0.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-01,4.0,6.0,9,5.0,6,0.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-02,15.0,16.0,18,10.0,4,-2.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-03,8.0,9.0,16,7.0,5,-2.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-04,3.0,2.0,12,5.0,5,-1.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-05,-3.0,-5.0,4,-2.0,3,0.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-06,-7.0,-8.0,-4,-5.0,-1,2.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-07,0.0,1.0,7,1.0,3,1.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-08,6.0,7.0,11,7.0,6,0.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-09,18.0,19.0,25,14.0,5,-2.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-10,10.0,9.0,22,11.0,5,-2.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-11,-9.0,-11.0,-3,-3.0,4,1.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-12,-1.0,-3.0,4,0.0,4,1.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-13,2.0,5.0,11,6.0,6,0.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-14,0.0,7.0,14,9.0,0,0.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-15,-4.0,4.0,8,3.0,4,1.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-16,8.0,17.0,20,7.0,-8,1.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-17,-2.0,7.0,12,1.0,-10,2.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-18,-7.0,3.0,7,-2.0,-11,3.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-19,-10.0,-2.0,2,-6.0,-13,5.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-20,-19.0,-7.0,-2,-12.0,-16,6.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-21,-23.0,-8.0,-5,-14.0,-11,6.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-22,-47.0,-29.0,-26,-33.0,-22,9.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-23,-49.0,-26.0,-24,-39.0,-64,19.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-24,-62.0,-45.0,-36,-50.0,-55,20.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-25,-65.0,-49.0,-40,-55.0,-60,22.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-26,-66.0,-52.0,-44,-60.0,-61,24.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-27,-71.0,-59.0,-49,-65.0,-63,24.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-28,-69.0,-54.0,-45,-61.0,-57,22.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-29,-69.0,-55.0,-48,-61.0,-40,18.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-30,-63.0,-46.0,-37,-57.0,-60,23.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-03-31,-66.0,-51.0,-41,-59.0,-61,23.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-01,-66.0,-52.0,-40,-57.0,-59,22.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-02,-64.0,-49.0,-40,-57.0,-59,22.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-03,-66.0,-51.0,-40,-59.0,-57,22.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-04,-65.0,-50.0,-40,-57.0,-52,20.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-05,-64.0,-51.0,-43,-57.0,-34,15.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-06,-56.0,-39.0,-30,-51.0,-52,19.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-07,-60.0,-45.0,-32,-52.0,-54,20.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-08,-61.0,-46.0,-34,-52.0,-53,20.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-09,-62.0,-49.0,-37,-55.0,-55,21.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-10,-63.0,-49.0,-36,-56.0,-52,20.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-11,-63.0,-47.0,-37,-54.0,-47,19.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-12,-62.0,-48.0,-40,-55.0,-31,15.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-13,-55.0,-39.0,-28,-51.0,-50,19.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-14,-58.0,-44.0,-31,-51.0,-50,19.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-15,-56.0,-42.0,-30,-48.0,-46,18.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-16,-54.0,-41.0,-28,-48.0,-46,18.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-17,-60.0,-46.0,-33,-53.0,-46,18.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-18,-56.0,-40.0,-30,-49.0,-39,15.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-19,-54.0,-39.0,-32,-48.0,-22,12.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-20,-46.0,-28.0,-18,-43.0,-41,15.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-21,-49.0,-33.0,-21,-43.0,-41,15.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-22,-50.0,-34.0,-24,-43.0,-41,15.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-23,-48.0,-32.0,-24,-44.0,-41,15.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-24,-51.0,-30.0,-26,-47.0,-41,16.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-25,-60.0,-42.0,-37,-53.0,-40,20.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-26,-60.0,-44.0,-40,-55.0,-24,17.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-27,-53.0,-37.0,-27,-50.0,-42,20.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-28,-54.0,-40.0,-28,-48.0,-41,18.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-29,-56.0,-42.0,-31,-50.0,-40,19.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-04-30,-55.0,-41.0,-30,-50.0,-40,19.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-01,-60.0,-44.0,-34,-56.0,-57,21.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-02,-56.0,-39.0,-30,-50.0,-35,17.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-03,-54.0,-39.0,-34,-50.0,-18,13.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-04,-46.0,-28.0,-19,-44.0,-37,16.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-05,-49.0,-34.0,-23,-44.0,-38,17.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-06,-48.0,-32.0,-28,-42.0,-36,17.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-07,-48.0,-32.0,-29,-43.0,-36,17.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-08,-52.0,-35.0,-32,-48.0,-36,18.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-09,-49.0,-32.0,-30,-44.0,-27,15.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-10,-47.0,-31.0,-33,-44.0,-11,13.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-11,-31.0,-15.0,-15,-35.0,-29,14.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-12,-33.0,-19.0,-12,-34.0,-29,14.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-13,-34.0,-21.0,-14,-34.0,-28,14.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-14,-33.0,-19.0,-15,-34.0,-31,14.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-15,-49.0,-30.0,-22,-43.0,-35,17.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-16,-49.0,-32.0,-23,-42.0,-28,16.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-17,-50.0,-34.0,-30,-44.0,-12,13.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-18,-16.0,3.0,0,-25.0,-26,12.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-19,-23.0,-7.0,-7,-27.0,-27,13.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-20,-25.0,-9.0,-10,-26.0,-28,13.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-21,-22.0,-6.0,-10,-23.0,-29,13.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-22,-21.0,0.0,-9,-26.0,-43,15.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-23,-15.0,9.0,-4,-17.0,-37,13.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-24,-31.0,-27.0,-2,-27.0,-32,6.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-25,-33.0,-28.0,-2,-30.0,-69,15.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-26,-35.0,-30.0,-6,-27.0,-64,14.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-27,-32.0,-24.0,-9,-23.0,-55,14.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-28,-26.0,-16.0,-6,-21.0,-33,11.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-29,-33.0,-19.0,-8,-26.0,-31,12.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-30,-31.0,-18.0,-9,-24.0,-19,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-05-31,-31.0,-18.0,-15,-23.0,1,8.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-01,-15.0,-1.0,4,-17.0,-21,9.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-02,-24.0,-11.0,-2,-20.0,-21,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-03,-25.0,-12.0,-5,-20.0,-21,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-04,-26.0,-14.0,-7,-22.0,-22,11.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-05,-31.0,-14.0,-9,-27.0,-21,12.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-06,-44.0,-26.0,-16,-32.0,-28,13.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-07,-44.0,-30.0,-22,-34.0,-15,11.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-08,-17.0,0.0,2,-18.0,-21,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-09,-26.0,-11.0,-3,-21.0,-22,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-10,-27.0,-14.0,-8,-22.0,-22,11.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-11,-26.0,-14.0,-8,-24.0,-22,11.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-12,-29.0,-14.0,-8,-27.0,-20,11.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-13,-44.0,-27.0,-17,-33.0,-28,13.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-14,-44.0,-31.0,-22,-35.0,-14,11.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-15,-16.0,-1.0,3,-19.0,-21,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-16,-24.0,-10.0,-4,-22.0,-21,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-17,-29.0,-18.0,-9,-25.0,-23,11.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-18,-30.0,-20.0,-12,-28.0,-24,11.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-19,-30.0,-17.0,-9,-29.0,-21,12.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-20,-45.0,-30.0,-18,-35.0,-28,13.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-21,-46.0,-36.0,-27,-39.0,-17,12.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-22,-15.0,-2.0,3,-18.0,-23,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-23,-24.0,-13.0,-4,-22.0,-24,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-24,-24.0,-14.0,-6,-22.0,-23,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-25,-26.0,-16.0,-9,-24.0,-25,11.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-26,-28.0,-17.0,-9,-26.0,-22,11.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-27,-44.0,-30.0,-18,-33.0,-29,12.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-28,-44.0,-33.0,-24,-36.0,-15,9.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-29,-15.0,-3.0,1,-18.0,-23,9.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-06-30,-22.0,-12.0,-5,-23.0,-23,9.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-01,-25.0,-15.0,-8,-24.0,-24,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-02,-24.0,-14.0,-8,-24.0,-23,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-03,-25.0,-12.0,-7,-25.0,-21,9.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-04,-42.0,-29.0,-19,-34.0,-29,11.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-05,-36.0,-24.0,-16,-30.0,-15,8.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-06,-6.0,7.0,9,-13.0,-20,7.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-07,-14.0,-3.0,3,-16.0,-21,8.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-08,-18.0,-8.0,-2,-19.0,-20,8.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-09,-18.0,-8.0,-3,-20.0,-21,9.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-10,-20.0,-8.0,-1,-21.0,-18,9.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-11,-39.0,-26.0,-15,-30.0,-25,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-12,-36.0,-25.0,-16,-28.0,-14,7.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-13,-4.0,9.0,10,-11.0,-19,7.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-14,-14.0,-5.0,2,-17.0,-20,7.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-15,-17.0,-7.0,-1,-17.0,-19,8.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-16,-15.0,-6.0,-1,-18.0,-20,8.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-17,-15.0,-2.0,2,-18.0,-17,8.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-18,-35.0,-22.0,-11,-27.0,-24,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-19,-34.0,-24.0,-15,-28.0,-13,8.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-20,-4.0,7.0,7,-12.0,-19,6.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-21,-9.0,2.0,6,-14.0,-21,7.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-22,-11.0,0.0,3,-14.0,-18,7.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-23,-12.0,-3.0,0,-16.0,-19,8.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-24,-13.0,1.0,3,-17.0,-15,7.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-25,-33.0,-18.0,-8,-23.0,-22,9.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-26,-32.0,-20.0,-12,-25.0,-10,8.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-27,17.0,32.0,21,-2.0,-18,5.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-28,-21.0,-5.0,0,-14.0,-24,8.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-29,-22.0,-5.0,-2,-12.0,-26,8.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-30,-16.0,3.0,0,-5.0,-30,8.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-07-31,-12.0,17.0,5,-10.0,-52,13.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-01,-46.0,-39.0,-8,-41.0,-65,14.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-02,-39.0,-35.0,-11,-31.0,-39,6.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-03,-26.0,-20.0,2,-21.0,-52,10.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-04,-18.0,-10.0,3,-12.0,-31,6.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-05,-17.0,-8.0,-1,-11.0,-24,6.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-06,-13.0,-4.0,2,-11.0,-23,6.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-07,-16.0,-5.0,5,-13.0,-18,6.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-08,-21.0,-8.0,2,-14.0,-16,6.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-09,-20.0,-8.0,-1,-12.0,-1,4.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-10,3.0,11.0,15,-5.0,-20,5.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-11,-3.0,4.0,11,-7.0,-18,4.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-12,-5.0,1.0,6,-7.0,-18,5.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-13,-2.0,4.0,13,-1.0,-19,4.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-14,-8.0,-6.0,27,-12.0,-55,11.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-15,-10.0,-3.0,5,-10.0,-15,5.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-16,-12.0,-6.0,2,-9.0,0,3.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-17,5.0,12.0,20,-1.0,-17,3.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-18,-2.0,2.0,13,-6.0,-16,4.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-19,-3.0,0.0,11,-8.0,-17,4.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-20,-5.0,-5.0,7,-13.0,-20,6.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-21,-4.0,-1.0,11,-12.0,-17,6.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-22,-4.0,1.0,10,-12.0,-9,5.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-23,-5.0,0.0,7,-11.0,3,4.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-24,11.0,14.0,24,-5.0,-14,4.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-25,4.0,6.0,20,-7.0,-16,4.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-26,-2.0,-2.0,10,-11.0,-16,5.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-27,-9.0,-11.0,1,-19.0,-20,7.0
+PK-PB,PK,Pakistan,Punjab,,,PK-PB,,2020-08-28,-2.0,0.0,12,-12.0,-20,5.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-15,3.0,0.0,6,3.0,4,0.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-16,2.0,0.0,5,5.0,4,0.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-17,0.0,-3.0,2,2.0,2,0.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-18,1.0,-1.0,4,3.0,2,0.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-19,-2.0,-4.0,1,2.0,2,0.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-20,-2.0,-5.0,0,1.0,1,0.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-21,-1.0,-3.0,4,2.0,2,0.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-22,1.0,-1.0,3,0.0,5,0.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-23,0.0,-2.0,4,1.0,5,1.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-24,0.0,-2.0,1,1.0,4,0.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-25,0.0,-2.0,2,1.0,3,0.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-26,-3.0,-2.0,1,0.0,4,0.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-27,-3.0,2.0,0,0.0,-3,2.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-28,-4.0,-1.0,-1,-1.0,-4,2.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-02-29,-1.0,1.0,-1,-3.0,5,0.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-01,-1.0,1.0,1,1.0,7,1.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-02,-1.0,3.0,1,1.0,-4,2.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-03,0.0,7.0,2,0.0,-5,2.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-04,0.0,8.0,2,2.0,-4,1.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-05,0.0,8.0,1,-1.0,-5,1.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-06,-2.0,5.0,0,-1.0,-4,2.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-07,-1.0,6.0,2,-1.0,0,1.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-08,0.0,4.0,4,1.0,6,0.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-09,0.0,6.0,4,0.0,-4,1.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-10,-1.0,5.0,2,0.0,-4,1.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-11,-4.0,4.0,0,-1.0,-3,1.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-12,-3.0,2.0,-3,-4.0,-4,2.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-13,-7.0,3.0,-2,-2.0,-4,2.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-14,-10.0,6.0,-5,-5.0,0,2.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-15,-12.0,6.0,-9,-5.0,3,3.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-16,-9.0,11.0,-9,-5.0,-5,3.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-17,-12.0,10.0,-11,-8.0,-7,4.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-18,-30.0,-4.0,-15,-11.0,-13,5.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-19,-39.0,-18.0,-24,-21.0,-22,9.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-20,-44.0,-19.0,-26,-25.0,-26,10.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-21,-57.0,-35.0,-40,-38.0,-36,14.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-22,-56.0,-22.0,-46,-41.0,-26,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-23,-83.0,-71.0,-70,-66.0,-82,29.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-24,-79.0,-61.0,-66,-64.0,-70,26.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-25,-81.0,-63.0,-67,-68.0,-72,27.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-26,-79.0,-57.0,-66,-68.0,-72,27.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-27,-80.0,-59.0,-66,-68.0,-72,27.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-28,-82.0,-64.0,-69,-71.0,-69,26.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-29,-80.0,-64.0,-71,-71.0,-48,18.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-30,-78.0,-57.0,-65,-67.0,-69,26.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-03-31,-77.0,-57.0,-63,-66.0,-68,26.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-01,-76.0,-57.0,-62,-64.0,-67,24.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-02,-74.0,-53.0,-60,-63.0,-65,24.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-03,-80.0,-63.0,-65,-68.0,-71,26.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-04,-75.0,-53.0,-61,-64.0,-58,22.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-05,-75.0,-56.0,-63,-64.0,-38,16.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-06,-72.0,-51.0,-57,-60.0,-58,22.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-07,-72.0,-50.0,-57,-59.0,-59,22.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-08,-75.0,-55.0,-60,-61.0,-63,23.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-09,-75.0,-56.0,-60,-63.0,-65,24.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-10,-78.0,-60.0,-62,-64.0,-67,24.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-11,-74.0,-52.0,-59,-62.0,-54,21.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-12,-75.0,-55.0,-63,-64.0,-39,16.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-13,-72.0,-50.0,-57,-60.0,-59,23.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-14,-73.0,-51.0,-57,-61.0,-59,23.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-15,-71.0,-52.0,-55,-58.0,-55,21.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-16,-70.0,-48.0,-55,-58.0,-55,21.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-17,-75.0,-56.0,-59,-62.0,-62,23.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-18,-70.0,-48.0,-56,-58.0,-47,19.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-19,-69.0,-50.0,-58,-58.0,-29,13.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-20,-66.0,-46.0,-52,-55.0,-50,19.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-21,-66.0,-45.0,-52,-55.0,-51,19.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-22,-65.0,-43.0,-51,-54.0,-49,18.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-23,-63.0,-38.0,-50,-52.0,-50,18.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-24,-67.0,-45.0,-53,-56.0,-57,21.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-25,-74.0,-57.0,-61,-64.0,-51,22.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-26,-72.0,-59.0,-64,-64.0,-34,17.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-27,-68.0,-54.0,-57,-60.0,-51,22.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-28,-67.0,-54.0,-55,-59.0,-50,20.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-29,-67.0,-53.0,-54,-58.0,-49,21.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-04-30,-66.0,-52.0,-54,-58.0,-48,20.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-01,-71.0,-56.0,-58,-62.0,-73,25.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-02,-68.0,-50.0,-55,-58.0,-43,19.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-03,-67.0,-52.0,-57,-59.0,-25,14.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-04,-63.0,-47.0,-49,-55.0,-45,19.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-05,-63.0,-47.0,-50,-55.0,-47,19.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-06,-62.0,-45.0,-49,-51.0,-45,19.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-07,-61.0,-43.0,-48,-51.0,-45,19.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-08,-66.0,-50.0,-52,-55.0,-54,21.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-09,-63.0,-45.0,-49,-51.0,-37,17.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-10,-61.0,-47.0,-52,-52.0,-18,13.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-11,-51.0,-35.0,-43,-46.0,-38,17.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-12,-49.0,-32.0,-40,-45.0,-39,17.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-13,-48.0,-31.0,-40,-44.0,-38,16.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-14,-44.0,-25.0,-37,-43.0,-39,15.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-15,-67.0,-54.0,-51,-53.0,-60,22.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-16,-63.0,-45.0,-48,-50.0,-38,18.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-17,-62.0,-47.0,-52,-52.0,-16,13.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-18,-40.0,-23.0,-35,-40.0,-36,15.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-19,-40.0,-23.0,-37,-39.0,-37,15.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-20,-40.0,-21.0,-36,-37.0,-38,15.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-21,-35.0,-14.0,-34,-33.0,-39,15.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-22,-41.0,-17.0,-38,-34.0,-62,20.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-23,-23.0,9.0,-27,-20.0,-50,16.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-24,-42.0,-48.0,-22,-29.0,-21,6.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-25,-48.0,-51.0,-31,-36.0,-75,18.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-26,-48.0,-45.0,-31,-35.0,-73,17.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-27,-46.0,-37.0,-34,-34.0,-65,17.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-28,-44.0,-30.0,-36,-35.0,-35,13.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-29,-49.0,-34.0,-38,-37.0,-36,14.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-30,-44.0,-27.0,-35,-34.0,-22,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-05-31,-45.0,-32.0,-38,-34.0,-6,8.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-01,-40.0,-24.0,-32,-31.0,-28,12.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-02,-40.0,-22.0,-31,-33.0,-28,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-03,-41.0,-23.0,-33,-32.0,-28,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-04,-39.0,-20.0,-31,-31.0,-29,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-05,-42.0,-20.0,-32,-31.0,-29,12.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-06,-56.0,-38.0,-40,-39.0,-35,14.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-07,-53.0,-40.0,-42,-39.0,-18,10.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-08,-34.0,-15.0,-27,-27.0,-27,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-09,-38.0,-20.0,-30,-31.0,-29,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-10,-38.0,-19.0,-28,-29.0,-28,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-11,-36.0,-17.0,-30,-31.0,-29,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-12,-40.0,-19.0,-31,-32.0,-30,12.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-13,-53.0,-36.0,-37,-39.0,-33,13.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-14,-52.0,-40.0,-40,-40.0,-17,10.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-15,-34.0,-16.0,-26,-29.0,-27,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-16,-36.0,-18.0,-28,-31.0,-28,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-17,-37.0,-19.0,-29,-30.0,-29,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-18,-38.0,-17.0,-30,-34.0,-30,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-19,-47.0,-31.0,-35,-37.0,-35,14.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-20,-56.0,-40.0,-40,-42.0,-34,13.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-21,-54.0,-45.0,-43,-44.0,-19,10.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-22,-38.0,-23.0,-28,-32.0,-31,12.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-23,-39.0,-25.0,-28,-33.0,-32,12.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-24,-41.0,-26.0,-30,-32.0,-31,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-25,-40.0,-24.0,-29,-33.0,-31,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-26,-43.0,-25.0,-32,-33.0,-32,12.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-27,-53.0,-37.0,-36,-39.0,-33,12.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-28,-51.0,-39.0,-39,-40.0,-17,9.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-29,-36.0,-21.0,-27,-30.0,-29,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-06-30,-37.0,-22.0,-28,-31.0,-29,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-01,-39.0,-24.0,-29,-31.0,-30,10.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-02,-37.0,-20.0,-27,-31.0,-30,10.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-03,-37.0,-16.0,-28,-30.0,-29,10.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-04,-49.0,-31.0,-32,-36.0,-31,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-05,-47.0,-34.0,-34,-35.0,-17,8.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-06,-37.0,-23.0,-29,-31.0,-29,9.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-07,-33.0,-17.0,-25,-28.0,-30,10.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-08,-38.0,-23.0,-29,-32.0,-28,10.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-09,-31.0,-13.0,-25,-28.0,-27,9.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-10,-32.0,-12.0,-25,-26.0,-26,9.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-11,-46.0,-30.0,-29,-32.0,-29,10.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-12,-42.0,-32.0,-28,-31.0,-15,7.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-13,-25.0,-8.0,-20,-23.0,-25,8.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-14,-27.0,-12.0,-22,-24.0,-26,8.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-15,-29.0,-13.0,-23,-24.0,-24,8.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-16,-28.0,-9.0,-23,-24.0,-25,8.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-17,-42.0,-30.0,-34,-31.0,-27,10.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-18,-46.0,-30.0,-29,-31.0,-31,10.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-19,-41.0,-30.0,-28,-30.0,-14,7.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-20,-20.0,-2.0,-17,-19.0,-23,7.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-21,-23.0,-6.0,-18,-21.0,-25,8.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-22,-25.0,-7.0,-18,-20.0,-22,7.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-23,-25.0,-7.0,-20,-21.0,-23,8.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-24,-27.0,-5.0,-18,-20.0,-23,8.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-25,-42.0,-24.0,-22,-26.0,-26,9.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-26,-54.0,-47.0,-42,-41.0,-21,9.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-27,-29.0,-11.0,-21,-23.0,-28,9.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-28,-20.0,1.0,-15,-17.0,-28,8.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-29,-18.0,8.0,-12,-10.0,-25,6.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-30,-15.0,13.0,-11,-8.0,-29,7.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-07-31,-11.0,32.0,-6,-4.0,-60,14.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-01,-55.0,-55.0,-24,-38.0,-69,15.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-02,-47.0,-51.0,-27,-33.0,-29,7.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-03,-41.0,-37.0,-18,-27.0,-60,14.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-04,-31.0,-18.0,-17,-21.0,-31,8.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-05,-29.0,-14.0,-17,-18.0,-25,6.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-06,-42.0,-30.0,-34,-30.0,-29,9.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-07,-55.0,-46.0,-43,-40.0,-43,14.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-08,-55.0,-46.0,-40,-41.0,-41,13.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-09,-39.0,-30.0,-24,-27.0,-14,6.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-10,-16.0,-2.0,-13,-14.0,-22,5.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-11,-16.0,-4.0,-12,-14.0,-22,5.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-12,-15.0,-2.0,-11,-11.0,-21,5.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-13,-7.0,6.0,-3,-4.0,-22,4.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-14,-16.0,-17.0,20,-8.0,-68,13.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-15,-20.0,-8.0,-11,-14.0,-17,5.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-16,-20.0,-17.0,-8,-13.0,-6,3.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-17,-14.0,-4.0,-8,-13.0,-20,5.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-18,-14.0,-5.0,-7,-14.0,-19,5.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-19,-13.0,-4.0,-6,-13.0,-19,4.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-20,-13.0,-3.0,-6,-16.0,-21,5.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-21,-37.0,-31.0,-28,-27.0,-27,9.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-22,-29.0,-19.0,-21,-29.0,-19,8.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-23,-17.0,-13.0,-8,-22.0,-5,5.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-24,-19.0,-8.0,-14,-22.0,-19,6.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-25,-51.0,-52.0,-36,-44.0,-57,17.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-26,-23.0,-10.0,-16,-26.0,-32,9.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-27,-58.0,-57.0,-39,-44.0,-54,11.0
+PK-SD,PK,Pakistan,Sindh,,,PK-SD,,2020-08-28,-48.0,-38.0,-33,-42.0,-64,9.0

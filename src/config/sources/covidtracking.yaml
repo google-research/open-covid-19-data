@@ -17,7 +17,9 @@ fetch:
   source_url: 'https://covidtracking.com/api/v1/states/daily.csv'
   method: 'AUTOMATIC_DOWNLOAD'
   file: 'daily.csv'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'covidtracking'
   dates:
     columns: ['date']

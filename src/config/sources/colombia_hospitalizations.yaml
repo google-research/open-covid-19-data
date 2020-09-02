@@ -17,7 +17,9 @@ fetch:
   source_url: 'https://raw.githubusercontent.com/dfuribez/COVID-19-Colombia/master/time_series.csv'
   method: 'AUTOMATIC_DOWNLOAD'
   file: 'time_series.csv'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'default_load_function'
   dates:
     columns: ['fecha']

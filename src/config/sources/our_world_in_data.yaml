@@ -17,7 +17,9 @@ fetch:
   source_url: 'https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv'
   method: 'AUTOMATIC_DOWNLOAD'
   file: 'full_data.csv'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'default_load_function'
   dates:
     columns: ['date']

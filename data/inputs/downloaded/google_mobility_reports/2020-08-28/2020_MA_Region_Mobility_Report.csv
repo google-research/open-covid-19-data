@@ -1,0 +1,785 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+MA,Morocco,,,,,,2020-02-15,1,-2,1,-3,5,1
+MA,Morocco,,,,,,2020-02-16,0,-2,3,-5,0,0
+MA,Morocco,,,,,,2020-02-17,-3,-3,0,-4,4,0
+MA,Morocco,,,,,,2020-02-18,0,-1,2,-4,5,0
+MA,Morocco,,,,,,2020-02-19,-1,-2,0,-3,4,0
+MA,Morocco,,,,,,2020-02-20,-1,0,5,0,4,0
+MA,Morocco,,,,,,2020-02-21,0,1,2,-4,8,0
+MA,Morocco,,,,,,2020-02-22,1,-1,3,-3,6,1
+MA,Morocco,,,,,,2020-02-23,1,0,8,-3,1,0
+MA,Morocco,,,,,,2020-02-24,-2,-2,3,-2,6,0
+MA,Morocco,,,,,,2020-02-25,1,-1,3,-3,6,0
+MA,Morocco,,,,,,2020-02-26,0,-2,-1,-4,5,0
+MA,Morocco,,,,,,2020-02-27,0,0,3,-2,4,0
+MA,Morocco,,,,,,2020-02-28,3,0,3,-4,8,0
+MA,Morocco,,,,,,2020-02-29,4,2,3,-1,8,0
+MA,Morocco,,,,,,2020-03-01,7,4,7,0,4,-1
+MA,Morocco,,,,,,2020-03-02,2,3,2,0,7,-1
+MA,Morocco,,,,,,2020-03-03,3,4,5,-2,6,0
+MA,Morocco,,,,,,2020-03-04,3,4,4,-1,6,0
+MA,Morocco,,,,,,2020-03-05,1,4,1,0,6,0
+MA,Morocco,,,,,,2020-03-06,2,3,1,-3,10,0
+MA,Morocco,,,,,,2020-03-07,3,2,2,-2,9,1
+MA,Morocco,,,,,,2020-03-08,3,2,9,-3,2,1
+MA,Morocco,,,,,,2020-03-09,-1,0,2,-3,6,0
+MA,Morocco,,,,,,2020-03-10,0,1,3,-3,6,0
+MA,Morocco,,,,,,2020-03-11,1,0,1,-4,6,0
+MA,Morocco,,,,,,2020-03-12,-2,0,0,-4,5,0
+MA,Morocco,,,,,,2020-03-13,-3,7,-4,-7,9,0
+MA,Morocco,,,,,,2020-03-14,-11,3,-14,-9,5,2
+MA,Morocco,,,,,,2020-03-15,-22,-8,-20,-19,-4,5
+MA,Morocco,,,,,,2020-03-16,-29,-1,-25,-21,-16,6
+MA,Morocco,,,,,,2020-03-17,-54,-18,-37,-35,-31,12
+MA,Morocco,,,,,,2020-03-18,-62,-30,-47,-44,-40,16
+MA,Morocco,,,,,,2020-03-19,-66,-36,-52,-49,-47,18
+MA,Morocco,,,,,,2020-03-20,-65,-28,-54,-53,-49,18
+MA,Morocco,,,,,,2020-03-21,-83,-64,-71,-72,-59,25
+MA,Morocco,,,,,,2020-03-22,-85,-68,-73,-76,-57,23
+MA,Morocco,,,,,,2020-03-23,-80,-57,-64,-71,-63,26
+MA,Morocco,,,,,,2020-03-24,-81,-60,-64,-73,-65,27
+MA,Morocco,,,,,,2020-03-25,-80,-57,-64,-72,-63,27
+MA,Morocco,,,,,,2020-03-26,-79,-56,-64,-72,-64,27
+MA,Morocco,,,,,,2020-03-27,-82,-60,-66,-75,-62,28
+MA,Morocco,,,,,,2020-03-28,-85,-68,-73,-78,-62,28
+MA,Morocco,,,,,,2020-03-29,-86,-71,-74,-80,-57,25
+MA,Morocco,,,,,,2020-03-30,-80,-59,-65,-74,-65,27
+MA,Morocco,,,,,,2020-03-31,-81,-60,-66,-74,-66,28
+MA,Morocco,,,,,,2020-04-01,-80,-57,-65,-73,-66,28
+MA,Morocco,,,,,,2020-04-02,-79,-56,-65,-72,-66,29
+MA,Morocco,,,,,,2020-04-03,-80,-57,-65,-75,-63,30
+MA,Morocco,,,,,,2020-04-04,-82,-62,-71,-76,-61,28
+MA,Morocco,,,,,,2020-04-05,-84,-66,-73,-78,-56,25
+MA,Morocco,,,,,,2020-04-06,-79,-56,-65,-73,-65,28
+MA,Morocco,,,,,,2020-04-07,-79,-55,-66,-74,-66,29
+MA,Morocco,,,,,,2020-04-08,-80,-57,-67,-75,-66,29
+MA,Morocco,,,,,,2020-04-09,-80,-56,-66,-74,-66,29
+MA,Morocco,,,,,,2020-04-10,-80,-57,-66,-75,-63,30
+MA,Morocco,,,,,,2020-04-11,-82,-62,-72,-76,-61,29
+MA,Morocco,,,,,,2020-04-12,-84,-66,-73,-79,-56,25
+MA,Morocco,,,,,,2020-04-13,-79,-55,-64,-73,-64,29
+MA,Morocco,,,,,,2020-04-14,-79,-56,-64,-73,-64,29
+MA,Morocco,,,,,,2020-04-15,-80,-57,-66,-74,-64,29
+MA,Morocco,,,,,,2020-04-16,-79,-56,-65,-73,-64,30
+MA,Morocco,,,,,,2020-04-17,-81,-58,-66,-76,-62,31
+MA,Morocco,,,,,,2020-04-18,-81,-61,-71,-76,-60,27
+MA,Morocco,,,,,,2020-04-19,-83,-63,-72,-77,-54,24
+MA,Morocco,,,,,,2020-04-20,-76,-51,-62,-70,-61,27
+MA,Morocco,,,,,,2020-04-21,-77,-52,-63,-71,-62,28
+MA,Morocco,,,,,,2020-04-22,-76,-51,-63,-70,-62,28
+MA,Morocco,,,,,,2020-04-23,-75,-49,-62,-69,-61,27
+MA,Morocco,,,,,,2020-04-24,-76,-50,-63,-71,-60,29
+MA,Morocco,,,,,,2020-04-25,-81,-61,-73,-76,-60,30
+MA,Morocco,,,,,,2020-04-26,-83,-65,-74,-78,-55,27
+MA,Morocco,,,,,,2020-04-27,-79,-57,-66,-73,-62,30
+MA,Morocco,,,,,,2020-04-28,-79,-57,-65,-73,-63,28
+MA,Morocco,,,,,,2020-04-29,-79,-56,-66,-72,-62,30
+MA,Morocco,,,,,,2020-04-30,-78,-54,-65,-72,-62,29
+MA,Morocco,,,,,,2020-05-01,-82,-57,-68,-76,-72,33
+MA,Morocco,,,,,,2020-05-02,-81,-59,-71,-74,-57,29
+MA,Morocco,,,,,,2020-05-03,-84,-64,-73,-77,-52,24
+MA,Morocco,,,,,,2020-05-04,-77,-52,-63,-70,-59,28
+MA,Morocco,,,,,,2020-05-05,-77,-52,-62,-70,-60,29
+MA,Morocco,,,,,,2020-05-06,-77,-50,-63,-69,-59,29
+MA,Morocco,,,,,,2020-05-07,-76,-50,-63,-69,-59,29
+MA,Morocco,,,,,,2020-05-08,-77,-49,-64,-71,-57,30
+MA,Morocco,,,,,,2020-05-09,-79,-54,-69,-71,-53,28
+MA,Morocco,,,,,,2020-05-10,-81,-57,-71,-74,-49,25
+MA,Morocco,,,,,,2020-05-11,-75,-48,-61,-67,-57,28
+MA,Morocco,,,,,,2020-05-12,-76,-48,-61,-68,-58,28
+MA,Morocco,,,,,,2020-05-13,-78,-52,-64,-70,-57,28
+MA,Morocco,,,,,,2020-05-14,-76,-49,-63,-68,-57,27
+MA,Morocco,,,,,,2020-05-15,-76,-47,-62,-69,-54,30
+MA,Morocco,,,,,,2020-05-16,-77,-50,-67,-69,-49,27
+MA,Morocco,,,,,,2020-05-17,-79,-53,-69,-71,-45,24
+MA,Morocco,,,,,,2020-05-18,-72,-43,-58,-64,-54,27
+MA,Morocco,,,,,,2020-05-19,-73,-44,-59,-65,-55,28
+MA,Morocco,,,,,,2020-05-20,-73,-42,-59,-64,-54,27
+MA,Morocco,,,,,,2020-05-21,-72,-40,-57,-63,-55,27
+MA,Morocco,,,,,,2020-05-22,-71,-36,-57,-64,-51,26
+MA,Morocco,,,,,,2020-05-23,-71,-37,-63,-62,-48,22
+MA,Morocco,,,,,,2020-05-24,-91,-79,-77,-82,-56,22
+MA,Morocco,,,,,,2020-05-25,-87,-66,-70,-78,-75,29
+MA,Morocco,,,,,,2020-05-26,-76,-49,-61,-67,-54,22
+MA,Morocco,,,,,,2020-05-27,-73,-43,-59,-64,-50,22
+MA,Morocco,,,,,,2020-05-28,-71,-41,-57,-62,-49,22
+MA,Morocco,,,,,,2020-05-29,-71,-39,-57,-63,-45,23
+MA,Morocco,,,,,,2020-05-30,-71,-42,-63,-63,-38,21
+MA,Morocco,,,,,,2020-05-31,-73,-47,-65,-66,-31,20
+MA,Morocco,,,,,,2020-06-01,-64,-34,-51,-55,-41,21
+MA,Morocco,,,,,,2020-06-02,-65,-35,-51,-56,-41,22
+MA,Morocco,,,,,,2020-06-03,-65,-35,-53,-56,-40,23
+MA,Morocco,,,,,,2020-06-04,-64,-34,-51,-55,-40,23
+MA,Morocco,,,,,,2020-06-05,-65,-33,-53,-58,-36,23
+MA,Morocco,,,,,,2020-06-06,-67,-37,-60,-59,-31,22
+MA,Morocco,,,,,,2020-06-07,-69,-41,-61,-62,-28,20
+MA,Morocco,,,,,,2020-06-08,-62,-32,-51,-54,-37,21
+MA,Morocco,,,,,,2020-06-09,-63,-33,-50,-55,-37,22
+MA,Morocco,,,,,,2020-06-10,-61,-32,-49,-53,-36,22
+MA,Morocco,,,,,,2020-06-11,-53,-23,-38,-48,-35,19
+MA,Morocco,,,,,,2020-06-12,-54,-23,-41,-51,-31,20
+MA,Morocco,,,,,,2020-06-13,-54,-26,-44,-49,-24,18
+MA,Morocco,,,,,,2020-06-14,-57,-30,-45,-53,-20,16
+MA,Morocco,,,,,,2020-06-15,-51,-23,-36,-46,-31,17
+MA,Morocco,,,,,,2020-06-16,-51,-22,-35,-45,-32,17
+MA,Morocco,,,,,,2020-06-17,-50,-22,-36,-45,-31,17
+MA,Morocco,,,,,,2020-06-18,-51,-22,-37,-45,-32,17
+MA,Morocco,,,,,,2020-06-19,-52,-21,-37,-48,-28,18
+MA,Morocco,,,,,,2020-06-20,-53,-25,-42,-47,-20,17
+MA,Morocco,,,,,,2020-06-21,-55,-28,-42,-51,-17,16
+MA,Morocco,,,,,,2020-06-22,-48,-20,-34,-44,-30,16
+MA,Morocco,,,,,,2020-06-23,-47,-19,-32,-42,-31,16
+MA,Morocco,,,,,,2020-06-24,-47,-19,-35,-42,-28,16
+MA,Morocco,,,,,,2020-06-25,-30,-11,-18,-33,-27,13
+MA,Morocco,,,,,,2020-06-26,-30,-11,-18,-35,-23,13
+MA,Morocco,,,,,,2020-06-27,-28,-12,-18,-33,-17,11
+MA,Morocco,,,,,,2020-06-28,-29,-16,-14,-37,-10,9
+MA,Morocco,,,,,,2020-06-29,-24,-9,-15,-30,-24,10
+MA,Morocco,,,,,,2020-06-30,-21,-5,-12,-28,-24,10
+MA,Morocco,,,,,,2020-07-01,-21,-5,-12,-27,-24,10
+MA,Morocco,,,,,,2020-07-02,-19,-3,-10,-25,-24,10
+MA,Morocco,,,,,,2020-07-03,-20,-3,-11,-28,-20,11
+MA,Morocco,,,,,,2020-07-04,-20,-6,-9,-27,-13,9
+MA,Morocco,,,,,,2020-07-05,-22,-11,-3,-31,-9,7
+MA,Morocco,,,,,,2020-07-06,-18,-4,-8,-25,-22,8
+MA,Morocco,,,,,,2020-07-07,-17,-3,-3,-24,-22,9
+MA,Morocco,,,,,,2020-07-08,-17,-4,-7,-24,-20,8
+MA,Morocco,,,,,,2020-07-09,-15,0,-1,-21,-21,9
+MA,Morocco,,,,,,2020-07-10,-16,-1,-4,-25,-17,9
+MA,Morocco,,,,,,2020-07-11,-18,-6,-3,-25,-10,8
+MA,Morocco,,,,,,2020-07-12,-18,-8,4,-27,-6,6
+MA,Morocco,,,,,,2020-07-13,-15,-2,-5,-23,-20,8
+MA,Morocco,,,,,,2020-07-14,-15,-2,0,-23,-22,8
+MA,Morocco,,,,,,2020-07-15,-15,-1,-5,-21,-18,8
+MA,Morocco,,,,,,2020-07-16,-14,0,-2,-22,-19,8
+MA,Morocco,,,,,,2020-07-17,-14,2,-1,-23,-14,8
+MA,Morocco,,,,,,2020-07-18,-16,-2,1,-22,-7,7
+MA,Morocco,,,,,,2020-07-19,-16,-3,8,-24,-2,5
+MA,Morocco,,,,,,2020-07-20,-10,5,1,-17,-19,7
+MA,Morocco,,,,,,2020-07-21,-10,6,5,-17,-20,7
+MA,Morocco,,,,,,2020-07-22,-12,3,0,-17,-18,7
+MA,Morocco,,,,,,2020-07-23,-10,6,5,-16,-18,7
+MA,Morocco,,,,,,2020-07-24,-10,5,3,-19,-14,8
+MA,Morocco,,,,,,2020-07-25,-14,1,2,-19,-8,7
+MA,Morocco,,,,,,2020-07-26,-15,1,2,-17,0,5
+MA,Morocco,,,,,,2020-07-27,-9,11,1,-14,-24,8
+MA,Morocco,,,,,,2020-07-28,-9,17,4,-16,-27,8
+MA,Morocco,,,,,,2020-07-29,-7,22,2,-16,-32,8
+MA,Morocco,,,,,,2020-07-30,-19,18,-8,-28,-57,15
+MA,Morocco,,,,,,2020-07-31,-59,-46,-34,-56,-70,21
+MA,Morocco,,,,,,2020-08-01,-45,-38,-21,-50,-49,14
+MA,Morocco,,,,,,2020-08-02,-33,-28,-6,-42,-23,7
+MA,Morocco,,,,,,2020-08-03,-20,-11,10,-35,-42,11
+MA,Morocco,,,,,,2020-08-04,-17,-7,15,-32,-40,11
+MA,Morocco,,,,,,2020-08-05,-17,-8,9,-31,-37,10
+MA,Morocco,,,,,,2020-08-06,-15,-5,14,-30,-36,10
+MA,Morocco,,,,,,2020-08-07,-16,-7,9,-33,-31,11
+MA,Morocco,,,,,,2020-08-08,-22,-14,2,-35,-23,10
+MA,Morocco,,,,,,2020-08-09,-21,-14,7,-34,-10,7
+MA,Morocco,,,,,,2020-08-10,-13,-2,9,-27,-30,9
+MA,Morocco,,,,,,2020-08-11,-14,-3,12,-28,-31,10
+MA,Morocco,,,,,,2020-08-12,-14,-4,9,-28,-30,10
+MA,Morocco,,,,,,2020-08-13,-13,-1,13,-26,-30,9
+MA,Morocco,,,,,,2020-08-14,-19,-7,12,-36,-44,14
+MA,Morocco,,,,,,2020-08-15,-22,-12,5,-34,-19,9
+MA,Morocco,,,,,,2020-08-16,-21,-13,7,-35,-10,7
+MA,Morocco,,,,,,2020-08-17,-12,-2,12,-28,-30,9
+MA,Morocco,,,,,,2020-08-18,-12,-4,15,-28,-28,9
+MA,Morocco,,,,,,2020-08-19,-11,-5,13,-27,-29,9
+MA,Morocco,,,,,,2020-08-20,-13,-9,26,-34,-47,12
+MA,Morocco,,,,,,2020-08-21,-18,-16,21,-41,-46,15
+MA,Morocco,,,,,,2020-08-22,-21,-18,5,-38,-19,10
+MA,Morocco,,,,,,2020-08-23,-21,-20,-1,-39,-8,8
+MA,Morocco,,,,,,2020-08-24,-10,-8,7,-31,-26,9
+MA,Morocco,,,,,,2020-08-25,-9,-10,10,-32,-27,10
+MA,Morocco,,,,,,2020-08-26,-9,-12,6,-33,-25,10
+MA,Morocco,,,,,,2020-08-27,-5,-11,10,-32,-26,9
+MA,Morocco,,,,,,2020-08-28,-5,-12,7,-35,-22,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-15,4,-1,8,-1,4,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-16,-1,-3,1,-2,0,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-17,-2,-3,3,-4,3,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-18,-1,-2,0,-4,4,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-19,-2,-2,2,-3,3,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-20,-2,-1,-1,-1,3,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-21,-2,-1,1,-2,6,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-22,-2,-2,7,-3,5,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-23,-1,-3,12,-1,2,-1
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-24,-3,-3,1,-4,4,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-25,-1,-2,0,-4,3,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-26,-2,-2,1,-3,3,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-27,-1,0,0,-2,2,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-28,4,0,0,-1,5,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-02-29,3,3,3,-3,6,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-01,4,5,8,1,2,-1
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-02,1,5,2,-1,6,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-03,2,7,5,-3,6,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-04,1,6,5,-2,5,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-05,-1,5,2,-1,5,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-06,1,5,3,-1,8,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-07,2,3,3,-5,7,1
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-08,1,3,10,-3,2,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-09,-1,1,1,-6,5,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-10,-1,2,4,-6,5,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-11,-1,0,1,-6,4,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-12,-4,0,-3,-6,4,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-13,-5,14,-3,-6,6,0
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-14,-15,7,-10,-11,3,3
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-15,-28,-9,-23,-18,-4,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-16,-30,8,-28,-24,-13,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-17,-56,-13,-46,-37,-30,13
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-18,-63,-26,-56,-46,-41,17
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-19,-68,-33,-64,-50,-49,20
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-20,-68,-21,-68,-54,-52,21
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-21,-86,-67,-84,-75,-65,28
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-22,-89,-72,-86,-78,-61,25
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-23,-82,-58,-80,-73,-67,30
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-24,-83,-60,-82,-74,-68,30
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-25,-82,-57,-80,-73,-67,29
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-26,-82,-56,-80,-72,-68,29
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-27,-84,-60,-82,-76,-67,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-28,-88,-69,-86,-80,-67,30
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-29,-90,-74,-87,-82,-61,26
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-30,-82,-60,-82,-76,-69,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-03-31,-83,-59,-82,-76,-70,31
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-01,-82,-57,-81,-75,-70,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-02,-81,-55,-81,-73,-70,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-03,-82,-55,-80,-75,-69,34
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-04,-84,-60,-83,-77,-67,30
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-05,-87,-68,-86,-80,-61,26
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-06,-81,-56,-80,-75,-69,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-07,-81,-52,-81,-75,-71,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-08,-82,-56,-82,-76,-71,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-09,-82,-56,-81,-75,-71,33
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-10,-83,-56,-81,-76,-69,34
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-11,-85,-62,-84,-78,-67,31
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-12,-88,-69,-85,-81,-61,26
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-13,-80,-54,-80,-74,-69,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-14,-81,-57,-80,-75,-69,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-15,-82,-57,-80,-75,-68,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-16,-81,-56,-80,-74,-68,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-17,-83,-57,-80,-76,-67,35
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-18,-83,-60,-82,-77,-65,30
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-19,-85,-63,-83,-78,-58,25
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-20,-77,-51,-76,-71,-65,31
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-21,-78,-51,-78,-71,-66,31
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-22,-78,-50,-77,-70,-66,31
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-23,-77,-47,-76,-69,-66,30
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-24,-78,-47,-77,-71,-65,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-25,-83,-59,-83,-76,-65,31
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-26,-85,-64,-84,-79,-60,27
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-27,-79,-56,-78,-73,-66,33
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-28,-80,-56,-79,-73,-67,33
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-29,-80,-55,-79,-72,-66,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-04-30,-79,-53,-78,-71,-66,31
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-01,-83,-55,-82,-77,-81,38
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-02,-82,-57,-81,-74,-63,30
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-03,-85,-64,-83,-77,-56,24
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-04,-77,-50,-75,-70,-63,30
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-05,-78,-50,-76,-69,-64,31
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-06,-78,-50,-75,-68,-63,31
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-07,-77,-49,-75,-68,-63,31
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-08,-78,-48,-75,-70,-62,33
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-09,-80,-52,-78,-70,-58,29
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-10,-82,-57,-80,-73,-52,25
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-11,-76,-47,-73,-67,-60,30
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-12,-77,-49,-74,-67,-61,30
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-13,-79,-53,-76,-70,-61,31
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-14,-78,-49,-76,-68,-61,31
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-15,-77,-45,-75,-68,-59,32
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-16,-78,-49,-75,-68,-54,28
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-17,-81,-54,-78,-71,-49,24
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-18,-73,-44,-70,-64,-58,29
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-19,-75,-44,-72,-65,-59,29
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-20,-74,-42,-71,-63,-58,29
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-21,-73,-40,-70,-62,-59,28
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-22,-72,-34,-69,-62,-56,29
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-23,-72,-36,-71,-61,-52,22
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-24,-93,-86,-89,-82,-60,22
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-25,-88,-68,-86,-79,-83,33
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-26,-78,-48,-75,-67,-57,24
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-27,-75,-43,-72,-63,-53,24
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-28,-73,-41,-70,-62,-52,24
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-29,-72,-39,-68,-62,-49,25
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-30,-72,-41,-70,-62,-41,22
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-05-31,-76,-49,-74,-65,-35,20
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-01,-64,-35,-60,-56,-44,23
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-02,-65,-34,-61,-55,-44,23
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-03,-65,-35,-61,-55,-43,24
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-04,-65,-33,-60,-53,-43,24
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-05,-66,-32,-60,-56,-40,25
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-06,-67,-35,-65,-56,-34,22
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-07,-71,-42,-68,-60,-30,20
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-08,-62,-33,-57,-52,-40,22
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-09,-63,-32,-58,-52,-40,22
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-10,-62,-32,-57,-52,-39,22
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-11,-56,-25,-50,-49,-39,21
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-12,-58,-25,-51,-51,-35,22
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-13,-57,-27,-52,-50,-26,19
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-14,-63,-34,-59,-54,-22,17
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-15,-53,-25,-44,-48,-35,18
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-16,-54,-24,-45,-47,-35,19
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-17,-54,-23,-47,-46,-35,18
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-18,-54,-22,-45,-45,-35,18
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-19,-55,-21,-43,-48,-32,20
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-20,-54,-22,-45,-46,-22,17
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-21,-59,-29,-52,-51,-19,16
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-22,-50,-21,-38,-46,-34,17
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-23,-51,-21,-41,-44,-34,17
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-24,-50,-20,-38,-43,-32,17
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-25,-31,-11,-18,-33,-30,13
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-26,-31,-9,-21,-34,-27,14
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-27,-27,-10,-13,-32,-18,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-28,-29,-16,-11,-34,-8,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-29,-23,-7,-12,-31,-27,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-06-30,-20,-4,-10,-28,-27,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-01,-19,-3,-10,-26,-26,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-02,-17,-1,-7,-25,-27,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-03,-19,-1,-8,-27,-24,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-04,-17,-2,3,-26,-14,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-05,-21,-11,3,-28,-10,4
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-06,-15,-2,-3,-25,-25,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-07,-15,-1,-3,-23,-25,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-08,-16,-1,-3,-23,-23,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-09,-13,1,0,-20,-24,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-10,-16,0,-3,-23,-21,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-11,-17,-3,6,-24,-11,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-12,-20,-9,9,-26,-5,3
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-13,-14,-1,-2,-23,-23,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-14,-12,0,2,-22,-25,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-15,-12,0,0,-19,-21,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-16,-12,2,1,-19,-22,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-17,-14,3,-1,-20,-19,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-18,-14,0,8,-20,-8,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-19,-16,-5,11,-22,-2,3
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-20,-8,7,4,-16,-19,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-21,-8,7,3,-16,-20,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-22,-9,6,1,-15,-20,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-23,-8,10,6,-13,-21,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-24,-9,9,3,-15,-18,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-25,-10,6,13,-16,-8,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-26,-14,3,6,-11,3,1
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-27,-11,11,-5,-17,-27,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-28,-11,18,-8,-18,-30,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-29,-12,24,-11,-18,-36,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-30,-27,16,-33,-30,-68,18
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-07-31,-65,-56,-59,-52,-78,25
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-01,-53,-44,-39,-51,-55,14
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-02,-38,-34,-21,-44,-22,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-03,-24,-14,-17,-41,-46,12
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-04,-21,-11,-16,-39,-44,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-05,-22,-11,-15,-37,-41,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-06,-20,-8,-11,-36,-40,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-07,-21,-10,-12,-37,-37,12
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-08,-25,-15,-11,-39,-26,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-09,-23,-18,-2,-37,-8,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-10,-15,-5,-3,-32,-34,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-11,-15,-4,-3,-32,-34,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-12,-16,-4,-7,-31,-33,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-13,-15,-1,-3,-29,-34,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-14,-24,-10,-11,-39,-57,17
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-15,-25,-15,-5,-38,-22,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-16,-26,-19,-1,-37,-8,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-17,-14,-2,-1,-32,-34,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-18,-14,-6,-5,-32,-33,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-19,-14,-4,-2,-32,-34,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-20,-20,-10,-3,-40,-58,14
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-21,-28,-19,-12,-46,-59,18
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-22,-29,-21,-18,-45,-24,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-23,-27,-23,-22,-43,-6,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-24,-11,-7,-6,-37,-30,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-25,-10,-7,-4,-37,-30,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-26,-10,-8,-5,-37,-28,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-27,-7,-7,-3,-37,-29,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,2020-08-28,-7,-6,-1,-39,-26,11
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-15,0,-1,-1,0,8,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-16,-1,-2,-1,3,0,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-17,-3,-1,0,0,4,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-18,5,2,5,5,7,-1
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-19,3,0,4,7,5,-1
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-20,2,2,16,10,5,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-21,2,3,2,6,5,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-22,3,3,8,7,9,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-23,2,2,10,7,4,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-24,0,1,5,9,6,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-25,3,1,4,5,7,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-26,2,0,2,5,6,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-27,0,-1,9,7,5,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-28,5,0,2,7,6,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-02-29,6,4,5,7,12,-1
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-01,7,6,4,10,5,-1
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-02,3,4,8,5,8,-1
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-03,6,5,11,8,9,-1
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-04,7,4,13,11,7,-1
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-05,3,2,8,8,7,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-06,4,1,0,9,8,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-07,5,2,3,4,12,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-08,2,0,3,3,3,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-09,-1,0,5,-1,6,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-10,-1,-2,2,4,8,-1
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-11,3,-1,2,5,7,-1
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-12,-3,-2,0,-3,6,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-13,-5,6,-5,-3,6,0
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-14,-13,1,-14,-9,7,1
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-15,-26,-15,-27,-23,-3,3
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-16,-34,-2,-28,-23,-20,6
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-17,-58,-19,-47,-36,-36,11
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-18,-66,-34,-54,-45,-44,15
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-19,-71,-40,-62,-55,-52,18
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-20,-71,-31,-62,-57,-53,17
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-21,-85,-66,-78,-74,-65,23
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-22,-87,-71,-81,-77,-64,22
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-23,-82,-57,-75,-75,-66,24
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-24,-83,-59,-76,-76,-68,24
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-25,-82,-58,-73,-74,-67,24
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-26,-81,-55,-73,-75,-67,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-27,-85,-61,-76,-77,-66,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-28,-87,-69,-82,-80,-68,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-29,-88,-73,-82,-82,-63,23
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-30,-82,-59,-74,-75,-69,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-03-31,-83,-60,-77,-76,-68,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-01,-82,-57,-74,-74,-69,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-02,-81,-56,-74,-76,-70,28
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-03,-83,-58,-75,-77,-66,27
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-04,-84,-62,-78,-78,-67,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-05,-86,-67,-80,-80,-63,23
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-06,-81,-55,-73,-75,-69,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-07,-81,-53,-75,-73,-69,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-08,-82,-55,-73,-75,-69,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-09,-81,-55,-74,-75,-69,27
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-10,-82,-58,-75,-77,-67,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-11,-83,-60,-79,-76,-64,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-12,-87,-67,-81,-80,-62,23
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-13,-81,-58,-74,-72,-68,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-14,-81,-59,-74,-75,-67,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-15,-83,-61,-73,-73,-67,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-16,-83,-62,-77,-77,-68,28
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-17,-84,-67,-78,-79,-67,28
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-18,-84,-68,-80,-79,-66,27
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-19,-87,-70,-81,-79,-63,23
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-20,-80,-56,-71,-73,-65,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-21,-81,-59,-75,-74,-66,27
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-22,-80,-57,-71,-70,-65,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-23,-79,-54,-68,-72,-65,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-24,-80,-58,-70,-73,-64,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-25,-84,-67,-79,-80,-67,28
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-26,-86,-70,-79,-80,-63,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-27,-81,-61,-71,-75,-65,28
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-28,-81,-61,-72,-74,-66,28
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-29,-81,-59,-71,-73,-65,27
+MA,Morocco,,,Fes Metropolitan Area,,,2020-04-30,-80,-58,-71,-71,-65,27
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-01,-83,-62,-75,-76,-73,30
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-02,-82,-64,-77,-76,-61,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-03,-85,-68,-79,-78,-59,23
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-04,-78,-56,-70,-70,-63,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-05,-79,-55,-72,-72,-63,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-06,-78,-54,-68,-69,-62,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-07,-78,-55,-70,-70,-63,27
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-08,-79,-56,-70,-72,-61,28
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-09,-80,-59,-74,-71,-57,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-10,-82,-64,-76,-74,-57,24
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-11,-76,-51,-68,-67,-60,27
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-12,-77,-52,-70,-68,-60,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-13,-78,-56,-71,-69,-60,26
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-14,-77,-53,-69,-69,-60,27
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-15,-78,-56,-68,-70,-58,27
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-16,-78,-57,-70,-71,-53,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-17,-79,-60,-72,-71,-51,23
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-18,-74,-47,-62,-64,-56,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-19,-75,-48,-65,-65,-57,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-20,-74,-48,-64,-61,-57,24
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-21,-74,-45,-65,-64,-57,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-22,-73,-45,-63,-65,-55,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-23,-72,-47,-68,-64,-52,21
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-24,-91,-81,-86,-82,-64,22
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-25,-88,-67,-84,-78,-76,28
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-26,-79,-51,-71,-68,-58,22
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-27,-75,-46,-67,-60,-54,22
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-28,-73,-41,-63,-61,-53,22
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-29,-72,-45,-63,-62,-48,22
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-30,-72,-45,-68,-62,-43,21
+MA,Morocco,,,Fes Metropolitan Area,,,2020-05-31,-73,-49,-69,-64,-37,20
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-01,-63,-34,-57,-50,-44,22
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-02,-64,-35,-57,-53,-43,22
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-03,-65,-37,-57,-52,-43,22
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-04,-64,-36,-57,-55,-43,24
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-05,-66,-39,-57,-60,-40,24
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-06,-67,-42,-66,-61,-35,22
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-07,-69,-47,-68,-62,-32,21
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-08,-61,-34,-51,-53,-40,22
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-09,-61,-36,-53,-55,-40,22
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-10,-61,-35,-53,-53,-40,22
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-11,-56,-30,-47,-52,-39,21
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-12,-59,-34,-51,-55,-35,21
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-13,-58,-35,-52,-54,-28,19
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-14,-62,-42,-57,-59,-26,18
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-15,-55,-32,-46,-51,-36,19
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-16,-52,-30,-47,-50,-35,18
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-17,-53,-30,-42,-49,-35,18
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-18,-55,-32,-46,-50,-36,20
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-19,-55,-32,-44,-51,-32,19
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-20,-56,-35,-49,-52,-24,18
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-21,-59,-41,-54,-56,-21,16
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-22,-51,-29,-42,-47,-33,17
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-23,-50,-27,-41,-46,-33,17
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-24,-48,-28,-40,-40,-31,17
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-25,-29,-15,-28,-29,-30,14
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-26,-29,-16,-30,-32,-27,13
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-27,-29,-21,-34,-33,-20,11
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-28,-30,-26,-38,-37,-13,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-29,-24,-15,-26,-27,-28,11
+MA,Morocco,,,Fes Metropolitan Area,,,2020-06-30,-21,-12,-29,-30,-27,11
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-01,-22,-14,-25,-27,-28,10
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-02,-20,-13,-26,-28,-28,12
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-03,-23,-16,-27,-32,-26,11
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-04,-26,-21,-32,-35,-18,10
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-05,-31,-28,-41,-39,-16,8
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-06,-22,-14,-25,-29,-26,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-07,-21,-15,-29,-30,-26,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-08,-21,-15,-27,-26,-24,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-09,-19,-11,-21,-27,-25,10
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-10,-21,-16,-27,-30,-22,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-11,-26,-22,-35,-33,-14,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-12,-28,-28,-38,-39,-11,7
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-13,-18,-12,-21,-23,-23,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-14,-19,-13,-27,-30,-24,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-15,-19,-14,-25,-27,-21,8
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-16,-21,-13,-26,-32,-22,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-17,-20,-13,-26,-29,-19,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-18,-25,-18,-31,-31,-9,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-19,-26,-24,-35,-36,-6,6
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-20,-20,-11,-22,-28,-20,8
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-21,-14,-7,-18,-27,-20,8
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-22,-16,-8,-17,-22,-21,8
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-23,-16,-8,-14,-26,-22,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-24,-17,-10,-17,-27,-20,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-25,-23,-16,-26,-28,-11,9
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-26,-26,-22,-34,-28,-2,6
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-27,-25,-7,-18,-27,-28,12
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-28,-22,-1,-18,-28,-30,12
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-29,-22,2,-14,-29,-36,11
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-30,-29,1,-27,-42,-55,18
+MA,Morocco,,,Fes Metropolitan Area,,,2020-07-31,-64,-53,-64,-65,-72,25
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-01,-50,-43,-57,-59,-51,18
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-02,-43,-36,-50,-50,-26,11
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-03,-32,-21,-32,-43,-44,15
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-04,-33,-20,-33,-41,-43,15
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-05,-31,-24,-32,-39,-40,13
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-06,-30,-22,-36,-46,-40,16
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-07,-32,-27,-37,-50,-37,16
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-08,-37,-33,-44,-51,-27,15
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-09,-37,-37,-45,-53,-16,12
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-10,-26,-20,-29,-44,-37,13
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-11,-26,-19,-31,-41,-36,13
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-12,-28,-24,-30,-41,-36,13
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-13,-28,-22,-32,-46,-35,14
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-14,-32,-26,-42,-52,-43,17
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-15,-36,-33,-43,-51,-23,14
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-16,-37,-35,-44,-54,-12,11
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-17,-26,-21,-25,-44,-35,12
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-18,-24,-24,-29,-44,-33,12
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-19,-25,-25,-23,-42,-34,12
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-20,-27,-26,-31,-50,-45,16
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-21,-32,-34,-38,-55,-45,18
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-22,-32,-35,-34,-53,-21,13
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-23,-34,-37,-41,-53,-11,10
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-24,-19,-22,-18,-45,-32,12
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-25,-18,-24,-23,-45,-32,12
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-26,-19,-27,-19,-46,-31,12
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-27,-15,-25,-20,-47,-31,12
+MA,Morocco,,,Fes Metropolitan Area,,,2020-08-28,-14,-29,-17,-49,-29,12
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-15,0,-2,-3,-7,4,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-16,-1,-2,-5,-9,0,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-17,2,-1,5,-2,4,-1
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-18,4,0,8,1,4,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-19,3,-2,10,-1,4,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-20,7,7,22,3,5,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-21,4,3,7,-6,7,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-22,5,0,1,-6,7,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-23,2,0,-1,-8,1,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-24,3,0,10,-2,6,-1
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-25,4,0,7,-1,6,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-26,4,0,5,-2,5,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-27,4,4,10,-4,4,1
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-28,6,4,7,-8,8,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-02-29,9,5,6,-4,8,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-01,7,3,-3,-4,4,-1
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-02,6,6,11,1,8,-1
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-03,6,4,7,-1,7,-1
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-04,5,3,6,1,5,-1
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-05,3,6,4,-1,6,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-06,2,3,0,-5,9,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-07,5,0,-6,-5,7,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-08,4,1,-4,-9,1,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-09,4,3,8,-1,6,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-10,2,1,6,-2,4,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-11,1,0,0,-4,3,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-12,-3,2,-5,-5,4,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-13,-7,4,-19,-10,6,0
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-14,-20,-3,-38,-14,2,2
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-15,-35,-15,-48,-22,-6,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-16,-38,-7,-49,-21,-21,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-17,-61,-24,-63,-32,-36,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-18,-69,-37,-74,-41,-45,17
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-19,-76,-47,-82,-51,-53,22
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-20,-73,-34,-83,-57,-54,19
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-21,-88,-71,-92,-76,-67,28
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-22,-91,-75,-93,-80,-66,25
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-23,-86,-64,-90,-76,-68,27
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-24,-86,-65,-89,-76,-70,28
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-25,-85,-64,-89,-76,-69,28
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-26,-86,-63,-90,-77,-69,28
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-27,-88,-69,-91,-80,-69,29
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-28,-90,-76,-93,-83,-72,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-29,-92,-78,-94,-84,-68,26
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-30,-87,-68,-91,-79,-72,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-03-31,-87,-68,-91,-79,-73,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-01,-86,-66,-90,-78,-73,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-02,-86,-65,-90,-78,-73,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-03,-88,-68,-91,-81,-71,32
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-04,-89,-71,-93,-82,-72,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-05,-90,-76,-94,-83,-68,27
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-06,-86,-66,-90,-79,-72,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-07,-86,-65,-90,-79,-73,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-08,-86,-67,-90,-79,-73,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-09,-86,-66,-91,-80,-73,32
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-10,-88,-67,-91,-81,-71,32
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-11,-89,-71,-93,-82,-71,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-12,-90,-75,-94,-83,-67,27
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-13,-85,-65,-89,-78,-71,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-14,-86,-66,-90,-78,-72,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-15,-86,-67,-91,-79,-72,32
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-16,-86,-66,-90,-80,-71,32
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-17,-88,-70,-91,-82,-70,32
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-18,-89,-72,-94,-82,-70,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-19,-89,-73,-93,-83,-66,26
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-20,-83,-62,-89,-76,-68,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-21,-83,-61,-89,-75,-70,29
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-22,-83,-62,-89,-76,-69,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-23,-83,-59,-89,-75,-69,29
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-24,-85,-63,-89,-79,-68,29
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-25,-88,-71,-93,-82,-71,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-26,-90,-74,-94,-85,-68,28
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-27,-85,-66,-90,-79,-70,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-28,-86,-66,-90,-78,-71,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-29,-86,-66,-90,-79,-70,32
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-04-30,-85,-64,-90,-79,-70,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-01,-90,-69,-92,-82,-77,34
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-02,-89,-71,-94,-82,-68,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-03,-91,-75,-94,-84,-67,26
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-04,-84,-63,-89,-76,-68,29
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-05,-84,-64,-86,-76,-68,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-06,-84,-63,-89,-75,-68,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-07,-84,-61,-89,-76,-68,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-08,-85,-64,-91,-78,-67,32
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-09,-87,-68,-92,-79,-66,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-10,-88,-71,-93,-81,-65,27
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-11,-83,-61,-89,-74,-66,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-12,-83,-61,-88,-74,-67,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-13,-84,-64,-90,-76,-67,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-14,-83,-61,-89,-75,-66,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-15,-84,-61,-89,-77,-65,31
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-16,-85,-64,-91,-77,-64,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-17,-88,-66,-92,-79,-62,26
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-18,-81,-57,-86,-72,-63,28
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-19,-82,-58,-87,-73,-65,29
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-20,-82,-56,-86,-72,-64,29
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-21,-81,-55,-86,-72,-65,29
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-22,-81,-53,-87,-73,-62,29
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-23,-82,-53,-89,-71,-62,23
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-24,-96,-87,-95,-86,-71,25
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-25,-92,-75,-93,-82,-80,30
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-26,-84,-61,-89,-73,-63,25
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-27,-81,-56,-87,-71,-60,25
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-28,-80,-54,-86,-70,-59,25
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-29,-81,-55,-87,-72,-56,26
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-30,-81,-57,-89,-72,-54,26
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-05-31,-84,-61,-90,-74,-51,23
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-01,-74,-49,-83,-64,-53,25
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-02,-75,-49,-82,-63,-53,26
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-03,-75,-49,-83,-64,-53,27
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-04,-76,-49,-83,-66,-53,28
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-05,-77,-51,-86,-69,-51,28
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-06,-80,-55,-88,-71,-50,28
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-07,-82,-59,-90,-73,-49,25
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-08,-74,-47,-83,-64,-50,26
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-09,-74,-48,-82,-64,-51,26
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-10,-73,-49,-83,-62,-51,27
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-11,-69,-43,-78,-62,-49,25
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-12,-71,-45,-81,-64,-46,25
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-13,-73,-49,-85,-64,-44,24
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-14,-77,-54,-86,-68,-42,22
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-15,-67,-42,-78,-59,-45,22
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-16,-67,-42,-77,-58,-46,23
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-17,-67,-43,-77,-56,-46,22
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-18,-67,-40,-79,-59,-46,23
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-19,-70,-43,-83,-61,-44,24
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-20,-72,-47,-84,-63,-41,23
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-21,-75,-51,-86,-66,-40,21
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-22,-65,-39,-79,-56,-44,21
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-23,-64,-38,-76,-54,-45,21
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-24,-65,-39,-76,-53,-43,21
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-25,-48,-26,-68,-46,-40,17
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-26,-49,-30,-72,-50,-39,17
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-27,-51,-33,-74,-50,-37,16
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-28,-52,-34,-73,-53,-30,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-29,-42,-24,-63,-41,-37,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-06-30,-41,-22,-63,-40,-38,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-01,-42,-23,-62,-38,-37,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-02,-40,-19,-61,-39,-37,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-03,-43,-23,-67,-43,-35,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-04,-45,-26,-70,-44,-32,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-05,-49,-32,-73,-50,-31,12
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-06,-41,-22,-63,-38,-35,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-07,-40,-20,-61,-34,-35,12
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-08,-37,-21,-59,-34,-33,12
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-09,-36,-15,-58,-34,-34,12
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-10,-39,-20,-64,-41,-32,12
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-11,-44,-26,-68,-43,-29,12
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-12,-45,-28,-68,-44,-27,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-13,-35,-17,-58,-34,-32,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-14,-36,-20,-55,-33,-34,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-15,-36,-19,-52,-32,-31,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-16,-37,-18,-55,-35,-31,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-17,-39,-20,-61,-37,-30,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-18,-44,-26,-63,-40,-26,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-19,-45,-28,-64,-42,-23,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-20,-32,-14,-48,-28,-28,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-21,-32,-13,-46,-28,-29,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-22,-34,-17,-48,-29,-30,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-23,-33,-13,-49,-30,-30,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-24,-36,-17,-56,-34,-29,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-25,-41,-22,-60,-37,-26,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-26,-43,-21,-62,-38,-21,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-27,-36,-14,-49,-32,-36,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-28,-36,-9,-46,-30,-39,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-29,-38,-6,-48,-32,-43,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-30,-53,-14,-62,-44,-62,17
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-07-31,-78,-64,-82,-62,-75,24
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-01,-67,-56,-82,-62,-60,17
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-02,-59,-47,-77,-58,-39,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-03,-46,-33,-64,-49,-50,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-04,-45,-29,-60,-45,-48,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-05,-45,-32,-61,-45,-46,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-06,-44,-28,-61,-46,-46,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-07,-47,-31,-69,-50,-44,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-08,-53,-38,-75,-52,-39,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-09,-53,-37,-75,-53,-28,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-10,-42,-25,-61,-42,-41,12
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-11,-42,-26,-62,-40,-43,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-12,-43,-27,-63,-41,-42,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-13,-44,-25,-63,-43,-42,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-14,-52,-34,-74,-51,-51,18
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-15,-54,-37,-75,-52,-36,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-16,-54,-38,-76,-54,-27,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-17,-45,-27,-64,-43,-42,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-18,-45,-28,-64,-43,-41,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-19,-44,-30,-65,-43,-42,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-20,-50,-34,-70,-51,-54,18
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-21,-55,-42,-76,-58,-54,20
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-22,-57,-45,-76,-59,-37,17
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-23,-59,-49,-79,-60,-28,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-24,-44,-34,-65,-47,-39,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-25,-45,-35,-65,-48,-40,15
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-26,-44,-37,-66,-48,-39,15
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-27,-41,-36,-65,-50,-40,15
+MA,Morocco,,,Marrakesh Metropolitan Area,,,2020-08-28,-42,-38,-69,-52,-38,15

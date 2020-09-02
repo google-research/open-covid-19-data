@@ -17,7 +17,9 @@ fetch:
   source_url: 'https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv'
   method: 'AUTOMATIC_DOWNLOAD'
   file: 'us-counties.csv'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'nytimes_load_function'
   dates:
     columns: ['date']
