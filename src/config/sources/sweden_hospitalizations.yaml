@@ -17,7 +17,9 @@ fetch:
   source_url: 'https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data'
   method: 'AUTOMATIC_DOWNLOAD'
   file: 'Folkhalsomyndigheten_Covid19.xlsx'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'default_load_function'
   read:
     sheet_name: 'Antal intensivvårdade per dag'

@@ -18,7 +18,9 @@ fetch:
   source_url: 'https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html'
   file: '200325_Datengrundlage_Grafiken_COVID-19-Bericht.xlsx'
   instructions: 'Scroll down to the link to an XLS file that says "Daten des Situationsberichtes". Download this file and rename if it the file name has changed."'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'default_load_function'
   read:
     skiprows: 6

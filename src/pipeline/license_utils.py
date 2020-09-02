@@ -17,6 +17,7 @@
 import textwrap
 import os
 import path_utils
+import re
 
 def get_license_files(config_dict, required_licenses=None):
     if required_licenses is None:
@@ -39,7 +40,12 @@ def markdown_to_plaintext(markdown_file):
                                   .replace('[link]', '')
                                   .replace('((', '(')
                                   .replace('))', ')'))
-    # pylint: enable=bad-continuation
+
+    # Replace markdown links "[text](link)" with "text at <link>"
+    name_regex = '[^]]+'
+    url_regex = 'http[s]?://[^)]+'  # http:// or https:// followed by anything but a closing paren
+    markup_regex = r'\[({0})]\(\s*({1})\s*\)'.format(name_regex, url_regex)
+    source_text = re.sub(markup_regex, lambda x: f'{x[1]} at {x[2]}', source_text)
 
     return source_text
 
@@ -51,7 +57,7 @@ def text_output(path):
     filled_text = [textwrapper.fill(t) for t in split_text]
     return filled_text
 
-def export_aggregated_license(export_path, sources_path, license_files, header):
+def export_aggregated_license(export_path, sources_path, license_files, header, include_license_texts=True):
     complete_texts = '''Complete license texts for each unique license are available below:\n\n'''
     with open(export_path, 'w') as outfile:
         outfile.write(header)
@@ -59,11 +65,12 @@ def export_aggregated_license(export_path, sources_path, license_files, header):
             if 'Last accessed:' not in line:
                 outfile.write(line)
                 outfile.write('\n')
-        outfile.write('=======================================================================\n')
-        outfile.write(complete_texts)
-        for fname in license_files:
-            with open(os.path.join(path_utils.root_dir, fname)) as infile:
-                outfile.write(infile.read())
-                outfile.write('\n')
-                outfile.write('=======================================================================')
-                outfile.write('\n')
+        if include_license_texts:
+            outfile.write('=======================================================================\n')
+            outfile.write(complete_texts)
+            for fname in license_files:
+                with open(os.path.join(path_utils.root_dir, fname)) as infile:
+                    outfile.write(infile.read())
+                    outfile.write('\n')
+                    outfile.write('=======================================================================')
+                    outfile.write('\n')

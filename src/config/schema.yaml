@@ -30,6 +30,7 @@ load_fields:
   dates: include('dates_fields', strict=True, required=True)
   read: include('read_fields', strict=True, required=False)
   regions: include('regions_fields', strict=True, required=False)
+  aggregate_data: bool(required=True)
 ---
 read_fields:
   delimiter: str(required=False)
@@ -55,15 +56,18 @@ manual_fetch:
   file: str(required=True)
   source_url: str(required=True)
   instructions: str(required=True)
+  overwrite_historical: bool(required=True)
 ---
 automatic_fetch:
   source_url: str(required=True)
   file: str(required=True)
   method: enum('AUTOMATIC_DOWNLOAD', required=True)
+  overwrite_historical: bool(required=True)
 ---
 scraped_fetch:
   method: enum('SCRAPED', required=True)
   file: str(required=True)
+  overwrite_historical: bool(required=True)
 ---
 with_license:
   name: str(required=True)

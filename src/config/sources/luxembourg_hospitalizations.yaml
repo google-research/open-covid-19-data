@@ -17,7 +17,9 @@ fetch:
   source_url: 'https://data.public.lu/fr/datasets/r/1da1bb72-4450-4f60-915b-6c355db2e7fa'
   method: 'AUTOMATIC_DOWNLOAD'
   file: 'datapublic-covid19.xlsx'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'default_load_function'
   dates:
     parse_function: 'luxembourg_hospitalization_dates'

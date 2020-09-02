@@ -1,0 +1,1177 @@
+open_covid_region_code,country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+DNK,DK,Denmark,,,,,,2020-02-15,-2.0,-1.0,-4.0,2.0,-6.0,0.0
+DNK,DK,Denmark,,,,,,2020-02-16,-7.0,-7.0,-33.0,-5.0,-6.0,1.0
+DNK,DK,Denmark,,,,,,2020-02-17,-3.0,-1.0,0.0,-3.0,-2.0,1.0
+DNK,DK,Denmark,,,,,,2020-02-18,1.0,1.0,9.0,-1.0,-1.0,1.0
+DNK,DK,Denmark,,,,,,2020-02-19,0.0,0.0,12.0,-2.0,-1.0,1.0
+DNK,DK,Denmark,,,,,,2020-02-20,1.0,-1.0,-3.0,-1.0,-2.0,1.0
+DNK,DK,Denmark,,,,,,2020-02-21,1.0,1.0,15.0,-1.0,-3.0,1.0
+DNK,DK,Denmark,,,,,,2020-02-22,-6.0,-3.0,-24.0,-4.0,-3.0,1.0
+DNK,DK,Denmark,,,,,,2020-02-23,1.0,-2.0,-9.0,0.0,0.0,0.0
+DNK,DK,Denmark,,,,,,2020-02-24,-2.0,-1.0,12.0,2.0,2.0,0.0
+DNK,DK,Denmark,,,,,,2020-02-25,-3.0,-3.0,-4.0,1.0,3.0,1.0
+DNK,DK,Denmark,,,,,,2020-02-26,-2.0,-2.0,1.0,0.0,3.0,1.0
+DNK,DK,Denmark,,,,,,2020-02-27,2.0,1.0,21.0,2.0,3.0,0.0
+DNK,DK,Denmark,,,,,,2020-02-28,17.0,1.0,23.0,6.0,2.0,-1.0
+DNK,DK,Denmark,,,,,,2020-02-29,10.0,-4.0,-17.0,5.0,0.0,0.0
+DNK,DK,Denmark,,,,,,2020-03-01,21.0,-7.0,-5.0,5.0,1.0,0.0
+DNK,DK,Denmark,,,,,,2020-03-02,11.0,-5.0,28.0,1.0,2.0,0.0
+DNK,DK,Denmark,,,,,,2020-03-03,10.0,-5.0,9.0,-1.0,2.0,0.0
+DNK,DK,Denmark,,,,,,2020-03-04,9.0,-5.0,16.0,1.0,2.0,0.0
+DNK,DK,Denmark,,,,,,2020-03-05,10.0,-3.0,30.0,-1.0,2.0,0.0
+DNK,DK,Denmark,,,,,,2020-03-06,7.0,-3.0,11.0,-2.0,1.0,0.0
+DNK,DK,Denmark,,,,,,2020-03-07,10.0,-2.0,47.0,7.0,1.0,-1.0
+DNK,DK,Denmark,,,,,,2020-03-08,11.0,-8.0,-7.0,-1.0,-2.0,0.0
+DNK,DK,Denmark,,,,,,2020-03-09,5.0,-5.0,14.0,-3.0,0.0,1.0
+DNK,DK,Denmark,,,,,,2020-03-10,3.0,-4.0,-6.0,-7.0,0.0,2.0
+DNK,DK,Denmark,,,,,,2020-03-11,5.0,5.0,25.0,-10.0,-1.0,2.0
+DNK,DK,Denmark,,,,,,2020-03-12,-11.0,22.0,-16.0,-36.0,-28.0,12.0
+DNK,DK,Denmark,,,,,,2020-03-13,-28.0,-7.0,2.0,-48.0,-44.0,16.0
+DNK,DK,Denmark,,,,,,2020-03-14,-31.0,-9.0,86.0,-36.0,-16.0,8.0
+DNK,DK,Denmark,,,,,,2020-03-15,-33.0,-24.0,-8.0,-50.0,-22.0,8.0
+DNK,DK,Denmark,,,,,,2020-03-16,-24.0,-14.0,50.0,-52.0,-50.0,17.0
+DNK,DK,Denmark,,,,,,2020-03-17,-25.0,-4.0,38.0,-55.0,-52.0,18.0
+DNK,DK,Denmark,,,,,,2020-03-18,-41.0,-21.0,11.0,-61.0,-54.0,20.0
+DNK,DK,Denmark,,,,,,2020-03-19,-39.0,-20.0,104.0,-58.0,-55.0,19.0
+DNK,DK,Denmark,,,,,,2020-03-20,-44.0,-22.0,64.0,-62.0,-56.0,21.0
+DNK,DK,Denmark,,,,,,2020-03-21,-48.0,-21.0,85.0,-55.0,-27.0,11.0
+DNK,DK,Denmark,,,,,,2020-03-22,-38.0,-25.0,49.0,-60.0,-28.0,9.0
+DNK,DK,Denmark,,,,,,2020-03-23,-36.0,-20.0,54.0,-60.0,-55.0,19.0
+DNK,DK,Denmark,,,,,,2020-03-24,-36.0,-18.0,61.0,-60.0,-55.0,19.0
+DNK,DK,Denmark,,,,,,2020-03-25,-37.0,-18.0,67.0,-59.0,-55.0,19.0
+DNK,DK,Denmark,,,,,,2020-03-26,-36.0,-17.0,91.0,-59.0,-55.0,19.0
+DNK,DK,Denmark,,,,,,2020-03-27,-39.0,-18.0,96.0,-61.0,-55.0,19.0
+DNK,DK,Denmark,,,,,,2020-03-28,-43.0,-14.0,79.0,-56.0,-28.0,10.0
+DNK,DK,Denmark,,,,,,2020-03-29,-37.0,-22.0,35.0,-60.0,-28.0,9.0
+DNK,DK,Denmark,,,,,,2020-03-30,-33.0,-18.0,53.0,-59.0,-54.0,18.0
+DNK,DK,Denmark,,,,,,2020-03-31,-23.0,-4.0,70.0,-54.0,-53.0,17.0
+DNK,DK,Denmark,,,,,,2020-04-01,-32.0,-12.0,13.0,-58.0,-54.0,19.0
+DNK,DK,Denmark,,,,,,2020-04-02,-34.0,-13.0,11.0,-61.0,-55.0,20.0
+DNK,DK,Denmark,,,,,,2020-04-03,-35.0,-10.0,32.0,-61.0,-55.0,19.0
+DNK,DK,Denmark,,,,,,2020-04-04,-38.0,-8.0,59.0,-53.0,-25.0,10.0
+DNK,DK,Denmark,,,,,,2020-04-05,-22.0,-12.0,118.0,-49.0,-23.0,7.0
+DNK,DK,Denmark,,,,,,2020-04-06,-15.0,-5.0,161.0,-52.0,-59.0,16.0
+DNK,DK,Denmark,,,,,,2020-04-07,-13.0,4.0,167.0,-51.0,-59.0,16.0
+DNK,DK,Denmark,,,,,,2020-04-08,-9.0,11.0,131.0,-51.0,-60.0,15.0
+DNK,DK,Denmark,,,,,,2020-04-09,-40.0,-16.0,188.0,-62.0,-82.0,22.0
+DNK,DK,Denmark,,,,,,2020-04-10,-60.0,-36.0,172.0,-65.0,-82.0,24.0
+DNK,DK,Denmark,,,,,,2020-04-11,-31.0,4.0,50.0,-52.0,-23.0,8.0
+DNK,DK,Denmark,,,,,,2020-04-12,-36.0,-20.0,123.0,-47.0,-23.0,6.0
+DNK,DK,Denmark,,,,,,2020-04-13,-56.0,-30.0,107.0,-65.0,-84.0,24.0
+DNK,DK,Denmark,,,,,,2020-04-14,-15.0,4.0,65.0,-53.0,-49.0,16.0
+DNK,DK,Denmark,,,,,,2020-04-15,-23.0,-5.0,58.0,-51.0,-48.0,17.0
+DNK,DK,Denmark,,,,,,2020-04-16,-23.0,-4.0,95.0,-50.0,-47.0,16.0
+DNK,DK,Denmark,,,,,,2020-04-17,-26.0,-6.0,127.0,-50.0,-45.0,15.0
+DNK,DK,Denmark,,,,,,2020-04-18,-33.0,-5.0,121.0,-43.0,-14.0,7.0
+DNK,DK,Denmark,,,,,,2020-04-19,-21.0,-12.0,127.0,-43.0,-14.0,5.0
+DNK,DK,Denmark,,,,,,2020-04-20,-14.0,-5.0,126.0,-42.0,-41.0,13.0
+DNK,DK,Denmark,,,,,,2020-04-21,-15.0,-2.0,142.0,-40.0,-39.0,13.0
+DNK,DK,Denmark,,,,,,2020-04-22,-18.0,-4.0,137.0,-40.0,-39.0,12.0
+DNK,DK,Denmark,,,,,,2020-04-23,-18.0,-3.0,171.0,-40.0,-39.0,12.0
+DNK,DK,Denmark,,,,,,2020-04-24,-25.0,-5.0,117.0,-46.0,-40.0,13.0
+DNK,DK,Denmark,,,,,,2020-04-25,-29.0,-3.0,123.0,-40.0,-13.0,6.0
+DNK,DK,Denmark,,,,,,2020-04-26,-22.0,-12.0,80.0,-45.0,-16.0,5.0
+DNK,DK,Denmark,,,,,,2020-04-27,-20.0,-9.0,55.0,-44.0,-39.0,13.0
+DNK,DK,Denmark,,,,,,2020-04-28,-20.0,-6.0,99.0,-39.0,-37.0,11.0
+DNK,DK,Denmark,,,,,,2020-04-29,-26.0,-9.0,15.0,-45.0,-38.0,14.0
+DNK,DK,Denmark,,,,,,2020-04-30,-28.0,-1.0,11.0,-44.0,-39.0,14.0
+DNK,DK,Denmark,,,,,,2020-05-01,-29.0,0.0,68.0,-46.0,-49.0,16.0
+DNK,DK,Denmark,,,,,,2020-05-02,-34.0,0.0,54.0,-40.0,-14.0,7.0
+DNK,DK,Denmark,,,,,,2020-05-03,-20.0,-7.0,106.0,-35.0,-9.0,4.0
+DNK,DK,Denmark,,,,,,2020-05-04,-21.0,-2.0,83.0,-37.0,-35.0,11.0
+DNK,DK,Denmark,,,,,,2020-05-05,-22.0,0.0,96.0,-35.0,-33.0,11.0
+DNK,DK,Denmark,,,,,,2020-05-06,-22.0,2.0,77.0,-35.0,-33.0,11.0
+DNK,DK,Denmark,,,,,,2020-05-07,-12.0,17.0,150.0,-31.0,-33.0,7.0
+DNK,DK,Denmark,,,,,,2020-05-08,-56.0,-30.0,226.0,-51.0,-78.0,19.0
+DNK,DK,Denmark,,,,,,2020-05-09,-22.0,11.0,173.0,-27.0,-6.0,3.0
+DNK,DK,Denmark,,,,,,2020-05-10,-17.0,1.0,78.0,-33.0,-5.0,2.0
+DNK,DK,Denmark,,,,,,2020-05-11,-16.0,1.0,62.0,-35.0,-32.0,11.0
+DNK,DK,Denmark,,,,,,2020-05-12,-21.0,1.0,42.0,-36.0,-31.0,11.0
+DNK,DK,Denmark,,,,,,2020-05-13,-20.0,1.0,82.0,-33.0,-30.0,11.0
+DNK,DK,Denmark,,,,,,2020-05-14,-19.0,1.0,77.0,-35.0,-30.0,9.0
+DNK,DK,Denmark,,,,,,2020-05-15,-25.0,-2.0,57.0,-39.0,-31.0,10.0
+DNK,DK,Denmark,,,,,,2020-05-16,-30.0,0.0,38.0,-37.0,-8.0,6.0
+DNK,DK,Denmark,,,,,,2020-05-17,-22.0,-6.0,33.0,-41.0,-7.0,5.0
+DNK,DK,Denmark,,,,,,2020-05-18,-13.0,-3.0,32.0,-32.0,-25.0,9.0
+DNK,DK,Denmark,,,,,,2020-05-19,-9.0,3.0,103.0,-26.0,-22.0,8.0
+DNK,DK,Denmark,,,,,,2020-05-20,6.0,15.0,172.0,-18.0,-22.0,4.0
+DNK,DK,Denmark,,,,,,2020-05-21,-38.0,-21.0,337.0,-42.0,-77.0,16.0
+DNK,DK,Denmark,,,,,,2020-05-22,-7.0,2.0,144.0,-44.0,-60.0,14.0
+DNK,DK,Denmark,,,,,,2020-05-23,-17.0,-1.0,121.0,-28.0,2.0,3.0
+DNK,DK,Denmark,,,,,,2020-05-24,-15.0,-8.0,15.0,-36.0,-3.0,2.0
+DNK,DK,Denmark,,,,,,2020-05-25,-5.0,-1.0,107.0,-27.0,-24.0,7.0
+DNK,DK,Denmark,,,,,,2020-05-26,-4.0,0.0,156.0,-22.0,-20.0,6.0
+DNK,DK,Denmark,,,,,,2020-05-27,-6.0,0.0,90.0,-24.0,-19.0,7.0
+DNK,DK,Denmark,,,,,,2020-05-28,-2.0,4.0,152.0,-22.0,-19.0,6.0
+DNK,DK,Denmark,,,,,,2020-05-29,2.0,9.0,200.0,-18.0,-18.0,3.0
+DNK,DK,Denmark,,,,,,2020-05-30,-3.0,12.0,209.0,-7.0,13.0,-1.0
+DNK,DK,Denmark,,,,,,2020-05-31,-20.0,-11.0,235.0,-12.0,5.0,-1.0
+DNK,DK,Denmark,,,,,,2020-06-01,-31.0,-16.0,372.0,-35.0,-77.0,13.0
+DNK,DK,Denmark,,,,,,2020-06-02,15.0,22.0,202.0,-14.0,-19.0,3.0
+DNK,DK,Denmark,,,,,,2020-06-03,5.0,9.0,133.0,-17.0,-19.0,5.0
+DNK,DK,Denmark,,,,,,2020-06-04,10.0,17.0,71.0,-18.0,-20.0,4.0
+DNK,DK,Denmark,,,,,,2020-06-05,-37.0,-25.0,143.0,-40.0,-63.0,15.0
+DNK,DK,Denmark,,,,,,2020-06-06,-1.0,14.0,55.0,-23.0,4.0,3.0
+DNK,DK,Denmark,,,,,,2020-06-07,0.0,-5.0,87.0,-21.0,6.0,1.0
+DNK,DK,Denmark,,,,,,2020-06-08,5.0,2.0,99.0,-21.0,-19.0,5.0
+DNK,DK,Denmark,,,,,,2020-06-09,4.0,4.0,126.0,-18.0,-18.0,4.0
+DNK,DK,Denmark,,,,,,2020-06-10,2.0,2.0,115.0,-19.0,-18.0,5.0
+DNK,DK,Denmark,,,,,,2020-06-11,4.0,4.0,112.0,-21.0,-19.0,5.0
+DNK,DK,Denmark,,,,,,2020-06-12,-1.0,0.0,106.0,-21.0,-18.0,4.0
+DNK,DK,Denmark,,,,,,2020-06-13,-6.0,0.0,117.0,-14.0,10.0,0.0
+DNK,DK,Denmark,,,,,,2020-06-14,7.0,-2.0,170.0,-13.0,13.0,-1.0
+DNK,DK,Denmark,,,,,,2020-06-15,11.0,5.0,219.0,-14.0,-18.0,3.0
+DNK,DK,Denmark,,,,,,2020-06-16,11.0,8.0,237.0,-12.0,-17.0,2.0
+DNK,DK,Denmark,,,,,,2020-06-17,8.0,5.0,205.0,-12.0,-17.0,3.0
+DNK,DK,Denmark,,,,,,2020-06-18,9.0,5.0,206.0,-16.0,-18.0,2.0
+DNK,DK,Denmark,,,,,,2020-06-19,-1.0,0.0,127.0,-20.0,-19.0,3.0
+DNK,DK,Denmark,,,,,,2020-06-20,-7.0,1.0,91.0,-16.0,6.0,0.0
+DNK,DK,Denmark,,,,,,2020-06-21,6.0,-2.0,136.0,-16.0,8.0,-1.0
+DNK,DK,Denmark,,,,,,2020-06-22,14.0,5.0,163.0,-16.0,-21.0,3.0
+DNK,DK,Denmark,,,,,,2020-06-23,13.0,8.0,267.0,-10.0,-19.0,0.0
+DNK,DK,Denmark,,,,,,2020-06-24,10.0,4.0,244.0,-10.0,-18.0,2.0
+DNK,DK,Denmark,,,,,,2020-06-25,12.0,8.0,288.0,-11.0,-19.0,1.0
+DNK,DK,Denmark,,,,,,2020-06-26,1.0,0.0,288.0,-14.0,-19.0,0.0
+DNK,DK,Denmark,,,,,,2020-06-27,-6.0,1.0,233.0,1.0,5.0,-4.0
+DNK,DK,Denmark,,,,,,2020-06-28,3.0,-2.0,102.0,-15.0,3.0,-1.0
+DNK,DK,Denmark,,,,,,2020-06-29,15.0,4.0,185.0,-17.0,-29.0,4.0
+DNK,DK,Denmark,,,,,,2020-06-30,23.0,13.0,127.0,-17.0,-29.0,4.0
+DNK,DK,Denmark,,,,,,2020-07-01,20.0,7.0,177.0,-14.0,-29.0,3.0
+DNK,DK,Denmark,,,,,,2020-07-02,20.0,8.0,224.0,-15.0,-31.0,3.0
+DNK,DK,Denmark,,,,,,2020-07-03,6.0,-1.0,158.0,-18.0,-32.0,3.0
+DNK,DK,Denmark,,,,,,2020-07-04,-6.0,-2.0,66.0,-11.0,-5.0,-1.0
+DNK,DK,Denmark,,,,,,2020-07-05,9.0,-3.0,90.0,-15.0,-4.0,0.0
+DNK,DK,Denmark,,,,,,2020-07-06,22.0,5.0,184.0,-21.0,-42.0,6.0
+DNK,DK,Denmark,,,,,,2020-07-07,23.0,6.0,220.0,-18.0,-41.0,5.0
+DNK,DK,Denmark,,,,,,2020-07-08,22.0,3.0,245.0,-16.0,-40.0,4.0
+DNK,DK,Denmark,,,,,,2020-07-09,19.0,3.0,288.0,-16.0,-40.0,4.0
+DNK,DK,Denmark,,,,,,2020-07-10,3.0,-4.0,187.0,-24.0,-41.0,5.0
+DNK,DK,Denmark,,,,,,2020-07-11,0.0,-1.0,192.0,2.0,-3.0,-3.0
+DNK,DK,Denmark,,,,,,2020-07-12,12.0,-3.0,178.0,-7.0,-5.0,-2.0
+DNK,DK,Denmark,,,,,,2020-07-13,29.0,6.0,358.0,-16.0,-53.0,6.0
+DNK,DK,Denmark,,,,,,2020-07-14,26.0,6.0,301.0,-19.0,-53.0,7.0
+DNK,DK,Denmark,,,,,,2020-07-15,24.0,3.0,307.0,-20.0,-52.0,7.0
+DNK,DK,Denmark,,,,,,2020-07-16,23.0,4.0,383.0,-17.0,-52.0,6.0
+DNK,DK,Denmark,,,,,,2020-07-17,6.0,-6.0,384.0,-19.0,-52.0,4.0
+DNK,DK,Denmark,,,,,,2020-07-18,-1.0,-3.0,302.0,8.0,-4.0,-5.0
+DNK,DK,Denmark,,,,,,2020-07-19,12.0,-3.0,236.0,-5.0,-6.0,-3.0
+DNK,DK,Denmark,,,,,,2020-07-20,32.0,9.0,370.0,-18.0,-56.0,6.0
+DNK,DK,Denmark,,,,,,2020-07-21,33.0,9.0,406.0,-17.0,-56.0,6.0
+DNK,DK,Denmark,,,,,,2020-07-22,28.0,4.0,365.0,-18.0,-55.0,6.0
+DNK,DK,Denmark,,,,,,2020-07-23,22.0,3.0,340.0,-22.0,-55.0,7.0
+DNK,DK,Denmark,,,,,,2020-07-24,5.0,-5.0,260.0,-28.0,-55.0,8.0
+DNK,DK,Denmark,,,,,,2020-07-25,0.0,-4.0,257.0,5.0,-5.0,-3.0
+DNK,DK,Denmark,,,,,,2020-07-26,9.0,-5.0,134.0,-13.0,-9.0,0.0
+DNK,DK,Denmark,,,,,,2020-07-27,26.0,4.0,320.0,-20.0,-50.0,7.0
+DNK,DK,Denmark,,,,,,2020-07-28,27.0,6.0,328.0,-18.0,-49.0,7.0
+DNK,DK,Denmark,,,,,,2020-07-29,22.0,2.0,220.0,-24.0,-50.0,8.0
+DNK,DK,Denmark,,,,,,2020-07-30,23.0,4.0,282.0,-22.0,-49.0,7.0
+DNK,DK,Denmark,,,,,,2020-07-31,15.0,0.0,368.0,-17.0,-48.0,3.0
+DNK,DK,Denmark,,,,,,2020-08-01,4.0,0.0,294.0,12.0,-2.0,-5.0
+DNK,DK,Denmark,,,,,,2020-08-02,19.0,2.0,184.0,-5.0,-2.0,-2.0
+DNK,DK,Denmark,,,,,,2020-08-03,27.0,7.0,275.0,-16.0,-37.0,4.0
+DNK,DK,Denmark,,,,,,2020-08-04,26.0,7.0,303.0,-14.0,-37.0,4.0
+DNK,DK,Denmark,,,,,,2020-08-05,22.0,4.0,225.0,-17.0,-36.0,4.0
+DNK,DK,Denmark,,,,,,2020-08-06,19.0,5.0,369.0,-14.0,-36.0,3.0
+DNK,DK,Denmark,,,,,,2020-08-07,6.0,-3.0,389.0,-16.0,-36.0,1.0
+DNK,DK,Denmark,,,,,,2020-08-08,-2.0,-1.0,338.0,7.0,-1.0,-5.0
+DNK,DK,Denmark,,,,,,2020-08-09,13.0,1.0,284.0,-2.0,0.0,-4.0
+DNK,DK,Denmark,,,,,,2020-08-10,17.0,6.0,313.0,-14.0,-28.0,2.0
+DNK,DK,Denmark,,,,,,2020-08-11,16.0,6.0,332.0,-13.0,-27.0,1.0
+DNK,DK,Denmark,,,,,,2020-08-12,13.0,3.0,279.0,-13.0,-26.0,2.0
+DNK,DK,Denmark,,,,,,2020-08-13,11.0,3.0,305.0,-14.0,-26.0,1.0
+DNK,DK,Denmark,,,,,,2020-08-14,3.0,-3.0,325.0,-13.0,-27.0,0.0
+DNK,DK,Denmark,,,,,,2020-08-15,-4.0,-3.0,305.0,3.0,-2.0,-4.0
+DNK,DK,Denmark,,,,,,2020-08-16,9.0,-4.0,277.0,-4.0,-2.0,-4.0
+DNK,DK,Denmark,,,,,,2020-08-17,11.0,1.0,296.0,-13.0,-26.0,1.0
+DNK,DK,Denmark,,,,,,2020-08-18,9.0,1.0,225.0,-14.0,-23.0,2.0
+DNK,DK,Denmark,,,,,,2020-08-19,8.0,-1.0,201.0,-14.0,-24.0,2.0
+DNK,DK,Denmark,,,,,,2020-08-20,6.0,-1.0,148.0,-17.0,-25.0,3.0
+DNK,DK,Denmark,,,,,,2020-08-21,2.0,-4.0,178.0,-15.0,-25.0,2.0
+DNK,DK,Denmark,,,,,,2020-08-22,-2.0,-3.0,166.0,-6.0,-3.0,-2.0
+DNK,DK,Denmark,,,,,,2020-08-23,6.0,-5.0,103.0,-13.0,-6.0,-1.0
+DNK,DK,Denmark,,,,,,2020-08-24,9.0,-2.0,165.0,-15.0,-23.0,2.0
+DNK,DK,Denmark,,,,,,2020-08-25,10.0,-1.0,189.0,-14.0,-22.0,2.0
+DNK,DK,Denmark,,,,,,2020-08-26,7.0,-2.0,129.0,-16.0,-21.0,3.0
+DNK,DK,Denmark,,,,,,2020-08-27,8.0,-1.0,148.0,-15.0,-21.0,3.0
+DNK,DK,Denmark,,,,,,2020-08-28,4.0,-2.0,133.0,-15.0,-21.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-15,-3.0,-3.0,-4.0,0.0,-5.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-16,-7.0,-7.0,-30.0,-4.0,-4.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-17,-1.0,-1.0,-1.0,0.0,0.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-18,2.0,2.0,15.0,0.0,1.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-19,2.0,-2.0,5.0,-2.0,0.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-20,8.0,-2.0,6.0,2.0,0.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-21,3.0,1.0,29.0,2.0,0.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-22,-7.0,-5.0,-26.0,-2.0,-2.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-23,0.0,-1.0,-8.0,1.0,2.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-24,0.0,-1.0,15.0,2.0,2.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-25,-2.0,-2.0,2.0,3.0,2.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-26,0.0,-2.0,0.0,0.0,3.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-27,3.0,2.0,25.0,3.0,2.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-28,12.0,-2.0,23.0,3.0,2.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-02-29,5.0,-7.0,-18.0,2.0,1.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-01,20.0,-9.0,4.0,5.0,2.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-02,12.0,-7.0,32.0,0.0,2.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-03,7.0,-6.0,14.0,-3.0,2.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-04,8.0,-7.0,10.0,-1.0,2.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-05,8.0,-5.0,30.0,-3.0,2.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-06,2.0,-5.0,14.0,-4.0,1.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-07,5.0,-4.0,42.0,2.0,1.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-08,9.0,-8.0,9.0,-2.0,-1.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-09,3.0,-9.0,3.0,-5.0,0.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-10,-1.0,-4.0,-4.0,-10.0,-1.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-11,4.0,7.0,26.0,-14.0,-3.0,3.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-12,-17.0,22.0,-19.0,-35.0,-33.0,14.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-13,-34.0,-8.0,-14.0,-49.0,-50.0,20.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-14,-36.0,-10.0,75.0,-41.0,-18.0,8.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-15,-40.0,-25.0,-16.0,-52.0,-23.0,9.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-16,-29.0,-16.0,34.0,-56.0,-58.0,20.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-17,-30.0,-3.0,40.0,-58.0,-60.0,21.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-18,-48.0,-24.0,-2.0,-65.0,-62.0,24.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-19,-45.0,-21.0,100.0,-61.0,-63.0,23.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-20,-51.0,-23.0,42.0,-66.0,-63.0,25.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-21,-56.0,-23.0,54.0,-61.0,-33.0,12.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-22,-51.0,-27.0,19.0,-66.0,-33.0,10.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-23,-43.0,-22.0,40.0,-65.0,-63.0,22.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-24,-44.0,-20.0,53.0,-64.0,-64.0,22.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-25,-43.0,-20.0,50.0,-65.0,-63.0,23.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-26,-44.0,-19.0,69.0,-64.0,-63.0,23.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-27,-48.0,-19.0,77.0,-65.0,-63.0,23.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-28,-53.0,-18.0,48.0,-62.0,-33.0,11.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-29,-48.0,-24.0,13.0,-67.0,-33.0,10.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-30,-39.0,-21.0,40.0,-64.0,-62.0,22.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-03-31,-33.0,-9.0,71.0,-59.0,-62.0,21.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-01,-40.0,-17.0,-2.0,-64.0,-62.0,23.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-02,-43.0,-17.0,-3.0,-66.0,-63.0,23.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-03,-47.0,-12.0,14.0,-66.0,-62.0,23.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-04,-49.0,-11.0,46.0,-60.0,-31.0,11.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-05,-36.0,-14.0,89.0,-58.0,-28.0,7.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-06,-27.0,-10.0,124.0,-59.0,-66.0,19.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-07,-27.0,-2.0,142.0,-57.0,-66.0,19.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-08,-23.0,3.0,97.0,-58.0,-66.0,18.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-09,-50.0,-23.0,126.0,-67.0,-83.0,23.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-10,-67.0,-41.0,120.0,-70.0,-84.0,26.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-11,-44.0,1.0,38.0,-60.0,-27.0,9.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-12,-48.0,-24.0,92.0,-56.0,-26.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-13,-63.0,-39.0,58.0,-70.0,-85.0,25.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-14,-28.0,4.0,54.0,-59.0,-57.0,19.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-15,-33.0,-7.0,53.0,-58.0,-56.0,20.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-16,-32.0,-7.0,85.0,-57.0,-55.0,19.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-17,-37.0,-7.0,109.0,-57.0,-53.0,18.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-18,-45.0,-8.0,78.0,-53.0,-20.0,8.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-19,-36.0,-14.0,96.0,-54.0,-18.0,5.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-20,-25.0,-9.0,118.0,-50.0,-48.0,16.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-21,-27.0,-5.0,143.0,-48.0,-47.0,15.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-22,-27.0,-7.0,131.0,-49.0,-47.0,16.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-23,-29.0,-6.0,159.0,-49.0,-47.0,15.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-24,-37.0,-7.0,101.0,-52.0,-47.0,16.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-25,-43.0,-7.0,73.0,-50.0,-18.0,7.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-26,-37.0,-15.0,63.0,-54.0,-18.0,5.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-27,-29.0,-11.0,55.0,-51.0,-46.0,16.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-28,-30.0,-8.0,91.0,-47.0,-45.0,13.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-29,-38.0,-14.0,-9.0,-55.0,-46.0,17.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-04-30,-44.0,-9.0,-12.0,-53.0,-46.0,17.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-01,-44.0,-2.0,58.0,-54.0,-56.0,19.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-02,-50.0,-5.0,19.0,-51.0,-19.0,9.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-03,-38.0,-9.0,91.0,-45.0,-12.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-04,-33.0,-6.0,84.0,-45.0,-41.0,14.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-05,-35.0,-3.0,81.0,-44.0,-41.0,14.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-06,-35.0,-2.0,75.0,-44.0,-40.0,14.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-07,-27.0,11.0,126.0,-41.0,-40.0,10.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-08,-64.0,-37.0,173.0,-57.0,-79.0,21.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-09,-41.0,4.0,117.0,-41.0,-10.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-10,-36.0,-3.0,71.0,-46.0,-8.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-11,-28.0,0.0,52.0,-44.0,-39.0,13.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-12,-32.0,0.0,38.0,-44.0,-38.0,14.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-13,-30.0,1.0,79.0,-42.0,-37.0,13.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-14,-31.0,0.0,71.0,-44.0,-36.0,12.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-15,-38.0,-3.0,39.0,-47.0,-37.0,13.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-16,-44.0,-3.0,4.0,-48.0,-13.0,7.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-17,-37.0,-6.0,12.0,-52.0,-9.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-18,-24.0,-6.0,15.0,-43.0,-32.0,12.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-19,-19.0,3.0,85.0,-36.0,-29.0,10.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-20,-4.0,10.0,136.0,-33.0,-29.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-21,-45.0,-34.0,232.0,-50.0,-78.0,17.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-22,-20.0,-3.0,90.0,-51.0,-62.0,16.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-23,-31.0,-7.0,48.0,-43.0,-2.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-24,-28.0,-12.0,-7.0,-49.0,-5.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-25,-11.0,-3.0,100.0,-38.0,-30.0,9.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-26,-11.0,-1.0,164.0,-32.0,-27.0,8.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-27,-13.0,-2.0,82.0,-36.0,-26.0,9.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-28,-10.0,1.0,139.0,-34.0,-26.0,8.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-29,-10.0,4.0,150.0,-31.0,-25.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-30,-18.0,4.0,124.0,-27.0,11.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-05-31,-32.0,-21.0,173.0,-28.0,6.0,-1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-01,-38.0,-28.0,319.0,-44.0,-78.0,13.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-02,4.0,20.0,200.0,-26.0,-26.0,5.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-03,-3.0,6.0,125.0,-31.0,-26.0,7.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-04,-1.0,11.0,79.0,-30.0,-26.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-05,-42.0,-33.0,116.0,-47.0,-65.0,17.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-06,-15.0,7.0,19.0,-36.0,1.0,3.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-07,-8.0,-6.0,97.0,-32.0,6.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-08,-2.0,-3.0,92.0,-31.0,-26.0,7.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-09,-3.0,2.0,122.0,-28.0,-25.0,7.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-10,-3.0,-1.0,109.0,-29.0,-25.0,7.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-11,-4.0,0.0,88.0,-32.0,-25.0,7.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-12,-10.0,-3.0,83.0,-30.0,-25.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-13,-15.0,-3.0,107.0,-26.0,8.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-14,-4.0,-3.0,155.0,-28.0,12.0,-1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-15,5.0,1.0,188.0,-26.0,-24.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-16,2.0,4.0,176.0,-23.0,-23.0,5.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-17,3.0,1.0,178.0,-24.0,-23.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-18,0.0,1.0,164.0,-28.0,-24.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-19,-9.0,-3.0,126.0,-28.0,-25.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-20,-18.0,-5.0,42.0,-31.0,3.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-21,-8.0,-6.0,56.0,-34.0,5.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-22,5.0,-1.0,126.0,-27.0,-26.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-23,4.0,4.0,239.0,-21.0,-25.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-24,3.0,0.0,214.0,-23.0,-23.0,3.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-25,4.0,4.0,251.0,-22.0,-24.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-26,-8.0,-2.0,241.0,-24.0,-24.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-27,-17.0,-5.0,194.0,-17.0,4.0,-4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-28,-13.0,-8.0,53.0,-31.0,3.0,-1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-29,7.0,-1.0,144.0,-27.0,-32.0,5.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-06-30,8.0,3.0,70.0,-26.0,-32.0,5.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-01,9.0,0.0,106.0,-25.0,-33.0,5.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-02,8.0,0.0,139.0,-25.0,-34.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-03,-7.0,-8.0,93.0,-27.0,-35.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-04,-22.0,-12.0,0.0,-29.0,-7.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-05,-6.0,-10.0,40.0,-30.0,-3.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-06,8.0,-6.0,90.0,-30.0,-43.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-07,6.0,-4.0,108.0,-27.0,-43.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-08,7.0,-6.0,126.0,-29.0,-41.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-09,4.0,-7.0,155.0,-29.0,-42.0,5.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-10,-12.0,-12.0,64.0,-34.0,-43.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-11,-16.0,-12.0,93.0,-20.0,-4.0,-3.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-12,-7.0,-13.0,76.0,-26.0,-2.0,-2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-13,11.0,-7.0,176.0,-29.0,-50.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-14,7.0,-7.0,170.0,-29.0,-50.0,7.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-15,5.0,-9.0,129.0,-34.0,-49.0,7.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-16,5.0,-8.0,168.0,-31.0,-50.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-17,-8.0,-15.0,233.0,-31.0,-50.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-18,-19.0,-16.0,175.0,-19.0,-3.0,-5.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-19,-6.0,-15.0,150.0,-26.0,-3.0,-4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-20,10.0,-6.0,164.0,-33.0,-54.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-21,11.0,-6.0,202.0,-31.0,-53.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-22,9.0,-10.0,177.0,-32.0,-52.0,7.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-23,4.0,-10.0,179.0,-34.0,-52.0,7.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-24,-12.0,-14.0,94.0,-39.0,-53.0,8.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-25,-16.0,-16.0,149.0,-20.0,-5.0,-4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-26,-13.0,-15.0,42.0,-34.0,-7.0,0.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-27,9.0,-8.0,172.0,-32.0,-49.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-28,8.0,-7.0,196.0,-29.0,-49.0,6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-29,6.0,-9.0,107.0,-35.0,-49.0,8.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-30,6.0,-8.0,126.0,-34.0,-49.0,7.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-07-31,0.0,-11.0,214.0,-28.0,-49.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-01,-12.0,-13.0,192.0,-12.0,-3.0,-6.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-02,1.0,-9.0,105.0,-24.0,-2.0,-3.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-03,12.0,-5.0,162.0,-27.0,-40.0,5.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-04,11.0,-4.0,198.0,-26.0,-39.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-05,10.0,-6.0,142.0,-29.0,-39.0,5.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-06,7.0,-4.0,250.0,-26.0,-39.0,3.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-07,-4.0,-8.0,265.0,-26.0,-39.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-08,-15.0,-11.0,223.0,-13.0,-4.0,-5.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-09,-3.0,-6.0,199.0,-20.0,-1.0,-4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-10,8.0,-3.0,213.0,-25.0,-31.0,3.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-11,7.0,-1.0,241.0,-24.0,-30.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-12,5.0,-6.0,194.0,-25.0,-29.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-13,3.0,-6.0,207.0,-25.0,-29.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-14,-7.0,-10.0,233.0,-23.0,-30.0,1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-15,-16.0,-14.0,204.0,-16.0,-5.0,-5.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-16,-4.0,-11.0,195.0,-22.0,-4.0,-4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-17,4.0,-7.0,215.0,-23.0,-29.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-18,1.0,-6.0,187.0,-24.0,-26.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-19,0.0,-9.0,117.0,-26.0,-27.0,3.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-20,-2.0,-9.0,91.0,-26.0,-28.0,3.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-21,-8.0,-10.0,105.0,-24.0,-27.0,3.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-22,-11.0,-11.0,118.0,-20.0,-6.0,-2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-23,-3.0,-10.0,72.0,-26.0,-7.0,-1.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-24,3.0,-8.0,112.0,-23.0,-25.0,3.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-25,4.0,-5.0,147.0,-22.0,-25.0,2.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-26,3.0,-7.0,110.0,-24.0,-23.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-27,-2.0,-8.0,70.0,-24.0,-25.0,4.0
+DK-84,DK,Denmark,Capital Region of Denmark,,,DK-84,,2020-08-28,-4.0,-7.0,78.0,-23.0,-24.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-15,-4.0,-2.0,-9.0,3.0,-9.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-16,-11.0,-6.0,-38.0,-5.0,-7.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-17,-6.0,-2.0,-5.0,-1.0,3.0,1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-18,-3.0,1.0,-1.0,1.0,3.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-19,-1.0,1.0,11.0,-1.0,3.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-20,-2.0,0.0,-12.0,-2.0,3.0,1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-21,-1.0,1.0,5.0,1.0,3.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-22,-5.0,0.0,-24.0,-2.0,-1.0,1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-23,1.0,0.0,1.0,1.0,0.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-24,-2.0,0.0,12.0,3.0,3.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-25,-7.0,-3.0,-12.0,-1.0,2.0,1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-26,-4.0,-2.0,-5.0,-1.0,3.0,1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-27,2.0,1.0,23.0,3.0,2.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-28,17.0,-1.0,24.0,11.0,2.0,-1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-02-29,11.0,-3.0,-20.0,9.0,0.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-01,17.0,-8.0,-10.0,5.0,-1.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-02,11.0,-7.0,27.0,3.0,2.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-03,8.0,-7.0,0.0,1.0,2.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-04,10.0,-6.0,19.0,2.0,2.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-05,11.0,-5.0,31.0,2.0,1.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-06,9.0,-5.0,16.0,3.0,1.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-07,11.0,-2.0,47.0,15.0,0.0,-1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-08,9.0,-10.0,-22.0,2.0,-3.0,1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-09,6.0,-7.0,27.0,0.0,1.0,1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-10,4.0,-5.0,-7.0,-5.0,0.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-11,5.0,3.0,29.0,-10.0,-1.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-12,-8.0,21.0,-15.0,-39.0,-28.0,12.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-13,-26.0,-10.0,24.0,-51.0,-43.0,16.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-14,-32.0,-11.0,103.0,-36.0,-16.0,8.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-15,-34.0,-27.0,6.0,-50.0,-24.0,8.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-16,-23.0,-16.0,89.0,-50.0,-49.0,16.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-17,-26.0,-8.0,44.0,-55.0,-50.0,18.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-18,-40.0,-21.0,35.0,-59.0,-53.0,20.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-19,-38.0,-22.0,132.0,-56.0,-54.0,20.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-20,-42.0,-25.0,98.0,-61.0,-54.0,20.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-21,-46.0,-23.0,110.0,-48.0,-26.0,11.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-22,-34.0,-27.0,96.0,-54.0,-27.0,9.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-23,-33.0,-21.0,75.0,-59.0,-53.0,18.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-24,-36.0,-21.0,77.0,-57.0,-54.0,19.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-25,-36.0,-19.0,92.0,-58.0,-53.0,19.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-26,-35.0,-19.0,122.0,-57.0,-53.0,19.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-27,-37.0,-20.0,127.0,-59.0,-54.0,19.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-28,-41.0,-15.0,102.0,-49.0,-26.0,10.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-29,-34.0,-23.0,71.0,-55.0,-26.0,9.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-30,-31.0,-20.0,78.0,-56.0,-53.0,18.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-03-31,-24.0,-6.0,67.0,-51.0,-52.0,17.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-01,-31.0,-13.0,28.0,-56.0,-52.0,18.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-02,-33.0,-14.0,28.0,-58.0,-53.0,19.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-03,-35.0,-12.0,52.0,-58.0,-53.0,19.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-04,-38.0,-9.0,77.0,-45.0,-23.0,9.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-05,-21.0,-12.0,166.0,-40.0,-21.0,7.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-06,-14.0,-6.0,220.0,-47.0,-59.0,16.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-07,-13.0,4.0,210.0,-46.0,-59.0,16.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-08,-8.0,12.0,171.0,-47.0,-60.0,14.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-09,-41.0,-16.0,252.0,-60.0,-83.0,22.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-10,-62.0,-39.0,227.0,-63.0,-83.0,24.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-11,-32.0,3.0,28.0,-48.0,-24.0,9.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-12,-38.0,-21.0,166.0,-39.0,-24.0,6.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-13,-56.0,-30.0,180.0,-61.0,-84.0,24.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-14,-13.0,3.0,94.0,-49.0,-48.0,16.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-15,-22.0,-5.0,81.0,-47.0,-46.0,16.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-16,-22.0,-6.0,121.0,-45.0,-45.0,16.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-17,-25.0,-9.0,168.0,-46.0,-43.0,14.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-18,-31.0,-7.0,156.0,-33.0,-13.0,7.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-19,-18.0,-13.0,183.0,-36.0,-14.0,5.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-20,-11.0,-7.0,162.0,-37.0,-39.0,12.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-21,-14.0,-3.0,173.0,-35.0,-38.0,12.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-22,-16.0,-5.0,169.0,-36.0,-38.0,12.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-23,-16.0,-4.0,209.0,-36.0,-38.0,12.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-24,-23.0,-9.0,142.0,-42.0,-39.0,13.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-25,-27.0,-5.0,150.0,-28.0,-13.0,6.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-26,-19.0,-14.0,112.0,-37.0,-17.0,5.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-27,-21.0,-12.0,28.0,-42.0,-38.0,14.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-28,-19.0,-8.0,110.0,-35.0,-36.0,11.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-29,-23.0,-10.0,42.0,-39.0,-37.0,13.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-04-30,-24.0,0.0,30.0,-39.0,-38.0,14.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-01,-27.0,-3.0,86.0,-41.0,-48.0,15.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-02,-31.0,-1.0,75.0,-27.0,-13.0,7.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-03,-19.0,-9.0,135.0,-24.0,-10.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-04,-19.0,-5.0,103.0,-30.0,-33.0,11.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-05,-20.0,-1.0,130.0,-27.0,-32.0,10.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-06,-21.0,1.0,89.0,-29.0,-32.0,11.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-07,-10.0,17.0,188.0,-23.0,-32.0,7.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-08,-58.0,-33.0,286.0,-47.0,-79.0,19.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-09,-20.0,10.0,213.0,-9.0,-7.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-10,-16.0,1.0,85.0,-24.0,-7.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-11,-13.0,-1.0,89.0,-28.0,-31.0,10.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-12,-19.0,0.0,56.0,-32.0,-30.0,11.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-13,-19.0,0.0,94.0,-29.0,-29.0,10.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-14,-17.0,0.0,99.0,-30.0,-29.0,9.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-15,-23.0,-5.0,82.0,-33.0,-30.0,10.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-16,-29.0,-2.0,44.0,-29.0,-9.0,6.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-17,-20.0,-8.0,69.0,-31.0,-8.0,5.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-18,-10.0,-5.0,49.0,-26.0,-24.0,9.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-19,-8.0,1.0,130.0,-19.0,-21.0,7.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-20,7.0,16.0,218.0,-10.0,-21.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-21,-41.0,-20.0,476.0,-35.0,-78.0,16.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-22,-7.0,-2.0,188.0,-40.0,-61.0,14.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-23,-15.0,-2.0,176.0,-12.0,3.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-24,-14.0,-9.0,32.0,-24.0,-4.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-25,-3.0,-3.0,138.0,-18.0,-22.0,7.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-26,-4.0,-1.0,176.0,-16.0,-19.0,6.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-27,-6.0,-1.0,111.0,-19.0,-18.0,6.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-28,-1.0,3.0,187.0,-16.0,-18.0,5.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-29,3.0,7.0,271.0,-8.0,-16.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-30,-1.0,12.0,278.0,15.0,14.0,-2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-05-31,-24.0,-11.0,319.0,3.0,2.0,-2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-01,-35.0,-13.0,463.0,-26.0,-78.0,13.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-02,16.0,20.0,245.0,-5.0,-17.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-03,6.0,8.0,160.0,-11.0,-18.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-04,10.0,17.0,71.0,-12.0,-19.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-05,-40.0,-26.0,180.0,-33.0,-63.0,15.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-06,3.0,14.0,78.0,-7.0,4.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-07,-2.0,-6.0,99.0,-8.0,4.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-08,7.0,2.0,111.0,-12.0,-17.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-09,3.0,3.0,136.0,-10.0,-17.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-10,3.0,2.0,137.0,-14.0,-17.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-11,7.0,5.0,166.0,-11.0,-17.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-12,1.0,-1.0,144.0,-11.0,-16.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-13,-6.0,0.0,127.0,3.0,11.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-14,7.0,-4.0,232.0,5.0,12.0,-2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-15,13.0,4.0,269.0,-4.0,-16.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-16,12.0,7.0,330.0,-2.0,-15.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-17,9.0,5.0,231.0,-5.0,-16.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-18,12.0,5.0,259.0,-6.0,-17.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-19,0.0,-1.0,129.0,-10.0,-17.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-20,-3.0,1.0,116.0,4.0,7.0,-1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-21,8.0,-2.0,214.0,4.0,7.0,-1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-22,17.0,6.0,191.0,-4.0,-19.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-23,13.0,8.0,299.0,-2.0,-18.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-24,11.0,5.0,273.0,-3.0,-16.0,1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-25,15.0,8.0,351.0,-3.0,-17.0,1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-26,2.0,-2.0,351.0,-4.0,-16.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-27,-6.0,1.0,241.0,22.0,5.0,-4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-28,4.0,0.0,140.0,3.0,2.0,-1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-29,15.0,4.0,188.0,-9.0,-27.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-06-30,23.0,12.0,148.0,-8.0,-27.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-01,21.0,8.0,212.0,-7.0,-28.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-02,21.0,8.0,297.0,-5.0,-29.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-03,6.0,-2.0,190.0,-11.0,-30.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-04,-4.0,0.0,86.0,9.0,-5.0,-2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-05,9.0,-3.0,117.0,-1.0,-8.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-06,25.0,6.0,224.0,-14.0,-42.0,6.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-07,22.0,6.0,267.0,-13.0,-41.0,5.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-08,22.0,4.0,280.0,-11.0,-40.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-09,19.0,3.0,363.0,-7.0,-40.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-10,6.0,-5.0,275.0,-15.0,-40.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-11,1.0,0.0,209.0,21.0,-3.0,-4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-12,12.0,-4.0,233.0,9.0,-9.0,-2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-13,30.0,5.0,447.0,-6.0,-58.0,6.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-14,26.0,6.0,337.0,-15.0,-59.0,8.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-15,24.0,2.0,370.0,-14.0,-57.0,7.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-16,23.0,1.0,506.0,-9.0,-57.0,6.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-17,4.0,-9.0,454.0,-14.0,-57.0,5.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-18,-1.0,-3.0,321.0,27.0,-6.0,-5.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-19,11.0,-2.0,251.0,10.0,-12.0,-2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-20,35.0,9.0,474.0,-10.0,-61.0,7.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-21,34.0,7.0,511.0,-10.0,-62.0,7.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-22,28.0,4.0,433.0,-13.0,-60.0,7.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-23,21.0,2.0,402.0,-18.0,-61.0,8.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-24,6.0,-8.0,351.0,-23.0,-59.0,8.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-25,0.0,-3.0,265.0,20.0,-8.0,-4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-26,14.0,-4.0,174.0,3.0,-12.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-27,29.0,4.0,372.0,-14.0,-53.0,7.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-28,28.0,5.0,371.0,-14.0,-52.0,8.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-29,24.0,2.0,244.0,-19.0,-53.0,8.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-30,25.0,4.0,362.0,-15.0,-52.0,7.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-07-31,14.0,-1.0,446.0,-9.0,-50.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-01,3.0,1.0,313.0,32.0,-4.0,-5.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-02,19.0,2.0,220.0,10.0,-6.0,-2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-03,27.0,7.0,311.0,-8.0,-35.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-04,24.0,7.0,340.0,-7.0,-35.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-05,20.0,5.0,223.0,-12.0,-35.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-06,18.0,4.0,434.0,-8.0,-34.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-07,3.0,-5.0,468.0,-10.0,-35.0,1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-08,-4.0,-1.0,365.0,19.0,-1.0,-5.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-09,10.0,0.0,345.0,9.0,-3.0,-3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-10,14.0,6.0,362.0,-11.0,-28.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-11,11.0,5.0,392.0,-11.0,-28.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-12,8.0,3.0,323.0,-13.0,-28.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-13,7.0,1.0,384.0,-13.0,-29.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-14,0.0,-5.0,404.0,-12.0,-29.0,1.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-15,-8.0,-4.0,343.0,12.0,-3.0,-4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-16,5.0,-6.0,350.0,8.0,-5.0,-4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-17,9.0,-1.0,359.0,-11.0,-28.0,2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-18,5.0,-1.0,215.0,-15.0,-26.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-19,6.0,-2.0,221.0,-16.0,-26.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-20,2.0,-3.0,146.0,-18.0,-27.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-21,-1.0,-7.0,223.0,-13.0,-26.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-22,-6.0,-5.0,169.0,3.0,-5.0,-2.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-23,3.0,-7.0,115.0,-2.0,-9.0,0.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-24,8.0,-4.0,199.0,-12.0,-24.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-25,7.0,-4.0,206.0,-14.0,-24.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-26,6.0,-3.0,147.0,-15.0,-23.0,4.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-27,8.0,-2.0,206.0,-12.0,-23.0,3.0
+DK-82,DK,Denmark,Central Denmark Region,,,DK-82,,2020-08-28,3.0,-4.0,167.0,-11.0,-23.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-15,4.0,3.0,5.0,7.0,-3.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-16,-7.0,-8.0,-34.0,-11.0,-8.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-17,1.0,-2.0,-9.0,-18.0,-19.0,4.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-18,5.0,-1.0,8.0,-11.0,-18.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-19,6.0,1.0,31.0,-8.0,-19.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-20,0.0,-2.0,-13.0,-16.0,-21.0,4.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-21,-2.0,-3.0,8.0,-14.0,-23.0,4.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-22,-8.0,-3.0,-19.0,-12.0,-7.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-23,5.0,0.0,3.0,3.0,-1.0,-1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-24,0.0,1.0,12.0,3.0,4.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-25,-1.0,-1.0,-5.0,2.0,4.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-26,0.0,-2.0,5.0,1.0,3.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-27,1.0,0.0,6.0,5.0,4.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-28,20.0,4.0,40.0,11.0,2.0,-1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-02-29,12.0,-2.0,-25.0,8.0,-1.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-01,17.0,-5.0,-22.0,4.0,-1.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-02,11.0,0.0,17.0,4.0,4.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-03,11.0,-3.0,1.0,2.0,3.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-04,11.0,-2.0,22.0,3.0,3.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-05,11.0,1.0,16.0,6.0,3.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-06,8.0,0.0,10.0,4.0,3.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-07,14.0,1.0,44.0,7.0,1.0,-1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-08,4.0,-6.0,-38.0,-2.0,-3.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-09,6.0,-1.0,13.0,1.0,2.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-10,2.0,0.0,-5.0,-5.0,1.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-11,5.0,6.0,10.0,-9.0,0.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-12,-10.0,29.0,-33.0,-36.0,-25.0,10.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-13,-28.0,-5.0,0.0,-45.0,-41.0,14.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-14,-31.0,-4.0,64.0,-30.0,-16.0,7.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-15,-36.0,-19.0,-28.0,-51.0,-24.0,8.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-16,-22.0,-8.0,46.0,-46.0,-46.0,15.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-17,-27.0,-2.0,4.0,-50.0,-48.0,16.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-18,-39.0,-15.0,19.0,-55.0,-50.0,18.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-19,-39.0,-16.0,41.0,-53.0,-51.0,18.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-20,-41.0,-19.0,51.0,-58.0,-51.0,19.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-21,-44.0,-16.0,79.0,-46.0,-24.0,10.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-22,-34.0,-19.0,46.0,-53.0,-26.0,8.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-23,-32.0,-16.0,35.0,-55.0,-51.0,17.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-24,-36.0,-16.0,35.0,-55.0,-51.0,17.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-25,-35.0,-15.0,51.0,-53.0,-50.0,17.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-26,-34.0,-12.0,68.0,-52.0,-50.0,17.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-27,-36.0,-14.0,76.0,-54.0,-51.0,17.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-28,-38.0,-10.0,67.0,-48.0,-25.0,10.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-29,-34.0,-16.0,32.0,-54.0,-26.0,8.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-30,-31.0,-13.0,32.0,-53.0,-49.0,16.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-03-31,-22.0,1.0,20.0,-48.0,-49.0,16.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-01,-28.0,-6.0,17.0,-50.0,-49.0,16.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-02,-33.0,-10.0,-17.0,-57.0,-50.0,18.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-03,-31.0,-7.0,17.0,-54.0,-50.0,17.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-04,-33.0,-5.0,42.0,-43.0,-20.0,9.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-05,-18.0,-6.0,94.0,-42.0,-20.0,6.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-06,-8.0,2.0,140.0,-44.0,-54.0,14.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-07,-7.0,11.0,133.0,-40.0,-55.0,14.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-08,1.0,19.0,127.0,-41.0,-55.0,13.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-09,-32.0,-8.0,158.0,-56.0,-81.0,21.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-10,-53.0,-28.0,164.0,-58.0,-81.0,22.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-11,-27.0,5.0,8.0,-49.0,-21.0,9.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-12,-33.0,-14.0,66.0,-47.0,-22.0,6.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-13,-48.0,-20.0,101.0,-59.0,-82.0,22.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-14,-12.0,4.0,42.0,-43.0,-45.0,14.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-15,-21.0,-3.0,18.0,-44.0,-44.0,15.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-16,-23.0,1.0,63.0,-39.0,-41.0,14.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-17,-25.0,-2.0,103.0,-40.0,-41.0,13.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-18,-27.0,0.0,113.0,-30.0,-10.0,6.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-19,-17.0,-5.0,104.0,-34.0,-11.0,4.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-20,-11.0,0.0,96.0,-31.0,-36.0,11.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-21,-13.0,4.0,124.0,-27.0,-35.0,10.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-22,-14.0,2.0,135.0,-28.0,-35.0,10.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-23,-16.0,3.0,111.0,-30.0,-35.0,11.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-24,-22.0,-1.0,99.0,-38.0,-35.0,11.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-25,-22.0,4.0,134.0,-28.0,-7.0,5.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-26,-16.0,-5.0,67.0,-36.0,-14.0,4.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-27,-18.0,-4.0,23.0,-29.0,-35.0,12.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-28,-20.0,-2.0,71.0,-24.0,-34.0,9.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-29,-22.0,-3.0,27.0,-28.0,-34.0,12.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-04-30,-23.0,5.0,-14.0,-37.0,-36.0,13.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-01,-22.0,4.0,62.0,-34.0,-45.0,13.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-02,-24.0,7.0,64.0,-29.0,-9.0,6.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-03,-13.0,0.0,73.0,-30.0,-8.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-04,-14.0,3.0,47.0,-28.0,-30.0,10.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-05,-16.0,4.0,78.0,-24.0,-29.0,9.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-06,-16.0,7.0,46.0,-27.0,-29.0,10.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-07,-5.0,24.0,108.0,-22.0,-28.0,6.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-08,-52.0,-20.0,171.0,-47.0,-76.0,18.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-09,-11.0,21.0,160.0,-13.0,-4.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-10,-15.0,9.0,10.0,-32.0,-4.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-11,-12.0,5.0,47.0,-24.0,-27.0,9.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-12,-19.0,6.0,23.0,-25.0,-28.0,10.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-13,-17.0,5.0,75.0,-22.0,-26.0,9.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-14,-14.0,3.0,30.0,-24.0,-27.0,8.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-15,-17.0,0.0,41.0,-27.0,-27.0,9.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-16,-20.0,3.0,29.0,-28.0,-4.0,5.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-17,-16.0,-4.0,-4.0,-38.0,-8.0,5.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-18,-4.0,2.0,43.0,-16.0,-20.0,7.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-19,-4.0,7.0,80.0,-10.0,-19.0,6.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-20,11.0,21.0,166.0,-4.0,-17.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-21,-28.0,-4.0,300.0,-29.0,-74.0,15.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-22,3.0,8.0,135.0,-36.0,-59.0,13.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-23,-5.0,7.0,135.0,-13.0,3.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-24,-12.0,-4.0,-12.0,-33.0,-3.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-25,-2.0,2.0,85.0,-13.0,-19.0,6.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-26,-3.0,4.0,109.0,-10.0,-16.0,5.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-27,-3.0,4.0,62.0,-12.0,-15.0,5.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-28,0.0,8.0,118.0,-7.0,-14.0,4.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-29,8.0,15.0,194.0,-1.0,-13.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-30,11.0,24.0,223.0,13.0,17.0,-2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-05-31,-7.0,8.0,213.0,-3.0,10.0,-2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-01,-23.0,1.0,294.0,-23.0,-75.0,12.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-02,19.0,26.0,135.0,3.0,-14.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-03,11.0,14.0,107.0,-2.0,-14.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-04,18.0,25.0,53.0,0.0,-15.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-05,-33.0,-14.0,112.0,-29.0,-61.0,14.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-06,5.0,18.0,55.0,-12.0,4.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-07,-1.0,-2.0,30.0,-16.0,4.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-08,8.0,7.0,70.0,-8.0,-14.0,4.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-09,4.0,7.0,88.0,-2.0,-13.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-10,4.0,6.0,90.0,-3.0,-13.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-11,9.0,9.0,117.0,-2.0,-13.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-12,1.0,5.0,108.0,-5.0,-13.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-13,-2.0,5.0,119.0,8.0,14.0,-1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-14,10.0,3.0,135.0,8.0,14.0,-2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-15,17.0,12.0,185.0,4.0,-13.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-16,16.0,15.0,204.0,10.0,-13.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-17,13.0,13.0,186.0,7.0,-14.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-18,15.0,11.0,191.0,5.0,-13.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-19,4.0,5.0,166.0,-1.0,-14.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-20,-1.0,6.0,87.0,-4.0,5.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-21,11.0,5.0,119.0,-1.0,8.0,-1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-22,20.0,13.0,135.0,4.0,-18.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-23,18.0,15.0,207.0,10.0,-16.0,-1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-24,17.0,11.0,233.0,9.0,-15.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-25,18.0,15.0,246.0,11.0,-15.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-26,6.0,6.0,257.0,6.0,-14.0,-1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-27,2.0,13.0,228.0,26.0,7.0,-4.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-28,11.0,10.0,106.0,1.0,4.0,-1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-29,26.0,17.0,184.0,1.0,-25.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-06-30,32.0,27.0,153.0,4.0,-26.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-01,36.0,23.0,235.0,9.0,-25.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-02,32.0,22.0,232.0,8.0,-28.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-03,14.0,10.0,190.0,2.0,-28.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-04,10.0,15.0,154.0,24.0,2.0,-2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-05,16.0,11.0,101.0,-1.0,-1.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-06,39.0,24.0,225.0,-1.0,-38.0,5.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-07,43.0,27.0,302.0,16.0,-37.0,4.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-08,44.0,21.0,346.0,9.0,-36.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-09,40.0,21.0,355.0,14.0,-36.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-10,18.0,10.0,,5.0,-35.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-11,15.0,18.0,253.0,37.0,0.0,-3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-12,29.0,16.0,216.0,15.0,-3.0,-2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-13,58.0,31.0,,13.0,-54.0,6.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-14,50.0,31.0,371.0,7.0,-55.0,7.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-15,56.0,27.0,481.0,14.0,-53.0,6.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-16,52.0,27.0,511.0,17.0,-53.0,5.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-17,25.0,11.0,,7.0,-52.0,5.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-18,21.0,19.0,356.0,49.0,-3.0,-4.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-19,23.0,16.0,190.0,13.0,-7.0,-1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-20,66.0,36.0,,11.0,-57.0,6.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-21,63.0,34.0,,15.0,-58.0,6.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-22,59.0,29.0,506.0,12.0,-57.0,6.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-23,46.0,25.0,432.0,8.0,-57.0,7.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-24,23.0,9.0,,-3.0,-56.0,7.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-25,19.0,16.0,328.0,43.0,-2.0,-4.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-26,22.0,13.0,167.0,10.0,-7.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-27,52.0,25.0,,6.0,-50.0,7.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-28,51.0,27.0,377.0,9.0,-51.0,7.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-29,43.0,21.0,278.0,-3.0,-50.0,8.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-30,43.0,20.0,308.0,-3.0,-50.0,7.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-07-31,31.0,12.0,,8.0,-48.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-01,21.0,17.0,346.0,49.0,1.0,-5.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-02,36.0,17.0,185.0,16.0,-1.0,-2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-03,46.0,26.0,,6.0,-35.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-04,44.0,23.0,341.0,11.0,-34.0,3.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-05,37.0,14.0,202.0,-3.0,-34.0,4.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-06,37.0,15.0,355.0,7.0,-32.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-07,17.0,5.0,,6.0,-33.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-08,13.0,11.0,384.0,41.0,4.0,-6.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-09,25.0,11.0,284.0,17.0,6.0,-5.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-10,34.0,19.0,313.0,9.0,-25.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-11,29.0,16.0,344.0,12.0,-25.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-12,28.0,14.0,315.0,8.0,-22.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-13,23.0,14.0,313.0,10.0,-22.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-14,12.0,7.0,335.0,9.0,-22.0,-2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-15,11.0,11.0,346.0,31.0,2.0,-5.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-16,20.0,9.0,270.0,8.0,0.0,-5.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-17,22.0,13.0,,4.0,-22.0,0.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-18,20.0,13.0,253.0,6.0,-19.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-19,23.0,11.0,255.0,3.0,-20.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-20,17.0,11.0,164.0,2.0,-21.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-21,9.0,5.0,206.0,4.0,-20.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-22,6.0,8.0,171.0,12.0,-1.0,-2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-23,14.0,5.0,109.0,0.0,-1.0,-2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-24,19.0,11.0,180.0,0.0,-18.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-25,18.0,10.0,221.0,4.0,-18.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-26,16.0,7.0,142.0,-3.0,-17.0,2.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-27,18.0,9.0,190.0,3.0,-17.0,1.0
+DK-81,DK,Denmark,North Denmark Region,,,DK-81,,2020-08-28,10.0,6.0,139.0,0.0,-17.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-15,-3.0,-2.0,-5.0,1.0,-7.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-16,-7.0,-7.0,-42.0,-3.0,-8.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-17,-4.0,0.0,17.0,2.0,2.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-18,-1.0,0.0,20.0,1.0,3.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-19,-1.0,0.0,16.0,0.0,4.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-20,-4.0,-1.0,-7.0,0.0,3.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-21,2.0,0.0,4.0,2.0,2.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-22,-6.0,-3.0,-24.0,-4.0,-2.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-23,-1.0,-2.0,-29.0,-1.0,-2.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-24,-3.0,-2.0,17.0,3.0,3.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-25,-5.0,-4.0,0.0,-1.0,3.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-26,-2.0,-3.0,4.0,1.0,3.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-27,2.0,1.0,13.0,3.0,3.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-28,23.0,1.0,21.0,9.0,3.0,-1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-02-29,14.0,-2.0,-7.0,6.0,2.0,-1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-01,26.0,-6.0,-16.0,4.0,1.0,-1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-02,13.0,-5.0,32.0,3.0,1.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-03,13.0,-5.0,23.0,0.0,2.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-04,13.0,-5.0,22.0,2.0,2.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-05,14.0,-3.0,31.0,2.0,2.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-06,10.0,-5.0,10.0,3.0,1.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-07,14.0,-2.0,58.0,11.0,0.0,-1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-08,14.0,-8.0,-19.0,2.0,-2.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-09,9.0,-5.0,32.0,1.0,1.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-10,6.0,-5.0,0.0,-5.0,1.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-11,9.0,3.0,30.0,-6.0,0.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-12,-5.0,22.0,-15.0,-33.0,-24.0,10.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-13,-22.0,-8.0,12.0,-45.0,-39.0,14.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-14,-27.0,-9.0,78.0,-34.0,-14.0,7.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-15,-27.0,-24.0,-12.0,-48.0,-21.0,8.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-16,-21.0,-14.0,54.0,-48.0,-45.0,15.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-17,-22.0,-6.0,48.0,-51.0,-47.0,16.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-18,-37.0,-20.0,5.0,-58.0,-49.0,18.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-19,-36.0,-21.0,92.0,-55.0,-50.0,17.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-20,-39.0,-23.0,73.0,-60.0,-51.0,18.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-21,-44.0,-20.0,87.0,-54.0,-25.0,11.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-22,-31.0,-25.0,36.0,-59.0,-27.0,9.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-23,-32.0,-20.0,70.0,-57.0,-50.0,17.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-24,-32.0,-17.0,75.0,-57.0,-50.0,17.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-25,-31.0,-18.0,69.0,-56.0,-49.0,17.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-26,-32.0,-16.0,88.0,-57.0,-49.0,17.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-27,-34.0,-18.0,96.0,-60.0,-50.0,17.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-28,-38.0,-12.0,95.0,-54.0,-26.0,10.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-29,-30.0,-22.0,23.0,-59.0,-28.0,9.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-30,-29.0,-18.0,63.0,-57.0,-49.0,16.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-03-31,-15.0,-1.0,94.0,-51.0,-48.0,15.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-01,-26.0,-10.0,15.0,-54.0,-49.0,16.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-02,-28.0,-12.0,15.0,-58.0,-49.0,17.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-03,-28.0,-10.0,40.0,-57.0,-49.0,17.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-04,-33.0,-8.0,51.0,-53.0,-22.0,9.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-05,-12.0,-11.0,101.0,-48.0,-22.0,6.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-06,-8.0,-4.0,183.0,-47.0,-54.0,14.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-07,-4.0,5.0,186.0,-48.0,-55.0,14.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-08,2.0,12.0,132.0,-47.0,-56.0,13.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-09,-34.0,-13.0,194.0,-59.0,-81.0,21.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-10,-56.0,-35.0,175.0,-65.0,-81.0,22.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-11,-24.0,7.0,63.0,-49.0,-20.0,8.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-12,-26.0,-18.0,119.0,-45.0,-22.0,5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-13,-51.0,-27.0,130.0,-62.0,-82.0,23.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-14,-7.0,5.0,74.0,-49.0,-45.0,14.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-15,-16.0,-3.0,62.0,-45.0,-43.0,14.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-16,-17.0,-3.0,87.0,-45.0,-42.0,14.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-17,-20.0,-6.0,125.0,-46.0,-40.0,13.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-18,-25.0,-3.0,133.0,-41.0,-11.0,6.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-19,-9.0,-11.0,102.0,-43.0,-14.0,5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-20,-7.0,-4.0,132.0,-38.0,-36.0,11.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-21,-8.0,0.0,135.0,-38.0,-35.0,11.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-22,-12.0,-3.0,114.0,-37.0,-35.0,11.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-23,-12.0,-1.0,163.0,-37.0,-34.0,11.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-24,-19.0,-5.0,119.0,-45.0,-35.0,11.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-25,-22.0,-2.0,143.0,-40.0,-10.0,5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-26,-14.0,-12.0,51.0,-45.0,-17.0,5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-27,-13.0,-7.0,78.0,-41.0,-35.0,11.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-28,-11.0,-5.0,122.0,-38.0,-33.0,9.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-29,-18.0,-7.0,21.0,-40.0,-34.0,12.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-04-30,-11.0,5.0,36.0,-37.0,-34.0,12.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-01,-19.0,0.0,53.0,-44.0,-45.0,14.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-02,-22.0,2.0,65.0,-39.0,-12.0,6.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-03,-6.0,-8.0,85.0,-34.0,-9.0,4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-04,-9.0,-1.0,95.0,-32.0,-30.0,9.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-05,-9.0,2.0,123.0,-31.0,-29.0,9.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-06,-10.0,4.0,79.0,-29.0,-29.0,9.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-07,2.0,19.0,152.0,-24.0,-29.0,6.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-08,-49.0,-27.0,251.0,-51.0,-76.0,17.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-09,-9.0,14.0,189.0,-27.0,-4.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-10,2.0,3.0,66.0,-28.0,-4.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-11,-5.0,2.0,72.0,-31.0,-28.0,9.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-12,-9.0,2.0,55.0,-33.0,-27.0,10.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-13,-8.0,1.0,72.0,-28.0,-26.0,9.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-14,-8.0,2.0,76.0,-29.0,-26.0,8.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-15,-14.0,-2.0,61.0,-35.0,-27.0,9.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-16,-18.0,2.0,69.0,-35.0,-4.0,5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-17,-8.0,-6.0,30.0,-36.0,-5.0,4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-18,-2.0,-2.0,41.0,-25.0,-21.0,8.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-19,3.0,4.0,132.0,-20.0,-19.0,6.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-20,17.0,16.0,175.0,-7.0,-19.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-21,-30.0,-15.0,361.0,-37.0,-75.0,14.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-22,2.0,1.0,150.0,-42.0,-59.0,13.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-23,-8.0,1.0,150.0,-22.0,2.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-24,-3.0,-6.0,23.0,-25.0,-3.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-25,3.0,-1.0,111.0,-21.0,-20.0,6.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-26,3.0,1.0,162.0,-18.0,-17.0,5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-27,2.0,1.0,86.0,-17.0,-16.0,5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-28,6.0,5.0,146.0,-14.0,-15.0,4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-29,14.0,11.0,222.0,-7.0,-14.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-30,7.0,16.0,243.0,5.0,13.0,-2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-05-31,-8.0,-6.0,208.0,-7.0,1.0,-2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-01,-23.0,-10.0,392.0,-27.0,-76.0,13.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-02,27.0,22.0,214.0,-5.0,-15.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-03,15.0,9.0,124.0,-8.0,-15.0,4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-04,18.0,18.0,47.0,-10.0,-17.0,4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-05,-30.0,-21.0,141.0,-36.0,-58.0,13.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-06,9.0,16.0,65.0,-14.0,4.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-07,9.0,-3.0,51.0,-14.0,4.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-08,13.0,3.0,109.0,-12.0,-15.0,4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-09,12.0,4.0,143.0,-10.0,-14.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-10,11.0,3.0,110.0,-10.0,-14.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-11,12.0,5.0,97.0,-14.0,-15.0,4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-12,6.0,1.0,106.0,-17.0,-15.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-13,-2.0,0.0,89.0,-15.0,7.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-14,17.0,-3.0,127.0,-7.0,11.0,-1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-15,19.0,6.0,265.0,-4.0,-15.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-16,20.0,9.0,324.0,-5.0,-14.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-17,18.0,6.0,230.0,-5.0,-14.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-18,17.0,6.0,233.0,-6.0,-15.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-19,6.0,-1.0,106.0,-17.0,-16.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-20,5.0,3.0,160.0,-1.0,7.0,-1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-21,22.0,0.0,178.0,1.0,9.0,-2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-22,24.0,7.0,230.0,-6.0,-18.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-23,21.0,10.0,336.0,-2.0,-17.0,-1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-24,18.0,5.0,264.0,0.0,-16.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-25,21.0,9.0,301.0,-5.0,-17.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-26,10.0,-1.0,323.0,-8.0,-16.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-27,1.0,1.0,249.0,12.0,3.0,-3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-28,20.0,1.0,118.0,1.0,1.0,-1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-29,26.0,6.0,246.0,-10.0,-27.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-06-30,39.0,18.0,206.0,-10.0,-28.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-01,32.0,9.0,214.0,-6.0,-28.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-02,32.0,11.0,274.0,-3.0,-29.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-03,18.0,0.0,200.0,-11.0,-31.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-04,7.0,1.0,97.0,7.0,-7.0,-1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-05,25.0,0.0,108.0,-1.0,-7.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-06,39.0,9.0,,-10.0,-41.0,5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-07,40.0,10.0,342.0,-8.0,-41.0,5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-08,38.0,7.0,332.0,-3.0,-40.0,4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-09,35.0,7.0,375.0,0.0,-40.0,4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-10,19.0,-2.0,265.0,-13.0,-40.0,4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-11,16.0,4.0,278.0,27.0,-4.0,-3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-12,33.0,2.0,229.0,15.0,-8.0,-2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-13,48.0,11.0,,1.0,-53.0,5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-14,46.0,13.0,451.0,-10.0,-54.0,7.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-15,43.0,9.0,435.0,-5.0,-52.0,6.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-16,41.0,9.0,535.0,-2.0,-52.0,5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-17,20.0,-3.0,512.0,-7.0,-51.0,4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-18,14.0,4.0,409.0,33.0,-5.0,-4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-19,33.0,4.0,294.0,16.0,-8.0,-2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-20,54.0,17.0,,-2.0,-56.0,6.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-21,55.0,16.0,628.0,-5.0,-56.0,6.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-22,47.0,10.0,513.0,-4.0,-55.0,6.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-23,39.0,10.0,442.0,-12.0,-55.0,7.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-24,22.0,-1.0,398.0,-17.0,-55.0,7.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-25,14.0,3.0,342.0,27.0,-6.0,-3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-26,31.0,1.0,195.0,6.0,-11.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-27,42.0,10.0,,-5.0,-50.0,6.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-28,46.0,12.0,497.0,-7.0,-49.0,7.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-29,40.0,7.0,328.0,-11.0,-49.0,7.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-30,40.0,8.0,432.0,-8.0,-49.0,6.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-07-31,29.0,5.0,489.0,-5.0,-47.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-01,17.0,8.0,376.0,36.0,-1.0,-5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-02,37.0,8.0,224.0,16.0,-4.0,-2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-03,42.0,13.0,,-2.0,-36.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-04,41.0,14.0,448.0,-3.0,-36.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-05,38.0,10.0,334.0,-3.0,-35.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-06,31.0,10.0,477.0,-1.0,-34.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-07,15.0,-1.0,498.0,-6.0,-35.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-08,9.0,4.0,433.0,28.0,-2.0,-5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-09,28.0,7.0,305.0,14.0,-1.0,-4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-10,27.0,11.0,,-1.0,-27.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-11,28.0,12.0,482.0,-1.0,-25.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-12,26.0,9.0,362.0,-1.0,-24.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-13,21.0,8.0,389.0,-1.0,-24.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-14,14.0,2.0,415.0,-1.0,-24.0,-1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-15,6.0,4.0,380.0,19.0,-1.0,-5.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-16,22.0,2.0,292.0,13.0,-3.0,-4.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-17,19.0,6.0,,-1.0,-24.0,0.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-18,20.0,7.0,300.0,-3.0,-21.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-19,20.0,5.0,278.0,-1.0,-21.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-20,16.0,5.0,215.0,-5.0,-22.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-21,13.0,-1.0,256.0,-3.0,-22.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-22,7.0,3.0,211.0,8.0,-3.0,-2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-23,18.0,-1.0,105.0,2.0,-7.0,-1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-24,17.0,2.0,237.0,-6.0,-20.0,2.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-25,18.0,3.0,253.0,-5.0,-20.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-26,15.0,1.0,141.0,-8.0,-18.0,3.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-27,20.0,4.0,223.0,-2.0,-19.0,1.0
+DK-83,DK,Denmark,Region of Southern Denmark,,,DK-83,,2020-08-28,13.0,0.0,186.0,-4.0,-19.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-15,-3.0,0.0,2.0,4.0,-5.0,0.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-16,-9.0,-7.0,-34.0,-5.0,-6.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-17,-3.0,-2.0,4.0,-11.0,-7.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-18,-1.0,0.0,8.0,-9.0,-6.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-19,0.0,-1.0,3.0,-7.0,-6.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-20,-1.0,-2.0,-12.0,-6.0,-7.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-21,0.0,0.0,24.0,-9.0,-8.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-22,-8.0,-3.0,-25.0,-8.0,-3.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-23,-2.0,-2.0,-16.0,-3.0,0.0,0.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-24,-2.0,-1.0,15.0,1.0,2.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-25,-1.0,-2.0,-3.0,-2.0,2.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-26,-1.0,-1.0,-2.0,-3.0,2.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-27,3.0,2.0,15.0,1.0,2.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-28,19.0,4.0,19.0,5.0,2.0,-1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-02-29,11.0,-1.0,-21.0,4.0,-1.0,0.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-01,20.0,-4.0,-4.0,7.0,1.0,-1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-02,13.0,-4.0,35.0,0.0,1.0,0.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-03,11.0,-2.0,7.0,-1.0,2.0,0.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-04,11.0,-4.0,13.0,0.0,1.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-05,13.0,-1.0,21.0,2.0,1.0,0.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-06,8.0,-2.0,6.0,-3.0,0.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-07,11.0,1.0,52.0,8.0,1.0,0.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-08,14.0,-4.0,0.0,2.0,-1.0,0.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-09,7.0,-4.0,14.0,-4.0,0.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-10,6.0,-3.0,-8.0,-7.0,0.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-11,10.0,6.0,19.0,-8.0,-1.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-12,-4.0,23.0,-8.0,-38.0,-25.0,11.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-13,-20.0,-6.0,15.0,-50.0,-40.0,15.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-14,-24.0,-6.0,134.0,-34.0,-13.0,7.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-15,-25.0,-19.0,6.0,-49.0,-20.0,7.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-16,-18.0,-11.0,64.0,-54.0,-48.0,16.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-17,-15.0,-1.0,65.0,-54.0,-49.0,16.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-18,-32.0,-19.0,19.0,-60.0,-52.0,19.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-19,-30.0,-18.0,131.0,-56.0,-52.0,18.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-20,-35.0,-21.0,99.0,-62.0,-53.0,19.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-21,-38.0,-17.0,159.0,-49.0,-24.0,10.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-22,-30.0,-22.0,71.0,-53.0,-25.0,8.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-23,-27.0,-19.0,94.0,-57.0,-52.0,17.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-24,-26.0,-16.0,88.0,-58.0,-52.0,17.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-25,-26.0,-16.0,90.0,-56.0,-52.0,18.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-26,-25.0,-14.0,116.0,-55.0,-52.0,18.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-27,-28.0,-16.0,152.0,-60.0,-51.0,18.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-28,-32.0,-10.0,133.0,-52.0,-24.0,10.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-29,-28.0,-17.0,54.0,-55.0,-25.0,8.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-30,-23.0,-16.0,86.0,-57.0,-51.0,17.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-03-31,-8.0,0.0,114.0,-51.0,-50.0,15.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-01,-18.0,-10.0,27.0,-56.0,-50.0,17.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-02,-20.0,-10.0,35.0,-57.0,-51.0,18.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-03,-21.0,-9.0,73.0,-58.0,-51.0,17.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-04,-24.0,-5.0,118.0,-46.0,-21.0,9.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-05,-6.0,-8.0,158.0,-42.0,-19.0,6.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-06,2.0,-3.0,221.0,-49.0,-56.0,15.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-07,6.0,7.0,223.0,-48.0,-56.0,15.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-08,13.0,16.0,174.0,-45.0,-56.0,14.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-09,-28.0,-14.0,267.0,-59.0,-80.0,22.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-10,-52.0,-34.0,292.0,-64.0,-81.0,23.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-11,-11.0,9.0,157.0,-41.0,-18.0,7.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-12,-24.0,-16.0,184.0,-37.0,-19.0,5.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-13,-50.0,-29.0,158.0,-64.0,-83.0,24.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-14,1.0,5.0,89.0,-50.0,-45.0,14.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-15,-8.0,-3.0,76.0,-47.0,-45.0,15.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-16,-9.0,-4.0,109.0,-45.0,-44.0,15.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-17,-13.0,-6.0,180.0,-46.0,-43.0,13.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-18,-16.0,0.0,215.0,-30.0,-10.0,7.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-19,-6.0,-8.0,179.0,-30.0,-12.0,4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-20,0.0,-3.0,160.0,-36.0,-38.0,12.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-21,-1.0,0.0,162.0,-36.0,-37.0,11.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-22,-4.0,-1.0,153.0,-35.0,-36.0,12.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-23,-3.0,-1.0,199.0,-34.0,-36.0,11.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-24,-10.0,-3.0,177.0,-41.0,-37.0,12.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-25,-12.0,4.0,221.0,-25.0,-10.0,6.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-26,-6.0,-7.0,132.0,-31.0,-11.0,4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-27,-6.0,-7.0,118.0,-37.0,-35.0,11.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-28,-6.0,-4.0,134.0,-35.0,-34.0,9.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-29,-14.0,-8.0,23.0,-41.0,-36.0,13.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-04-30,-12.0,3.0,27.0,-37.0,-36.0,13.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-01,-13.0,3.0,133.0,-41.0,-47.0,14.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-02,-18.0,4.0,116.0,-26.0,-10.0,7.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-03,-5.0,-2.0,156.0,-18.0,-4.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-04,-9.0,0.0,110.0,-29.0,-32.0,10.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-05,-11.0,3.0,96.0,-30.0,-30.0,10.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-06,-8.0,5.0,96.0,-27.0,-30.0,10.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-07,4.0,21.0,176.0,-20.0,-30.0,7.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-08,-48.0,-27.0,377.0,-46.0,-76.0,18.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-09,-4.0,18.0,299.0,-4.0,-2.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-10,0.0,7.0,150.0,-7.0,2.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-11,-7.0,3.0,75.0,-26.0,-29.0,10.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-12,-12.0,2.0,51.0,-28.0,-28.0,10.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-13,-11.0,2.0,92.0,-25.0,-27.0,9.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-14,-9.0,3.0,103.0,-26.0,-27.0,8.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-15,-16.0,-1.0,100.0,-31.0,-28.0,9.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-16,-18.0,4.0,103.0,-18.0,-3.0,5.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-17,-11.0,-4.0,66.0,-22.0,-2.0,4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-18,-7.0,-1.0,51.0,-22.0,-22.0,8.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-19,-2.0,4.0,121.0,-18.0,-19.0,7.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-20,17.0,19.0,213.0,-3.0,-19.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-21,-32.0,-19.0,445.0,-33.0,-76.0,17.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-22,8.0,8.0,283.0,-33.0,-58.0,13.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-23,-5.0,5.0,218.0,-5.0,6.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-24,-4.0,-4.0,55.0,-10.0,1.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-25,0.0,0.0,132.0,-17.0,-21.0,7.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-26,1.0,1.0,183.0,-13.0,-17.0,5.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-27,2.0,2.0,114.0,-14.0,-17.0,6.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-28,6.0,7.0,167.0,-11.0,-16.0,5.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-29,13.0,13.0,262.0,-6.0,-16.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-30,13.0,20.0,320.0,19.0,15.0,-1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-05-31,-11.0,-5.0,326.0,11.0,7.0,-1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-01,-26.0,-15.0,,-27.0,-76.0,15.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-02,25.0,25.0,235.0,-1.0,-16.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-03,15.0,12.0,151.0,-6.0,-16.0,5.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-04,22.0,22.0,87.0,-4.0,-19.0,4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-05,-32.0,-24.0,241.0,-37.0,-63.0,15.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-06,11.0,20.0,127.0,-10.0,7.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-07,9.0,-1.0,134.0,-2.0,14.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-08,9.0,5.0,147.0,-12.0,-17.0,5.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-09,10.0,7.0,166.0,-12.0,-16.0,4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-10,8.0,6.0,129.0,-12.0,-16.0,5.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-11,9.0,8.0,111.0,-14.0,-17.0,5.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-12,4.0,4.0,147.0,-14.0,-16.0,4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-13,1.0,5.0,189.0,2.0,13.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-14,13.0,2.0,206.0,9.0,16.0,-1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-15,12.0,6.0,253.0,-4.0,-16.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-16,14.0,8.0,233.0,-5.0,-16.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-17,12.0,7.0,219.0,-3.0,-16.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-18,14.0,7.0,203.0,-4.0,-17.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-19,4.0,2.0,141.0,-12.0,-18.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-20,-3.0,4.0,96.0,0.0,7.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-21,10.0,1.0,159.0,9.0,14.0,-1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-22,17.0,7.0,193.0,-4.0,-20.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-23,17.0,12.0,318.0,1.0,-18.0,0.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-24,14.0,5.0,263.0,0.0,-17.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-25,18.0,10.0,300.0,-1.0,-18.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-26,7.0,2.0,,-4.0,-18.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-27,4.0,7.0,342.0,30.0,8.0,-3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-28,8.0,2.0,132.0,10.0,6.0,-1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-29,18.0,6.0,249.0,-7.0,-29.0,4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-06-30,31.0,15.0,145.0,-10.0,-28.0,4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-01,28.0,9.0,214.0,-6.0,-30.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-02,27.0,10.0,257.0,-7.0,-31.0,4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-03,15.0,1.0,232.0,-8.0,-32.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-04,4.0,1.0,104.0,19.0,-3.0,0.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-05,16.0,1.0,122.0,13.0,-1.0,0.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-06,28.0,8.0,239.0,-12.0,-41.0,6.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-07,28.0,8.0,261.0,-13.0,-41.0,6.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-08,29.0,6.0,306.0,-8.0,-39.0,5.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-09,24.0,5.0,348.0,-7.0,-40.0,5.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-10,7.0,-2.0,214.0,-16.0,-40.0,6.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-11,8.0,3.0,286.0,40.0,0.0,-2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-12,17.0,1.0,223.0,24.0,-3.0,-1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-13,32.0,7.0,,-6.0,-49.0,6.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-14,30.0,8.0,399.0,-10.0,-49.0,6.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-15,31.0,7.0,361.0,-9.0,-48.0,7.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-16,28.0,7.0,443.0,-8.0,-48.0,6.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-17,11.0,-2.0,,-9.0,-48.0,4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-18,7.0,3.0,469.0,62.0,0.0,-4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-19,20.0,2.0,357.0,43.0,-1.0,-3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-20,37.0,13.0,,-2.0,-52.0,7.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-21,39.0,13.0,469.0,-3.0,-52.0,6.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-22,35.0,8.0,441.0,0.0,-51.0,6.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-23,30.0,8.0,443.0,-4.0,-51.0,7.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-24,11.0,0.0,,-12.0,-51.0,8.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-25,7.0,0.0,402.0,54.0,-1.0,-3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-26,12.0,0.0,159.0,24.0,-7.0,0.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-27,28.0,6.0,,-7.0,-48.0,7.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-28,31.0,8.0,421.0,-9.0,-46.0,6.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-29,28.0,6.0,285.0,-12.0,-48.0,8.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-30,30.0,8.0,339.0,-11.0,-47.0,7.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-07-31,24.0,7.0,,-6.0,-46.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-01,13.0,6.0,421.0,49.0,1.0,-4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-02,26.0,7.0,246.0,27.0,1.0,-3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-03,32.0,10.0,367.0,-7.0,-37.0,4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-04,32.0,12.0,368.0,-5.0,-36.0,4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-05,33.0,7.0,305.0,-4.0,-36.0,4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-06,29.0,8.0,438.0,-2.0,-36.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-07,16.0,0.0,,-9.0,-36.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-08,9.0,2.0,470.0,41.0,0.0,-4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-09,25.0,5.0,337.0,28.0,3.0,-3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-10,21.0,8.0,378.0,-2.0,-27.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-11,23.0,7.0,333.0,-2.0,-25.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-12,20.0,5.0,287.0,0.0,-25.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-13,20.0,5.0,314.0,-2.0,-25.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-14,10.0,1.0,,-2.0,-25.0,0.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-15,6.0,1.0,414.0,37.0,0.0,-4.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-16,18.0,1.0,331.0,23.0,1.0,-3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-17,14.0,2.0,,1.0,-25.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-18,14.0,3.0,249.0,-3.0,-21.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-19,15.0,1.0,236.0,-1.0,-22.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-20,14.0,2.0,175.0,-6.0,-23.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-21,8.0,-1.0,200.0,-6.0,-23.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-22,6.0,0.0,246.0,18.0,0.0,-2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-23,13.0,-2.0,134.0,10.0,-1.0,-1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-24,10.0,-2.0,175.0,-4.0,-21.0,2.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-25,14.0,1.0,201.0,-4.0,-20.0,1.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-26,11.0,-1.0,118.0,-8.0,-19.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-27,11.0,-1.0,112.0,-8.0,-20.0,3.0
+DK-85,DK,Denmark,Region Zealand,,,DK-85,,2020-08-28,12.0,1.0,181.0,-4.0,-19.0,2.0

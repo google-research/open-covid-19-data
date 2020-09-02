@@ -21,7 +21,9 @@ fetch:
   source_url: 'https://www.data.gouv.fr/fr/datasets/r/6fadff46-9efd-4c53-942a-54aca783c30c'
   method: 'AUTOMATIC_DOWNLOAD'
   file: 'donnees-hospitalieres-nouveaux-covid19.csv'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'default_load_function'
   read:
     delimiter: ';'

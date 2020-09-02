@@ -1,0 +1,1799 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+HT,Haiti,,,,,,2020-02-15,-3,1,-6,-5,2,1
+HT,Haiti,,,,,,2020-02-16,2,5,0,-7,3,0
+HT,Haiti,,,,,,2020-02-17,-4,-3,-7,-3,0,1
+HT,Haiti,,,,,,2020-02-18,-5,-4,-7,-6,2,1
+HT,Haiti,,,,,,2020-02-19,-9,-9,-6,-9,-1,2
+HT,Haiti,,,,,,2020-02-20,-7,-7,-10,-6,-4,3
+HT,Haiti,,,,,,2020-02-21,-6,-4,-11,-3,-4,3
+HT,Haiti,,,,,,2020-02-22,-6,-3,-6,-7,-1,1
+HT,Haiti,,,,,,2020-02-23,-17,-22,-11,-16,-3,4
+HT,Haiti,,,,,,2020-02-24,-36,-41,-17,-39,-46,16
+HT,Haiti,,,,,,2020-02-25,-28,-26,-13,-26,-44,12
+HT,Haiti,,,,,,2020-02-26,-24,-19,-10,-23,-39,10
+HT,Haiti,,,,,,2020-02-27,-4,-6,-5,-3,-4,4
+HT,Haiti,,,,,,2020-02-28,-4,-3,-7,-8,-3,4
+HT,Haiti,,,,,,2020-02-29,-5,-3,-8,-11,1,2
+HT,Haiti,,,,,,2020-03-01,-10,-8,-17,-12,-2,3
+HT,Haiti,,,,,,2020-03-02,-3,-3,-8,-8,3,1
+HT,Haiti,,,,,,2020-03-03,-5,-5,-7,-6,3,2
+HT,Haiti,,,,,,2020-03-04,-3,-4,-4,-7,4,1
+HT,Haiti,,,,,,2020-03-05,-3,-4,-4,-6,5,1
+HT,Haiti,,,,,,2020-03-06,-2,-1,-7,-3,6,1
+HT,Haiti,,,,,,2020-03-07,-4,0,-9,-8,4,1
+HT,Haiti,,,,,,2020-03-08,-10,-9,-17,-7,-2,3
+HT,Haiti,,,,,,2020-03-09,-7,-9,-11,-9,2,2
+HT,Haiti,,,,,,2020-03-10,-7,-6,-8,-4,4,1
+HT,Haiti,,,,,,2020-03-11,-5,-6,-7,-8,2,1
+HT,Haiti,,,,,,2020-03-12,-7,-2,-7,-3,4,1
+HT,Haiti,,,,,,2020-03-13,-3,2,-9,-3,4,0
+HT,Haiti,,,,,,2020-03-14,-2,4,-11,-9,4,-1
+HT,Haiti,,,,,,2020-03-15,-4,-2,-12,-7,1,0
+HT,Haiti,,,,,,2020-03-16,-6,-1,-13,-4,0,-1
+HT,Haiti,,,,,,2020-03-17,-6,-1,-11,-14,3,-2
+HT,Haiti,,,,,,2020-03-18,-5,-2,-8,-15,3,0
+HT,Haiti,,,,,,2020-03-19,-8,0,-9,-16,3,0
+HT,Haiti,,,,,,2020-03-20,-12,15,-10,-21,-20,6
+HT,Haiti,,,,,,2020-03-21,-24,-13,-19,-42,-15,6
+HT,Haiti,,,,,,2020-03-22,-31,-28,-21,-46,-11,7
+HT,Haiti,,,,,,2020-03-23,-28,-24,-20,-40,-31,11
+HT,Haiti,,,,,,2020-03-24,-32,-26,-21,-43,-33,11
+HT,Haiti,,,,,,2020-03-25,-32,-28,-19,-45,-35,11
+HT,Haiti,,,,,,2020-03-26,-34,-27,-19,-44,-34,12
+HT,Haiti,,,,,,2020-03-27,-35,-23,-22,-43,-33,12
+HT,Haiti,,,,,,2020-03-28,-34,-25,-19,-48,-20,7
+HT,Haiti,,,,,,2020-03-29,-34,-31,-19,-48,-14,7
+HT,Haiti,,,,,,2020-03-30,-33,-28,-20,-48,-35,11
+HT,Haiti,,,,,,2020-03-31,-32,-28,-18,-49,-34,11
+HT,Haiti,,,,,,2020-04-01,-29,-27,-17,-49,-33,11
+HT,Haiti,,,,,,2020-04-02,-32,-27,-20,-51,-34,12
+HT,Haiti,,,,,,2020-04-03,-31,-25,-21,-49,-32,11
+HT,Haiti,,,,,,2020-04-04,-34,-27,-19,-52,-20,8
+HT,Haiti,,,,,,2020-04-05,-34,-35,-17,-51,-12,7
+HT,Haiti,,,,,,2020-04-06,-29,-26,-21,-48,-32,10
+HT,Haiti,,,,,,2020-04-07,-30,-26,-17,-50,-34,10
+HT,Haiti,,,,,,2020-04-08,-29,-26,-18,-51,-35,12
+HT,Haiti,,,,,,2020-04-09,-28,-19,-15,-48,-38,11
+HT,Haiti,,,,,,2020-04-10,-49,-50,-23,-61,-55,17
+HT,Haiti,,,,,,2020-04-11,-38,-25,-18,-57,-26,10
+HT,Haiti,,,,,,2020-04-12,-40,-41,-20,-58,-18,8
+HT,Haiti,,,,,,2020-04-13,-33,-32,-22,-52,-36,11
+HT,Haiti,,,,,,2020-04-14,-33,-33,-17,-55,-35,11
+HT,Haiti,,,,,,2020-04-15,-33,-33,-18,-52,-36,12
+HT,Haiti,,,,,,2020-04-16,-31,-28,-17,-52,-34,11
+HT,Haiti,,,,,,2020-04-17,-32,-28,-22,-47,-33,12
+HT,Haiti,,,,,,2020-04-18,-33,-26,-18,-51,-20,7
+HT,Haiti,,,,,,2020-04-19,-34,-37,-18,-55,-13,7
+HT,Haiti,,,,,,2020-04-20,-28,-27,-19,-45,-31,10
+HT,Haiti,,,,,,2020-04-21,-30,-28,-18,-49,-32,9
+HT,Haiti,,,,,,2020-04-22,-31,-29,-17,-50,-32,11
+HT,Haiti,,,,,,2020-04-23,-30,-28,-17,-50,-31,11
+HT,Haiti,,,,,,2020-04-24,-32,-28,-20,-46,-31,11
+HT,Haiti,,,,,,2020-04-25,-34,-26,-20,-52,-20,7
+HT,Haiti,,,,,,2020-04-26,-36,-35,-19,-52,-14,6
+HT,Haiti,,,,,,2020-04-27,-34,-33,-24,-49,-34,9
+HT,Haiti,,,,,,2020-04-28,-32,-30,-19,-50,-33,5
+HT,Haiti,,,,,,2020-04-29,-27,-26,-12,-49,-30,10
+HT,Haiti,,,,,,2020-04-30,-26,-20,-11,-45,-29,9
+HT,Haiti,,,,,,2020-05-01,-43,-33,-17,-54,-48,14
+HT,Haiti,,,,,,2020-05-02,-32,-23,-13,-47,-18,7
+HT,Haiti,,,,,,2020-05-03,-38,-34,-18,-50,-14,7
+HT,Haiti,,,,,,2020-05-04,-29,-24,-19,-39,-31,9
+HT,Haiti,,,,,,2020-05-05,-30,-23,-15,-45,-30,10
+HT,Haiti,,,,,,2020-05-06,-27,-24,-16,-46,-30,9
+HT,Haiti,,,,,,2020-05-07,-27,-22,-12,-41,-30,7
+HT,Haiti,,,,,,2020-05-08,-28,-22,-14,-41,-27,10
+HT,Haiti,,,,,,2020-05-09,-29,-20,-13,-44,-15,4
+HT,Haiti,,,,,,2020-05-10,-34,-30,-20,-50,-12,6
+HT,Haiti,,,,,,2020-05-11,-26,-24,-15,-41,-28,8
+HT,Haiti,,,,,,2020-05-12,-29,-23,-16,-43,-29,9
+HT,Haiti,,,,,,2020-05-13,-30,-27,-18,-47,-31,9
+HT,Haiti,,,,,,2020-05-14,-28,-24,-17,-43,-29,7
+HT,Haiti,,,,,,2020-05-15,-27,-21,-15,-38,-27,10
+HT,Haiti,,,,,,2020-05-16,-27,-18,-10,-42,-14,6
+HT,Haiti,,,,,,2020-05-17,-34,-30,-18,-46,-9,5
+HT,Haiti,,,,,,2020-05-18,-45,-43,-23,-56,-50,14
+HT,Haiti,,,,,,2020-05-19,-28,-23,-18,-46,-30,9
+HT,Haiti,,,,,,2020-05-20,-27,-24,-13,-47,-31,10
+HT,Haiti,,,,,,2020-05-21,-28,-23,-17,-44,-31,12
+HT,Haiti,,,,,,2020-05-22,-31,-24,-20,-44,-29,11
+HT,Haiti,,,,,,2020-05-23,-32,-24,-19,-48,-16,8
+HT,Haiti,,,,,,2020-05-24,-36,-34,-20,-48,-10,7
+HT,Haiti,,,,,,2020-05-25,-30,-26,-18,-43,-31,11
+HT,Haiti,,,,,,2020-05-26,-31,-28,-22,-46,-33,10
+HT,Haiti,,,,,,2020-05-27,-33,-31,-26,-50,-36,10
+HT,Haiti,,,,,,2020-05-28,-33,-31,-25,-47,-36,10
+HT,Haiti,,,,,,2020-05-29,-32,-26,-23,-43,-33,10
+HT,Haiti,,,,,,2020-05-30,-26,-15,-18,-42,-18,6
+HT,Haiti,,,,,,2020-05-31,-29,-22,-19,-46,-9,4
+HT,Haiti,,,,,,2020-06-01,-27,-25,-19,-43,-31,9
+HT,Haiti,,,,,,2020-06-02,-30,-25,-17,-44,-31,10
+HT,Haiti,,,,,,2020-06-03,-28,-26,-16,-45,-32,10
+HT,Haiti,,,,,,2020-06-04,-28,-24,-16,-41,-31,10
+HT,Haiti,,,,,,2020-06-05,-29,-21,-20,-41,-30,10
+HT,Haiti,,,,,,2020-06-06,-31,-23,-18,-45,-17,6
+HT,Haiti,,,,,,2020-06-07,-35,-33,-19,-49,-8,7
+HT,Haiti,,,,,,2020-06-08,-26,-23,-19,-40,-29,9
+HT,Haiti,,,,,,2020-06-09,-26,-24,-17,-43,-29,10
+HT,Haiti,,,,,,2020-06-10,-23,-22,-12,-40,-30,10
+HT,Haiti,,,,,,2020-06-11,-34,-32,-16,-44,-45,14
+HT,Haiti,,,,,,2020-06-12,-23,-21,-16,-35,-28,11
+HT,Haiti,,,,,,2020-06-13,-28,-24,-18,-43,-15,8
+HT,Haiti,,,,,,2020-06-14,-32,-31,-20,-45,-8,8
+HT,Haiti,,,,,,2020-06-15,-22,-23,-14,-34,-28,9
+HT,Haiti,,,,,,2020-06-16,-25,-24,-15,-39,-29,10
+HT,Haiti,,,,,,2020-06-17,-27,-27,-18,-42,-30,11
+HT,Haiti,,,,,,2020-06-18,-26,-25,-16,-39,-29,11
+HT,Haiti,,,,,,2020-06-19,-26,-23,-15,-35,-28,10
+HT,Haiti,,,,,,2020-06-20,-26,-21,-15,-38,-16,6
+HT,Haiti,,,,,,2020-06-21,-31,-31,-22,-47,-10,6
+HT,Haiti,,,,,,2020-06-22,-26,-26,-22,-41,-31,9
+HT,Haiti,,,,,,2020-06-23,-25,-24,-15,-41,-30,8
+HT,Haiti,,,,,,2020-06-24,-23,-25,-12,-41,-30,8
+HT,Haiti,,,,,,2020-06-25,-23,-24,-13,-38,-30,9
+HT,Haiti,,,,,,2020-06-26,-22,-21,-15,-34,-28,9
+HT,Haiti,,,,,,2020-06-27,-24,-21,-15,-40,-18,5
+HT,Haiti,,,,,,2020-06-28,-30,-31,-20,-48,-15,6
+HT,Haiti,,,,,,2020-06-29,-23,-26,-18,-37,-32,9
+HT,Haiti,,,,,,2020-06-30,-21,-22,-20,-38,-31,7
+HT,Haiti,,,,,,2020-07-01,-19,-22,-18,-34,-31,9
+HT,Haiti,,,,,,2020-07-02,-21,-21,-14,-34,-31,10
+HT,Haiti,,,,,,2020-07-03,-17,-17,-17,-28,-29,9
+HT,Haiti,,,,,,2020-07-04,-20,-18,-13,-33,-17,7
+HT,Haiti,,,,,,2020-07-05,-20,-27,-14,-36,-12,5
+HT,Haiti,,,,,,2020-07-06,-15,-18,-18,-23,-30,7
+HT,Haiti,,,,,,2020-07-07,-19,-20,-13,-29,-31,9
+HT,Haiti,,,,,,2020-07-08,-19,-24,-16,-28,-32,10
+HT,Haiti,,,,,,2020-07-09,-16,-19,-14,-30,-29,8
+HT,Haiti,,,,,,2020-07-10,-17,-19,-17,-29,-29,9
+HT,Haiti,,,,,,2020-07-11,-16,-17,-12,-34,-16,5
+HT,Haiti,,,,,,2020-07-12,-15,-23,-12,-32,-11,4
+HT,Haiti,,,,,,2020-07-13,-15,-20,-15,-29,-29,7
+HT,Haiti,,,,,,2020-07-14,-15,-20,-14,-31,-30,8
+HT,Haiti,,,,,,2020-07-15,-13,-20,-15,-30,-30,8
+HT,Haiti,,,,,,2020-07-16,-14,-19,-11,-26,-30,7
+HT,Haiti,,,,,,2020-07-17,-15,-17,-17,-22,-29,7
+HT,Haiti,,,,,,2020-07-18,-17,-19,-12,-30,-19,5
+HT,Haiti,,,,,,2020-07-19,-21,-25,-16,-33,-14,3
+HT,Haiti,,,,,,2020-07-20,-14,-19,-14,-24,-30,6
+HT,Haiti,,,,,,2020-07-21,-17,-20,-18,-27,-31,7
+HT,Haiti,,,,,,2020-07-22,-21,-27,-23,-31,-33,8
+HT,Haiti,,,,,,2020-07-23,-21,-24,-19,-29,-32,7
+HT,Haiti,,,,,,2020-07-24,-18,-18,-16,-25,-30,6
+HT,Haiti,,,,,,2020-07-25,-18,-20,-11,-34,-22,4
+HT,Haiti,,,,,,2020-07-26,-19,-21,-12,-31,-14,3
+HT,Haiti,,,,,,2020-07-27,-15,-19,-15,-23,-31,5
+HT,Haiti,,,,,,2020-07-28,-15,-21,-13,-26,-30,5
+HT,Haiti,,,,,,2020-07-29,-15,-16,-11,-24,-32,5
+HT,Haiti,,,,,,2020-07-30,-17,-17,-15,-28,-32,8
+HT,Haiti,,,,,,2020-07-31,-21,-20,-22,-33,-35,9
+HT,Haiti,,,,,,2020-08-01,-14,-15,-13,-26,-20,3
+HT,Haiti,,,,,,2020-08-02,-15,-21,-13,-31,-14,2
+HT,Haiti,,,,,,2020-08-03,-10,-13,-11,-17,-30,4
+HT,Haiti,,,,,,2020-08-04,-14,-17,-13,-27,-30,6
+HT,Haiti,,,,,,2020-08-05,-9,-14,-8,-19,-29,5
+HT,Haiti,,,,,,2020-08-06,-8,-14,-8,-17,-28,5
+HT,Haiti,,,,,,2020-08-07,-8,-8,-6,-17,-26,5
+HT,Haiti,,,,,,2020-08-08,-7,-9,-3,-19,-15,2
+HT,Haiti,,,,,,2020-08-09,-8,-10,-4,-19,-9,0
+HT,Haiti,,,,,,2020-08-10,-5,-9,-11,-18,-28,3
+HT,Haiti,,,,,,2020-08-11,-4,-10,-5,-20,-27,3
+HT,Haiti,,,,,,2020-08-12,-2,-8,-5,-13,-27,3
+HT,Haiti,,,,,,2020-08-13,-2,-7,-5,-17,-27,3
+HT,Haiti,,,,,,2020-08-14,-2,0,-4,-14,-27,3
+HT,Haiti,,,,,,2020-08-15,-9,-7,-1,-18,-24,1
+HT,Haiti,,,,,,2020-08-16,-4,-9,-3,-19,-12,-1
+HT,Haiti,,,,,,2020-08-17,3,-1,-4,-11,-28,0
+HT,Haiti,,,,,,2020-08-18,2,-3,0,-17,-25,0
+HT,Haiti,,,,,,2020-08-19,5,-5,1,-10,-26,1
+HT,Haiti,,,,,,2020-08-20,6,-2,3,-12,-25,1
+HT,Haiti,,,,,,2020-08-21,8,1,3,-14,-26,1
+HT,Haiti,,,,,,2020-08-22,7,1,3,-13,-17,-1
+HT,Haiti,,,,,,2020-08-23,-37,-42,-33,-46,-36,12
+HT,Haiti,,,,,,2020-08-24,1,-6,-3,-18,-29,2
+HT,Haiti,,,,,,2020-08-25,7,0,7,-11,-27,1
+HT,Haiti,,,,,,2020-08-26,14,2,9,0,-24,0
+HT,Haiti,,,,,,2020-08-27,16,4,12,-9,-24,0
+HT,Haiti,,,,,,2020-08-28,16,6,11,-8,-24,1
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-15,-7,-2,-6,-7,0,2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-16,-3,1,5,-12,2,1
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-17,-6,-5,-8,-7,0,2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-18,-7,-4,-7,-9,2,2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-19,-12,-10,-3,-8,-1,3
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-20,-12,-8,-12,-9,-6,5
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-21,-8,-5,-14,-8,-4,3
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-22,-8,-5,-3,-8,-1,1
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-23,-21,-26,-15,-24,-3,3
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-24,-49,-51,-38,-50,-55,20
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-25,-39,-33,-31,-34,-53,15
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-26,-32,-24,-23,-27,-45,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-27,-7,-6,-6,-2,-5,4
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-28,-8,-3,-7,-9,-4,4
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-29,-5,-2,-7,-13,2,3
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-01,-9,-7,-20,-12,-1,3
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-02,-3,-3,-4,-7,4,1
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-03,-5,-3,-3,-4,4,3
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-04,-4,-5,1,-7,3,2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-05,-4,-5,1,-4,4,2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-06,-4,-2,-2,-3,5,1
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-07,-3,-1,-7,-8,4,2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-08,-8,-9,-19,-7,0,2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-09,-8,-11,-12,-9,3,2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-10,-9,-8,-11,-4,4,2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-11,-7,-7,-8,-8,1,2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-12,-9,-1,-10,-1,4,2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-13,-4,4,-9,-4,3,0
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-14,-1,4,-14,-11,4,0
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-15,-5,-2,-16,-10,1,0
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-16,-6,-2,-14,-3,0,-1
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-17,-7,-3,-10,-15,2,-2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-18,-8,-4,-8,-16,3,1
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-19,-11,-1,-9,-19,2,0
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-20,-15,17,-11,-22,-22,7
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-21,-29,-15,-27,-47,-17,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-22,-36,-30,-36,-53,-12,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-23,-32,-26,-36,-45,-33,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-24,-39,-28,-37,-46,-36,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-25,-40,-30,-35,-48,-38,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-26,-40,-28,-34,-48,-38,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-27,-41,-23,-39,-46,-36,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-28,-40,-26,-34,-55,-24,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-29,-41,-35,-38,-55,-14,7
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-30,-39,-30,-35,-52,-38,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-03-31,-39,-30,-34,-54,-37,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-01,-37,-30,-32,-54,-36,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-02,-39,-28,-37,-56,-38,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-03,-38,-25,-36,-54,-37,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-04,-41,-30,-36,-59,-24,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-05,-42,-40,-36,-61,-14,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-06,-34,-29,-38,-54,-36,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-07,-37,-26,-36,-55,-37,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-08,-36,-26,-36,-56,-39,15
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-09,-34,-18,-34,-51,-43,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-10,-58,-54,-47,-69,-63,21
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-11,-45,-27,-39,-63,-32,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-12,-46,-44,-42,-64,-20,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-13,-37,-33,-41,-56,-40,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-14,-40,-33,-38,-60,-39,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-15,-40,-33,-41,-56,-40,15
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-16,-37,-28,-35,-55,-38,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-17,-38,-28,-41,-51,-37,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-18,-37,-27,-29,-56,-23,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-19,-40,-38,-36,-62,-15,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-20,-31,-27,-34,-50,-35,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-21,-35,-29,-38,-55,-36,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-22,-37,-29,-33,-55,-36,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-23,-35,-29,-35,-55,-35,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-24,-37,-27,-37,-51,-35,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-25,-39,-29,-36,-59,-25,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-26,-42,-38,-36,-60,-17,7
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-27,-39,-36,-47,-56,-38,11
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-28,-38,-33,-39,-58,-38,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-29,-32,-28,-32,-55,-34,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-04-30,-29,-22,-30,-51,-34,11
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-01,-49,-35,-38,-61,-55,18
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-02,-35,-25,-27,-52,-23,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-03,-41,-36,-35,-57,-16,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-04,-31,-25,-35,-43,-33,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-05,-32,-25,-32,-50,-34,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-06,-32,-26,-37,-51,-34,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-07,-32,-25,-27,-44,-33,11
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-08,-32,-22,-31,-45,-31,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-09,-32,-24,-26,-50,-19,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-10,-36,-33,-39,-58,-15,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-11,-29,-26,-29,-47,-32,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-12,-32,-26,-32,-50,-33,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-13,-35,-30,-34,-51,-34,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-14,-32,-27,-33,-47,-33,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-15,-31,-23,-32,-43,-32,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-16,-31,-23,-25,-50,-19,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-17,-36,-32,-36,-55,-11,7
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-18,-53,-51,-48,-64,-58,19
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-19,-32,-24,-36,-50,-35,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-20,-32,-25,-30,-51,-36,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-21,-32,-25,-34,-49,-36,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-22,-34,-25,-34,-47,-34,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-23,-35,-26,-29,-53,-21,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-24,-39,-37,-38,-55,-13,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-25,-33,-30,-34,-47,-35,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-26,-33,-30,-38,-50,-37,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-27,-36,-32,-39,-53,-39,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-28,-36,-32,-39,-50,-40,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-29,-35,-27,-41,-48,-38,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-30,-27,-18,-27,-45,-22,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-05-31,-30,-22,-37,-55,-11,7
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-01,-28,-27,-33,-48,-36,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-02,-33,-26,-31,-48,-36,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-03,-31,-28,-31,-48,-37,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-04,-32,-26,-31,-46,-36,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-05,-33,-23,-37,-46,-35,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-06,-33,-27,-32,-51,-23,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-07,-39,-37,-39,-57,-11,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-08,-27,-26,-38,-45,-34,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-09,-29,-26,-33,-48,-34,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-10,-27,-24,-28,-44,-35,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-11,-40,-36,-36,-49,-52,18
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-12,-25,-22,-24,-38,-33,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-13,-30,-27,-29,-47,-19,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-14,-37,-35,-37,-52,-11,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-15,-23,-26,-23,-38,-32,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-16,-28,-27,-28,-43,-33,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-17,-31,-30,-34,-47,-35,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-18,-30,-27,-29,-42,-34,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-19,-30,-25,-27,-40,-33,14
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-20,-28,-24,-25,-43,-20,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-21,-34,-34,-34,-55,-14,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-22,-29,-31,-38,-48,-36,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-23,-27,-27,-27,-46,-35,11
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-24,-25,-27,-24,-45,-35,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-25,-26,-27,-22,-42,-35,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-26,-25,-22,-25,-39,-33,11
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-27,-25,-23,-24,-44,-23,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-28,-33,-33,-35,-58,-18,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-29,-26,-29,-32,-43,-36,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-06-30,-23,-25,-33,-43,-35,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-01,-22,-25,-32,-38,-35,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-02,-23,-24,-26,-38,-35,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-03,-19,-19,-27,-32,-33,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-04,-21,-21,-22,-38,-22,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-05,-23,-30,-30,-45,-15,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-06,-14,-22,-30,-28,-34,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-07,-22,-24,-25,-34,-35,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-08,-21,-26,-25,-30,-36,13
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-09,-18,-20,-22,-34,-33,11
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-10,-19,-22,-29,-33,-35,12
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-11,-17,-22,-20,-38,-22,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-12,-18,-27,-27,-38,-15,6
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-13,-16,-24,-25,-33,-33,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-14,-17,-23,-24,-34,-34,11
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-15,-18,-23,-28,-31,-34,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-16,-19,-23,-19,-27,-35,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-17,-19,-19,-26,-21,-34,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-18,-19,-24,-15,-32,-25,7
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-19,-25,-28,-29,-39,-19,5
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-20,-15,-23,-24,-26,-32,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-21,-19,-24,-28,-28,-33,10
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-22,-25,-30,-37,-30,-38,11
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-23,-24,-27,-36,-30,-37,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-24,-20,-21,-31,-27,-35,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-25,-20,-23,-14,-36,-26,6
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-26,-24,-24,-27,-35,-18,5
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-27,-17,-23,-25,-26,-36,7
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-28,-18,-24,-23,-27,-34,7
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-29,-19,-20,-22,-24,-35,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-30,-19,-17,-20,-26,-36,9
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-07-31,-24,-23,-35,-36,-40,11
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-01,-15,-18,-20,-26,-24,5
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-02,-18,-24,-27,-36,-17,4
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-03,-10,-17,-17,-18,-33,6
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-04,-15,-20,-18,-27,-33,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-05,-12,-18,-18,-19,-33,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-06,-12,-17,-18,-16,-32,8
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-07,-9,-12,-11,-18,-31,7
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-08,-8,-14,-2,-20,-19,4
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-09,-11,-13,-14,-24,-12,3
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-10,-5,-15,-18,-20,-31,5
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-11,-5,-14,-7,-21,-31,5
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-12,-6,-12,-13,-13,-30,5
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-13,-5,-11,-12,-18,-31,5
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-14,-7,-4,-10,-15,-31,5
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-15,-16,-15,-8,-20,-31,4
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-16,-10,-14,-12,-21,-15,1
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-17,2,-6,-5,-12,-31,2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-18,1,-7,0,-17,-28,1
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-19,2,-9,1,-6,-29,3
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-20,3,-6,2,-12,-29,4
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-21,7,-2,3,-15,-29,3
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-22,7,-3,5,-13,-21,1
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-23,-42,-46,-44,-49,-42,15
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-24,1,-10,-2,-20,-32,4
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-25,5,-4,11,-12,-29,3
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-26,10,-2,12,4,-27,3
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-27,12,1,14,-7,-27,2
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-08-28,12,4,14,-5,-27,2
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-15,,,-6,,6,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-16,,,-6,,5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-17,,,-11,,5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-18,,,-5,,2,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-19,,,-6,,-3,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-20,,,-13,,-3,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-21,,,-12,,-9,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-22,,,-5,,0,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-23,,,-5,,1,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-24,,,-1,,-16,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-25,,,1,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-26,,,0,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-27,,,-5,,-3,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-28,,,-15,,-2,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-29,,,-9,,-1,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-01,,,-12,,0,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-02,,,-14,,5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-03,,,-7,,0,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-04,,,-9,,5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-05,,,-9,,8,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-06,,,-10,,10,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-07,,,-6,,5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-08,,,-9,,-2,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-09,,,-14,,5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-10,,,-4,,8,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-11,,,-5,,5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-12,,,-9,,5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-13,,,-13,,9,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-14,,,-13,,3,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-15,,,-10,,4,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-16,,,-11,,2,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-17,,,-13,,5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-18,,,-8,,2,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-19,,,-8,,5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-20,,,-6,,-12,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-21,,,-10,,-6,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-22,,,-1,,-6,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-23,,,-2,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-24,,,-1,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-25,,,-3,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-26,,,-5,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-27,,,-7,,-19,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-28,,,-9,,-6,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-29,,,-2,,-7,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-30,,,-8,,-26,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-03-31,,,2,,-24,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-01,,,2,,-24,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-02,,,-3,,-23,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-03,,,-8,,-19,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-04,,,-3,,-8,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-05,,,0,,-6,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-06,,,-3,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-07,,,6,,-24,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-08,,,8,,-23,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-09,,,5,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-10,,,-3,,-29,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-11,,,-4,,-10,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-12,,,3,,-11,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-13,,,-2,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-14,,,10,,-23,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-15,,,11,,-23,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-16,,,3,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-17,,,-4,,-19,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-18,,,-3,,-11,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-19,,,4,,-7,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-20,,,-4,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-21,,,0,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-22,,,7,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-23,,,2,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-24,,,-5,,-19,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-25,,,-2,,-8,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-26,,,4,,-6,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-27,,,-6,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-28,,,5,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-29,,,10,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-04-30,,,2,,-18,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-01,,,1,,-26,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-02,,,-10,,-3,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-03,,,-1,,-5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-04,,,-4,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-05,,,3,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-06,,,-3,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-07,,,3,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-08,,,-3,,-15,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-09,,,-5,,-5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-10,,,-4,,-4,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-11,,,-5,,-16,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-12,,,1,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-13,,,-7,,-23,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-14,,,-5,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-15,,,-2,,-16,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-16,,,0,,-4,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-17,,,-4,,-7,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-18,,,-7,,-30,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-19,,,-1,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-20,,,1,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-21,,,-2,,-24,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-22,,,-12,,-19,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-23,,,-14,,-8,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-24,,,-3,,-5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-25,,,-2,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-26,,,-2,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-27,,,-11,,-25,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-28,,,-11,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-29,,,-13,,-17,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-30,,,-11,,-4,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-05-31,,,0,,-3,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-01,,,-8,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-02,,,-1,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-03,,,4,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-04,,,3,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-05,,,-3,,-16,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-06,,,-8,,-5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-07,,,1,,-2,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-08,,,-5,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-09,,,-5,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-10,,,1,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-11,,,2,,-26,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-12,,,-7,,-15,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-13,,,-9,,-6,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-14,,,-6,,-7,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-15,,,-8,,-19,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-16,,,1,,-19,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-17,,,-2,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-18,,,-2,,-17,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-19,,,-5,,-13,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-20,,,-9,,-5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-21,,,-9,,-5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-22,,,-5,,-19,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-23,,,2,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-24,,,3,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-25,,,-7,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-26,,,-5,,-16,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-27,,,-8,,-6,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-28,,,-4,,-8,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-29,,,-3,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-06-30,,,-3,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-01,,,2,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-02,,,4,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-03,,,-7,,-14,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-04,,,-3,,-7,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-05,,,-2,,-5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-06,,,-1,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-07,,,6,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-08,,,-1,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-09,,,-2,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-10,,,-7,,-17,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-11,,,-3,,-1,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-12,,,1,,-1,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-13,,,-9,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-14,,,8,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-15,,,1,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-16,,,-5,,-19,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-17,,,-8,,-15,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-18,,,-7,,-7,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-19,,,-4,,-4,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-20,,,-5,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-21,,,-4,,-27,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-22,,,-11,,-25,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-23,,,-6,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-24,,,-7,,-17,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-25,,,-8,,-9,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-26,,,0,,-7,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-27,,,-6,,-19,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-28,,,4,,-18,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-29,,,3,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-30,,,2,,-23,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-07-31,,,-7,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-01,,,-4,,-10,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-02,,,-3,,-9,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-03,,,-2,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-04,,,-7,,-24,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-05,,,4,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-06,,,1,,-19,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-07,,,4,,-14,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-08,,,-5,,-5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-09,,,8,,-5,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-10,,,-3,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-11,,,4,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-12,,,9,,-23,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-13,,,3,,-25,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-14,,,-4,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-15,,,-8,,-11,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-16,,,-4,,-8,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-17,,,-9,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-18,,,2,,-20,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-19,,,0,,-21,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-20,,,1,,-18,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-21,,,-2,,-17,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-22,,,-5,-61,-11,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-23,,,-22,,-26,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-24,,,-5,,-22,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-25,,,-3,,-23,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-26,,,3,,-17,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-27,,,6,,-17,
+HT,Haiti,Artibonite Department,,,HT-AR,,2020-08-28,,,-4,,-15,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-15,,,-6,,0,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-16,,,1,,,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-17,,,-9,,-3,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-18,,,-16,,-3,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-19,,,-12,,-9,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-20,,,-18,,-12,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-21,,,-12,,-13,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-22,,,-18,,-4,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-23,,,-5,,,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-24,,,,,-18,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-25,,,-1,,-22,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-26,,,-5,,-26,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-27,,,-11,,-8,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-28,,,3,,-8,
+HT,Haiti,Centre Department,,,HT-CE,,2020-02-29,,,-16,,0,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-01,,,-16,,,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-02,,,-5,,5,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-03,,,-17,,-5,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-04,,,-6,,-3,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-05,,,-8,,-3,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-06,,,-15,,-6,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-07,,,-21,,0,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-08,,,-23,,-12,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-09,,,-12,,-6,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-10,,,-9,,0,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-11,,,-17,,-9,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-12,,,-27,,-14,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-13,,,-13,,-8,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-14,,,-3,,10,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-15,,,-8,,,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-16,,,-16,,2,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-17,,,-22,,-9,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-18,,,-16,,-19,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-19,,,-8,,-3,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-20,,,-16,,-17,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-21,,,-20,,-10,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-22,,,-23,,-17,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-23,,,-15,,-28,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-24,,,-23,,-25,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-25,,,-15,,-31,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-26,,,-21,,-29,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-27,,,-27,,-27,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-28,,,-24,,-19,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-29,,,-21,,-19,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-30,,,-13,,-26,
+HT,Haiti,Centre Department,,,HT-CE,,2020-03-31,,,-20,,-26,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-01,,,-15,,-22,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-02,,,-16,,-25,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-03,,,-16,,-22,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-04,,,-24,,-4,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-05,,,-13,,-14,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-06,,,-15,,-23,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-07,,,-15,,-28,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-08,,,-27,,-32,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-09,,,-10,,-31,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-10,,,-15,,-35,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-11,,,-20,,-15,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-12,,,-21,,-21,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-13,,,-12,,-29,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-14,,,-12,,-26,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-15,,,-9,,-26,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-16,,,-7,,-34,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-17,,,-14,,-25,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-18,,,-20,,-6,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-19,,,-9,,-16,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-20,,,-13,,-24,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-21,,,-11,,-22,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-22,,,-10,,-24,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-23,,,-11,,-27,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-24,,,-20,,-30,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-25,,,-18,,-4,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-26,,,-16,,-17,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-27,,,-30,,-37,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-28,,,-30,,-33,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-29,,,-6,,-27,
+HT,Haiti,Centre Department,,,HT-CE,,2020-04-30,,,-8,,-22,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-01,,,-5,,-31,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-02,,,-17,,-17,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-03,,,-12,,-19,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-04,,,-15,,-26,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-05,,,-7,,-23,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-06,,,-4,,-25,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-07,,,-9,,-24,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-08,,,-5,,-23,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-09,,,-17,,-4,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-10,,,-18,,-15,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-11,,,-13,,-20,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-12,,,-24,,-28,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-13,,,-25,,-28,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-14,,,-12,,-22,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-15,,,-5,,-17,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-16,,,-4,,-8,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-17,,,-10,,,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-18,,,-8,,-34,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-19,,,-13,,-19,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-20,,,-8,,-21,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-21,,,-8,,-23,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-22,,,-19,,-27,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-23,,,-24,,-17,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-24,,,-25,,-16,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-25,,,-16,,-25,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-26,,,-18,,-28,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-27,,,-17,,-32,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-28,,,-22,,-28,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-29,,,-12,,-25,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-30,,,-22,,-10,
+HT,Haiti,Centre Department,,,HT-CE,,2020-05-31,,,-14,,-12,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-01,,,-20,,-28,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-02,,,-16,,-29,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-03,,,-19,,-28,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-04,,,-28,,-28,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-05,,,-21,,-30,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-06,,,-23,,-15,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-07,,,-30,,-16,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-08,,,-15,,-31,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-09,,,-24,,-24,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-10,,,-15,,-25,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-11,,,-17,,-32,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-12,,,-30,,-26,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-13,,,-33,,-13,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-14,,,-26,,-12,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-15,,,-20,,-27,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-16,,,-16,,-22,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-17,,,-23,,-28,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-18,,,-16,,-28,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-19,,,-14,,-22,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-20,,,-27,,-14,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-21,,,-38,,-23,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-22,,,-34,,-30,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-23,,,-21,,-26,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-24,,,-18,,-22,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-25,,,-17,,-20,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-26,,,-16,,-19,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-27,,,-24,,-11,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-28,,,-32,,-21,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-29,,,-18,,-27,
+HT,Haiti,Centre Department,,,HT-CE,,2020-06-30,,,-23,,-27,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-01,,,-24,,-25,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-02,,,-25,,-28,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-03,,,-26,,-29,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-04,,,-27,,-16,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-05,,,-20,,-11,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-06,,,-24,,-26,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-07,,,-22,,-29,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-08,,,-34,,-34,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-09,,,-14,,-28,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-10,,,-19,,-21,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-11,,,-30,,-14,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-12,,,-15,,,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-13,,,-19,,-25,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-14,,,-15,,-29,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-15,,,-20,,-33,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-16,,,-13,,-30,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-17,,,-28,,-29,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-18,,,-36,,-22,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-19,,,-34,,-19,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-20,,,-28,,-26,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-21,,,-29,,-33,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-22,,,-32,,-36,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-23,,,-25,,-32,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-24,,,-19,,-21,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-25,,,-25,,-13,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-26,,,-18,,-16,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-27,,,-22,,-26,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-28,,,-28,,-30,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-29,,,-21,,-33,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-30,,,-27,,-23,
+HT,Haiti,Centre Department,,,HT-CE,,2020-07-31,,,-32,,-30,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-01,,,-37,,-11,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-02,,,-27,,-12,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-03,,,-31,,-22,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-04,,,-29,,-29,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-05,,,-25,,-32,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-06,,,-24,,-27,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-07,,,-21,,-24,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-08,,,-35,,-23,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-09,,,-23,,-14,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-10,,,-23,,-27,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-11,,,-22,,-27,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-12,,,-26,,-34,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-13,,,-22,,-31,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-14,,,-20,,-30,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-15,,,-28,,-21,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-16,,,-26,,-23,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-17,,,-24,,-29,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-18,,,-22,,-24,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-19,,,-31,,-32,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-20,,,-25,,-29,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-21,,,-16,,-27,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-22,,,-23,,-16,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-23,,,-45,,-27,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-24,,,-35,,-29,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-25,,,-29,,-29,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-26,,,-15,,-30,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-27,,,-12,,-22,
+HT,Haiti,Centre Department,,,HT-CE,,2020-08-28,,,-21,,-34,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-15,,,0,,3,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-16,,,-1,,7,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-17,,,-3,,4,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-18,,,-1,,1,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-19,,,0,-34,0,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-20,,,6,,2,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-21,,,12,,-5,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-22,,,-2,,-5,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-23,,,-10,,-17,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-24,,,7,,-29,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-25,,,5,,-34,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-26,,,0,-23,-30,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-27,,,2,,1,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-28,,,2,,3,
+HT,Haiti,Nord Department,,,HT-ND,,2020-02-29,,,-13,,-5,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-01,,,-16,,-9,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-02,,,-10,,3,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-03,,,-11,,2,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-04,,,-7,-27,6,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-05,,,11,,6,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-06,,,6,,10,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-07,,,-2,,6,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-08,,,-20,,-7,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-09,,,-10,,-2,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-10,,,-1,,3,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-11,,,-3,-28,9,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-12,,,13,,6,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-13,,,3,,6,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-14,,,-8,,4,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-15,,,-7,,4,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-16,,,-6,,11,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-17,,,-12,,14,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-18,,,-5,-20,10,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-19,,,1,,6,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-20,,,-8,,-15,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-21,,,-13,,-7,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-22,,,-10,,-10,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-23,,,-14,,-23,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-24,,,-19,,-27,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-25,,,-19,-32,-32,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-26,,,-12,,-32,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-27,,,-13,,-32,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-28,,,-13,,-12,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-29,,,-12,,-9,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-30,,,-5,,-26,
+HT,Haiti,Nord Department,,,HT-ND,,2020-03-31,,,-9,-27,-27,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-01,,,-12,-26,-28,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-02,,,-4,,-29,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-03,,,-14,,-30,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-04,,,-15,,-14,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-05,,,-7,,-4,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-06,,,-14,,-26,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-07,,,-16,-32,-29,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-08,,,-16,-44,-28,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-09,,,-13,,-29,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-10,,,-19,,-40,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-11,,,-19,,-15,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-12,,,-18,-45,-12,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-13,,,-26,,-30,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-14,,,-21,-41,-33,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-15,,,-17,-47,-36,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-16,,,-15,,-30,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-17,,,-16,,-29,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-18,,,-21,,-19,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-19,,,-19,-46,-10,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-20,,,-16,,-28,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-21,,,-20,-42,-30,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-22,,,-16,-45,-30,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-23,,,-12,,-28,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-24,,,-17,,-29,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-25,,,-18,,-11,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-26,,,-22,-41,-8,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-27,,,-19,,-27,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-28,,,-23,-36,-25,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-29,,,-13,-53,-26,
+HT,Haiti,Nord Department,,,HT-ND,,2020-04-30,,,-14,-45,-22,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-01,,,-17,,-39,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-02,,,-17,,-12,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-03,,,-20,-40,-12,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-04,,,-23,,-29,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-05,,,-26,-40,-26,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-06,,,-16,-48,-29,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-07,,,-20,,-28,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-08,,,-17,,-22,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-09,,,-16,,-11,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-10,,,-13,-42,-5,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-11,,,-12,,-21,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-12,,,-17,-32,-24,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-13,,,-11,-41,-25,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-14,,,-11,,-23,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-15,,,-16,,-17,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-16,,,-16,,-4,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-17,,,-15,,-4,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-18,,,-23,,-38,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-19,,,-24,-47,-22,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-20,,,-12,-44,-26,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-21,,,-13,,-23,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-22,,,-19,,-23,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-23,,,-21,,-10,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-24,,,-14,,-4,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-25,,,-18,,-21,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-26,,,-24,-40,-23,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-27,,,-27,-48,-29,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-28,,,-11,,-32,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-29,,,-15,,-23,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-30,,,-17,,-12,
+HT,Haiti,Nord Department,,,HT-ND,,2020-05-31,,,-5,,-4,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-01,,,-13,,-20,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-02,,,-15,-37,-22,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-03,,,-11,-46,-22,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-04,,,-9,,-21,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-05,,,-10,,-20,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-06,,,-10,,-10,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-07,,,-10,,0,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-08,,,-5,,-19,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-09,,,-14,-35,-19,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-10,,,-6,-45,-22,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-11,,,-4,,-35,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-12,,,-14,,-21,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-13,,,-19,,-13,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-14,,,-15,,-1,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-15,,,-14,,-21,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-16,,,-21,-33,-21,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-17,,,-10,-43,-24,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-18,,,-12,,-22,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-19,,,-15,,-19,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-20,,,-15,,-12,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-21,,,-13,-39,-4,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-22,,,-20,,-24,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-23,,,-23,-29,-25,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-24,,,-16,-48,-22,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-25,,,-8,,-26,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-26,,,-18,,-24,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-27,,,-16,,-12,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-28,,,-12,,-12,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-29,,,-8,,-24,
+HT,Haiti,Nord Department,,,HT-ND,,2020-06-30,,,-19,-35,-26,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-01,,,-13,-39,-26,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-02,,,-6,,-24,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-03,,,-14,,-18,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-04,,,-8,,-11,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-05,,,-12,-40,-4,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-06,,,-15,,-20,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-07,,,-15,-36,-23,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-08,,,-12,-45,-28,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-09,,,-6,,-24,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-10,,,-9,,-19,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-11,,,-11,,-12,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-12,,,-9,,-7,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-13,,,-11,,-19,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-14,,,-12,-41,-21,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-15,,,-9,-44,-24,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-16,,,0,,-21,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-17,,,-10,,-19,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-18,,,-12,,-10,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-19,,,-1,,-8,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-20,,,-4,,-21,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-21,,,-14,-35,-23,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-22,,,-8,-50,-25,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-23,,,4,,-24,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-24,,,-8,,-27,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-25,,,-7,,-18,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-26,,,-2,,-10,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-27,,,-5,,-23,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-28,,,-10,-33,-24,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-29,,,-5,-42,-28,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-30,,,-10,-45,-37,
+HT,Haiti,Nord Department,,,HT-ND,,2020-07-31,,,-8,,-25,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-01,,,-8,,-14,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-02,,,-1,,-8,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-03,,,-3,,-20,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-04,,,-10,-39,-25,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-05,,,-3,-40,-23,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-06,,,8,,-22,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-07,,,-1,,-17,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-08,,,-7,,-9,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-09,,,0,,-6,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-10,,,-4,,-21,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-11,,,-8,-42,-20,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-12,,,3,-38,-22,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-13,,,7,,-20,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-14,,,1,,-18,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-15,,,2,,-13,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-16,,,4,,-6,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-17,,,-3,,-21,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-18,,,-6,-38,-19,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-19,,,4,-43,-19,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-20,,,13,,-21,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-21,,,8,,-17,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-22,,,2,,-10,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-23,,,-20,-43,-23,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-24,,,-2,,-18,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-25,,,2,-28,-23,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-26,,,10,-33,-17,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-27,,,20,,-18,
+HT,Haiti,Nord Department,,,HT-ND,,2020-08-28,,,16,,-15,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-15,,,,,2,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-17,,,,,3,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-18,,,,,8,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-19,,,,,-1,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-20,,,,,-3,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-21,,,,,-2,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-22,,,,,-4,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-24,,,,,-34,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-25,,,,,-36,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-26,,,,,-35,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-27,,,,,-5,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-28,,,,,-5,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-02,,,,,2,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-03,,,,,0,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-04,,,,,-3,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-05,,,,,2,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-06,,,,,10,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-07,,,,,-7,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-09,,,,,0,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-10,,,,,2,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-11,,,,,-1,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-12,,,,,3,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-13,,,,,3,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-14,,,,,-7,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-16,,,,,0,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-17,,,,,-5,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-18,,,,,-3,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-19,,,,,-8,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-20,,,,,-22,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-21,,,,,-24,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-23,,,,,-40,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-24,,,,,-41,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-25,,,,,-46,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-26,,,,,-42,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-27,,,,,-40,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-28,,,,,-33,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-30,,,,,-40,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-03-31,,,,,-41,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-01,,,,,-44,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-02,,,,,-39,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-03,,,,,-38,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-04,,,,,-29,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-06,,,,,-34,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-07,,,,,-38,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-08,,,,,-43,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-09,,,,,-44,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-10,,,,,-59,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-11,,,,,-33,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-13,,,,,-40,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-14,,,,,-39,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-15,,,,,-40,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-16,,,,,-39,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-17,,,,,-33,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-18,,,,,-25,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-20,,,,,-31,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-21,,,,,-33,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-22,,,,,-35,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-23,,,,,-32,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-24,,,,,-28,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-25,,,,,-24,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-27,,,,,-32,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-28,,,,,-27,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-29,,,,,-32,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-04-30,,,,,-26,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-01,,,,,-46,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-02,,,,,-25,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-04,,,,,-25,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-05,,,,,-25,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-06,,,,,-32,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-07,,,,,-25,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-08,,,,,-27,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-09,,,,,-13,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-11,,,,,-20,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-12,,,,,-24,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-13,,,,,-31,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-14,,,,,-22,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-15,,,,,-17,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-16,,,,,-11,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-18,,,,,-46,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-19,,,,,-23,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-20,,,,,-23,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-21,,,,,-23,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-22,,,,,-24,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-23,,,,,-16,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-25,,,,,-23,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-26,,,,,-21,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-27,,,,,-33,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-28,,,,,-37,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-29,,,,,-26,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-05-30,,,,,-22,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-01,,,,,-19,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-02,,,,,-21,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-03,,,,,-25,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-04,,,,,-21,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-05,,,,,-24,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-06,,,,,-10,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-08,,,,,-19,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-09,,,,,-16,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-10,,,,,-26,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-11,,,,,-46,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-12,,,,,-19,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-13,,,,,-20,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-15,,,,,-19,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-16,,,,,-23,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-17,,,,,-23,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-18,,,,,-22,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-19,,,,,-17,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-20,,,,,-18,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-22,,,,,-18,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-23,,,,,-20,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-24,,,,,-29,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-25,,,,,-24,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-26,,,,,-26,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-27,,,,,-14,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-29,,,,,-18,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-06-30,,,,,-20,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-01,,,,,-25,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-02,,,,,-25,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-03,,,,,-20,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-04,,,,,-15,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-06,,,,,-23,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-07,,,,,-21,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-08,,,,,-27,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-09,,,,,-24,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-10,,,,,-23,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-11,,,,,-7,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-13,,,,,-24,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-14,,,,,-26,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-15,,,,,-28,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-16,,,,,-21,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-17,,,,,-18,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-18,,,,,-8,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-20,,,,,-15,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-21,,,,,-16,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-22,,,,,-25,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-23,,,,,-18,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-24,,,,,-15,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-25,,,,,-15,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-27,,,,,-18,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-28,,,,,-21,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-29,,,,,-29,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-30,,,,,-25,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-07-31,,,,,-19,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-01,,,,,-12,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-03,,,,,-19,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-04,,,,,-19,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-05,,,,,-24,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-06,,,,,-15,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-07,,,,,-18,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-08,,,,,-15,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-10,,,,,-20,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-11,,,,,-16,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-12,,,,,-19,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-13,,,,,-17,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-14,,,,,-18,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-15,,,,,-16,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-17,,,,,-20,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-18,,,,,-19,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-19,,,,,-22,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-20,,,,,-18,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-21,,,,,-20,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-22,,,,,-16,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-24,,,,,-16,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-25,,,,,-21,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-26,,,,,-17,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-27,,,,,-16,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2020-08-28,,,,,-14,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-02-17,,,,,2,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-02-19,,,,,-2,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-02-20,,,,,4,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-02-24,,,,,-17,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-02-25,,,,,-16,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-02-26,,,,,-21,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-02-27,,,,,2,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-03-02,,,,,-4,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-03-04,,,,,13,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-03-09,,,,,-6,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-03-11,,,,,9,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-03-16,,,,,8,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-03-18,,,,,13,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-03-23,,,,,-15,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-03-24,,,,,-9,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-03-25,,,,,-17,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-03-26,,,,,-26,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-03-27,,,,,-12,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-03-30,,,,,-23,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-03-31,,,,,-14,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-01,,,,,-23,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-02,,,,,-20,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-03,,,,,-14,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-06,,,,,-17,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-07,,,,,-12,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-08,,,,,-32,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-09,,,,,-24,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-10,,,,,-24,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-13,,,,,-25,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-14,,,,,-14,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-15,,,,,-17,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-16,,,,,-20,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-20,,,,,-14,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-22,,,,,-18,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-23,,,,,-22,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-27,,,,,-13,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-28,,,,,-9,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-29,,,,,-16,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-04-30,,,,,-13,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-01,,,,,-12,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-04,,,,,-15,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-06,,,,,-13,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-07,,,,,-8,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-11,,,,,-4,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-13,,,,,-11,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-14,,,,,-19,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-18,,,,,-21,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-20,,,,,-15,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-21,,,,,-16,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-25,,,,,-7,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-26,,,,,-9,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-27,,,,,-23,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-28,,,,,-24,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-05-29,,,,,-13,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-01,,,,,-15,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-02,,,,,-8,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-03,,,,,-17,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-04,,,,,-11,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-08,,,,,-11,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-10,,,,,-10,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-11,,,,,-12,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-15,,,,,-8,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-17,,,,,-4,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-18,,,,,-11,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-19,,,,,-10,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-22,,,,,-15,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-24,,,,,-10,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-25,,,,,-19,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-29,,,,,-10,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-06-30,,,,,-8,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-01,,,,,-12,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-02,,,,,-8,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-06,,,,,-9,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-08,,,,,0,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-09,,,,,-7,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-13,,,,,-11,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-14,,,,,-6,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-15,,,,,-6,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-16,,,,,-3,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-20,,,,,-10,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-22,,,,,-6,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-23,,,,,-13,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-27,,,,,-14,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-28,,,,,-6,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-29,,,,,-15,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-30,,,,,-35,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-07-31,,,,,-20,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-03,,,,,-12,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-05,,,,,-15,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-06,,,,,-10,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-10,,,,,-7,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-12,,,,,-18,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-13,,,,,-15,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-14,,,,,-12,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-17,,,,,-15,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-18,,,,,-9,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-19,,,,,-18,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-20,,,,,-16,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-24,,,,,-11,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-26,,,,,-7,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-08-27,,,,,-8,
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-15,-7,-2,-5,-7,0,2
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-16,-3,1,4,-12,2,1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-17,-7,-5,-7,-7,0,2
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-18,-8,-4,-7,-8,2,2
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-19,-12,-11,-4,-8,-1,3
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-20,-11,-8,-12,-8,-5,4
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-21,-8,-5,-12,-8,-4,3
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-22,-7,-4,-4,-9,-1,1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-23,-20,-25,-13,-24,-2,4
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-24,-47,-50,-35,-50,-54,19
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-25,-38,-32,-25,-34,-51,15
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-26,-31,-23,-20,-27,-44,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-27,-8,-6,-4,-2,-5,4
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-28,-8,-4,-4,-9,-3,4
+HT,Haiti,Ouest Department,,,HT-OU,,2020-02-29,-5,-1,-5,-13,2,2
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-01,-9,-6,-18,-11,-1,3
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-02,-4,-3,-4,-7,4,1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-03,-6,-4,-3,-4,3,3
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-04,-4,-6,0,-6,3,2
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-05,-5,-5,0,-5,5,1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-06,-3,-2,-1,-3,5,1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-07,-4,-1,-7,-8,4,2
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-08,-8,-9,-17,-6,0,2
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-09,-9,-10,-10,-10,3,2
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-10,-10,-8,-8,-5,4,2
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-11,-8,-7,-7,-8,1,2
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-12,-10,-1,-7,-1,4,1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-13,-4,4,-7,-4,3,0
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-14,-2,5,-14,-11,4,0
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-15,-5,-2,-14,-10,1,0
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-16,-7,-3,-13,-3,0,-1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-17,-8,-4,-10,-15,3,-2
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-18,-8,-5,-8,-17,3,0
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-19,-11,-2,-9,-19,3,0
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-20,-15,16,-10,-22,-22,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-21,-28,-14,-26,-46,-17,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-22,-35,-31,-32,-53,-12,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-23,-33,-26,-32,-44,-32,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-24,-38,-28,-33,-47,-35,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-25,-39,-31,-31,-48,-37,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-26,-39,-28,-30,-48,-37,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-27,-40,-23,-33,-46,-35,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-28,-39,-26,-29,-55,-23,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-29,-40,-34,-33,-54,-14,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-30,-38,-30,-31,-52,-37,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-03-31,-38,-30,-30,-54,-36,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-01,-36,-30,-28,-55,-36,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-02,-38,-27,-34,-56,-37,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-03,-36,-26,-32,-53,-35,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-04,-40,-29,-31,-59,-23,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-05,-40,-39,-31,-60,-13,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-06,-34,-29,-36,-54,-35,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-07,-36,-27,-32,-55,-37,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-08,-35,-27,-32,-55,-38,14
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-09,-33,-18,-29,-51,-42,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-10,-57,-54,-40,-68,-61,20
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-11,-44,-26,-33,-62,-30,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-12,-45,-44,-34,-64,-19,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-13,-37,-33,-35,-56,-39,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-14,-39,-33,-33,-60,-38,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-15,-40,-32,-37,-56,-39,14
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-16,-36,-28,-31,-55,-36,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-17,-37,-28,-36,-50,-36,14
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-18,-36,-27,-26,-55,-22,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-19,-39,-38,-30,-62,-14,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-20,-32,-28,-30,-50,-34,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-21,-35,-30,-32,-54,-35,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-22,-36,-29,-31,-55,-35,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-23,-34,-28,-30,-55,-34,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-24,-36,-27,-32,-51,-34,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-25,-38,-29,-32,-58,-24,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-26,-41,-37,-30,-59,-16,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-27,-38,-35,-42,-55,-37,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-28,-37,-33,-35,-58,-37,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-29,-32,-29,-29,-55,-33,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-04-30,-29,-22,-27,-51,-32,10
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-01,-48,-35,-32,-60,-54,16
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-02,-34,-25,-23,-52,-22,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-03,-40,-35,-29,-57,-15,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-04,-31,-25,-32,-43,-33,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-05,-32,-25,-28,-50,-33,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-06,-31,-26,-33,-50,-33,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-07,-31,-25,-24,-44,-32,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-08,-31,-22,-27,-45,-30,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-09,-31,-23,-24,-50,-19,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-10,-36,-32,-32,-57,-14,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-11,-29,-26,-27,-47,-31,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-12,-32,-26,-28,-50,-32,10
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-13,-34,-30,-32,-51,-34,10
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-14,-31,-25,-28,-46,-32,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-15,-29,-22,-24,-42,-31,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-16,-29,-21,-19,-47,-18,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-17,-35,-32,-29,-54,-10,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-18,-52,-50,-40,-64,-56,17
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-19,-31,-24,-31,-51,-33,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-20,-31,-24,-27,-51,-35,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-21,-31,-24,-30,-48,-34,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-22,-32,-25,-31,-47,-32,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-23,-34,-25,-27,-52,-19,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-24,-37,-36,-32,-54,-11,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-25,-32,-28,-29,-47,-34,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-26,-33,-30,-35,-50,-36,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-27,-36,-32,-37,-53,-39,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-28,-36,-32,-37,-50,-39,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-29,-33,-26,-35,-47,-36,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-30,-26,-17,-25,-46,-21,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-05-31,-30,-22,-32,-54,-10,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-01,-28,-27,-30,-48,-35,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-02,-33,-26,-28,-48,-35,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-03,-31,-28,-29,-48,-36,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-04,-31,-26,-25,-46,-34,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-05,-31,-22,-32,-46,-34,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-06,-33,-26,-28,-50,-21,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-07,-38,-36,-32,-56,-10,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-08,-27,-25,-35,-45,-32,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-09,-28,-26,-28,-47,-33,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-10,-26,-24,-24,-43,-34,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-11,-39,-35,-30,-48,-50,16
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-12,-24,-21,-22,-37,-32,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-13,-29,-26,-25,-47,-17,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-14,-34,-34,-32,-51,-10,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-15,-23,-25,-21,-38,-31,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-16,-28,-27,-26,-43,-32,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-17,-30,-29,-31,-46,-34,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-18,-29,-27,-27,-41,-33,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-19,-28,-25,-21,-38,-32,12
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-20,-27,-23,-21,-43,-19,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-21,-33,-33,-29,-54,-12,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-22,-28,-30,-34,-48,-35,10
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-23,-27,-27,-24,-46,-33,10
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-24,-25,-27,-21,-44,-34,10
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-25,-25,-26,-20,-41,-33,10
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-26,-23,-22,-21,-39,-32,10
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-27,-24,-22,-21,-44,-22,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-28,-31,-33,-30,-57,-17,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-29,-27,-29,-31,-43,-35,10
+HT,Haiti,Ouest Department,,,HT-OU,,2020-06-30,-23,-25,-29,-43,-34,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-01,-21,-24,-29,-38,-34,10
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-02,-23,-23,-22,-38,-34,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-03,-18,-18,-22,-31,-32,10
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-04,-21,-20,-17,-37,-21,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-05,-22,-30,-23,-44,-14,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-06,-15,-21,-27,-28,-33,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-07,-22,-23,-21,-33,-34,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-08,-20,-26,-22,-29,-35,11
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-09,-18,-21,-19,-33,-32,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-10,-18,-21,-24,-33,-34,10
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-11,-17,-21,-17,-38,-21,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-12,-17,-26,-21,-38,-14,4
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-13,-17,-23,-23,-32,-32,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-14,-18,-22,-21,-33,-34,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-15,-18,-22,-24,-31,-34,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-16,-19,-21,-15,-27,-33,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-17,-18,-18,-21,-20,-33,8
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-18,-19,-22,-12,-32,-23,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-19,-23,-27,-23,-38,-17,4
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-20,-16,-21,-21,-26,-33,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-21,-19,-23,-26,-27,-34,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-22,-24,-30,-34,-30,-37,9
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-23,-24,-26,-33,-31,-36,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-24,-20,-20,-25,-27,-34,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-25,-19,-22,-12,-36,-25,5
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-26,-23,-23,-21,-34,-16,4
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-27,-18,-23,-23,-25,-35,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-28,-18,-24,-21,-27,-33,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-29,-18,-19,-19,-24,-35,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-30,-19,-17,-17,-26,-35,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-07-31,-23,-23,-31,-35,-39,10
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-01,-15,-17,-16,-26,-23,4
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-02,-18,-24,-20,-35,-16,3
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-03,-12,-17,-14,-18,-33,5
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-04,-16,-20,-16,-28,-33,7
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-05,-12,-18,-15,-19,-32,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-06,-12,-16,-14,-16,-31,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-07,-9,-11,-6,-18,-30,6
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-08,-8,-13,1,-20,-19,3
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-09,-11,-13,-7,-22,-11,1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-10,-7,-14,-14,-20,-31,4
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-11,-6,-14,-3,-21,-30,4
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-12,-5,-12,-10,-13,-30,4
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-13,-6,-10,-8,-18,-30,4
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-14,-6,-4,-4,-15,-30,3
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-15,-14,-14,-1,-20,-29,2
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-16,-8,-13,-2,-20,-14,0
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-17,1,-6,-3,-12,-30,1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-18,0,-7,4,-17,-27,0
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-19,2,-9,4,-7,-28,1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-20,3,-5,5,-12,-28,2
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-21,7,-2,7,-15,-29,1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-22,7,-3,9,-14,-20,0
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-23,-41,-46,-41,-49,-40,13
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-24,-1,-10,-1,-20,-31,3
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-25,4,-4,14,-12,-29,1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-26,10,-2,12,4,-27,1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-27,12,2,16,-7,-26,1
+HT,Haiti,Ouest Department,,,HT-OU,,2020-08-28,13,4,19,-5,-27,1
+HT,Haiti,Sud Department,,,HT-SD,,2020-02-15,,,,,3,
+HT,Haiti,Sud Department,,,HT-SD,,2020-02-17,,,,,-2,
+HT,Haiti,Sud Department,,,HT-SD,,2020-02-18,,,,,6,
+HT,Haiti,Sud Department,,,HT-SD,,2020-02-19,,,,,1,
+HT,Haiti,Sud Department,,,HT-SD,,2020-02-20,,,,,1,
+HT,Haiti,Sud Department,,,HT-SD,,2020-02-21,,,,,3,
+HT,Haiti,Sud Department,,,HT-SD,,2020-02-22,,,,,-3,
+HT,Haiti,Sud Department,,,HT-SD,,2020-02-24,,,,,-26,
+HT,Haiti,Sud Department,,,HT-SD,,2020-02-25,,,,,-34,
+HT,Haiti,Sud Department,,,HT-SD,,2020-02-26,,,,,-26,
+HT,Haiti,Sud Department,,,HT-SD,,2020-02-27,,,,,-4,
+HT,Haiti,Sud Department,,,HT-SD,,2020-02-28,,,,,0,
+HT,Haiti,Sud Department,,,HT-SD,,2020-02-29,,,,,-2,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-02,,,,,-1,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-03,,,,,5,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-04,,,,,6,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-05,,,,,1,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-06,,,,,3,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-07,,,,,5,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-09,,,,,2,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-10,,,,,9,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-11,,,,,8,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-12,,,,,4,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-13,,,,,4,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-14,,,,,2,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-16,,,,,-2,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-17,,,,,9,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-18,,,,,8,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-19,,,,,4,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-20,,,,,-14,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-21,,,,,-10,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-23,,,,,-28,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-24,,,,,-23,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-25,,,,,-23,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-26,,,,,-29,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-27,,,,,-22,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-28,,,,,-19,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-30,,,,,-28,
+HT,Haiti,Sud Department,,,HT-SD,,2020-03-31,,,,,-24,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-01,,,,,-23,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-02,,,,,-29,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-03,,,,,-29,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-04,,,,,-21,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-06,,,,,-26,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-07,,,,,-24,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-08,,,,,-22,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-09,,,,,-32,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-10,,,,,-43,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-11,,,,,-14,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-12,,,,,-12,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-13,,,,,-28,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-14,,,,,-23,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-15,,,,,-31,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-16,,,,,-29,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-17,,,,,-21,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-18,,,,,-20,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-20,,,,,-24,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-21,,,,,-22,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-22,,,,,-22,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-23,,,,,-22,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-24,,,,,-20,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-25,,,,,-16,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-27,,,,,-21,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-28,,,,,-18,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-29,,,,,-19,
+HT,Haiti,Sud Department,,,HT-SD,,2020-04-30,,,,,-18,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-01,,,,,-32,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-02,,,,,-9,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-04,,,,,-19,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-05,,,,,-22,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-06,,,,,-17,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-07,,,,,-23,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-08,,,,,-17,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-09,,,,,-9,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-11,,,,,-18,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-12,,,,,-15,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-13,,,,,-15,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-14,,,,,-19,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-15,,,,,-17,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-16,,,,,-2,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-18,,,,,-33,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-19,,,,,-13,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-20,,,,,-17,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-21,,,,,-20,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-22,,,,,-18,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-23,,,,,-10,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-25,,,,,-20,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-26,,,,,-26,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-27,,,,,-32,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-28,,,,,-28,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-29,,,,,-23,
+HT,Haiti,Sud Department,,,HT-SD,,2020-05-30,,,,,-8,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-01,,,,,-20,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-02,,,,,-17,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-03,,,,,-17,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-04,,,,,-22,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-05,,,,,-19,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-06,,,,,-6,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-08,,,,,-16,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-09,,,,,-18,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-10,,,,,-16,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-11,,,,,-26,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-12,,,,,-17,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-13,,,,,-5,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-15,,,,,-19,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-16,,,,,-20,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-17,,,,,-17,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-18,,,,,-16,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-19,,,,,-12,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-20,,,,,-4,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-22,,,,,-16,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-23,,,,,-13,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-24,,,,,-18,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-25,,,,,-24,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-26,,,,,-19,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-27,,,,,-8,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-29,,,,,-21,
+HT,Haiti,Sud Department,,,HT-SD,,2020-06-30,,,,,-18,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-01,,,,,-14,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-02,,,,,-22,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-03,,,,,-21,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-04,,,,,-6,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-06,,,,,-23,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-07,,,,,-15,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-08,,,,,-14,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-09,,,,,-21,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-10,,,,,-13,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-11,,,,,-4,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-13,,,,,-17,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-14,,,,,-12,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-15,,,,,-15,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-16,,,,,-19,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-17,,,,,-15,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-18,,,,,-5,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-20,,,,,-19,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-21,,,,,-16,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-22,,,,,-16,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-23,,,,,-19,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-24,,,,,-18,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-25,,,,,-15,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-27,,,,,-16,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-28,,,,,-19,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-29,,,,,-14,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-30,,,,,-23,
+HT,Haiti,Sud Department,,,HT-SD,,2020-07-31,,,,,-24,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-01,,,,,-14,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-03,,,,,-20,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-04,,,,,-15,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-05,,,,,-15,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-06,,,,,-17,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-07,,,,,-13,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-08,,,,,-6,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-10,,,,,-16,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-11,,,,,-14,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-12,,,,,-10,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-13,,,,,-15,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-14,,,,,-10,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-15,,,,,-16,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-17,,,,,-20,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-18,,,,,-13,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-19,,,,,-14,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-20,,,,,-14,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-21,,,,,-13,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-22,,,,,1,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-23,,,,,-22,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-24,,,,,-21,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-25,,,,,-13,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-26,,,,,-8,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-27,,,,,-13,
+HT,Haiti,Sud Department,,,HT-SD,,2020-08-28,,,,,-13,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-15,,,,,0,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-17,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-18,,,,,-7,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-19,,,,,-19,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-20,,,,,-11,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-21,,,,,-8,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-22,,,,,-4,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-24,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-25,,,,,-18,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-26,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-27,,,,,-11,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-28,,,,,-3,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-29,,,,,2,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-02,,,,,0,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-03,,,,,3,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-04,,,,,-3,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-05,,,,,5,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-06,,,,,7,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-07,,,,,-4,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-09,,,,,2,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-10,,,,,-2,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-11,,,,,-2,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-12,,,,,-2,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-13,,,,,-2,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-14,,,,,2,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-16,,,,,-8,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-17,,,,,2,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-18,,,,,-3,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-19,,,,,-5,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-20,,,,,-22,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-21,,,,,-23,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-22,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-23,,,,,-35,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-24,,,,,-38,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-25,,,,,-38,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-26,,,,,-37,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-27,,,,,-37,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-28,,,,,-27,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-29,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-30,,,,,-35,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-03-31,,,,,-30,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-01,,,,,-33,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-02,,,,,-35,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-03,,,,,-32,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-04,,,,,-25,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-05,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-06,,,,,-31,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-07,,,,,-32,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-08,,,,,-35,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-09,,,,,-39,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-10,,,,,-53,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-11,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-12,,,,,-31,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-13,,,,,-34,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-14,,,,,-38,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-15,,,,,-40,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-16,,,,,-35,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-17,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-18,,,,,-24,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-19,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-20,,,,,-33,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-21,,,,,-33,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-22,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-23,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-24,,,,,-27,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-25,,,,,-23,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-26,,,,,-25,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-27,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-28,,,,,-31,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-29,,,,,-33,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-04-30,,,,,-27,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-01,,,,,-41,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-02,,,,,-24,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-03,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-04,,,,,-28,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-05,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-06,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-07,,,,,-28,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-08,,,,,-25,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-09,,,,,-22,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-10,,,,,-27,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-11,,,,,-24,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-12,,,,,-27,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-13,,,,,-30,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-14,,,,,-32,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-15,,,,,-24,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-16,,,,,-21,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-18,,,,,-39,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-19,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-20,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-21,,,,,-31,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-22,,,,,-20,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-23,,,,,-19,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-24,,,,,-25,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-25,,,,,-28,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-26,,,,,-30,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-27,,,,,-39,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-28,,,,,-37,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-29,,,,,-31,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-05-30,,,,,-25,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-01,,,,,-25,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-02,,,,,-27,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-03,,,,,-30,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-04,,,,,-27,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-05,,,,,-27,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-06,,,,,-19,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-08,,,,,-23,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-09,,,,,-24,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-10,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-11,,,,,-40,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-12,,,,,-24,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-13,,,,,-19,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-15,,,,,-24,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-16,,,,,-25,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-17,,,,,-30,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-18,,,,,-23,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-19,,,,,-20,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-20,,,,,-17,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-22,,,,,-28,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-23,,,,,-21,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-24,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-25,,,,,-28,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-26,,,,,-28,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-27,,,,,-20,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-28,,,,,-25,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-29,,,,,-34,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-06-30,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-01,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-02,,,,,-34,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-03,,,,,-24,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-04,,,,,-24,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-05,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-06,,,,,-34,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-07,,,,,-30,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-08,,,,,-33,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-09,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-10,,,,,-28,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-11,,,,,-19,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-13,,,,,-28,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-14,,,,,-27,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-15,,,,,-36,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-16,,,,,-30,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-17,,,,,-30,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-18,,,,,-28,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-19,,,,,-28,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-20,,,,,-35,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-21,,,,,-32,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-22,,,,,-42,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-23,,,,,-35,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-24,,,,,-33,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-25,,,,,-28,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-26,,,,,-27,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-27,,,,,-36,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-28,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-29,,,,,-32,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-30,,,,,-37,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-07-31,,,,,-39,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-01,,,,,-31,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-02,,,,,-30,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-03,,,,,-25,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-04,,,,,-30,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-05,,,,,-33,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-06,,,,,-32,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-07,,,,,-21,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-08,,,,,-24,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-10,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-11,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-12,,,,,-32,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-13,,,,,-31,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-14,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-15,,,,,-25,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-16,,,,,-28,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-17,,,,,-33,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-18,,,,,-33,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-19,,,,,-33,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-20,,,,,-26,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-21,,,,,-32,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-22,,,,,-24,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-23,,,,,-58,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-24,,,,,-36,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-25,,,,,-35,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-26,,,,,-29,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-27,,,,,-33,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2020-08-28,,,,,-31,

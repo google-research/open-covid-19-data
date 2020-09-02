@@ -16,10 +16,12 @@
 fetch:
   method: 'MANUAL_DOWNLOAD'
   source_url: 'https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv'
-  file: 'Global_Mobility_Report.csv'
+  file: ''  # This will match the whole google_mobility_reports directory
   instructions: 'Data exceeds 100MB limit per file, need to split data into smaller files.'
+  overwrite_historical: True
 load:
-  function: 'mobility_load_function'
+  aggregate_data: False
+  function: 'google_load_function'
   dates:
     columns: ['date']
     parse_function: 'default'
@@ -33,7 +35,8 @@ data:
     residential: 'residential_percent_change_from_baseline'
 attribution:
   title: "Google's COVID19 Community Mobility Reports"
-  source_name: 'https://www.google.com/covid19/mobility/'
+  source_name: "Google's COVID19 Community Mobility Reports"
+  main_link: 'https://www.google.com/covid19/mobility/'
   data_link: 'https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv'
   help_center: 'https://support.google.com/covid19-mobility'
   description: 'These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places.'
