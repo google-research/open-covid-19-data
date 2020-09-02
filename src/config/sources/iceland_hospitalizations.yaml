@@ -18,7 +18,9 @@ fetch:
   source_url: 'https://www.covid.is/data'
   file: 'Sheet 1.csv'
   instructions: 'Scroll down to the "Number of hospitalized patients with confirmed COVID-19 diagnosis" chart. Click the "download data" button in the bottom left corner.'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'default_load_function'
   dates:
     columns: ['']

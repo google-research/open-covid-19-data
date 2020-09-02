@@ -17,11 +17,10 @@
 # pylint: disable=unused-argument
 
 import pandas as pd
-import os
 
 import config
+import path_utils
 
-LOCATIONS_PATH = os.path.join(os.path.dirname(__file__), '../../', 'data/exports/locations/locations.csv')
 
 def join_region_codes(data_df, params):
     reg_params = params['load']['regions']
@@ -34,7 +33,7 @@ def join_region_codes(data_df, params):
 # This drops states (which have county = Unknown, state = state name, fips = NaN)
 # It also drops New York City (which has county = New York City, state = New York, fips = NaN)
 def join_nytimes_region_codes(data_df, params):
-    locations_df = pd.read_csv(LOCATIONS_PATH)
+    locations_df = pd.read_csv(path_utils.path_to('locations_csv'))
     fips_data_df = data_df[data_df['fips'].notna()]
     fips_locations = locations_df[locations_df['region_code_type'] == 'fips_6-4']
     fips_data_df['padded_fips_code'] = fips_data_df['fips'].apply(lambda x: str(int(x)).zfill(5))
@@ -42,8 +41,9 @@ def join_nytimes_region_codes(data_df, params):
                                           right_on=['leaf_region_code'], how='left')
     return fips_data_joined
 
+
 def join_mobility_region_codes(data_df, params):
-    locations_df = pd.read_csv(LOCATIONS_PATH)
+    locations_df = pd.read_csv(path_utils.path_to('locations_csv'))
     iso1_data = data_df[
         data_df['country_region_code'].notna() &
         data_df['sub_region_1'].isna() &
@@ -54,7 +54,6 @@ def join_mobility_region_codes(data_df, params):
         data_df['census_fips_code'].isna() &
         data_df['metro_area'].isna()]
     fips_data = data_df[
-        data_df['iso_3166_2_code'].isna() &
         data_df['census_fips_code'].notna() &
         data_df['metro_area'].isna()]
     iso1_locations = locations_df[locations_df['region_code_type'] == 'iso_3166-1']
@@ -67,18 +66,19 @@ def join_mobility_region_codes(data_df, params):
     fips_joined = fips_data.merge(fips_locations, left_on=['padded_fips_code'],
                                   right_on=['leaf_region_code'], how='left')
     joined_df = pd.concat([iso1_joined, iso2_joined, fips_joined])
+    joined_df['census_fips_code'] = joined_df['padded_fips_code']
     return joined_df
 
 def join_single_region_code(data_df, single_region_code):
     data_df['region_code'] = single_region_code
-    locations_df = pd.read_csv(LOCATIONS_PATH)
+    locations_df = pd.read_csv(path_utils.path_to('locations_csv'))
     locations_df = locations_df[config.all_region_columns()]
     data_df = data_df.merge(locations_df, on=['region_code'])
     return data_df
 
 def join_on_keys(data_df, reg_params):
     mapping_keys = reg_params['mapping_keys']
-    locations_df = pd.read_csv(LOCATIONS_PATH)
+    locations_df = pd.read_csv(path_utils.path_to('locations_csv'))
     if 'level_1_region_code' in reg_params:
         locations_df = locations_df[locations_df['level_1_region_code'] == reg_params['level_1_region_code']]
     reversed_mapping_keys = {value: key for key, value in mapping_keys.items()}

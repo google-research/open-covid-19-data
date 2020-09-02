@@ -31,7 +31,11 @@ _resources = dict(
     export_cc_by_sa_csv='data/exports/cc_by_sa/aggregated_cc_by_sa.csv',
     export_cc_by_sa_license='data/exports/cc_by_sa/LICENSE',
     export_dir='data/exports',
+    export_google_tos='data/exports/google_tos',
     export_google_tos_csv='data/exports/google_tos/aggregated_google_tos.csv',
+    export_google_tos_license='data/exports/google_tos/LICENSE',
+    export_search='data/exports/search_trends_symptoms_dataset',
+    export_mobility='data/exports/google_mobility_reports',
     inputs_dir='data/inputs',
     locations_csv='data/exports/locations/locations.csv',
     locations_export_dir='data/exports/locations',
@@ -46,6 +50,7 @@ _resources = dict(
     sources_cc_by_md='docs/sources_cc_by.md',
     sources_cc_by_nc_md='docs/sources_cc_by_nc.md',
     sources_cc_by_sa_md='docs/sources_cc_by_sa.md',
+    sources_google_tos_md='docs/sources_google_tos.md',
     spreadsheets_dir='data/inputs/scraped/spreadsheets',
     utils_dir='src/views/utils',
 )
@@ -108,7 +113,7 @@ def all_subdirs_most_to_least_recent(directory_path, file_name):
     for subdir_date in sorted_subdir_dates:
         date_str = subdir_date.strftime('%Y-%m-%d')
         path_to_file = os.path.join(directory_path, date_str, file_name)
-        if os.path.exists(path_to_file):
+        if os.path.exists(path_to_file) or file_name is None:
             subdir_dict = {'path': path_to_file, 'date': subdir_date}
             sorted_subdir_paths_with_data.append(subdir_dict)
     # If you never found a subdir with this file, will return an empty list

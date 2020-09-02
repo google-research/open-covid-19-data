@@ -131,3 +131,12 @@ def get_rename_dict(data_columns):
             source_col_name = data_columns[data_type][data_format]
             rename_dict[source_col_name] = our_col_name
     return rename_dict
+
+# Returns config dict where load.aggregate_data field matches aggregate_data arg.
+# Note that config sources with no load field are not returned in either case.
+def filter_by_aggregate_data(config_dict, aggregate_data=True):
+    filtered_dict = {
+        source: params for (source, params) in config_dict.items()
+        if 'load' in params and params['load']['aggregate_data'] == aggregate_data
+    }
+    return filtered_dict

@@ -1,0 +1,785 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+BS,The Bahamas,,,,,,2020-02-15,1,-3,13,11,0,-1
+BS,The Bahamas,,,,,,2020-02-16,6,-1,11,4,3,-1
+BS,The Bahamas,,,,,,2020-02-17,1,0,15,6,2,0
+BS,The Bahamas,,,,,,2020-02-18,3,0,6,8,1,0
+BS,The Bahamas,,,,,,2020-02-19,0,-4,8,23,-1,0
+BS,The Bahamas,,,,,,2020-02-20,1,-2,15,11,-3,0
+BS,The Bahamas,,,,,,2020-02-21,-1,0,3,8,-6,2
+BS,The Bahamas,,,,,,2020-02-22,-1,-2,-7,16,0,1
+BS,The Bahamas,,,,,,2020-02-23,1,-2,7,7,0,0
+BS,The Bahamas,,,,,,2020-02-24,3,0,8,8,-5,2
+BS,The Bahamas,,,,,,2020-02-25,0,-1,9,4,0,0
+BS,The Bahamas,,,,,,2020-02-26,2,1,8,13,2,-1
+BS,The Bahamas,,,,,,2020-02-27,3,5,1,6,0,1
+BS,The Bahamas,,,,,,2020-02-28,6,8,8,5,0,0
+BS,The Bahamas,,,,,,2020-02-29,5,4,13,13,3,-1
+BS,The Bahamas,,,,,,2020-03-01,3,3,6,4,0,0
+BS,The Bahamas,,,,,,2020-03-02,3,10,8,-3,1,1
+BS,The Bahamas,,,,,,2020-03-03,1,5,6,-1,0,0
+BS,The Bahamas,,,,,,2020-03-04,1,3,11,8,2,-1
+BS,The Bahamas,,,,,,2020-03-05,-1,3,9,2,1,1
+BS,The Bahamas,,,,,,2020-03-06,1,2,11,2,1,-1
+BS,The Bahamas,,,,,,2020-03-07,-1,2,3,3,2,0
+BS,The Bahamas,,,,,,2020-03-08,-3,-1,-4,-2,0,1
+BS,The Bahamas,,,,,,2020-03-09,-1,4,-4,-8,1,1
+BS,The Bahamas,,,,,,2020-03-10,-1,2,3,-6,2,0
+BS,The Bahamas,,,,,,2020-03-11,-2,7,8,3,3,0
+BS,The Bahamas,,,,,,2020-03-12,-1,13,12,-2,1,0
+BS,The Bahamas,,,,,,2020-03-13,1,17,13,0,1,-1
+BS,The Bahamas,,,,,,2020-03-14,-2,11,16,-5,3,-1
+BS,The Bahamas,,,,,,2020-03-15,-8,14,4,-10,1,0
+BS,The Bahamas,,,,,,2020-03-16,-7,36,3,-14,-8,5
+BS,The Bahamas,,,,,,2020-03-17,-16,14,-6,-15,-14,7
+BS,The Bahamas,,,,,,2020-03-18,-20,7,-8,-15,-16,10
+BS,The Bahamas,,,,,,2020-03-19,-21,11,-8,-24,-19,11
+BS,The Bahamas,,,,,,2020-03-20,-43,0,-19,-29,-31,19
+BS,The Bahamas,,,,,,2020-03-21,-53,-19,-22,-38,-35,16
+BS,The Bahamas,,,,,,2020-03-22,-55,-25,-24,-52,-36,13
+BS,The Bahamas,,,,,,2020-03-23,-47,-19,-19,-53,-43,20
+BS,The Bahamas,,,,,,2020-03-24,-69,-27,-48,-56,-63,31
+BS,The Bahamas,,,,,,2020-03-25,-68,-32,-47,-69,-64,32
+BS,The Bahamas,,,,,,2020-03-26,-65,-29,-43,-76,-64,33
+BS,The Bahamas,,,,,,2020-03-27,-62,-27,-43,-81,-62,32
+BS,The Bahamas,,,,,,2020-03-28,-68,-34,-48,-84,-57,25
+BS,The Bahamas,,,,,,2020-03-29,-67,-34,-48,-87,-52,19
+BS,The Bahamas,,,,,,2020-03-30,-63,-33,-45,-83,-62,30
+BS,The Bahamas,,,,,,2020-03-31,-63,-33,-45,-80,-63,30
+BS,The Bahamas,,,,,,2020-04-01,-65,-38,-50,-81,-62,32
+BS,The Bahamas,,,,,,2020-04-02,-64,-33,-46,-82,-63,33
+BS,The Bahamas,,,,,,2020-04-03,-62,-20,-47,-81,-62,32
+BS,The Bahamas,,,,,,2020-04-04,-97,-98,-83,-94,-81,38
+BS,The Bahamas,,,,,,2020-04-05,-96,-97,-83,-96,-76,29
+BS,The Bahamas,,,,,,2020-04-06,-50,-13,-41,-85,-63,28
+BS,The Bahamas,,,,,,2020-04-07,-47,-2,-35,-79,-64,25
+BS,The Bahamas,,,,,,2020-04-08,-49,0,-30,-83,-63,25
+BS,The Bahamas,,,,,,2020-04-09,-89,-54,-72,-92,-82,44
+BS,The Bahamas,,,,,,2020-04-10,-97,-97,-82,-96,-89,51
+BS,The Bahamas,,,,,,2020-04-11,-97,-97,-84,-95,-79,38
+BS,The Bahamas,,,,,,2020-04-12,-96,-96,-83,-100,-76,29
+BS,The Bahamas,,,,,,2020-04-13,-96,-97,-82,-95,-89,47
+BS,The Bahamas,,,,,,2020-04-14,-41,-9,-34,-81,-60,24
+BS,The Bahamas,,,,,,2020-04-15,-51,-15,-40,-82,-60,28
+BS,The Bahamas,,,,,,2020-04-16,-53,-15,-39,-83,-60,29
+BS,The Bahamas,,,,,,2020-04-17,-53,-9,-38,-84,-59,30
+BS,The Bahamas,,,,,,2020-04-18,-93,-66,-78,-94,-74,35
+BS,The Bahamas,,,,,,2020-04-19,-96,-96,-82,-96,-74,28
+BS,The Bahamas,,,,,,2020-04-20,-55,-21,-39,-85,-57,29
+BS,The Bahamas,,,,,,2020-04-21,-54,-23,-43,-82,-58,28
+BS,The Bahamas,,,,,,2020-04-22,-52,-23,-37,-83,-57,28
+BS,The Bahamas,,,,,,2020-04-23,-58,-23,-36,-84,-57,30
+BS,The Bahamas,,,,,,2020-04-24,-49,-9,-32,-83,-56,28
+BS,The Bahamas,,,,,,2020-04-25,-94,-71,-76,-95,-75,35
+BS,The Bahamas,,,,,,2020-04-26,-95,-97,-77,-96,-75,27
+BS,The Bahamas,,,,,,2020-04-27,-51,-17,-27,-83,-55,27
+BS,The Bahamas,,,,,,2020-04-28,-48,-15,-31,-80,-56,22
+BS,The Bahamas,,,,,,2020-04-29,-46,-17,-33,-80,-54,26
+BS,The Bahamas,,,,,,2020-04-30,-52,-17,-31,-82,-56,28
+BS,The Bahamas,,,,,,2020-05-01,-44,-4,-26,-82,-52,25
+BS,The Bahamas,,,,,,2020-05-02,-93,-66,-75,-93,-74,35
+BS,The Bahamas,,,,,,2020-05-03,-95,-97,-80,-96,-75,28
+BS,The Bahamas,,,,,,2020-05-04,-41,-12,-20,-81,-49,23
+BS,The Bahamas,,,,,,2020-05-05,-43,-16,-23,-74,-49,24
+BS,The Bahamas,,,,,,2020-05-06,-41,-15,-26,-77,-48,25
+BS,The Bahamas,,,,,,2020-05-07,-45,-12,-23,-75,-48,26
+BS,The Bahamas,,,,,,2020-05-08,-35,8,-13,-73,-46,22
+BS,The Bahamas,,,,,,2020-05-09,-92,-62,-70,-93,-73,34
+BS,The Bahamas,,,,,,2020-05-10,-95,-97,-79,-95,-74,28
+BS,The Bahamas,,,,,,2020-05-11,-47,-17,-30,-78,-47,25
+BS,The Bahamas,,,,,,2020-05-12,-41,-13,-24,-69,-46,22
+BS,The Bahamas,,,,,,2020-05-13,-43,-15,-29,-77,-45,24
+BS,The Bahamas,,,,,,2020-05-14,-48,-12,-35,-80,-47,25
+BS,The Bahamas,,,,,,2020-05-15,-40,1,-31,-83,-48,24
+BS,The Bahamas,,,,,,2020-05-16,-92,-64,-75,-94,-73,34
+BS,The Bahamas,,,,,,2020-05-17,-95,-96,-80,-94,-74,28
+BS,The Bahamas,,,,,,2020-05-18,-35,-6,-19,-79,-41,21
+BS,The Bahamas,,,,,,2020-05-19,-38,-11,-24,-76,-44,22
+BS,The Bahamas,,,,,,2020-05-20,-40,-13,-26,-73,-43,22
+BS,The Bahamas,,,,,,2020-05-21,-42,-5,-20,-72,-45,23
+BS,The Bahamas,,,,,,2020-05-22,-33,12,-19,-73,-41,19
+BS,The Bahamas,,,,,,2020-05-23,-91,-59,-72,-91,-70,33
+BS,The Bahamas,,,,,,2020-05-24,-95,-96,-82,-94,-72,28
+BS,The Bahamas,,,,,,2020-05-25,-39,-11,-32,-73,-42,23
+BS,The Bahamas,,,,,,2020-05-26,-35,-10,-26,-69,-41,21
+BS,The Bahamas,,,,,,2020-05-27,-33,-5,-24,-68,-38,20
+BS,The Bahamas,,,,,,2020-05-28,-32,6,-19,-73,-39,20
+BS,The Bahamas,,,,,,2020-05-29,-26,21,-15,-68,-38,17
+BS,The Bahamas,,,,,,2020-05-30,-89,-49,-66,-92,-68,31
+BS,The Bahamas,,,,,,2020-05-31,-94,-95,-75,-94,-69,26
+BS,The Bahamas,,,,,,2020-06-01,-71,-48,-51,-91,-77,37
+BS,The Bahamas,,,,,,2020-06-02,-25,1,-22,-63,-35,17
+BS,The Bahamas,,,,,,2020-06-03,-27,3,-20,-62,-33,18
+BS,The Bahamas,,,,,,2020-06-04,-20,20,-16,-68,-34,16
+BS,The Bahamas,,,,,,2020-06-05,-68,-32,-39,-87,-74,36
+BS,The Bahamas,,,,,,2020-06-06,-87,-52,-64,-88,-64,31
+BS,The Bahamas,,,,,,2020-06-07,-91,-93,-70,-92,-64,25
+BS,The Bahamas,,,,,,2020-06-08,-18,5,-12,-52,-29,14
+BS,The Bahamas,,,,,,2020-06-09,-24,-5,-18,-48,-32,16
+BS,The Bahamas,,,,,,2020-06-10,-28,-7,-18,-53,-30,16
+BS,The Bahamas,,,,,,2020-06-11,-28,-3,-18,-55,-31,17
+BS,The Bahamas,,,,,,2020-06-12,-28,0,-17,-53,-31,17
+BS,The Bahamas,,,,,,2020-06-13,-39,-9,-27,-66,-31,16
+BS,The Bahamas,,,,,,2020-06-14,-54,-36,-35,-74,-34,14
+BS,The Bahamas,,,,,,2020-06-15,-27,-13,-22,-57,-28,17
+BS,The Bahamas,,,,,,2020-06-16,-29,-11,-25,-49,-30,16
+BS,The Bahamas,,,,,,2020-06-17,-26,-7,-20,-48,-29,16
+BS,The Bahamas,,,,,,2020-06-18,-29,-6,-20,-55,-30,17
+BS,The Bahamas,,,,,,2020-06-19,-25,1,-16,-53,-29,14
+BS,The Bahamas,,,,,,2020-06-20,-29,1,-17,-61,-27,12
+BS,The Bahamas,,,,,,2020-06-21,-47,-25,-21,-68,-28,11
+BS,The Bahamas,,,,,,2020-06-22,-25,-12,-15,-55,-30,15
+BS,The Bahamas,,,,,,2020-06-23,-22,-7,-14,-45,-31,14
+BS,The Bahamas,,,,,,2020-06-24,-24,-8,-16,-47,-28,15
+BS,The Bahamas,,,,,,2020-06-25,-22,-4,-15,-51,-29,15
+BS,The Bahamas,,,,,,2020-06-26,-17,4,-9,-46,-28,13
+BS,The Bahamas,,,,,,2020-06-27,-24,-2,-14,-56,-26,10
+BS,The Bahamas,,,,,,2020-06-28,-39,-19,-20,-62,-30,10
+BS,The Bahamas,,,,,,2020-06-29,-13,-2,-4,-47,-26,11
+BS,The Bahamas,,,,,,2020-06-30,-15,-3,-8,-43,-28,12
+BS,The Bahamas,,,,,,2020-07-01,-19,-4,-8,-37,-27,12
+BS,The Bahamas,,,,,,2020-07-02,-20,-2,-7,-43,-27,13
+BS,The Bahamas,,,,,,2020-07-03,-18,2,-7,-40,-27,13
+BS,The Bahamas,,,,,,2020-07-04,-26,-7,-9,-51,-26,10
+BS,The Bahamas,,,,,,2020-07-05,-38,-21,-15,-56,-28,10
+BS,The Bahamas,,,,,,2020-07-06,-15,-4,-3,-48,-27,12
+BS,The Bahamas,,,,,,2020-07-07,-19,-6,-7,-35,-28,12
+BS,The Bahamas,,,,,,2020-07-08,-19,-7,-8,-34,-26,11
+BS,The Bahamas,,,,,,2020-07-09,-12,12,-3,-29,-27,10
+BS,The Bahamas,,,,,,2020-07-10,-49,-35,-9,-45,-68,26
+BS,The Bahamas,,,,,,2020-07-11,-31,-9,-21,-51,-28,13
+BS,The Bahamas,,,,,,2020-07-12,-41,-25,-24,-46,-30,11
+BS,The Bahamas,,,,,,2020-07-13,-18,-4,-3,-38,-27,12
+BS,The Bahamas,,,,,,2020-07-14,-21,-7,-7,-39,-28,12
+BS,The Bahamas,,,,,,2020-07-15,-22,-7,-9,-41,-25,12
+BS,The Bahamas,,,,,,2020-07-16,-23,-5,-12,-42,-27,13
+BS,The Bahamas,,,,,,2020-07-17,-23,-2,-12,-43,-27,12
+BS,The Bahamas,,,,,,2020-07-18,-25,-5,-12,-54,-24,10
+BS,The Bahamas,,,,,,2020-07-19,-38,-20,-23,-54,-29,10
+BS,The Bahamas,,,,,,2020-07-20,-20,-6,-14,-45,-27,13
+BS,The Bahamas,,,,,,2020-07-21,-21,-5,-18,-34,-30,13
+BS,The Bahamas,,,,,,2020-07-22,-25,-7,-22,-47,-28,15
+BS,The Bahamas,,,,,,2020-07-23,-24,-1,-19,-51,-30,15
+BS,The Bahamas,,,,,,2020-07-24,-27,8,-23,-52,-33,15
+BS,The Bahamas,,,,,,2020-07-25,-86,-43,-66,-84,-66,30
+BS,The Bahamas,,,,,,2020-07-26,-87,-60,-68,-88,-63,24
+BS,The Bahamas,,,,,,2020-07-27,-32,-11,-21,-49,-36,17
+BS,The Bahamas,,,,,,2020-07-28,-33,-5,-25,-52,-37,18
+BS,The Bahamas,,,,,,2020-07-29,-30,1,-23,-70,-37,18
+BS,The Bahamas,,,,,,2020-07-30,-30,6,-21,-72,-38,18
+BS,The Bahamas,,,,,,2020-07-31,-29,27,-13,-73,-41,15
+BS,The Bahamas,,,,,,2020-08-01,-89,-85,-67,-95,-79,25
+BS,The Bahamas,,,,,,2020-08-02,-81,-49,-56,-88,-60,17
+BS,The Bahamas,,,,,,2020-08-03,-79,-46,-41,-88,-78,34
+BS,The Bahamas,,,,,,2020-08-04,-19,16,-19,-68,-40,14
+BS,The Bahamas,,,,,,2020-08-05,-69,-18,-42,-78,-58,28
+BS,The Bahamas,,,,,,2020-08-06,-91,-90,-62,-84,-73,40
+BS,The Bahamas,,,,,,2020-08-07,-59,0,-28,-76,-54,25
+BS,The Bahamas,,,,,,2020-08-08,-88,-56,-66,-87,-69,31
+BS,The Bahamas,,,,,,2020-08-09,-93,-94,-76,-91,-71,27
+BS,The Bahamas,,,,,,2020-08-10,-51,6,-18,-77,-51,20
+BS,The Bahamas,,,,,,2020-08-11,-85,-79,-54,-81,-68,36
+BS,The Bahamas,,,,,,2020-08-12,-51,10,-22,-77,-50,20
+BS,The Bahamas,,,,,,2020-08-13,-86,-79,-53,-83,-68,38
+BS,The Bahamas,,,,,,2020-08-14,-53,13,-16,-74,-50,21
+BS,The Bahamas,,,,,,2020-08-15,-85,-46,-59,-87,-66,29
+BS,The Bahamas,,,,,,2020-08-16,-92,-94,-74,-90,-70,26
+BS,The Bahamas,,,,,,2020-08-17,-46,13,-9,-77,-49,18
+BS,The Bahamas,,,,,,2020-08-18,-88,-80,-58,-87,-75,39
+BS,The Bahamas,,,,,,2020-08-19,-50,12,-21,-79,-56,22
+BS,The Bahamas,,,,,,2020-08-20,-58,-6,-25,-80,-57,25
+BS,The Bahamas,,,,,,2020-08-21,-53,9,-16,-71,-51,22
+BS,The Bahamas,,,,,,2020-08-22,-67,-18,-32,-82,-50,20
+BS,The Bahamas,,,,,,2020-08-23,-76,-50,-48,-89,-55,20
+BS,The Bahamas,,,,,,2020-08-24,-47,2,-11,-77,-49,20
+BS,The Bahamas,,,,,,2020-08-25,-53,-21,-14,-72,-51,22
+BS,The Bahamas,,,,,,2020-08-26,-51,-18,-13,-73,-48,21
+BS,The Bahamas,,,,,,2020-08-27,-50,-11,-11,-73,-50,21
+BS,The Bahamas,,,,,,2020-08-28,-46,-3,-7,-69,-47,20
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-15,-5,-11,,,2,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-16,,,,,8,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-17,8,-4,,,7,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-18,11,1,,,7,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-19,3,-8,,,3,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-20,-8,-4,,,1,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-21,1,-5,,,-1,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-22,-3,-4,,,6,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-23,,,,,2,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-24,3,-1,,,-6,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-25,3,-5,,,4,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-26,0,-5,,,3,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-27,-5,2,,,4,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-28,4,5,,,5,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-02-29,5,3,,,10,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-01,,,,,3,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-02,7,6,,,5,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-03,9,0,,,4,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-04,3,1,,,2,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-05,-11,0,,,0,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-06,3,-2,,,6,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-07,5,3,,,5,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-08,,,,,3,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-09,0,1,,,5,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-10,-3,5,,,7,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-11,-6,5,,,3,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-12,-5,9,,,4,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-13,1,14,,,7,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-14,0,12,,,10,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-15,,,,,2,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-16,-1,34,,,-4,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-17,-12,18,,,-8,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-18,-17,5,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-19,-18,6,,,-16,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-20,-42,-18,,,-26,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-21,-54,-35,,,-31,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-22,,-33,,,-29,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-23,-46,-31,,,-39,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-24,-69,-40,,,-60,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-25,-70,-46,,,-63,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-26,-70,-47,,,-60,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-27,-65,-45,,,-57,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-28,-69,-46,,,-52,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-29,-67,-36,,,-52,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-30,-63,-46,,,-57,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-03-31,-61,-46,,,-58,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-01,-64,-44,,,-57,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-02,-65,-43,,,-58,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-03,-62,-37,,,-56,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-04,-100,,,,-83,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-05,,,,,-76,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-06,-48,-37,,,-60,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-07,-46,-25,,,-60,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-08,-52,-19,,,-62,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-09,-89,-57,,,-82,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-10,-100,,,,-89,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-11,-100,,,,-79,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-12,,,,,-71,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-13,,,,,-89,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-14,-45,-20,,,-57,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-15,-54,-26,,,-57,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-16,-56,-31,,,-55,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-17,-55,-33,,,-52,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-18,-93,-63,,,-71,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-19,,,,,-71,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-20,-53,-30,,,-52,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-21,-54,-27,,,-52,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-22,-59,-28,,,-50,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-23,-58,-30,,,-50,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-24,-52,-24,,,-49,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-25,-93,-72,,,-69,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-26,,,,,-69,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-27,-46,-25,,,-46,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-28,-49,-22,,,-47,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-29,-51,-22,,,-47,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-04-30,-49,-22,,,-48,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-01,-47,-21,,-85,-44,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-02,-90,-61,,,-68,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-03,,,,,-73,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-04,-41,-19,,,-42,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-05,-45,-20,,,-43,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-06,-46,-13,,,-43,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-07,-48,-12,,,-42,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-08,-35,-11,,,-40,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-09,-88,-60,,,-63,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-10,,,,,-66,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-11,-36,-16,,,-40,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-12,-43,-14,,,-38,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-13,-47,-16,,,-39,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-14,-46,-9,,,-41,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-15,-48,-17,,-78,-43,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-16,-92,-65,,,-65,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-17,,,,,-66,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-18,-35,-10,,,-34,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-19,-40,-12,,,-38,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-20,-47,-12,,,-38,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-21,-44,-9,,,-40,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-22,-34,-4,,-85,-34,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-23,-88,-55,,,-57,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-24,,,,,-64,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-25,-45,-18,,,-39,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-26,-42,-8,,,-37,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-27,-40,4,,,-36,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-28,-38,-4,,,-34,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-29,-26,10,,-77,-32,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-30,-82,-49,,,-57,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-05-31,,,,,-57,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-01,-75,-67,,,-75,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-02,-26,7,,,-31,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-03,-33,8,,,-31,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-04,-26,12,,,-30,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-05,-72,-65,,,-73,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-06,-81,-47,,,-51,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-07,-91,,,,-51,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-08,-15,11,,,-24,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-09,-26,6,,,-25,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-10,-31,4,,,-26,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-11,-32,-3,,,-28,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-12,-25,2,,,-24,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-13,-37,-16,,,-26,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-14,,,,,-23,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-15,-24,-5,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-16,-20,-1,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-17,-28,3,,,-19,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-18,-30,-4,,,-22,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-19,-23,-1,,,-22,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-20,-25,-5,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-21,,,,,-24,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-22,-20,-2,,,-22,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-23,-21,8,,,-22,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-24,-29,5,,,-23,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-25,-26,7,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-26,-13,10,,,-19,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-27,-20,-8,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-28,,,,,-22,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-29,-7,12,,,-18,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-06-30,-15,6,,,-18,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-01,-19,3,,,-20,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-02,-25,4,,,-20,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-03,-18,2,,,-20,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-04,-25,-12,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-05,,,,,-19,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-06,-9,1,,,-19,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-07,-14,1,,,-18,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-08,-22,0,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-09,-12,13,,,-20,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-10,-49,-56,,,-66,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-11,-32,-10,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-12,,,,,-22,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-13,-11,6,,,-19,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-14,-20,-4,,,-20,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-15,-25,-9,,,-23,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-16,-27,-4,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-17,-21,0,,,-20,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-18,-29,-13,,,-14,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-19,,,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-20,-23,1,,,-23,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-21,-23,-5,,,-30,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-22,-30,-3,,,-30,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-23,-29,-3,,,-35,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-24,-81,-59,,,-61,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-25,-90,-73,,,-66,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-26,,,,,-71,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-27,-69,-42,,,-61,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-28,-72,-40,,,-60,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-29,-65,-30,,,-57,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-30,-64,-34,,,-57,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-07-31,-55,-25,,,-53,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-01,-82,-81,,,-73,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-02,,,,,-69,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-03,-79,-65,,,-77,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-04,-68,-39,,,-56,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-05,-62,-36,,,-58,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-06,-92,-93,,,-67,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-07,-54,-36,,,-52,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-08,-82,-68,,,-62,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-09,,,,,-60,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-10,-41,-28,,,-50,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-11,-68,,,,-56,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-12,-51,-22,,,-50,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-13,-71,,,,-56,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-14,-53,-24,,-76,-49,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-15,-79,-63,,,-57,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-16,,,,,-60,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-17,-36,-17,,,-45,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-18,-66,,,,-55,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-19,-52,-20,,,-50,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-20,-63,-32,,,-51,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-21,-47,-14,,,-42,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-22,-71,-44,,,-48,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-23,-89,,,,-55,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-24,-39,-12,,,-44,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-25,-31,-15,,,-40,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-26,-30,-14,,,-39,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-27,-28,-9,,,-36,
+BS,The Bahamas,Freeport,,,BS-FP,,2020-08-28,-21,-12,,-76,-34,
+BS,The Bahamas,New Providence,,,,,2020-02-15,-1,-2,12,9,-1,-1
+BS,The Bahamas,New Providence,,,,,2020-02-16,1,-2,12,-5,2,0
+BS,The Bahamas,New Providence,,,,,2020-02-17,-3,-1,10,-2,1,0
+BS,The Bahamas,New Providence,,,,,2020-02-18,1,-2,6,-4,1,0
+BS,The Bahamas,New Providence,,,,,2020-02-19,-2,-4,11,23,-2,0
+BS,The Bahamas,New Providence,,,,,2020-02-20,-1,-1,10,4,-4,1
+BS,The Bahamas,New Providence,,,,,2020-02-21,-2,0,1,1,-6,2
+BS,The Bahamas,New Providence,,,,,2020-02-22,-3,-2,-3,13,-1,2
+BS,The Bahamas,New Providence,,,,,2020-02-23,-5,-2,-1,-4,-3,1
+BS,The Bahamas,New Providence,,,,,2020-02-24,1,1,9,-2,-5,2
+BS,The Bahamas,New Providence,,,,,2020-02-25,-2,0,6,-11,0,0
+BS,The Bahamas,New Providence,,,,,2020-02-26,1,2,8,9,1,-1
+BS,The Bahamas,New Providence,,,,,2020-02-27,2,5,5,-5,-1,1
+BS,The Bahamas,New Providence,,,,,2020-02-28,6,8,7,1,-1,0
+BS,The Bahamas,New Providence,,,,,2020-02-29,3,5,11,6,1,-1
+BS,The Bahamas,New Providence,,,,,2020-03-01,-2,3,6,0,0,0
+BS,The Bahamas,New Providence,,,,,2020-03-02,0,10,7,-9,-1,1
+BS,The Bahamas,New Providence,,,,,2020-03-03,0,6,6,-15,0,0
+BS,The Bahamas,New Providence,,,,,2020-03-04,0,4,12,0,2,-1
+BS,The Bahamas,New Providence,,,,,2020-03-05,-2,3,6,-9,0,1
+BS,The Bahamas,New Providence,,,,,2020-03-06,1,1,8,-2,1,-1
+BS,The Bahamas,New Providence,,,,,2020-03-07,-4,2,4,-4,1,1
+BS,The Bahamas,New Providence,,,,,2020-03-08,-6,-2,-1,-12,-2,2
+BS,The Bahamas,New Providence,,,,,2020-03-09,-2,3,4,-15,1,2
+BS,The Bahamas,New Providence,,,,,2020-03-10,-3,2,3,-20,1,0
+BS,The Bahamas,New Providence,,,,,2020-03-11,-3,7,12,-6,3,0
+BS,The Bahamas,New Providence,,,,,2020-03-12,-3,13,11,-12,0,0
+BS,The Bahamas,New Providence,,,,,2020-03-13,-1,17,7,-7,0,-1
+BS,The Bahamas,New Providence,,,,,2020-03-14,-6,11,6,-10,1,0
+BS,The Bahamas,New Providence,,,,,2020-03-15,-12,14,2,-23,-1,1
+BS,The Bahamas,New Providence,,,,,2020-03-16,-12,36,3,-22,-10,6
+BS,The Bahamas,New Providence,,,,,2020-03-17,-19,13,-6,-29,-15,9
+BS,The Bahamas,New Providence,,,,,2020-03-18,-24,7,-6,-26,-18,11
+BS,The Bahamas,New Providence,,,,,2020-03-19,-26,11,-12,-36,-21,13
+BS,The Bahamas,New Providence,,,,,2020-03-20,-46,3,-18,-35,-34,20
+BS,The Bahamas,New Providence,,,,,2020-03-21,-56,-16,-26,-47,-39,18
+BS,The Bahamas,New Providence,,,,,2020-03-22,-58,-26,-24,-62,-40,15
+BS,The Bahamas,New Providence,,,,,2020-03-23,-50,-18,-16,-64,-47,23
+BS,The Bahamas,New Providence,,,,,2020-03-24,-71,-27,-54,-69,-67,34
+BS,The Bahamas,New Providence,,,,,2020-03-25,-69,-30,-49,-72,-67,34
+BS,The Bahamas,New Providence,,,,,2020-03-26,-66,-26,-45,-82,-67,35
+BS,The Bahamas,New Providence,,,,,2020-03-27,-63,-25,-44,-85,-66,34
+BS,The Bahamas,New Providence,,,,,2020-03-28,-69,-31,-53,-89,-62,26
+BS,The Bahamas,New Providence,,,,,2020-03-29,-69,-34,-48,-91,-57,20
+BS,The Bahamas,New Providence,,,,,2020-03-30,-65,-32,-44,-88,-65,33
+BS,The Bahamas,New Providence,,,,,2020-03-31,-64,-32,-47,-88,-66,33
+BS,The Bahamas,New Providence,,,,,2020-04-01,-66,-38,-48,-85,-66,34
+BS,The Bahamas,New Providence,,,,,2020-04-02,-66,-33,-46,-87,-67,36
+BS,The Bahamas,New Providence,,,,,2020-04-03,-63,-19,-45,-85,-66,34
+BS,The Bahamas,New Providence,,,,,2020-04-04,-98,-99,-90,-100,-86,
+BS,The Bahamas,New Providence,,,,,2020-04-05,-97,-98,-89,-100,-82,
+BS,The Bahamas,New Providence,,,,,2020-04-06,-52,-12,-37,-88,-67,30
+BS,The Bahamas,New Providence,,,,,2020-04-07,-49,1,-28,-83,-67,26
+BS,The Bahamas,New Providence,,,,,2020-04-08,-50,4,-18,-90,-67,26
+BS,The Bahamas,New Providence,,,,,2020-04-09,-92,-59,-78,-100,-86,47
+BS,The Bahamas,New Providence,,,,,2020-04-10,-98,-98,-88,-100,-92,
+BS,The Bahamas,New Providence,,,,,2020-04-11,-98,-97,-90,-100,-83,
+BS,The Bahamas,New Providence,,,,,2020-04-12,-97,-97,-88,-100,-81,
+BS,The Bahamas,New Providence,,,,,2020-04-13,-97,-98,-87,-100,-92,
+BS,The Bahamas,New Providence,,,,,2020-04-14,-42,-8,-28,-85,-62,25
+BS,The Bahamas,New Providence,,,,,2020-04-15,-53,-14,-31,-87,-63,29
+BS,The Bahamas,New Providence,,,,,2020-04-16,-55,-12,-32,-87,-63,31
+BS,The Bahamas,New Providence,,,,,2020-04-17,-54,-6,-30,-89,-63,31
+BS,The Bahamas,New Providence,,,,,2020-04-18,-95,-67,-84,-100,-78,
+BS,The Bahamas,New Providence,,,,,2020-04-19,-97,-98,-88,-100,-78,
+BS,The Bahamas,New Providence,,,,,2020-04-20,-57,-20,-33,-89,-61,31
+BS,The Bahamas,New Providence,,,,,2020-04-21,-54,-22,-36,-87,-61,30
+BS,The Bahamas,New Providence,,,,,2020-04-22,-52,-22,-32,-88,-60,30
+BS,The Bahamas,New Providence,,,,,2020-04-23,-60,-21,-34,-89,-61,33
+BS,The Bahamas,New Providence,,,,,2020-04-24,-48,-5,-23,-86,-59,29
+BS,The Bahamas,New Providence,,,,,2020-04-25,-95,-73,-85,-100,-80,
+BS,The Bahamas,New Providence,,,,,2020-04-26,-97,-98,-89,-100,-80,
+BS,The Bahamas,New Providence,,,,,2020-04-27,-53,-16,-24,-87,-58,29
+BS,The Bahamas,New Providence,,,,,2020-04-28,-48,-14,-27,-85,-59,24
+BS,The Bahamas,New Providence,,,,,2020-04-29,-46,-15,-24,-86,-57,28
+BS,The Bahamas,New Providence,,,,,2020-04-30,-54,-16,-27,-89,-59,30
+BS,The Bahamas,New Providence,,,,,2020-05-01,-43,2,-15,-87,-56,26
+BS,The Bahamas,New Providence,,,,,2020-05-02,-95,-67,-83,-100,-79,
+BS,The Bahamas,New Providence,,,,,2020-05-03,-97,-98,-87,-100,-78,
+BS,The Bahamas,New Providence,,,,,2020-05-04,-42,-10,-11,-88,-51,24
+BS,The Bahamas,New Providence,,,,,2020-05-05,-43,-15,-15,-84,-52,26
+BS,The Bahamas,New Providence,,,,,2020-05-06,-42,-15,-18,-84,-50,26
+BS,The Bahamas,New Providence,,,,,2020-05-07,-47,-11,-17,-84,-51,27
+BS,The Bahamas,New Providence,,,,,2020-05-08,-36,13,-3,-81,-49,23
+BS,The Bahamas,New Providence,,,,,2020-05-09,-94,-64,-81,-97,-78,
+BS,The Bahamas,New Providence,,,,,2020-05-10,-97,-98,-88,-100,-79,
+BS,The Bahamas,New Providence,,,,,2020-05-11,-50,-18,-24,-83,-50,27
+BS,The Bahamas,New Providence,,,,,2020-05-12,-41,-12,-14,-76,-48,23
+BS,The Bahamas,New Providence,,,,,2020-05-13,-43,-13,-14,-83,-47,25
+BS,The Bahamas,New Providence,,,,,2020-05-14,-50,-11,-29,-86,-50,26
+BS,The Bahamas,New Providence,,,,,2020-05-15,-39,8,-14,-90,-49,24
+BS,The Bahamas,New Providence,,,,,2020-05-16,-94,-65,-80,-95,-78,
+BS,The Bahamas,New Providence,,,,,2020-05-17,-97,-97,-87,-100,-79,
+BS,The Bahamas,New Providence,,,,,2020-05-18,-36,-5,-8,-84,-44,22
+BS,The Bahamas,New Providence,,,,,2020-05-19,-38,-9,-10,-84,-46,23
+BS,The Bahamas,New Providence,,,,,2020-05-20,-39,-11,-10,-79,-44,23
+BS,The Bahamas,New Providence,,,,,2020-05-21,-42,-2,-5,-76,-46,25
+BS,The Bahamas,New Providence,,,,,2020-05-22,-32,19,1,-78,-43,20
+BS,The Bahamas,New Providence,,,,,2020-05-23,-93,-61,-76,-93,-75,
+BS,The Bahamas,New Providence,,,,,2020-05-24,-97,-97,-86,-97,-77,
+BS,The Bahamas,New Providence,,,,,2020-05-25,-38,-9,-17,-75,-43,23
+BS,The Bahamas,New Providence,,,,,2020-05-26,-33,-7,-10,-72,-42,22
+BS,The Bahamas,New Providence,,,,,2020-05-27,-32,-4,-5,-72,-39,21
+BS,The Bahamas,New Providence,,,,,2020-05-28,-31,9,-3,-79,-41,21
+BS,The Bahamas,New Providence,,,,,2020-05-29,-25,27,7,-72,-39,18
+BS,The Bahamas,New Providence,,,,,2020-05-30,-91,-49,-72,-94,-73,34
+BS,The Bahamas,New Providence,,,,,2020-05-31,-95,-96,-81,-97,-73,
+BS,The Bahamas,New Providence,,,,,2020-06-01,-71,-43,-47,-94,-80,39
+BS,The Bahamas,New Providence,,,,,2020-06-02,-25,1,-7,-69,-36,18
+BS,The Bahamas,New Providence,,,,,2020-06-03,-26,5,1,-68,-35,19
+BS,The Bahamas,New Providence,,,,,2020-06-04,-21,24,2,-74,-35,17
+BS,The Bahamas,New Providence,,,,,2020-06-05,-69,-20,-28,-89,-76,38
+BS,The Bahamas,New Providence,,,,,2020-06-06,-90,-55,-70,-93,-69,33
+BS,The Bahamas,New Providence,,,,,2020-06-07,-93,-95,-75,-95,-68,
+BS,The Bahamas,New Providence,,,,,2020-06-08,-18,5,5,-59,-31,15
+BS,The Bahamas,New Providence,,,,,2020-06-09,-23,-5,0,-57,-34,18
+BS,The Bahamas,New Providence,,,,,2020-06-10,-27,-8,5,-57,-31,18
+BS,The Bahamas,New Providence,,,,,2020-06-11,-29,-4,-4,-63,-33,19
+BS,The Bahamas,New Providence,,,,,2020-06-12,-29,1,-1,-58,-32,19
+BS,The Bahamas,New Providence,,,,,2020-06-13,-40,-7,-17,-72,-31,17
+BS,The Bahamas,New Providence,,,,,2020-06-14,-57,-34,-27,-79,-35,15
+BS,The Bahamas,New Providence,,,,,2020-06-15,-27,-15,-6,-64,-29,18
+BS,The Bahamas,New Providence,,,,,2020-06-16,-29,-13,-12,-59,-32,18
+BS,The Bahamas,New Providence,,,,,2020-06-17,-26,-8,0,-55,-30,17
+BS,The Bahamas,New Providence,,,,,2020-06-18,-30,-7,-4,-64,-31,18
+BS,The Bahamas,New Providence,,,,,2020-06-19,-25,2,2,-58,-31,15
+BS,The Bahamas,New Providence,,,,,2020-06-20,-31,2,-7,-70,-28,13
+BS,The Bahamas,New Providence,,,,,2020-06-21,-51,-24,-7,-77,-27,12
+BS,The Bahamas,New Providence,,,,,2020-06-22,-27,-15,0,-61,-31,17
+BS,The Bahamas,New Providence,,,,,2020-06-23,-22,-9,4,-51,-31,16
+BS,The Bahamas,New Providence,,,,,2020-06-24,-24,-9,8,-51,-29,16
+BS,The Bahamas,New Providence,,,,,2020-06-25,-24,-6,1,-59,-31,16
+BS,The Bahamas,New Providence,,,,,2020-06-26,-17,5,12,-53,-30,14
+BS,The Bahamas,New Providence,,,,,2020-06-27,-26,0,-4,-63,-27,11
+BS,The Bahamas,New Providence,,,,,2020-06-28,-42,-19,-6,-71,-31,11
+BS,The Bahamas,New Providence,,,,,2020-06-29,-15,-6,18,-55,-28,12
+BS,The Bahamas,New Providence,,,,,2020-06-30,-15,-5,12,-52,-29,13
+BS,The Bahamas,New Providence,,,,,2020-07-01,-20,-5,18,-45,-28,13
+BS,The Bahamas,New Providence,,,,,2020-07-02,-21,-3,16,-56,-29,14
+BS,The Bahamas,New Providence,,,,,2020-07-03,-19,1,14,-51,-29,14
+BS,The Bahamas,New Providence,,,,,2020-07-04,-28,-7,4,-64,-27,11
+BS,The Bahamas,New Providence,,,,,2020-07-05,-41,-21,-1,-67,-30,11
+BS,The Bahamas,New Providence,,,,,2020-07-06,-18,-7,16,-59,-28,13
+BS,The Bahamas,New Providence,,,,,2020-07-07,-20,-8,11,-46,-29,14
+BS,The Bahamas,New Providence,,,,,2020-07-08,-20,-8,16,-42,-27,13
+BS,The Bahamas,New Providence,,,,,2020-07-09,-15,10,15,-40,-29,11
+BS,The Bahamas,New Providence,,,,,2020-07-10,-52,-30,3,-51,-71,27
+BS,The Bahamas,New Providence,,,,,2020-07-11,-34,-11,-16,-59,-29,13
+BS,The Bahamas,New Providence,,,,,2020-07-12,-45,-25,-15,-57,-30,11
+BS,The Bahamas,New Providence,,,,,2020-07-13,-21,-8,16,-47,-29,13
+BS,The Bahamas,New Providence,,,,,2020-07-14,-21,-9,11,-48,-30,13
+BS,The Bahamas,New Providence,,,,,2020-07-15,-23,-7,15,-50,-26,12
+BS,The Bahamas,New Providence,,,,,2020-07-16,-25,-6,3,-53,-28,14
+BS,The Bahamas,New Providence,,,,,2020-07-17,-25,-3,6,-51,-29,13
+BS,The Bahamas,New Providence,,,,,2020-07-18,-27,-4,1,-62,-25,10
+BS,The Bahamas,New Providence,,,,,2020-07-19,-42,-21,-11,-64,-30,11
+BS,The Bahamas,New Providence,,,,,2020-07-20,-22,-9,2,-56,-28,13
+BS,The Bahamas,New Providence,,,,,2020-07-21,-21,-5,1,-44,-30,14
+BS,The Bahamas,New Providence,,,,,2020-07-22,-26,-7,-3,-53,-28,15
+BS,The Bahamas,New Providence,,,,,2020-07-23,-25,-1,-2,-61,-29,15
+BS,The Bahamas,New Providence,,,,,2020-07-24,-19,21,3,-58,-29,12
+BS,The Bahamas,New Providence,,,,,2020-07-25,-88,-39,-65,-88,-68,31
+BS,The Bahamas,New Providence,,,,,2020-07-26,-88,-55,-65,-92,-64,24
+BS,The Bahamas,New Providence,,,,,2020-07-27,-28,-7,-5,-56,-32,16
+BS,The Bahamas,New Providence,,,,,2020-07-28,-27,2,-8,-58,-33,17
+BS,The Bahamas,New Providence,,,,,2020-07-29,-25,8,-3,-79,-34,17
+BS,The Bahamas,New Providence,,,,,2020-07-30,-27,13,-4,-81,-34,17
+BS,The Bahamas,New Providence,,,,,2020-07-31,-24,41,8,-78,-38,15
+BS,The Bahamas,New Providence,,,,,2020-08-01,-92,-88,-70,-100,-82,
+BS,The Bahamas,New Providence,,,,,2020-08-02,-82,-42,-50,-90,-59,19
+BS,The Bahamas,New Providence,,,,,2020-08-03,-81,-41,-32,-91,-80,35
+BS,The Bahamas,New Providence,,,,,2020-08-04,-11,29,0,-71,-37,13
+BS,The Bahamas,New Providence,,,,,2020-08-05,-72,-14,-31,-84,-59,30
+BS,The Bahamas,New Providence,,,,,2020-08-06,-93,-92,-65,-87,-76,43
+BS,The Bahamas,New Providence,,,,,2020-08-07,-61,7,-13,-79,-55,26
+BS,The Bahamas,New Providence,,,,,2020-08-08,-91,-54,-68,-92,-72,33
+BS,The Bahamas,New Providence,,,,,2020-08-09,-95,-96,-80,-93,-74,
+BS,The Bahamas,New Providence,,,,,2020-08-10,-55,14,-2,-80,-52,21
+BS,The Bahamas,New Providence,,,,,2020-08-11,-91,-90,-58,-88,-72,39
+BS,The Bahamas,New Providence,,,,,2020-08-12,-53,18,1,-83,-52,21
+BS,The Bahamas,New Providence,,,,,2020-08-13,-91,-90,-57,-89,-72,41
+BS,The Bahamas,New Providence,,,,,2020-08-14,-54,22,7,-77,-51,21
+BS,The Bahamas,New Providence,,,,,2020-08-15,-88,-44,-61,-93,-69,31
+BS,The Bahamas,New Providence,,,,,2020-08-16,-95,-95,-78,-94,-75,
+BS,The Bahamas,New Providence,,,,,2020-08-17,-49,21,13,-82,-51,19
+BS,The Bahamas,New Providence,,,,,2020-08-18,-94,-93,-66,-93,-81,44
+BS,The Bahamas,New Providence,,,,,2020-08-19,-51,22,0,-86,-59,23
+BS,The Bahamas,New Providence,,,,,2020-08-20,-59,3,-9,-85,-59,26
+BS,The Bahamas,New Providence,,,,,2020-08-21,-55,16,3,-75,-53,23
+BS,The Bahamas,New Providence,,,,,2020-08-22,-68,-11,-22,-88,-50,21
+BS,The Bahamas,New Providence,,,,,2020-08-23,-76,-43,-35,-91,-55,20
+BS,The Bahamas,New Providence,,,,,2020-08-24,-49,5,9,-81,-51,21
+BS,The Bahamas,New Providence,,,,,2020-08-25,-59,-23,3,-78,-54,25
+BS,The Bahamas,New Providence,,,,,2020-08-26,-57,-19,10,-79,-51,23
+BS,The Bahamas,New Providence,,,,,2020-08-27,-57,-12,6,-80,-53,24
+BS,The Bahamas,New Providence,,,,,2020-08-28,-53,0,15,-73,-50,22
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-15,,,2,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-16,,,6,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-17,,,21,,4,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-18,,,16,,-2,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-19,,,15,,-2,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-20,,,3,,-2,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-21,,,9,,0,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-22,,,10,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-23,,,12,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-24,,,16,,0,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-25,,,19,,13,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-26,,,17,,6,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-27,,,11,,8,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-28,,,11,,9,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-02-29,,,15,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-01,,,12,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-02,,,16,,10,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-03,,,7,,2,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-04,,,9,,6,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-05,,,6,,8,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-06,,,14,,9,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-07,,,9,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-08,,,13,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-09,,,20,,10,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-10,,,11,,13,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-11,,,14,,8,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-12,,,15,,10,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-13,,,15,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-14,,,18,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-15,,,22,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-16,,,32,,15,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-17,,,32,,11,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-18,,,18,,6,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-19,,,7,,0,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-20,,,2,,-2,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-21,,,0,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-22,,,-6,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-23,,,4,,-10,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-24,,,-31,,-19,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-25,,,-29,,-29,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-26,,,-33,,-24,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-27,,,-27,,-24,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-28,,,-29,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-29,,,-35,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-30,,,-27,,-21,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-03-31,,,-22,,-23,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-01,,,-28,,-27,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-02,,,-30,,-29,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-03,,,-27,,-15,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-04,,,-75,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-05,,,-74,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-06,,,-16,,-29,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-07,,,-19,,-26,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-08,,,-5,,-27,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-09,,,-64,,-47,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-10,,,-75,,-46,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-11,,,-78,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-12,,,-74,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-13,,,-73,,-60,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-14,,,-15,,-38,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-15,,,-23,,-33,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-16,,,-29,,-39,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-17,,,-21,,-28,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-18,,,-68,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-19,,,-74,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-20,,,-19,,-36,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-21,,,-25,,-31,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-22,,,-23,,-40,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-23,,,-16,,-33,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-24,,,-17,,-33,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-25,,,-72,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-26,,,-68,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-27,,,-8,,-42,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-28,,,-17,,-39,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-29,,,-13,,-38,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-04-30,,,-24,,-42,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-01,,,-8,,-39,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-02,,,-64,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-03,,,-73,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-04,,,-8,,-42,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-05,,,-20,,-39,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-06,,,-16,,-36,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-07,,,-17,,-38,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-08,,,-5,,-38,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-09,,,-64,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-10,,,-75,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-11,,,-9,,-41,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-12,,,-8,,-41,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-13,,,-11,,-44,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-14,,,-20,,-47,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-15,,,-23,,-49,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-16,,,-68,,-62,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-17,,,-79,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-18,,,-6,,-40,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-19,,,-8,,-41,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-20,,,-7,,-42,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-21,,,-12,,-44,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-22,,,-3,,-36,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-23,,,-52,,-56,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-24,,,-73,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-25,,,-28,,-43,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-26,,,-18,,-41,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-27,,,-10,,-43,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-28,,,-7,,-44,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-29,,,7,,-37,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-30,,,-48,,-62,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-05-31,,,-66,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-01,,,-32,,-68,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-02,,,-10,,-42,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-03,,,-7,,-33,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-04,,,-9,,-39,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-05,,,-23,,-67,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-06,,,-41,,-59,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-07,,,-58,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-08,,,-1,,-37,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-09,,,-7,,-37,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-10,,,-1,,-31,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-11,,,-5,,-42,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-12,,,2,,-29,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-13,,,-10,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-14,,,-21,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-15,,,-9,,-37,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-16,,,-7,,-34,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-17,,,-7,,-34,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-18,,,-20,,-43,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-19,,,-7,,-33,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-20,,,0,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-21,,,-3,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-22,,,2,,-36,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-23,,,-3,,-35,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-24,,,-2,,-33,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-25,,,-6,,-35,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-26,,,1,,-31,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-27,,,2,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-28,,,-7,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-29,,,0,,-32,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-06-30,,,-1,,-33,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-01,,,-3,,-36,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-02,,,-11,,-36,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-03,,,1,,-32,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-04,,,-2,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-05,,,-4,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-06,,,1,,-33,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-07,,,-4,,-36,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-08,,,-4,,-33,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-09,,,-1,,-40,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-10,,,11,,-63,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-11,,,-11,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-12,,,-18,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-13,,,3,,-38,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-14,,,-6,,-33,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-15,,,-4,,-36,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-16,,,-10,,-35,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-17,,,-11,,-33,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-18,,,-9,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-19,,,-17,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-20,,,-15,,-37,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-21,,,-24,,-42,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-22,,,-17,,-40,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-23,,,-19,,-47,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-24,,,-47,,-63,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-25,,,-67,,-69,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-26,,,-79,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-27,,,-28,,-66,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-28,,,-32,,-63,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-29,,,-19,,-61,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-30,,,-21,,-68,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-07-31,,,2,,-59,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-01,,,-43,,-79,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-02,,,-51,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-03,,,-26,,-75,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-04,,,-22,,-59,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-05,,,-24,,-57,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-06,,,-53,,-77,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-07,,,-13,,-56,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-08,,,-59,,-70,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-09,,,-69,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-10,,,-5,,-55,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-11,,,-24,,-60,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-12,,,-16,,-58,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-13,,,-26,,-63,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-14,,,-5,,-51,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-15,,,-48,,-67,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-16,,,-67,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-17,,,4,,-55,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-18,,,-25,,-62,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-19,,,-14,,-57,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-20,,,-19,,-60,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-21,,,3,,-54,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-22,,,-23,,-66,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-23,,,-49,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-24,,,4,,-56,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-25,,,1,,-47,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-26,,,2,,-49,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-27,,,-2,,-54,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,2020-08-28,,,6,,-44,

@@ -17,6 +17,7 @@ fetch:
   source_url: 'https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_CH_total_v2.csv'
   method: 'AUTOMATIC_DOWNLOAD'
   file: 'COVID19_Fallzahlen_CH_total_v2.csv'
+  overwrite_historical: False
 attribution:
   title: 'Switzerland'
   source_name: 'OpenDataZH'

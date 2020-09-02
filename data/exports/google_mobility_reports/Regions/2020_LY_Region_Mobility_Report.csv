@@ -1,0 +1,1882 @@
+open_covid_region_code,country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+LBY,LY,Libya,,,,,,2020-02-15,4.0,5.0,9.0,6.0,5,0.0
+LBY,LY,Libya,,,,,,2020-02-16,6.0,9.0,14.0,-3.0,-11,3.0
+LBY,LY,Libya,,,,,,2020-02-17,-2.0,0.0,28.0,-4.0,-22,4.0
+LBY,LY,Libya,,,,,,2020-02-18,3.0,6.0,11.0,4.0,4,1.0
+LBY,LY,Libya,,,,,,2020-02-19,2.0,4.0,9.0,1.0,5,-1.0
+LBY,LY,Libya,,,,,,2020-02-20,2.0,5.0,8.0,7.0,4,1.0
+LBY,LY,Libya,,,,,,2020-02-21,3.0,4.0,6.0,8.0,3,1.0
+LBY,LY,Libya,,,,,,2020-02-22,3.0,4.0,3.0,10.0,6,0.0
+LBY,LY,Libya,,,,,,2020-02-23,6.0,7.0,12.0,3.0,6,0.0
+LBY,LY,Libya,,,,,,2020-02-24,5.0,7.0,9.0,4.0,6,-1.0
+LBY,LY,Libya,,,,,,2020-02-25,5.0,7.0,15.0,7.0,7,0.0
+LBY,LY,Libya,,,,,,2020-02-26,4.0,5.0,11.0,7.0,7,0.0
+LBY,LY,Libya,,,,,,2020-02-27,3.0,7.0,13.0,11.0,5,1.0
+LBY,LY,Libya,,,,,,2020-02-28,4.0,4.0,9.0,8.0,3,0.0
+LBY,LY,Libya,,,,,,2020-02-29,3.0,6.0,10.0,9.0,7,0.0
+LBY,LY,Libya,,,,,,2020-03-01,7.0,9.0,13.0,2.0,9,1.0
+LBY,LY,Libya,,,,,,2020-03-02,4.0,8.0,13.0,7.0,9,-1.0
+LBY,LY,Libya,,,,,,2020-03-03,6.0,7.0,12.0,3.0,10,0.0
+LBY,LY,Libya,,,,,,2020-03-04,4.0,7.0,8.0,-1.0,8,1.0
+LBY,LY,Libya,,,,,,2020-03-05,3.0,7.0,10.0,5.0,8,1.0
+LBY,LY,Libya,,,,,,2020-03-06,5.0,6.0,16.0,8.0,4,0.0
+LBY,LY,Libya,,,,,,2020-03-07,3.0,7.0,16.0,-1.0,8,-1.0
+LBY,LY,Libya,,,,,,2020-03-08,4.0,9.0,13.0,-2.0,9,-1.0
+LBY,LY,Libya,,,,,,2020-03-09,4.0,7.0,14.0,-3.0,7,-2.0
+LBY,LY,Libya,,,,,,2020-03-10,3.0,5.0,15.0,-7.0,7,-1.0
+LBY,LY,Libya,,,,,,2020-03-11,4.0,9.0,14.0,-3.0,8,-1.0
+LBY,LY,Libya,,,,,,2020-03-12,4.0,10.0,16.0,2.0,8,0.0
+LBY,LY,Libya,,,,,,2020-03-13,7.0,8.0,20.0,-1.0,4,0.0
+LBY,LY,Libya,,,,,,2020-03-14,2.0,10.0,16.0,1.0,6,0.0
+LBY,LY,Libya,,,,,,2020-03-15,1.0,14.0,14.0,-5.0,1,3.0
+LBY,LY,Libya,,,,,,2020-03-16,-7.0,9.0,9.0,-12.0,-2,3.0
+LBY,LY,Libya,,,,,,2020-03-17,-10.0,6.0,5.0,-20.0,-2,5.0
+LBY,LY,Libya,,,,,,2020-03-18,-14.0,3.0,1.0,-26.0,-5,6.0
+LBY,LY,Libya,,,,,,2020-03-19,-27.0,-9.0,-11.0,-33.0,-12,11.0
+LBY,LY,Libya,,,,,,2020-03-20,-35.0,-14.0,-21.0,-41.0,-9,10.0
+LBY,LY,Libya,,,,,,2020-03-21,-29.0,-9.0,-18.0,-39.0,-11,10.0
+LBY,LY,Libya,,,,,,2020-03-22,-37.0,-18.0,-23.0,-49.0,-24,15.0
+LBY,LY,Libya,,,,,,2020-03-23,-39.0,-17.0,-24.0,-46.0,-28,14.0
+LBY,LY,Libya,,,,,,2020-03-24,-34.0,-6.0,-18.0,-42.0,-30,11.0
+LBY,LY,Libya,,,,,,2020-03-25,-53.0,-32.0,-36.0,-60.0,-41,19.0
+LBY,LY,Libya,,,,,,2020-03-26,-53.0,-32.0,-35.0,-57.0,-39,21.0
+LBY,LY,Libya,,,,,,2020-03-27,-50.0,-33.0,-36.0,-56.0,-15,14.0
+LBY,LY,Libya,,,,,,2020-03-28,-49.0,-28.0,-29.0,-52.0,-27,17.0
+LBY,LY,Libya,,,,,,2020-03-29,-49.0,-28.0,-32.0,-52.0,-36,21.0
+LBY,LY,Libya,,,,,,2020-03-30,-54.0,-32.0,-36.0,-58.0,-42,20.0
+LBY,LY,Libya,,,,,,2020-03-31,-51.0,-29.0,-32.0,-54.0,-40,20.0
+LBY,LY,Libya,,,,,,2020-04-01,-51.0,-29.0,-30.0,-54.0,-39,19.0
+LBY,LY,Libya,,,,,,2020-04-02,-52.0,-30.0,-34.0,-53.0,-38,22.0
+LBY,LY,Libya,,,,,,2020-04-03,-50.0,-29.0,-37.0,-54.0,-16,15.0
+LBY,LY,Libya,,,,,,2020-04-04,-48.0,-27.0,-32.0,-51.0,-30,18.0
+LBY,LY,Libya,,,,,,2020-04-05,-44.0,-21.0,-27.0,-49.0,-35,20.0
+LBY,LY,Libya,,,,,,2020-04-06,-47.0,-27.0,-30.0,-49.0,-38,17.0
+LBY,LY,Libya,,,,,,2020-04-07,-47.0,-26.0,-29.0,-50.0,-39,15.0
+LBY,LY,Libya,,,,,,2020-04-08,-52.0,-33.0,-34.0,-51.0,-41,9.0
+LBY,LY,Libya,,,,,,2020-04-09,-49.0,-28.0,-32.0,-51.0,-38,17.0
+LBY,LY,Libya,,,,,,2020-04-10,-53.0,-29.0,-38.0,-54.0,-23,7.0
+LBY,LY,Libya,,,,,,2020-04-11,-46.0,-23.0,-29.0,-47.0,-30,10.0
+LBY,LY,Libya,,,,,,2020-04-12,-43.0,-20.0,-29.0,-48.0,-35,15.0
+LBY,LY,Libya,,,,,,2020-04-13,-46.0,-24.0,-30.0,-47.0,-35,14.0
+LBY,LY,Libya,,,,,,2020-04-14,-45.0,-23.0,-28.0,-48.0,-33,15.0
+LBY,LY,Libya,,,,,,2020-04-15,-39.0,-13.0,-24.0,-42.0,-31,14.0
+LBY,LY,Libya,,,,,,2020-04-16,-35.0,-8.0,-19.0,-41.0,-32,14.0
+LBY,LY,Libya,,,,,,2020-04-17,-47.0,-23.0,-34.0,-49.0,-13,12.0
+LBY,LY,Libya,,,,,,2020-04-18,-46.0,-22.0,-30.0,-44.0,-29,15.0
+LBY,LY,Libya,,,,,,2020-04-19,-41.0,-18.0,-30.0,-46.0,-36,16.0
+LBY,LY,Libya,,,,,,2020-04-20,-43.0,-21.0,-28.0,-45.0,-36,14.0
+LBY,LY,Libya,,,,,,2020-04-21,-37.0,-12.0,-25.0,-40.0,-34,13.0
+LBY,LY,Libya,,,,,,2020-04-22,-36.0,-9.0,-20.0,-35.0,-32,11.0
+LBY,LY,Libya,,,,,,2020-04-23,-33.0,-5.0,-21.0,-40.0,-32,14.0
+LBY,LY,Libya,,,,,,2020-04-24,-39.0,-15.0,-30.0,-45.0,-11,14.0
+LBY,LY,Libya,,,,,,2020-04-25,-42.0,-21.0,-23.0,-43.0,-23,16.0
+LBY,LY,Libya,,,,,,2020-04-26,-39.0,-18.0,-22.0,-46.0,-31,18.0
+LBY,LY,Libya,,,,,,2020-04-27,-40.0,-18.0,-16.0,-47.0,-30,16.0
+LBY,LY,Libya,,,,,,2020-04-28,-34.0,-11.0,-8.0,-36.0,-25,12.0
+LBY,LY,Libya,,,,,,2020-04-29,-33.0,-10.0,-8.0,-38.0,-23,14.0
+LBY,LY,Libya,,,,,,2020-04-30,-37.0,-13.0,-12.0,-35.0,-24,17.0
+LBY,LY,Libya,,,,,,2020-05-01,-29.0,-5.0,-15.0,-35.0,1,10.0
+LBY,LY,Libya,,,,,,2020-05-02,-33.0,-11.0,-11.0,-35.0,-15,12.0
+LBY,LY,Libya,,,,,,2020-05-03,-30.0,-6.0,-9.0,-31.0,-23,14.0
+LBY,LY,Libya,,,,,,2020-05-04,-31.0,-6.0,-10.0,-31.0,-22,13.0
+LBY,LY,Libya,,,,,,2020-05-05,-29.0,-6.0,-7.0,-30.0,-22,14.0
+LBY,LY,Libya,,,,,,2020-05-06,-27.0,1.0,-2.0,-34.0,-20,13.0
+LBY,LY,Libya,,,,,,2020-05-07,-25.0,3.0,-5.0,-26.0,-20,15.0
+LBY,LY,Libya,,,,,,2020-05-08,-13.0,19.0,-3.0,-17.0,10,9.0
+LBY,LY,Libya,,,,,,2020-05-09,-17.0,9.0,0.0,-20.0,-8,11.0
+LBY,LY,Libya,,,,,,2020-05-10,-15.0,10.0,0.0,-25.0,-18,13.0
+LBY,LY,Libya,,,,,,2020-05-11,-17.0,11.0,0.0,-23.0,-19,11.0
+LBY,LY,Libya,,,,,,2020-05-12,-14.0,14.0,6.0,-24.0,-18,12.0
+LBY,LY,Libya,,,,,,2020-05-13,-22.0,5.0,3.0,-31.0,-19,10.0
+LBY,LY,Libya,,,,,,2020-05-14,-29.0,-4.0,-8.0,-35.0,-25,6.0
+LBY,LY,Libya,,,,,,2020-05-15,-5.0,25.0,13.0,-13.0,11,-1.0
+LBY,LY,Libya,,,,,,2020-05-16,-16.0,13.0,6.0,-23.0,-8,6.0
+LBY,LY,Libya,,,,,,2020-05-17,-10.0,16.0,7.0,-26.0,-18,8.0
+LBY,LY,Libya,,,,,,2020-05-18,-8.0,23.0,11.0,-24.0,-17,7.0
+LBY,LY,Libya,,,,,,2020-05-19,-5.0,22.0,17.0,-17.0,-17,11.0
+LBY,LY,Libya,,,,,,2020-05-20,1.0,31.0,25.0,-8.0,-17,11.0
+LBY,LY,Libya,,,,,,2020-05-21,1.0,32.0,19.0,-14.0,-18,13.0
+LBY,LY,Libya,,,,,,2020-05-22,31.0,64.0,31.0,17.0,19,6.0
+LBY,LY,Libya,,,,,,2020-05-23,7.0,38.0,22.0,7.0,-13,11.0
+LBY,LY,Libya,,,,,,2020-05-24,-18.0,7.0,14.0,-36.0,-41,9.0
+LBY,LY,Libya,,,,,,2020-05-25,-34.0,-11.0,-2.0,-49.0,-44,13.0
+LBY,LY,Libya,,,,,,2020-05-26,-36.0,-15.0,-8.0,-52.0,-42,14.0
+LBY,LY,Libya,,,,,,2020-05-27,-23.0,1.0,1.0,-35.0,-24,11.0
+LBY,LY,Libya,,,,,,2020-05-28,-26.0,0.0,-7.0,-36.0,-23,15.0
+LBY,LY,Libya,,,,,,2020-05-29,-21.0,6.0,1.0,-30.0,7,7.0
+LBY,LY,Libya,,,,,,2020-05-30,-17.0,11.0,1.0,-25.0,-4,8.0
+LBY,LY,Libya,,,,,,2020-05-31,-11.0,12.0,9.0,-23.0,-10,9.0
+LBY,LY,Libya,,,,,,2020-06-01,-14.0,14.0,7.0,-25.0,-10,8.0
+LBY,LY,Libya,,,,,,2020-06-02,-14.0,11.0,8.0,-22.0,-8,9.0
+LBY,LY,Libya,,,,,,2020-06-03,-15.0,13.0,7.0,-23.0,-9,9.0
+LBY,LY,Libya,,,,,,2020-06-04,-19.0,6.0,11.0,-27.0,-11,10.0
+LBY,LY,Libya,,,,,,2020-06-05,-18.0,11.0,10.0,-33.0,8,3.0
+LBY,LY,Libya,,,,,,2020-06-06,-13.0,13.0,8.0,-25.0,-2,5.0
+LBY,LY,Libya,,,,,,2020-06-07,-8.0,15.0,10.0,-33.0,-9,6.0
+LBY,LY,Libya,,,,,,2020-06-08,-11.0,15.0,9.0,-34.0,-7,4.0
+LBY,LY,Libya,,,,,,2020-06-09,-12.0,13.0,10.0,-35.0,-7,7.0
+LBY,LY,Libya,,,,,,2020-06-10,-10.0,14.0,12.0,-26.0,-8,7.0
+LBY,LY,Libya,,,,,,2020-06-11,-11.0,14.0,12.0,-33.0,-8,8.0
+LBY,LY,Libya,,,,,,2020-06-12,-12.0,13.0,17.0,-29.0,8,2.0
+LBY,LY,Libya,,,,,,2020-06-13,-9.0,14.0,15.0,-24.0,1,4.0
+LBY,LY,Libya,,,,,,2020-06-14,-1.0,19.0,19.0,-29.0,-7,5.0
+LBY,LY,Libya,,,,,,2020-06-15,-6.0,16.0,15.0,-29.0,-6,5.0
+LBY,LY,Libya,,,,,,2020-06-16,-5.0,18.0,20.0,-29.0,-6,4.0
+LBY,LY,Libya,,,,,,2020-06-17,-6.0,16.0,20.0,-30.0,-7,4.0
+LBY,LY,Libya,,,,,,2020-06-18,-11.0,13.0,13.0,-26.0,-8,6.0
+LBY,LY,Libya,,,,,,2020-06-19,-24.0,-4.0,6.0,-39.0,-1,3.0
+LBY,LY,Libya,,,,,,2020-06-20,-20.0,1.0,0.0,-35.0,-9,4.0
+LBY,LY,Libya,,,,,,2020-06-21,2.0,22.0,20.0,-24.0,-7,3.0
+LBY,LY,Libya,,,,,,2020-06-22,-5.0,17.0,15.0,-31.0,-12,1.0
+LBY,LY,Libya,,,,,,2020-06-23,-3.0,17.0,20.0,-31.0,-12,4.0
+LBY,LY,Libya,,,,,,2020-06-24,-5.0,16.0,18.0,-27.0,-11,3.0
+LBY,LY,Libya,,,,,,2020-06-25,-8.0,15.0,15.0,-27.0,-9,3.0
+LBY,LY,Libya,,,,,,2020-06-26,-19.0,4.0,12.0,-26.0,2,3.0
+LBY,LY,Libya,,,,,,2020-06-27,-18.0,2.0,5.0,-30.0,-10,4.0
+LBY,LY,Libya,,,,,,2020-06-28,1.0,19.0,22.0,-28.0,-9,1.0
+LBY,LY,Libya,,,,,,2020-06-29,-3.0,18.0,21.0,-26.0,-9,0.0
+LBY,LY,Libya,,,,,,2020-06-30,-2.0,18.0,27.0,-29.0,-10,-2.0
+LBY,LY,Libya,,,,,,2020-07-01,-2.0,19.0,27.0,-26.0,-9,-1.0
+LBY,LY,Libya,,,,,,2020-07-02,-6.0,14.0,21.0,-33.0,-13,0.0
+LBY,LY,Libya,,,,,,2020-07-03,-17.0,4.0,19.0,-30.0,-4,0.0
+LBY,LY,Libya,,,,,,2020-07-04,-18.0,1.0,5.0,-37.0,-13,1.0
+LBY,LY,Libya,,,,,,2020-07-05,6.0,24.0,30.0,-23.0,-10,0.0
+LBY,LY,Libya,,,,,,2020-07-06,2.0,25.0,29.0,-25.0,-8,0.0
+LBY,LY,Libya,,,,,,2020-07-07,5.0,26.0,32.0,-23.0,-8,1.0
+LBY,LY,Libya,,,,,,2020-07-08,2.0,22.0,28.0,-27.0,-6,1.0
+LBY,LY,Libya,,,,,,2020-07-09,-4.0,18.0,25.0,-25.0,-11,2.0
+LBY,LY,Libya,,,,,,2020-07-10,-14.0,8.0,17.0,-36.0,-2,-4.0
+LBY,LY,Libya,,,,,,2020-07-11,-16.0,7.0,12.0,-34.0,-11,1.0
+LBY,LY,Libya,,,,,,2020-07-12,5.0,22.0,27.0,-24.0,-9,-1.0
+LBY,LY,Libya,,,,,,2020-07-13,2.0,22.0,31.0,-21.0,-9,-1.0
+LBY,LY,Libya,,,,,,2020-07-14,1.0,20.0,30.0,-31.0,-9,-1.0
+LBY,LY,Libya,,,,,,2020-07-15,0.0,20.0,31.0,-28.0,-8,-1.0
+LBY,LY,Libya,,,,,,2020-07-16,-2.0,22.0,25.0,-22.0,-10,0.0
+LBY,LY,Libya,,,,,,2020-07-17,-10.0,14.0,25.0,-32.0,-3,0.0
+LBY,LY,Libya,,,,,,2020-07-18,-5.0,18.0,19.0,-30.0,-7,0.0
+LBY,LY,Libya,,,,,,2020-07-19,13.0,30.0,36.0,-21.0,-7,-1.0
+LBY,LY,Libya,,,,,,2020-07-20,8.0,31.0,35.0,-17.0,-6,-1.0
+LBY,LY,Libya,,,,,,2020-07-21,8.0,27.0,40.0,-24.0,-7,0.0
+LBY,LY,Libya,,,,,,2020-07-22,7.0,28.0,35.0,-19.0,-6,0.0
+LBY,LY,Libya,,,,,,2020-07-23,5.0,27.0,37.0,-21.0,-7,1.0
+LBY,LY,Libya,,,,,,2020-07-24,-1.0,20.0,36.0,-26.0,1,-1.0
+LBY,LY,Libya,,,,,,2020-07-25,3.0,20.0,34.0,-29.0,-4,-2.0
+LBY,LY,Libya,,,,,,2020-07-26,13.0,31.0,36.0,-25.0,-9,-3.0
+LBY,LY,Libya,,,,,,2020-07-27,8.0,27.0,39.0,-26.0,-12,-5.0
+LBY,LY,Libya,,,,,,2020-07-28,16.0,34.0,41.0,-26.0,-11,-5.0
+LBY,LY,Libya,,,,,,2020-07-29,20.0,45.0,44.0,-21.0,-14,-5.0
+LBY,LY,Libya,,,,,,2020-07-30,-1.0,31.0,15.0,-38.0,-38,0.0
+LBY,LY,Libya,,,,,,2020-07-31,-32.0,-10.0,1.0,-56.0,-22,-2.0
+LBY,LY,Libya,,,,,,2020-08-01,-37.0,-17.0,9.0,-57.0,-41,3.0
+LBY,LY,Libya,,,,,,2020-08-02,-34.0,-12.0,9.0,-61.0,-49,6.0
+LBY,LY,Libya,,,,,,2020-08-03,-29.0,-6.0,16.0,-51.0,-37,3.0
+LBY,LY,Libya,,,,,,2020-08-04,-26.0,-2.0,12.0,-48.0,-33,4.0
+LBY,LY,Libya,,,,,,2020-08-05,-12.0,12.0,20.0,-37.0,-21,0.0
+LBY,LY,Libya,,,,,,2020-08-06,-13.0,11.0,24.0,-35.0,-19,1.0
+LBY,LY,Libya,,,,,,2020-08-07,-20.0,7.0,21.0,-36.0,-3,-1.0
+LBY,LY,Libya,,,,,,2020-08-08,-19.0,9.0,17.0,-31.0,-13,3.0
+LBY,LY,Libya,,,,,,2020-08-09,4.0,27.0,34.0,-24.0,-8,-1.0
+LBY,LY,Libya,,,,,,2020-08-10,-3.0,20.0,39.0,-27.0,-12,-5.0
+LBY,LY,Libya,,,,,,2020-08-11,1.0,24.0,40.0,-32.0,-8,-2.0
+LBY,LY,Libya,,,,,,2020-08-12,0.0,23.0,39.0,-24.0,-9,-1.0
+LBY,LY,Libya,,,,,,2020-08-13,-2.0,22.0,40.0,-27.0,-11,-1.0
+LBY,LY,Libya,,,,,,2020-08-14,-14.0,13.0,31.0,-29.0,-3,-1.0
+LBY,LY,Libya,,,,,,2020-08-15,-13.0,11.0,29.0,-30.0,-11,0.0
+LBY,LY,Libya,,,,,,2020-08-16,6.0,25.0,46.0,-25.0,-9,-4.0
+LBY,LY,Libya,,,,,,2020-08-17,1.0,20.0,47.0,-26.0,-11,-5.0
+LBY,LY,Libya,,,,,,2020-08-18,-2.0,17.0,45.0,-31.0,-13,-4.0
+LBY,LY,Libya,,,,,,2020-08-19,-10.0,1.0,35.0,-38.0,-22,-10.0
+LBY,LY,Libya,,,,,,2020-08-20,-8.0,6.0,33.0,-37.0,-28,-1.0
+LBY,LY,Libya,,,,,,2020-08-21,-14.0,3.0,35.0,-32.0,-11,-2.0
+LBY,LY,Libya,,,,,,2020-08-22,-11.0,6.0,26.0,-35.0,-15,-1.0
+LBY,LY,Libya,,,,,,2020-08-23,8.0,21.0,40.0,-29.0,-13,-2.0
+LBY,LY,Libya,,,,,,2020-08-24,6.0,20.0,40.0,-25.0,-14,-3.0
+LBY,LY,Libya,,,,,,2020-08-25,11.0,22.0,49.0,-27.0,-14,-2.0
+LBY,LY,Libya,,,,,,2020-08-26,10.0,20.0,43.0,-33.0,-13,-2.0
+LBY,LY,Libya,,,,,,2020-08-27,-7.0,5.0,24.0,-37.0,-26,5.0
+LBY,LY,Libya,,,,,,2020-08-28,-5.0,3.0,29.0,-37.0,-13,1.0
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-15,,,,,4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-16,,,,,-3,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-17,,,,,-10,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-18,,,,,5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-19,,,,,-2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-20,,,,,-2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-21,,,,,0,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-22,,,,,4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-23,,,,,3,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-24,,,,,5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-25,,,,,6,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-26,,,,,3,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-27,,,,,2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-28,,,,,4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-02-29,,,,,7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-01,,,,,10,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-02,,,,,15,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-03,,,,,12,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-04,,,,,5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-05,,,,,3,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-06,,,,,0,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-07,,,,,5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-08,,,,,11,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-09,,,,,10,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-10,,,,,11,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-11,,,,,2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-12,,,,,6,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-13,,,,,4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-14,,,,,2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-15,,,,,3,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-16,,,,,2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-17,,,,,2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-18,,,,,-5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-19,,,,,-8,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-20,,,,,-9,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-21,,,,,-7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-22,,,,,-11,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-23,,,,,-16,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-24,,,,,-19,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-25,,,,,-33,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-26,,,,,-22,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-27,,,,,-11,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-28,,,,,-19,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-29,,,,,-17,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-30,,,,,-26,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-03-31,,,,,-23,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-01,,,,,-23,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-02,,,,,-25,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-03,,,,,-11,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-04,,,,,-21,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-05,,,,,-19,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-06,,,,,-21,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-07,,,,,-30,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-08,,,,,-39,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-09,,,,,-23,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-10,,,,,-26,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-11,,,,,-18,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-12,,,,,-21,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-13,,,,,-21,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-14,,,,,-17,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-15,,,,,-18,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-16,,,,,-16,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-17,,,,,-11,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-18,,,,,-12,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-19,,,,,-9,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-20,,,,,-12,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-21,,,,,-14,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-22,,,,,-14,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-23,,,,,-10,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-24,,,,,-2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-25,,,,,-4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-26,,,,,-7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-27,,,,,-7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-28,,,,,-7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-29,,,,,-13,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-04-30,,,,,-13,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-01,,,,,4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-02,,,,,-6,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-03,,,,,-9,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-04,,,,,-5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-05,,,,,-7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-06,,,,,-11,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-07,,,,,-4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-08,,,,,7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-09,,,,,-2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-10,,,,,-1,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-11,,,,,-3,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-12,,,,,-6,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-13,,,,,-4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-14,,,,,-1,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-16,,,,,8,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-17,,,,,1,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-18,,,,,6,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-19,,,,,4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-20,,,,,-2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-21,,,,,8,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-23,,,,,6,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-24,,,,,-23,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-25,,,,,-25,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-26,,,,,-20,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-27,,,,,-14,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-28,,,,,-9,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-29,,,,,6,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-30,,,,,5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-05-31,,,,,10,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-01,,,,,7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-02,,,,,6,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-03,,,,,2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-04,,,,,10,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-06,,,,,16,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-07,,,,,7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-08,,,,,17,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-09,,,,,7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-10,,,,,4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-11,,,,,9,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-13,,,,,12,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-14,,,,,11,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-15,,,,,15,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-16,,,,,11,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-17,,,,,8,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-18,,,,,9,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-19,,,,,8,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-20,,,,,6,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-21,,,,,7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-22,,,,,9,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-23,,,,,7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-24,,,,,-5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-25,,,,,-5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-26,,,,,1,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-27,,,,,0,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-28,,,,,-5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-29,,,,,7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-06-30,,,,,1,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-01,,,,,3,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-02,,,,,-2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-03,,,,,6,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-04,,,,,-5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-05,,,,,5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-06,,,,,2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-07,,,,,-1,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-08,,,,,1,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-09,,,,,0,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-10,,,,,10,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-11,,,,,6,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-12,,,,,10,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-13,,,,,10,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-14,,,,,1,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-15,,,,,4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-16,,,,,2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-17,,,,,11,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-18,,,,,7,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-19,,,,,2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-20,,,,,3,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-21,,,,,0,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-22,,,,,1,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-23,,,,,-4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-24,,,,,5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-25,,,,,4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-26,,,,,2,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-27,,,,,-1,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-28,,,,,-3,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-29,,,,,-8,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-30,,,,,-19,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-07-31,,,,,-23,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-01,,,,,-30,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-02,,,,,-31,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-03,,,,,-20,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-04,,,,,-12,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-05,,,,,-12,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-06,,,,,-12,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-07,,,,,10,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-08,,,,,9,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-09,,,,,1,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-10,,,,,-4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-11,,,,,-1,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-12,,,,,-5,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-13,,,,,-4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-14,,,,,-4,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-15,,,,,-1,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-16,,,,,3,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-17,,,,,0,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-18,,,,,-8,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-19,,,,,-13,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-20,,,,,-22,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-21,,,,,-14,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-22,,,,,-9,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-23,,,,,-15,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-24,,,,,-12,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-25,,,,,-14,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-26,,,,,-15,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-27,,,,,-17,
+LY-WA,LY,Libya,Al Wahat District,,,LY-WA,,2020-08-28,,,,,-17,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-15,7.0,7.0,14.0,,7,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-16,7.0,12.0,6.0,,-8,3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-17,2.0,0.0,2.0,,-18,4.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-18,9.0,9.0,19.0,,4,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-19,3.0,1.0,15.0,,5,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-20,6.0,8.0,8.0,,3,1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-21,9.0,3.0,16.0,,1,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-22,9.0,8.0,11.0,,9,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-23,11.0,10.0,11.0,,7,2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-24,10.0,6.0,12.0,,9,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-25,11.0,13.0,17.0,,9,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-26,5.0,8.0,16.0,,9,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-27,8.0,8.0,14.0,,7,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-28,11.0,3.0,5.0,,4,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-02-29,11.0,11.0,18.0,,10,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-01,14.0,12.0,13.0,,8,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-02,13.0,2.0,17.0,,9,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-03,14.0,11.0,24.0,,12,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-04,9.0,7.0,13.0,,10,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-05,6.0,7.0,7.0,,10,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-06,14.0,6.0,20.0,,6,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-07,7.0,6.0,25.0,,12,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-08,10.0,12.0,6.0,,11,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-09,11.0,8.0,12.0,,11,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-10,14.0,13.0,22.0,,13,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-11,8.0,6.0,13.0,,9,-3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-12,6.0,9.0,9.0,,9,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-13,11.0,11.0,15.0,,2,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-14,5.0,19.0,9.0,,8,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-15,3.0,18.0,-1.0,,3,2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-16,-3.0,7.0,1.0,,-1,2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-17,-3.0,16.0,-1.0,,-3,3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-18,-12.0,5.0,-5.0,,-7,4.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-19,-36.0,-18.0,-26.0,,-16,12.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-20,-38.0,-19.0,-22.0,,-12,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-21,-24.0,-9.0,-19.0,,-8,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-22,-39.0,-20.0,-31.0,,-28,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-23,-38.0,-18.0,-27.0,,-31,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-24,-26.0,7.0,-21.0,,-35,4.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-25,-60.0,-46.0,-42.0,,-47,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-26,-60.0,-41.0,-43.0,,-43,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-27,-57.0,-41.0,-41.0,,-19,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-28,-56.0,-35.0,-36.0,,-32,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-29,-53.0,-33.0,-39.0,,-42,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-30,-54.0,-37.0,-39.0,,-43,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-03-31,-51.0,-28.0,-34.0,,-41,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-01,-53.0,-37.0,-33.0,,-43,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-02,-54.0,-36.0,-39.0,,-43,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-03,-53.0,-32.0,-38.0,,-17,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-04,-46.0,-27.0,-35.0,,-31,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-05,-44.0,-26.0,-28.0,,-39,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-06,-47.0,-35.0,-27.0,,-41,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-07,-47.0,-26.0,-29.0,,-41,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-08,-55.0,-36.0,-42.0,,-46,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-09,-54.0,-37.0,-41.0,,-45,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-10,-54.0,-35.0,-42.0,,-22,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-11,-48.0,-27.0,-25.0,,-33,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-12,-44.0,-23.0,-30.0,,-39,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-13,-50.0,-33.0,-31.0,,-38,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-14,-47.0,-23.0,-23.0,,-34,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-15,-39.0,-16.0,-18.0,,-31,10.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-16,-43.0,-21.0,-19.0,,-30,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-17,-37.0,-14.0,-24.0,,-1,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-18,-32.0,-7.0,-12.0,,-16,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-19,-26.0,-4.0,-15.0,,-26,9.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-20,-32.0,-16.0,-12.0,,-28,6.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-21,-24.0,1.0,-9.0,,-25,6.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-22,-22.0,2.0,-3.0,,-26,5.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-23,-24.0,0.0,-11.0,,-24,8.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-24,-28.0,-3.0,-7.0,,-2,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-25,-32.0,-16.0,-2.0,,-16,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-26,-29.0,-10.0,-5.0,,-25,12.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-27,-30.0,-14.0,3.0,,-23,10.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-28,-25.0,-9.0,5.0,,-21,7.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-29,-27.0,-10.0,5.0,,-21,9.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-04-30,-31.0,-16.0,-4.0,,-22,12.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-01,-19.0,-3.0,2.0,,4,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-02,-26.0,-10.0,4.0,,-13,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-03,-20.0,-2.0,2.0,,-21,9.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-04,-19.0,-8.0,7.0,,-20,7.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-05,-15.0,2.0,6.0,,-21,8.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-06,-16.0,-4.0,9.0,,-18,9.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-07,-19.0,-6.0,-3.0,,-20,12.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-08,4.0,25.0,8.0,,16,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-09,-6.0,7.0,9.0,,-7,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-10,-6.0,15.0,1.0,,-16,8.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-11,-8.0,3.0,12.0,,-18,7.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-12,-7.0,14.0,14.0,,-18,7.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-13,-8.0,7.0,9.0,,-20,7.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-14,-11.0,8.0,-2.0,,-20,8.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-15,19.0,37.0,21.0,,16,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-16,3.0,20.0,12.0,,-5,3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-17,2.0,20.0,1.0,,-18,7.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-18,-1.0,13.0,2.0,,-18,5.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-19,6.0,23.0,18.0,,-16,5.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-20,14.0,31.0,17.0,,-20,6.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-21,11.0,30.0,11.0,,-22,10.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-22,60.0,68.0,28.0,,27,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-23,21.0,40.0,12.0,,-14,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-24,3.0,30.0,27.0,,-45,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-25,-20.0,-8.0,16.0,,-48,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-26,-20.0,-9.0,11.0,,-48,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-27,-12.0,-4.0,1.0,,-26,6.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-28,-20.0,-8.0,-11.0,,-26,10.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-29,-3.0,5.0,2.0,,10,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-30,-2.0,16.0,14.0,,4,2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-05-31,10.0,23.0,13.0,,-6,4.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-01,7.0,15.0,21.0,,-3,3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-02,7.0,23.0,21.0,,-4,4.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-03,1.0,17.0,21.0,,-3,4.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-04,-7.0,13.0,9.0,,-5,6.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-05,-12.0,3.0,-2.0,,8,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-06,4.0,18.0,18.0,,5,2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-07,13.0,27.0,22.0,,-2,4.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-08,9.0,18.0,18.0,,0,2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-09,7.0,23.0,27.0,,0,3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-10,9.0,17.0,26.0,,-2,3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-11,6.0,19.0,25.0,,-2,5.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-12,14.0,19.0,31.0,,16,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-13,16.0,25.0,40.0,,9,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-14,22.0,29.0,27.0,,-1,3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-15,14.0,14.0,19.0,,0,2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-16,16.0,27.0,35.0,,2,1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-17,12.0,17.0,27.0,,0,3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-18,3.0,15.0,18.0,,-1,4.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-19,5.0,8.0,24.0,,8,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-20,6.0,14.0,27.0,,8,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-21,16.0,24.0,22.0,,-1,2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-22,16.0,15.0,30.0,,-1,1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-23,15.0,23.0,30.0,,-2,1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-24,9.0,15.0,25.0,,-1,1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-25,4.0,15.0,18.0,,-2,3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-26,2.0,15.0,29.0,,8,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-27,10.0,22.0,28.0,,9,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-28,14.0,20.0,19.0,,0,2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-29,11.0,16.0,27.0,,-1,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-06-30,15.0,26.0,40.0,,-2,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-01,12.0,16.0,46.0,,-2,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-02,6.0,17.0,28.0,,-7,1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-03,7.0,13.0,43.0,,5,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-04,9.0,16.0,34.0,,2,-3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-05,15.0,24.0,37.0,,-5,1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-06,14.0,17.0,39.0,,-3,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-07,15.0,24.0,44.0,,-4,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-08,9.0,16.0,38.0,,-3,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-09,7.0,16.0,33.0,,-5,1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-10,14.0,15.0,42.0,,6,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-11,9.0,23.0,42.0,,7,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-12,19.0,27.0,32.0,,-1,1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-13,18.0,22.0,34.0,,-2,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-14,18.0,25.0,45.0,,-3,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-15,11.0,22.0,43.0,,-4,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-16,8.0,20.0,34.0,,-3,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-17,15.0,20.0,46.0,,5,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-18,19.0,26.0,39.0,,5,-3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-19,19.0,31.0,29.0,,-3,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-20,20.0,25.0,41.0,,-1,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-21,23.0,29.0,50.0,,-3,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-22,16.0,25.0,35.0,,-4,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-23,13.0,20.0,36.0,,-4,1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-24,15.0,17.0,49.0,,5,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-25,20.0,29.0,40.0,,7,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-26,27.0,37.0,36.0,,-5,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-27,29.0,27.0,47.0,,-5,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-28,32.0,38.0,45.0,,-7,-3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-29,32.0,43.0,39.0,,-13,-3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-30,14.0,41.0,5.0,,-34,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-07-31,-12.0,-2.0,28.0,,-15,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-01,-27.0,-14.0,33.0,,-44,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-02,-28.0,-13.0,16.0,,-53,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-03,-9.0,-6.0,29.0,,-31,-3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-04,-2.0,10.0,29.0,,-20,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-05,-12.0,4.0,22.0,,-19,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-06,-13.0,5.0,18.0,,-21,1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-07,-5.0,11.0,34.0,,5,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-08,0.0,20.0,41.0,,1,-3.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-09,14.0,28.0,24.0,,-5,0.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-10,8.0,17.0,44.0,,-8,-7.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-11,14.0,29.0,44.0,,-4,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-12,6.0,20.0,42.0,,-6,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-13,4.0,18.0,38.0,,-11,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-14,6.0,21.0,47.0,,1,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-15,14.0,24.0,55.0,,2,-4.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-16,14.0,28.0,44.0,,-9,-4.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-17,3.0,7.0,34.0,,-12,-7.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-18,-19.0,-3.0,20.0,,-21,-4.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-19,-12.0,-8.0,19.0,,-21,-4.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-20,-25.0,-17.0,7.0,,-36,1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-21,-11.0,-6.0,35.0,,-14,
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-22,-5.0,1.0,33.0,,-12,-6.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-23,2.0,6.0,26.0,,-17,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-24,1.0,1.0,41.0,,-15,-2.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-25,3.0,12.0,47.0,,-16,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-26,1.0,-1.0,33.0,,-19,-1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-27,0.0,0.0,37.0,,-19,1.0
+LY-BA,LY,Libya,Benghazi district,,,LY-BA,,2020-08-28,3.0,-4.0,45.0,,-15,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-02-16,,,,,-2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-02-17,,,,,-21,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-02-18,,,,,6,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-02-23,,,,,-2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-02-24,,,,,2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-02-25,,,,,4,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-01,,,,,-2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-02,,,,,0,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-03,,,,,0,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-04,,,,,0,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-08,,,,,6,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-09,,,,,6,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-10,,,,,6,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-15,,,,,-2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-16,,,,,-8,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-17,,,,,-2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-18,,,,,-2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-19,,,,,-7,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-22,,,,,-13,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-23,,,,,-25,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-24,,,,,-30,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-25,,,,,-24,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-26,,,,,-25,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-28,,,,,-20,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-29,,,,,-19,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-30,,,,,-25,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-03-31,,,,,-21,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-01,,,,,-13,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-02,,,,,-11,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-05,,,,,-15,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-06,,,,,-12,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-07,,,,,-15,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-08,,,,,-16,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-09,,,,,-16,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-12,,,,,-15,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-13,,,,,-23,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-14,,,,,-19,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-15,,,,,-2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-16,,,,,-2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-19,,,,,-4,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-20,,,,,-10,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-21,,,,,-7,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-23,,,,,-2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-26,,,,,-4,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-27,,,,,-14,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-28,,,,,-4,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-29,,,,,-6,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-04-30,,,,,-4,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-03,,,,,-9,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-04,,,,,-12,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-05,,,,,-7,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-06,,,,,3,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-10,,,,,0,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-11,,,,,-7,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-12,,,,,-9,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-13,,,,,1,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-17,,,,,6,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-18,,,,,-7,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-19,,,,,-2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-20,,,,,3,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-24,,,,,-25,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-25,,,,,-40,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-26,,,,,-37,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-27,,,,,-27,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-28,,,,,-15,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-05-31,,,,,3,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-01,,,,,3,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-02,,,,,4,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-07,,,,,4,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-08,,,,,6,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-09,,,,,3,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-14,,,,,7,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-15,,,,,7,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-16,,,,,6,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-21,,,,,8,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-22,,,,,9,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-23,,,,,5,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-25,,,,,-12,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-28,,,,,11,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-29,,,,,-5,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-06-30,,,,,11,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-05,,,,,-1,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-06,,,,,3,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-07,,,,,2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-12,,,,,8,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-13,,,,,5,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-14,,,,,3,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-19,,,,,8,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-20,,,,,3,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-21,,,,,-2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-26,,,,,3,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-27,,,,,2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-28,,,,,1,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-29,,,,,2,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-07-30,,,,,-18,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-01,,,,,-39,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-02,,,,,-47,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-03,,,,,-35,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-04,,,,,-28,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-05,,,,,-35,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-06,,,,,-21,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-09,,,,,-8,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-10,,,,,-8,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-11,,,,,-3,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-12,,,,,0,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-16,,,,,0,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-17,,,,,-5,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-18,,,,,-4,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-19,,,,,-5,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-20,,,,,-12,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-23,,,,,0,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-24,,,,,-11,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-25,,,,,-9,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-26,,,,,-3,
+LY-BU,LY,Libya,Butnan District,,,LY-BU,,2020-08-27,,,,,-10,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-15,,,,,4,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-16,,,,,-6,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-17,,,,,-14,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-18,,,,,12,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-19,,,,,12,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-20,,,,,9,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-22,,,,,14,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-23,,,,,6,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-24,,,,,11,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-25,,,,,12,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-26,,,,,7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-27,,,,,6,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-29,,,,,4,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-01,,,,,15,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-02,,,,,15,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-03,,,,,12,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-04,,,,,13,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-05,,,,,6,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-07,,,,,18,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-08,,,,,13,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-09,,,,,12,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-10,,,,,13,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-11,,,,,13,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-12,,,,,18,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-14,,,,,12,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-15,,,,,7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-16,,,,,12,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-17,,,,,7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-18,,,,,3,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-19,,,,,-5,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-21,,,,,-9,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-22,,,,,-13,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-23,,,,,-21,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-24,,,,,-24,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-25,,,,,-33,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-26,,,,,-32,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-28,,,,,-18,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-29,,,,,-28,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-30,,,,,-30,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-03-31,,,,,-28,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-01,,,,,-30,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-02,,,,,-27,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-04,,,,,-20,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-05,,,,,-22,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-06,,,,,-21,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-07,,,,,-25,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-08,,,,,-27,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-09,,,,,-26,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-11,,,,,-14,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-12,,,,,-22,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-13,,,,,-18,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-14,,,,,-16,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-15,,,,,-10,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-16,,,,,-11,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-18,,,,,-7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-19,,,,,-10,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-20,,,,,-10,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-21,,,,,-10,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-22,,,,,-6,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-23,,,,,-11,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-25,,,,,-4,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-26,,,,,-15,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-27,,,,,-12,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-28,,,,,-6,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-29,,,,,-10,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-04-30,,,,,-9,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-02,,,,,-6,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-03,,,,,-15,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-04,,,,,-11,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-05,,,,,-13,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-06,,,,,-13,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-07,,,,,-10,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-09,,,,,3,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-10,,,,,-4,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-11,,,,,-7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-12,,,,,-5,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-13,,,,,-7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-14,,,,,-9,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-16,,,,,9,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-17,,,,,-4,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-18,,,,,-10,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-19,,,,,-7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-20,,,,,-7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-21,,,,,-5,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-23,,,,,9,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-24,,,,,-30,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-25,,,,,-39,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-26,,,,,-33,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-27,,,,,-23,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-28,,,,,-17,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-30,,,,,6,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-05-31,,,,,7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-01,,,,,3,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-02,,,,,7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-03,,,,,3,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-04,,,,,0,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-06,,,,,8,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-07,,,,,8,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-08,,,,,9,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-09,,,,,7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-10,,,,,4,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-11,,,,,7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-13,,,,,18,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-14,,,,,5,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-15,,,,,9,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-16,,,,,3,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-17,,,,,5,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-18,,,,,0,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-20,,,,,2,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-21,,,,,1,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-22,,,,,5,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-23,,,,,2,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-24,,,,,2,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-25,,,,,2,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-27,,,,,6,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-28,,,,,4,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-29,,,,,0,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-06-30,,,,,0,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-01,,,,,0,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-02,,,,,7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-04,,,,,9,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-05,,,,,2,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-06,,,,,3,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-07,,,,,3,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-08,,,,,-1,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-09,,,,,2,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-11,,,,,7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-12,,,,,1,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-13,,,,,-3,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-14,,,,,-3,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-15,,,,,-1,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-16,,,,,-5,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-18,,,,,3,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-19,,,,,-3,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-20,,,,,1,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-21,,,,,-5,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-22,,,,,2,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-23,,,,,2,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-25,,,,,1,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-26,,,,,0,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-27,,,,,1,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-28,,,,,-7,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-29,,,,,-9,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-07-30,,,,,-23,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-01,,,,,-31,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-02,,,,,-43,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-03,,,,,-30,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-04,,,,,-16,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-05,,,,,-20,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-06,,,,,-18,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-08,,,,,-5,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-09,,,,,-4,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-10,,,,,-5,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-11,,,,,-6,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-12,,,,,-6,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-13,,,,,-9,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-15,,,,,4,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-16,,,,,-3,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-17,,,,,-5,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-18,,,,,-12,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-19,,,,,-9,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-20,,,,,-26,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-22,,,,,-11,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-23,,,,,-15,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-24,,,,,-19,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-25,,,,,-18,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-26,,,,,-22,
+LY-JA,LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-08-27,,,,,-18,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-02-16,,,,,-4,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-02-17,,,,,-7,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-02-20,,,,,-2,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-02-23,,,,,4,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-02-24,,,,,7,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-02-27,,,,,4,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-05,,,,,9,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-08,,,,,4,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-09,,,,,2,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-12,,,,,9,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-15,,,,,4,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-16,,,,,-2,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-19,,,,,-6,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-22,,,,,-15,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-23,,,,,-22,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-24,,,,,-13,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-25,,,,,-31,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-26,,,,,-32,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-29,,,,,-24,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-30,,,,,-30,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-03-31,,,,,-22,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-01,,,,,-20,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-02,,,,,-30,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-05,,,,,-28,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-06,,,,,-26,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-07,,,,,-24,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-08,,,,,-27,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-09,,,,,-21,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-12,,,,,-15,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-13,,,,,-11,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-14,,,,,-4,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-15,,,,,-13,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-16,,,,,-15,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-19,,,,,-18,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-20,,,,,-17,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-21,,,,,-20,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-22,,,,,-19,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-23,,,,,-19,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-26,,,,,-17,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-27,,,,,-13,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-28,,,,,-6,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-29,,,,,-6,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-04-30,,,,,-3,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-03,,,,,-1,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-04,,,,,-1,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-05,,,,,-5,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-07,,,,,-2,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-10,,,,,-5,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-11,,,,,5,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-12,,,,,3,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-13,,,,,-1,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-14,,,,,-21,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-17,,,,,-1,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-18,,,,,8,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-19,,,,,3,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-20,,,,,-1,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-21,,,,,-1,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-24,,,,,-9,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-25,,,,,-17,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-26,,,,,-4,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-27,,,,,1,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-05-28,,,,,-5,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-06-04,,,,,-6,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-06-07,,,,,5,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-06-11,,,,,12,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-06-18,,,,,4,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-06-25,,,,,13,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-06-28,,,,,8,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-07-02,,,,,1,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-07-05,,,,,7,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-07-09,,,,,5,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-07-16,,,,,8,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-07-23,,,,,6,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-07-26,,,,,8,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-07-27,,,,,0,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-07-30,,,,,-20,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-08-02,,,,,-16,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-08-03,,,,,-4,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-08-04,,,,,0,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-08-06,,,,,8,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-08-10,,,,,4,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-08-13,,,,,8,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-08-19,,,,,-12,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-08-20,,,,,-4,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-08-24,,,,,8,
+LY-JG,LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-08-27,,,,,3,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-15,1.0,,,,4,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-16,6.0,,,,-6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-17,11.0,,,,-20,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-18,6.0,,,,3,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-19,4.0,,,,5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-20,2.0,,,,4,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-21,0.0,,,,-5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-22,0.0,,,,7,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-23,5.0,,,,10,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-24,2.0,,,,8,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-25,7.0,,,,10,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-26,3.0,,,,5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-27,7.0,,,,7,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-28,3.0,,,,2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-02-29,0.0,,,,7,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-01,8.0,,,,8,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-02,10.0,,,,6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-03,7.0,,,,8,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-04,1.0,,,,5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-05,6.0,,,,5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-06,8.0,,,,2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-07,4.0,,,,5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-08,7.0,,,,11,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-09,2.0,,,,5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-10,2.0,,,,5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-11,9.0,,,,8,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-12,7.0,,,,7,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-13,7.0,,,,1,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-14,2.0,,,,8,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-15,8.0,,,,3,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-16,-1.0,,,,1,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-17,-2.0,,,,3,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-18,-4.0,,,,-1,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-19,-13.0,,,,-5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-20,-29.0,,,,-8,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-21,-25.0,,,,-5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-22,-34.0,,,,-12,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-23,-34.0,,,,-17,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-24,-32.0,,,,-21,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-25,-40.0,,,,-29,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-26,-41.0,,,,-28,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-27,-44.0,,,,-14,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-28,-38.0,,,,-21,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-29,-46.0,,,,-30,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-30,-58.0,,,,-47,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-03-31,-57.0,,,,-45,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-01,-56.0,,,,-42,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-02,-51.0,,,,-40,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-03,-59.0,,,,-26,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-04,-49.0,,,,-35,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-05,-42.0,,,,-32,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-06,-41.0,,,,-32,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-07,-37.0,,,,-30,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-08,-37.0,,,,-25,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-09,-38.0,,,,-27,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-10,-63.0,,,,-47,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-11,-37.0,,,,-29,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-12,-41.0,,,,-30,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-13,-38.0,,,,-29,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-14,-38.0,,,,-29,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-15,-31.0,,,,-29,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-16,-22.0,,,,-26,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-17,-58.0,,,,-28,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-18,-43.0,,,,-30,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-19,-36.0,,,,-30,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-20,-34.0,,,,-26,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-21,-28.0,,,,-26,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-22,-20.0,,,,-23,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-23,-14.0,,,,-22,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-24,-30.0,,,,-17,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-25,-27.0,,,,-17,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-26,-23.0,,,,-21,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-27,-24.0,,,,-21,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-28,-24.0,,,,-22,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-29,-24.0,,,,-18,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-04-30,-24.0,,,,-17,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-01,-18.0,,,,-5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-02,-19.0,,,,-12,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-03,-15.0,,,,-15,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-04,-14.0,,,,-14,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-05,-13.0,,,,-14,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-06,-10.0,,,,-13,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-07,-6.0,,,,-10,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-08,4.0,,,,5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-09,-1.0,,,,-4,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-10,1.0,,,,-9,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-11,0.0,,,,-8,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-12,7.0,,,,-4,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-13,8.0,,,,-6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-14,-5.0,,,,-10,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-15,17.0,,,,14,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-16,6.0,,,,-2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-17,12.0,,,,-10,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-18,16.0,,,,-7,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-19,19.0,,,,-5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-20,26.0,,,,-8,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-21,21.0,,,,-7,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-22,,,,,15,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-23,33.0,,,,-14,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-24,15.0,,,,-44,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-25,-8.0,,,,-43,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-26,-17.0,,,,-39,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-27,2.0,,,,-6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-28,-1.0,,,,-3,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-29,0.0,,,,9,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-30,3.0,,,,10,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-05-31,11.0,,,,8,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-01,12.0,,,,6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-02,11.0,,,,6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-03,13.0,,,,5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-04,9.0,,,,7,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-05,9.0,,,,9,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-06,5.0,,,,9,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-07,13.0,,,,4,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-08,13.0,,,,6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-09,11.0,,,,9,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-10,10.0,,,,5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-11,16.0,,,,5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-12,14.0,,,,9,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-13,18.0,,,,9,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-14,20.0,,,,6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-15,13.0,,,,8,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-16,16.0,,,,9,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-17,15.0,,,,9,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-18,12.0,,,,7,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-19,6.0,,,,8,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-20,17.0,,,,10,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-21,24.0,,,,9,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-22,17.0,,,,8,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-23,25.0,,,,7,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-24,19.0,,,,6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-25,18.0,,,,6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-26,11.0,,,,5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-27,17.0,,,,6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-28,20.0,,,,6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-29,16.0,,,,4,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-06-30,20.0,,,,4,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-01,24.0,,,,6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-02,13.0,,,,-7,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-03,13.0,,,,-3,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-04,1.0,,,,-14,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-05,23.0,,,,3,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-06,19.0,,,,0,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-07,26.0,,,,0,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-08,21.0,,,,2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-09,12.0,,,,-4,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-10,8.0,,,,1,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-11,17.0,,,,4,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-12,22.0,,,,1,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-13,20.0,,,,1,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-14,16.0,,,,1,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-15,21.0,,,,3,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-16,20.0,,,,-1,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-17,15.0,,,,-2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-18,22.0,,,,5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-19,31.0,,,,1,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-20,23.0,,,,3,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-21,22.0,,,,2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-22,20.0,,,,2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-23,22.0,,,,0,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-24,15.0,,,,2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-25,18.0,,,,0,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-26,24.0,,,,-2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-27,18.0,,,,-7,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-28,31.0,,,,-4,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-29,40.0,,,,-7,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-30,26.0,,,,-35,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-07-31,-27.0,,,,-31,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-01,-25.0,,,,-50,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-02,-24.0,,,,-52,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-03,-36.0,,,,-34,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-04,-42.0,,,,-37,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-05,-28.0,,,,-27,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-06,-19.0,,,,-18,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-07,-21.0,,,,-12,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-08,-6.0,,,,-3,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-09,0.0,,,,-8,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-10,-4.0,,,,-9,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-11,-1.0,,,,-4,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-12,4.0,,,,-5,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-13,1.0,,,,-6,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-14,-3.0,,,,-3,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-15,4.0,,,,1,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-16,9.0,,,,-2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-17,10.0,,,,-3,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-18,14.0,,,,-2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-19,9.0,,,,-14,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-20,12.0,,,,-14,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-21,8.0,,,,-1,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-22,17.0,,,,2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-23,22.0,,,,-1,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-24,24.0,,,,-2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-25,27.0,,,,-3,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-26,28.0,,,,1,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-27,29.0,,,,-2,
+LY-MI,LY,Libya,Misrata District,,,LY-MI,,2020-08-28,19.0,,,,-4,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-15,,,,,5,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-16,,,,,-13,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-17,,,,,-17,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-18,,,,,4,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-19,,,,,7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-20,,,,,1,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-21,,,,,2,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-22,,,,,1,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-23,,,,,3,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-24,,,,,7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-25,,,,,3,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-26,,,,,6,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-27,,,,,0,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-28,,,,,3,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-02-29,,,,,1,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-01,,,,,7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-02,,,,,13,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-03,,,,,10,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-04,,,,,9,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-05,,,,,6,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-06,,,,,0,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-07,,,,,0,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-08,,,,,5,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-09,,,,,5,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-10,,,,,3,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-11,,,,,6,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-12,,,,,4,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-13,,,,,6,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-14,,,,,-1,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-15,,,,,-3,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-16,,,,,-5,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-17,,,,,-2,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-18,,,,,1,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-19,,,,,-12,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-20,,,,,-5,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-21,,,,,-18,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-22,,,,,-28,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-23,,,,,-32,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-24,,,,,-30,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-25,,,,,-37,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-26,,,,,-40,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-27,,,,,-23,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-28,,,,,-31,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-29,,,,,-36,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-30,,,,,-44,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-03-31,,,,,-40,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-01,,,,,-39,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-02,,,,,-35,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-03,,,,,-19,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-04,,,,,-34,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-05,,,,,-35,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-06,,,,,-35,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-07,,,,,-37,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-08,,,,,-33,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-09,,,,,-39,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-10,,,,,-39,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-11,,,,,-40,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-12,,,,,-40,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-13,,,,,-39,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-14,,,,,-34,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-15,,,,,-35,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-16,,,,,-38,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-17,,,,,-21,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-18,,,,,-38,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-19,,,,,-41,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-20,,,,,-40,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-21,,,,,-38,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-22,,,,,-37,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-23,,,,,-36,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-24,,,,,-22,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-25,,,,,-30,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-26,,,,,-33,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-27,,,,,-32,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-28,,,,,-29,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-29,,,,,-23,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-04-30,,,,,-28,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-01,,,,,-6,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-02,,,,,-20,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-03,,,,,-26,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-04,,,,,-21,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-05,,,,,-17,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-06,,,,,-19,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-07,,,,,-18,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-08,,,,,3,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-09,,,,,-10,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-10,,,,,-18,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-11,,,,,-16,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-12,,,,,-16,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-13,,,,,-19,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-14,,,,,-32,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-15,,,,,0,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-16,,,,,-16,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-17,,,,,-21,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-18,,,,,-16,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-19,,,,,-18,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-20,,,,,-12,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-21,,,,,-15,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-22,,,,,16,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-23,,,,,-11,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-24,,,,,-40,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-25,,,,,-38,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-26,,,,,-37,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-27,,,,,-17,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-28,,,,,-18,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-29,,,,,7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-30,,,,,-8,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-05-31,,,,,-11,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-01,,,,,-13,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-02,,,,,-6,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-03,,,,,-5,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-04,,,,,-12,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-05,,,,,4,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-06,,,,,-4,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-07,,,,,-10,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-08,,,,,-3,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-09,,,,,-2,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-10,,,,,-2,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-11,,,,,-5,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-12,,,,,5,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-13,,,,,2,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-14,,,,,-7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-15,,,,,-3,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-16,,,,,-3,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-17,,,,,-4,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-18,,,,,-8,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-19,,,,,-2,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-20,,,,,-4,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-21,,,,,-6,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-22,,,,,-3,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-23,,,,,1,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-24,,,,,1,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-25,,,,,-6,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-26,,,,,7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-27,,,,,-9,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-28,,,,,-17,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-29,,,,,-10,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-06-30,,,,,-7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-01,,,,,-5,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-02,,,,,-27,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-03,,,,,-7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-04,,,,,-13,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-05,,,,,-11,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-06,,,,,-10,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-07,,,,,-5,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-08,,,,,-6,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-09,,,,,-15,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-10,,,,,-8,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-11,,,,,-17,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-12,,,,,-19,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-13,,,,,-20,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-14,,,,,-18,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-15,,,,,-13,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-16,,,,,-17,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-17,,,,,-7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-18,,,,,-7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-19,,,,,-9,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-20,,,,,-7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-21,,,,,-3,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-22,,,,,-3,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-23,,,,,-7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-24,,,,,6,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-25,,,,,-11,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-26,,,,,-12,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-27,,,,,-15,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-28,,,,,-14,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-29,,,,,-11,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-30,,,,,-29,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-07-31,,,,,-27,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-01,,,,,-43,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-02,,,,,-45,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-03,,,,,-31,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-04,,,,,-22,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-05,,,,,-14,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-06,,,,,-17,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-07,,,,,-1,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-08,,,,,-11,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-09,,,,,-10,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-10,,,,,-11,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-11,,,,,-7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-12,,,,,-7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-13,,,,,-10,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-14,,,,,2,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-15,,,,,-8,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-16,,,,,-10,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-17,,,,,-10,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-18,,,,,-9,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-19,,,,,-26,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-20,,,,,-22,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-21,,,,,-8,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-22,,,,,-7,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-23,,,,,-6,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-24,,,,,-9,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-25,,,,,-9,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-26,,,,,-6,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-27,,,,,-11,
+LY-MB,LY,Libya,Murqub District,,,LY-MB,,2020-08-28,,,,,0,
+LY-NQ,LY,Libya,Nuqat al Khams District,,,LY-NQ,,2020-03-25,,,,,-57,
+LY-NQ,LY,Libya,Nuqat al Khams District,,,LY-NQ,,2020-03-30,,,,,-43,
+LY-NQ,LY,Libya,Nuqat al Khams District,,,LY-NQ,,2020-03-31,,,,,-39,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-02-16,,,,,-8,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-02-17,,,,,-13,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-02-18,,,,,11,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-02-19,,,,,2,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-02-20,,,,,8,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-02-23,,,,,6,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-02-24,,,,,9,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-02-25,,,,,6,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-02-26,,,,,6,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-02-27,,,,,2,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-01,,,,,12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-02,,,,,13,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-03,,,,,9,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-04,,,,,12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-05,,,,,6,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-08,,,,,15,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-09,,,,,9,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-10,,,,,13,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-11,,,,,0,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-12,,,,,8,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-15,,,,,2,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-16,,,,,6,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-17,,,,,4,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-18,,,,,-2,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-19,,,,,-2,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-22,,,,,-6,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-23,,,,,-4,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-24,,,,,-4,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-25,,,,,-18,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-26,,,,,-16,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-29,,,,,-12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-30,,,,,-6,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-03-31,,,,,-15,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-01,,,,,-14,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-02,,,,,-12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-05,,,,,-12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-06,,,,,-28,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-07,,,,,-49,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-08,,,,,-43,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-09,,,,,-22,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-12,,,,,-17,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-13,,,,,-11,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-14,,,,,-13,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-15,,,,,-16,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-16,,,,,-12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-19,,,,,-12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-20,,,,,-9,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-21,,,,,-9,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-22,,,,,-10,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-23,,,,,-12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-26,,,,,-4,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-27,,,,,-6,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-28,,,,,3,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-29,,,,,-4,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-04-30,,,,,-3,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-03,,,,,-5,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-04,,,,,-3,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-05,,,,,-2,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-06,,,,,-3,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-07,,,,,-5,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-10,,,,,0,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-11,,,,,-1,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-12,,,,,-1,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-13,,,,,-10,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-14,,,,,-16,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-17,,,,,-6,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-18,,,,,-5,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-19,,,,,-6,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-20,,,,,-9,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-21,,,,,-9,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-24,,,,,-26,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-25,,,,,-32,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-26,,,,,-34,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-27,,,,,-35,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-28,,,,,-33,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-30,,,,,-17,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-05-31,,,,,-29,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-01,,,,,-28,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-02,,,,,-26,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-03,,,,,-36,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-04,,,,,-27,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-07,,,,,-23,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-08,,,,,-22,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-09,,,,,-16,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-10,,,,,-20,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-11,,,,,-10,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-14,,,,,-11,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-15,,,,,-11,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-16,,,,,-13,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-17,,,,,-18,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-18,,,,,-19,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-21,,,,,-17,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-22,,,,,-80,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-24,,,,,-65,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-25,,,,,-11,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-28,,,,,-24,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-29,,,,,-19,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-06-30,,,,,-19,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-01,,,,,-22,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-02,,,,,-24,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-05,,,,,-23,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-06,,,,,-12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-07,,,,,-16,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-08,,,,,-11,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-09,,,,,-20,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-12,,,,,-21,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-13,,,,,-23,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-14,,,,,-15,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-15,,,,,-20,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-16,,,,,-20,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-19,,,,,-12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-20,,,,,-13,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-21,,,,,-14,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-22,,,,,-17,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-23,,,,,-16,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-26,,,,,-21,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-27,,,,,-23,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-28,,,,,-26,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-29,,,,,-22,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-07-30,,,,,-32,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-01,,,,,-37,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-02,,,,,-42,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-03,,,,,-34,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-04,,,,,-25,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-05,,,,,-18,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-06,,,,,-17,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-09,,,,,-12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-10,,,,,-12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-11,,,,,-9,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-12,,,,,-13,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-13,,,,,-15,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-16,,,,,-17,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-17,,,,,-12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-18,,,,,-11,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-19,,,,,-25,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-20,,,,,-17,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-23,,,,,-15,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-24,,,,,-20,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-25,,,,,-12,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-26,,,,,-19,
+LY-SB,LY,Libya,Sabha District,,,LY-SB,,2020-08-27,,,,,-5,
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-15,2.0,3.0,11.0,,3,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-16,5.0,8.0,9.0,,-23,3.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-17,-4.0,-8.0,48.0,,-34,6.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-18,1.0,4.0,6.0,,-2,1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-19,1.0,2.0,4.0,,-2,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-20,-1.0,4.0,10.0,,-1,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-21,0.0,2.0,1.0,,1,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-22,1.0,1.0,4.0,,5,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-23,3.0,5.0,9.0,,0,-2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-24,3.0,4.0,12.0,,1,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-25,3.0,2.0,17.0,,1,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-26,2.0,3.0,6.0,,0,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-27,0.0,4.0,15.0,,1,1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-28,0.0,3.0,6.0,,1,1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-02-29,0.0,0.0,11.0,,3,1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-01,2.0,5.0,2.0,,3,1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-02,0.0,5.0,10.0,,5,1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-03,1.0,7.0,8.0,-15.0,3,2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-04,0.0,5.0,-2.0,,2,1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-05,0.0,7.0,11.0,,4,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-06,0.0,4.0,13.0,,3,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-07,1.0,6.0,21.0,,5,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-08,-2.0,6.0,16.0,-24.0,1,-2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-09,1.0,7.0,23.0,-20.0,2,-4.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-10,-2.0,1.0,16.0,-30.0,0,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-11,2.0,8.0,22.0,,2,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-12,1.0,11.0,28.0,,3,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-13,4.0,10.0,23.0,,3,1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-14,1.0,12.0,30.0,,4,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-15,-4.0,25.0,21.0,-21.0,-5,4.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-16,-15.0,16.0,16.0,-36.0,-7,5.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-17,-18.0,6.0,7.0,-47.0,-11,8.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-18,-25.0,1.0,-1.0,-38.0,-14,9.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-19,-34.0,-7.0,-5.0,-51.0,-19,13.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-20,-45.0,-20.0,-29.0,-61.0,-14,12.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-21,-37.0,-14.0,-18.0,,-17,13.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-22,-46.0,-23.0,-25.0,-64.0,-35,19.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-23,-48.0,-23.0,-24.0,-61.0,-38,18.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-24,-46.0,-15.0,-19.0,-69.0,-42,18.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-25,-60.0,-36.0,-40.0,-72.0,-53,25.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-26,-61.0,-36.0,-36.0,-74.0,-51,27.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-27,-60.0,-40.0,-39.0,-66.0,-19,18.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-28,-58.0,-36.0,-33.0,-70.0,-39,21.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-29,-58.0,-35.0,-38.0,-68.0,-48,24.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-30,-63.0,-43.0,-39.0,-74.0,-54,25.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-03-31,-61.0,-37.0,-37.0,-80.0,-53,26.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-01,-61.0,-38.0,-34.0,-71.0,-52,24.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-02,-63.0,-39.0,-39.0,-72.0,-51,28.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-03,-60.0,-37.0,-41.0,-70.0,-24,18.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-04,-60.0,-38.0,-37.0,-70.0,-43,23.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-05,-58.0,-32.0,-33.0,-73.0,-49,24.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-06,-58.0,-32.0,-29.0,-75.0,-49,24.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-07,-55.0,-29.0,-29.0,-75.0,-49,21.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-08,-59.0,-37.0,-30.0,-73.0,-51,11.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-09,-59.0,-31.0,-34.0,-64.0,-51,23.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-10,-57.0,-31.0,-38.0,-68.0,-23,10.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-11,-56.0,-32.0,-38.0,-61.0,-41,15.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-12,-54.0,-26.0,-36.0,-73.0,-50,21.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-13,-56.0,-31.0,-37.0,-64.0,-48,21.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-14,-58.0,-30.0,-43.0,-68.0,-48,23.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-15,-52.0,-22.0,-38.0,-71.0,-47,21.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-16,-47.0,-12.0,-28.0,-69.0,-50,19.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-17,-66.0,-48.0,-56.0,-79.0,-26,21.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-18,-70.0,-50.0,-54.0,-77.0,-53,27.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-19,-67.0,-44.0,-57.0,-75.0,-62,28.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-20,-67.0,-45.0,-55.0,-81.0,-59,27.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-21,-62.0,-38.0,-51.0,-78.0,-57,25.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-22,-61.0,-37.0,-48.0,-70.0,-54,21.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-23,-59.0,-28.0,-39.0,-71.0,-55,25.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-24,-59.0,-36.0,-52.0,-76.0,-26,20.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-25,-64.0,-43.0,-44.0,-74.0,-46,25.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-26,-62.0,-39.0,-50.0,-72.0,-55,26.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-27,-62.0,-41.0,-41.0,-69.0,-53,25.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-28,-54.0,-25.0,-26.0,-64.0,-44,19.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-29,-53.0,-25.0,-27.0,-63.0,-42,20.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-04-30,-56.0,-28.0,-27.0,-65.0,-42,22.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-01,-49.0,-19.0,-28.0,-61.0,-11,15.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-02,-53.0,-27.0,-27.0,-58.0,-32,18.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-03,-49.0,-19.0,-26.0,-59.0,-41,19.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-04,-50.0,-21.0,-28.0,-59.0,-39,19.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-05,-50.0,-18.0,-26.0,-59.0,-40,20.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-06,-49.0,-17.0,-27.0,-57.0,-39,18.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-07,-48.0,-12.0,-26.0,-51.0,-39,20.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-08,-42.0,-6.0,-28.0,-56.0,-7,14.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-09,-43.0,-13.0,-23.0,-51.0,-26,16.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-10,-40.0,-10.0,-22.0,-59.0,-38,18.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-11,-41.0,-9.0,-23.0,-53.0,-37,17.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-12,-40.0,-7.0,-14.0,-57.0,-37,18.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-13,-49.0,-19.0,-21.0,-62.0,-38,14.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-14,-55.0,-30.0,-30.0,-67.0,-46,10.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-15,-36.0,0.0,-13.0,,-4,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-16,-47.0,-16.0,-20.0,-49.0,-28,11.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-17,-39.0,-8.0,-20.0,-54.0,-39,11.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-18,-36.0,0.0,-8.0,-54.0,-36,13.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-19,-32.0,-1.0,-2.0,-48.0,-38,17.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-20,-30.0,3.0,0.0,-50.0,-38,16.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-21,-30.0,6.0,-6.0,-43.0,-39,18.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-22,-6.0,36.0,-3.0,,1,9.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-23,-26.0,6.0,-10.0,,-33,17.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-24,-57.0,-40.0,-41.0,-67.0,-60,23.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-25,-65.0,-45.0,-48.0,-77.0,-60,25.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-26,-67.0,-48.0,-51.0,-77.0,-61,27.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-27,-48.0,-19.0,-22.0,-54.0,-41,15.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-28,-50.0,-19.0,-25.0,-57.0,-41,20.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-29,-47.0,-13.0,-24.0,-55.0,-5,11.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-30,-42.0,-8.0,-12.0,,-24,14.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-05-31,-37.0,-5.0,-11.0,-51.0,-29,14.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-01,-40.0,-7.0,-13.0,-59.0,-27,14.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-02,-38.0,-7.0,-13.0,-48.0,-27,15.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-03,-39.0,-5.0,-12.0,-52.0,-28,13.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-04,-42.0,-14.0,5.0,-49.0,-30,13.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-05,-40.0,-5.0,10.0,-58.0,-3,4.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-06,-36.0,-6.0,2.0,-49.0,-20,8.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-07,-35.0,-5.0,-10.0,-55.0,-30,9.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-08,-37.0,-6.0,-7.0,-60.0,-27,8.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-09,-35.0,-3.0,-3.0,-58.0,-29,11.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-10,-34.0,-2.0,-3.0,-55.0,-29,11.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-11,-36.0,-7.0,0.0,-51.0,-29,11.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-12,-39.0,-8.0,-10.0,-61.0,-7,4.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-13,-36.0,-7.0,-6.0,-51.0,-20,6.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-14,-28.0,0.0,1.0,-51.0,-28,7.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-15,-31.0,-1.0,10.0,-51.0,-26,9.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-16,-30.0,-1.0,6.0,-60.0,-28,8.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-17,-30.0,-3.0,8.0,-54.0,-27,6.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-18,-33.0,1.0,4.0,-46.0,-29,6.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-19,-59.0,-38.0,-41.0,-74.0,-21,9.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-20,-60.0,-38.0,-38.0,-72.0,-42,11.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-21,-21.0,9.0,10.0,-49.0,-28,2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-22,-22.0,7.0,8.0,-49.0,-27,6.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-23,-20.0,10.0,18.0,-47.0,-28,7.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-24,-21.0,7.0,19.0,-37.0,-29,6.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-25,-27.0,3.0,14.0,-51.0,-28,3.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-26,-54.0,-30.0,-30.0,-66.0,-14,8.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-27,-58.0,-37.0,-30.0,-62.0,-43,11.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-28,-17.0,13.0,16.0,-36.0,-28,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-29,-22.0,5.0,18.0,-39.0,-28,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-06-30,-21.0,5.0,22.0,-47.0,-29,-3.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-01,-21.0,10.0,22.0,-43.0,-30,-2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-02,-23.0,7.0,14.0,-45.0,-29,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-03,-50.0,-24.0,-26.0,-66.0,-21,7.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-04,-52.0,-31.0,-26.0,-64.0,-41,9.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-05,-10.0,20.0,26.0,-31.0,-28,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-06,-12.0,18.0,31.0,-33.0,-24,2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-07,-12.0,17.0,35.0,-39.0,-26,3.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-08,-11.0,16.0,32.0,-36.0,-24,3.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-09,-20.0,10.0,26.0,-31.0,-27,2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-10,-47.0,-20.0,-20.0,,-19,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-11,-51.0,-27.0,-18.0,-61.0,-41,8.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-12,-9.0,18.0,26.0,-30.0,-26,-3.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-13,-13.0,14.0,32.0,-30.0,-24,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-14,-12.0,15.0,33.0,-40.0,-26,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-15,-13.0,13.0,25.0,-35.0,-24,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-16,-18.0,16.0,21.0,-27.0,-26,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-17,-44.0,-11.0,-12.0,,-20,3.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-18,-37.0,-8.0,-4.0,,-34,4.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-19,-3.0,26.0,41.0,-30.0,-24,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-20,-9.0,23.0,41.0,-27.0,-22,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-21,-6.0,21.0,46.0,-32.0,-23,0.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-22,-9.0,21.0,38.0,,-23,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-23,-13.0,18.0,39.0,-22.0,-22,1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-24,-26.0,5.0,7.0,,-12,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-25,-18.0,6.0,27.0,,-20,-3.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-26,-6.0,22.0,29.0,-28.0,-23,-4.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-27,-12.0,15.0,34.0,-30.0,-25,-4.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-28,-5.0,24.0,40.0,-32.0,-25,-4.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-29,-3.0,32.0,37.0,-37.0,-29,-6.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-30,-33.0,2.0,-3.0,-52.0,-56,-2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-07-31,-57.0,-31.0,-24.0,-74.0,-31,2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-01,-62.0,-43.0,-26.0,-65.0,-53,8.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-02,-59.0,-37.0,-28.0,-71.0,-64,12.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-03,-61.0,-38.0,-24.0,-71.0,-58,10.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-04,-57.0,-33.0,-23.0,-71.0,-58,10.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-05,-25.0,3.0,13.0,-46.0,-32,-1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-06,-21.0,5.0,21.0,-39.0,-30,1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-07,-42.0,-12.0,-4.0,,-15,2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-08,-50.0,-23.0,-11.0,,-38,8.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-09,-7.0,24.0,38.0,-23.0,-21,-3.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-10,-12.0,15.0,42.0,-34.0,-23,-3.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-11,-12.0,19.0,41.0,-44.0,-24,-2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-12,-12.0,18.0,40.0,-29.0,-23,-2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-13,-15.0,12.0,41.0,-25.0,-23,-2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-14,-43.0,-9.0,-4.0,,-19,1.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-15,-48.0,-22.0,-4.0,,-40,5.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-16,-7.0,21.0,38.0,-34.0,-23,-6.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-17,-9.0,17.0,48.0,-24.0,-22,-4.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-18,-9.0,16.0,52.0,-41.0,-24,-5.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-19,-22.0,-6.0,39.0,-43.0,-35,-13.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-20,-16.0,6.0,43.0,-36.0,-42,-2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-21,-37.0,-9.0,15.0,,-21,-2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-22,-39.0,-12.0,14.0,,-37,2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-23,1.0,25.0,58.0,-33.0,-23,-4.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-24,-4.0,19.0,52.0,-34.0,-23,-3.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-25,2.0,23.0,69.0,-41.0,-25,-3.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-26,2.0,25.0,55.0,-33.0,-22,-2.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-27,-43.0,-21.0,-1.0,-59.0,-53,14.0
+LY-TB,LY,Libya,Tripoli District,,,LY-TB,,2020-08-28,-37.0,-13.0,2.0,-60.0,-25,5.0
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-15,,,,,2,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-16,,,,,-14,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-17,,,,,-21,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-18,,,,,-3,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-19,,,,,5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-20,,,,,5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-21,,,,,5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-22,,,,,-2,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-23,,,,,2,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-24,,,,,3,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-25,,,,,-5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-26,,,,,0,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-27,,,,,4,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-28,,,,,2,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-02-29,,,,,2,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-01,,,,,4,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-02,,,,,5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-03,,,,,4,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-04,,,,,4,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-05,,,,,6,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-06,,,,,2,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-07,,,,,7,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-08,,,,,5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-09,,,,,4,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-10,,,,,1,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-11,,,,,1,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-12,,,,,1,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-13,,,,,2,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-14,,,,,0,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-15,,,,,-6,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-16,,,,,-10,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-17,,,,,-10,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-18,,,,,-9,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-19,,,,,-19,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-20,,,,,-19,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-21,,,,,-27,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-22,,,,,-39,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-23,,,,,-38,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-24,,,,,-41,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-25,,,,,-54,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-26,,,,,-50,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-27,,,,,-22,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-28,,,,,-40,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-29,,,,,-49,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-30,,,,,-50,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-03-31,,,,,-44,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-01,,,,,-43,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-02,,,,,-42,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-03,,,,,-14,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-04,,,,,-33,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-05,,,,,-43,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-06,,,,,-44,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-07,,,,,-44,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-08,,,,,-45,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-09,,,,,-43,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-10,,,,,-17,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-11,,,,,-37,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-12,,,,,-38,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-13,,,,,-43,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-14,,,,,-45,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-15,,,,,-40,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-16,,,,,-42,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-17,,,,,-22,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-18,,,,,-40,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-19,,,,,-43,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-20,,,,,-42,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-21,,,,,-43,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-22,,,,,-40,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-23,,,,,-37,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-24,,,,,-18,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-25,,,,,-30,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-26,,,,,-36,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-27,,,,,-35,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-28,,,,,-31,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-29,,,,,-27,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-04-30,,,,,-27,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-01,,,,,1,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-02,,,,,-19,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-03,,,,,-25,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-04,,,,,-25,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-05,,,,,-21,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-06,,,,,-22,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-07,,,,,-20,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-08,,,,,15,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-09,,,,,-8,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-10,,,,,-19,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-11,,,,,-17,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-12,,,,,-22,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-13,,,,,-19,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-14,,,,,-34,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-15,,,,,13,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-16,,,,,-9,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-17,,,,,-17,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-18,,,,,-13,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-19,,,,,-15,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-20,,,,,-13,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-21,,,,,-16,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-22,,,,,29,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-23,,,,,-7,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-24,,,,,-40,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-25,,,,,-37,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-26,,,,,-36,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-27,,,,,-20,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-28,,,,,-18,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-29,,,,,10,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-30,,,,,-8,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-05-31,,,,,-19,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-01,,,,,-15,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-02,,,,,-14,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-03,,,,,-13,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-04,,,,,-15,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-05,,,,,15,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-06,,,,,-4,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-07,,,,,-11,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-08,,,,,-11,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-09,,,,,-11,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-10,,,,,-8,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-11,,,,,-6,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-12,,,,,14,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-13,,,,,-1,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-14,,,,,-8,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-15,,,,,-7,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-16,,,,,-8,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-17,,,,,-10,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-18,,,,,-6,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-19,,,,,4,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-20,,,,,-5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-21,,,,,-6,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-22,,,,,-4,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-23,,,,,-8,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-24,,,,,-5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-25,,,,,-4,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-26,,,,,9,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-27,,,,,-3,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-28,,,,,-6,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-29,,,,,-5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-06-30,,,,,-16,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-01,,,,,-2,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-02,,,,,-8,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-03,,,,,5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-04,,,,,2,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-05,,,,,-4,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-06,,,,,-1,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-07,,,,,-2,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-08,,,,,-2,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-09,,,,,-8,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-10,,,,,12,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-11,,,,,-3,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-12,,,,,-7,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-13,,,,,-7,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-14,,,,,-10,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-15,,,,,-5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-16,,,,,-5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-17,,,,,6,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-18,,,,,2,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-19,,,,,-4,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-20,,,,,0,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-21,,,,,-5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-22,,,,,-3,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-23,,,,,-3,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-24,,,,,6,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-25,,,,,-7,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-26,,,,,-11,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-27,,,,,-12,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-28,,,,,-10,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-29,,,,,-14,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-30,,,,,-56,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-07-31,,,,,-24,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-01,,,,,-39,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-02,,,,,-48,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-03,,,,,-30,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-04,,,,,-27,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-05,,,,,-17,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-06,,,,,-16,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-07,,,,,-6,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-08,,,,,-11,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-09,,,,,-10,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-10,,,,,-16,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-11,,,,,-7,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-12,,,,,-8,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-13,,,,,-10,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-14,,,,,-3,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-15,,,,,-7,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-16,,,,,-13,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-17,,,,,-8,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-18,,,,,-11,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-19,,,,,-34,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-20,,,,,-19,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-21,,,,,-4,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-22,,,,,-5,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-23,,,,,-7,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-24,,,,,-11,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-25,,,,,-10,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-26,,,,,-7,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-27,,,,,-13,
+LY-ZA,LY,Libya,Zawiya District,,,LY-ZA,,2020-08-28,,,,,-3,

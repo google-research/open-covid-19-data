@@ -18,7 +18,9 @@ fetch:
   method: 'MANUAL_DOWNLOAD'
   file: 'summary.csv'
   instructions: 'File structure has changed, need to locate new csv with hospitalization data.'
+  overwrite_historical: False
 load:
+  aggregate_data: True
   function: 'default_load_function'
   dates:
     parse_function: 'japan_hospitalization_dates'

@@ -25,17 +25,16 @@ sys.path.append(PIPELINE_DIR)
 
 import path_utils
 
-EXPORT_FILES = ['cc_by/aggregated_cc_by.csv',
+AGGREGATED_EXPORT_FILES = ['cc_by/aggregated_cc_by.csv',
                 'cc_by_sa/aggregated_cc_by_sa.csv',
-                'google_tos/aggregated_google_tos.csv',
                 'cc_by_nc/aggregated_cc_by_nc.csv']
 
 def test_location_and_date_unique():
-    for f in EXPORT_FILES:
+    for f in AGGREGATED_EXPORT_FILES:
         export_path = os.path.join(path_utils.path_to('export_dir'), f)
         exported_df = pd.read_csv(export_path)
-        duplicates = exported_df[exported_df[['region_code', 'date']].duplicated(keep=False)]
-        duplicate_info = duplicates[['region_code', 'date']]
+        duplicates = exported_df[exported_df[['open_covid_region_code', 'date']].duplicated(keep=False)]
+        duplicate_info = duplicates[['open_covid_region_code', 'date']]
         print(duplicate_info)
         assert duplicates.shape[0] == 0
 
