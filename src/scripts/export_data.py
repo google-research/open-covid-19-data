@@ -117,7 +117,15 @@ print('Done exporting cc by-sa data.')
 export_utils.export_data(config_dict=sources_cc_by_nc, export_path=path_utils.path_to('export_cc_by_nc_csv'))
 print('Done exporting cc by-nc data.')
 
-export_utils.export_data(config_dict=sources_google_tos, export_path=path_utils.path_to('export_mobility'))
-print('Done exporting Google Mobility data.')
-export_utils.export_data(config_dict=google_search_source, export_path=path_utils.path_to('export_search'))
-print('Done exporting Google Search data.')
+# TODO(everettk): Fix two things before uncommenting these lines. Running these on master as is
+# will cause two bugs:
+# 1) google mobility data should be exported into a subdirectory named Regions
+# 2) README files in data/exports/search_trends_symptoms_dataset should not be overwritten.
+#    Their relative link to dataset documentation has one less .. than the README in
+#    data/inputs/downloaded/search_trends_symptoms_dataset/<date>, so copying the README
+#    directly from inputs -> exports will cause the link to break.
+
+# export_utils.export_data(config_dict=sources_google_tos, export_path=path_utils.path_to('export_mobility'))
+# print('Done exporting Google Mobility data.')
+# export_utils.export_data(config_dict=google_search_source, export_path=path_utils.path_to('export_search'))
+# print('Done exporting Google Search data.')
