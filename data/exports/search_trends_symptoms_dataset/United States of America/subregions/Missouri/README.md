@@ -8,4 +8,4 @@ The CSV files for the **current year** can be found here:
 
 CSV files for **previous years** (both daily and weekly), are available in the release assets of this repository and can be downloaded as a zip file: [US_Missouri_search_trends_symptoms_dataset.zip](https://github.com/google-research/open-covid-19-data/releases/download/v0.0.2/US_Missouri_search_trends_symptoms_dataset.zip)
 
-To learn more about the dataset, how we generate it and preserve privacy, read the [dataset documentation](../../../../README.md).
+To learn more about the dataset, how we generate it and preserve privacy, read the [dataset documentation](../../../README.md).
