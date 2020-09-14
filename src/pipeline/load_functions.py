@@ -25,7 +25,6 @@ import load_utils
 import date_utils
 import path_utils
 import export_utils
-import shutil
 
 
 def default_load_function(data_path, params):
@@ -56,7 +55,10 @@ def mobility_load_function(data_path, params):
 # This function has side effects (writing to the export directory)
 def google_load_function(data_path, params):
     input_dir = os.path.dirname(data_path)
-    export_dir = os.path.join(path_utils.path_to('export_dir'), params['config_key'])
+    if 'export_path' in params:
+        export_dir = params['export_path']
+    else:
+        export_dir = os.path.join(path_utils.path_to('export_dir'), params['config_key'])
     print('input dir: ', input_dir)
     print('export dir: ', export_dir)
     for path, subdirs, files in os.walk(input_dir):
@@ -76,8 +78,6 @@ def google_load_function(data_path, params):
             export_path = os.path.join(export_dir, rel_path)
             if os.path.basename(file).endswith('.csv'):
                 export_utils.write_csv_with_open_covid_region_code_added(file_path, export_path)
-            if file.endswith('.md'):
-                shutil.copyfile(file_path, export_path)
 
 def covidtracking(data_path, params):
     data_df = default_load_function(data_path, params)
