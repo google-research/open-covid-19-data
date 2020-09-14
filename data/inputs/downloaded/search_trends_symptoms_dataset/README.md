@@ -26,7 +26,7 @@ The data represents a sample of our users and might not represent the exact beha
 ### Preserving privacy
 For this dataset, we use [differential privacy](https://www.youtube.com/watch?v=FfAdemDkLsc&feature=youtu.be), which adds artificial noise to our datasets while enabling high quality results without identifying any individual person.
 
-To further protect people’s privacy, we ensure that no personal information or individual search queries are included in the dataset, and we don’t link any search-based health inferences to an individual user. More information about the privacy methods used to generate the dataset can be found in this [report](https://storage.googleapis.com/gcp-public-data-symptom-search/Google%20COVID-19%20Search%20Trends%20Symptoms%20Dataset%20-%20Anonymization%20Process%20Description.pdf).
+To further protect people’s privacy, we ensure that no personal information or individual search queries are included in the dataset, and we don’t link any search-based health inferences to an individual user. More information about the privacy methods used to generate the dataset can be found in this [report](https://arxiv.org/abs/2009.01265).
 
 ### How we process the data
 The data shows the *relative popularity* of symptoms in searches within a geographical region.
