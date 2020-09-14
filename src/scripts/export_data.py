@@ -47,9 +47,7 @@ sources_cc_by_nc = config.read_config(
 sources_google_tos = config.read_config(
     cc_by=False, cc_by_sa=False, cc_by_nc=False, google_tos=True, filter_not_approved=args.allowlist)
 google_search_source = {'search_trends_symptoms_dataset': sources_google_tos['search_trends_symptoms_dataset']}
-del sources_google_tos['search_trends_symptoms_dataset']
-print('sources google tos: ', sources_google_tos)
-print('google_search_source:', google_search_source)
+google_mobility_source = {'google_mobility_reports': sources_google_tos['google_mobility_reports']}
 
 # Step 1: Write source docs
 
@@ -106,7 +104,7 @@ license_utils.export_aggregated_license(path_utils.path_to('export_cc_by_nc_lice
                                         all_license_files_cc_by_nc,
                                         cc_by_nc_header)
 
-# Step 4: Export aggregated data files
+# Step 4: Export data files
 
 export_utils.export_data(config_dict=sources_cc_by, export_path=path_utils.path_to('export_cc_by_csv'))
 print('Done exporting cc by data.')
@@ -117,15 +115,8 @@ print('Done exporting cc by-sa data.')
 export_utils.export_data(config_dict=sources_cc_by_nc, export_path=path_utils.path_to('export_cc_by_nc_csv'))
 print('Done exporting cc by-nc data.')
 
-# TODO(everettk): Fix two things before uncommenting these lines. Running these on master as is
-# will cause two bugs:
-# 1) google mobility data should be exported into a subdirectory named Regions
-# 2) README files in data/exports/search_trends_symptoms_dataset should not be overwritten.
-#    Their relative link to dataset documentation has one less .. than the README in
-#    data/inputs/downloaded/search_trends_symptoms_dataset/<date>, so copying the README
-#    directly from inputs -> exports will cause the link to break.
+export_utils.export_data(config_dict=google_mobility_source, export_path=path_utils.path_to('export_mobility'))
+print('Done exporting Google Mobility data.')
 
-# export_utils.export_data(config_dict=sources_google_tos, export_path=path_utils.path_to('export_mobility'))
-# print('Done exporting Google Mobility data.')
-# export_utils.export_data(config_dict=google_search_source, export_path=path_utils.path_to('export_search'))
-# print('Done exporting Google Search data.')
+export_utils.export_data(config_dict=google_search_source, export_path=path_utils.path_to('export_search'))
+print('Done exporting Google Search data.')

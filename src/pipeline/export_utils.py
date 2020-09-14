@@ -40,11 +40,11 @@ def export_aggregated_data(config_dict, export_path):
 
 # Hack: This function breaks most of the abstractions around load_functions
 # because the load function on non-aggregated data has side effects that directly
-# write the exported csv instead of returning it here. Also, this export_path arg is never consumed.
+# write the exported csv instead of returning it here.
 def export_non_aggregated_data(config_dict, export_path):
-    print('export path (not used): ', export_path)
-    for key in config_dict.keys():
-        load_data.load_most_recent_loadable_data(config_dict[key])
+    for source in config_dict.keys():
+        config_dict[source]['export_path'] = export_path
+        load_data.load_most_recent_loadable_data(config_dict[source])
     print(config_dict.keys())
 
 def write_csv_with_open_covid_region_code_added(input_path, output_path):
