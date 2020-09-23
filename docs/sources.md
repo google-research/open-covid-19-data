@@ -32,7 +32,7 @@ https://www.google.com/covid19/mobility/ Accessed: <date>.
 **Last accessed:** 2020-08-28
 
 #### Google's COVID19 Search Trends symptoms dataset
-**Source name:** Google's COVID19 Search Trends symptoms dataset ([link](http://goo.gle/covid19symptomdataset))<br>**Link to data:** http://goo.gle/covid19symptomdataset<br>**Description:** The **COVID-19 Search Trends symptoms dataset** shows aggregated, anonymized trends in Google searches for symptoms, signs and some health conditions. The dataset provides a daily or weekly time series for each region showing the relative volume of searches for each symptom.<br>**Terms:** In order to download or use the data or reports, you must agree to the Google [Terms of Service](https://policies.google.com/terms).<br>**License:** Google Terms of Service ([link](https://policies.google.com/terms))<br>**Citation:**
+**Source name:** Google's COVID19 Search Trends symptoms dataset ([link](http://goo.gle/covid19symptomdataset))<br>**Link to data:** http://goo.gle/covid19symptomdataset<br>**Description:** The **COVID-19 Search Trends symptoms dataset** shows aggregated, anonymized trends in Google searches for a broad set of health symptoms, signs and conditions. The dataset provides a daily or weekly time series for each region showing the relative volume of searches for each symptom.<br>**Terms:** In order to download or use the data or reports, you must agree to the Google [Terms of Service](https://policies.google.com/terms).<br>**License:** Google Terms of Service ([link](https://policies.google.com/terms))<br>**Citation:**
 ```
 Google LLC "Google COVID-19 Search Trends symptoms dataset".
 http://goo.gle/covid19symptomdataset, Accessed: <date>.
