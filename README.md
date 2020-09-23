@@ -163,7 +163,7 @@ https://www.google.com/covid19/mobility/ Accessed: <date>.
 Google LLC "Google COVID-19 Search Trends symptoms dataset".
 http://goo.gle/covid19symptomdataset, Accessed: <date>.
 ```
-**Last accessed:** 2020-09-16
+**Last accessed:** 2020-09-22
 
 #### Iceland
 **Source name:** Directorate of Health in Iceland (Embaetti landlaeknis) ([link](https://www.covid.is/data))<br>**Link to data:** https://www.covid.is/data<br>**Description:** Data is downloaded manually from the source link. Data for Iceland consists of time series data for current ICU cases, and current and cumulative hospitalizations.<br>**Last accessed:** 2020-06-22
