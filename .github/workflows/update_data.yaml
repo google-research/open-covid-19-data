@@ -46,6 +46,7 @@ jobs:
     - name: Create pull request
       uses: peter-evans/create-pull-request@v3
       with:
+        token: ${{ secrets.BOT_ACCESS_TOKEN }}
         author: Katie Everett <everettk@google.com>
         title: Update data for ${{ env.EXPORT_TIMESTAMP }}
         body: Data update for ${{ env.EXPORT_TIMESTAMP }}.
