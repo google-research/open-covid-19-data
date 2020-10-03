@@ -27,6 +27,7 @@ import path_utils
 import config
 
 
+# Copybara test comment
 args = args_utils.get_parser().parse_args()
 path_utils.root_dir = args.publish_dir
 
