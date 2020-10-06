@@ -38,7 +38,10 @@ We include categories that are useful to social distancing efforts as well as ac
 
 We calculate these insights based on data from users who have opted-in to Location History for their Google Account, so the data represents a sample of our users. As with all samples, this may or may not represent the exact behavior of a wider population.
 
+## Updates and improvements
 We continue to improve our reports as places close and reopen. We updated the way we calculate changes for *Groceries & pharmacy*, *Retail & recreation*, *Transit stations*, and *Parks* categories. For regions published before May 2020, the data may contain a consistent shift either up or down that starts between April 11–18, 2020.
+
+On October 5, 2020, we added an improvement to the dataset to ensure consistent data reporting in the *Groceries & pharmacy*, *Retail & recreation*, *Transit*, *Parks*, and *Workplaces* categories. The update applies to all regions, starting on August 17, 2020.
 
 ## Preserving privacy
 The Community Mobility Datasets were developed to be helpful while adhering to our stringent privacy protocols and protecting people’s privacy. No personally identifiable information, like an individual’s location, contacts or movement, is made available at any point.
