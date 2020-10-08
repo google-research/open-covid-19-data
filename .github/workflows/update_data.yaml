@@ -17,6 +17,7 @@ name: Update data
 on:
   schedule:
     - cron: '0 16 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -31,12 +32,20 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Setup gcloud and gsutil
+      uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+      with:
+        service_account_key: ${{ secrets.GCLOUD_API_KEYFILE }}
+        export_default_credentials: true
     - name: Fetch scraped data
       run: |
         python src/scripts/fetch_scraped_data.py
     - name: Fetch automatic downloads
       run: |
         python src/scripts/fetch_automatic_downloads.py
+    - name: Fetch search symptoms data
+      run: |
+        ./src/scripts/search_update.sh
     - name: Export data
       run: |
         echo ::set-env name=EXPORT_TIMESTAMP::"$(date +'%Y-%m-%d %H:%M') UTC"
