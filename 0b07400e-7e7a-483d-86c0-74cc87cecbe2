@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gcs-public-datasets",
+  "private_key_id": "107b131f06054635738d655e9774e8c606ea16ea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3xLy/ye6t2CBn\neiVQGA3dBSWvf5oGU8PRnaMxnVkbjxlaRpaC9OiBZ/aP63I4HlBbWlQ6pR2O53cD\nVlWnVeoKdRs3PK1jlFak9mBx7WhvX2flrPHlLzgcfbxtaQ60Vj+5hF58uzXcCVo3\nUbb+ve+yKsyKIRXO64uZid6YZm/PnKIqqvi0jbjBz0kqArO3lgPCp/BD3v85NnxG\nbFdPjLnOdtzhut2HgT4GtGTVRr50nwzLa5FBwUqT7jmIxUfHnoAl4dTjr72GyDqg\n8IugQ23V7nypUr2gOMCfRdqry6Y0pu7VHhc4bjoP9cyw9jFM54aclrbM2gCGijLN\nkLoDUfYLAgMBAAECggEAPJXlnptuD611/XeFLrNHess0IfiBKL3cDNMaVwSnuJDE\njIFCJPmmX+eNH+TBWuQPnRaaN11xccg48gY4JfuKthjmuJ7OEUr6B9fccyMQr8s1\n/0A13dfj+WywvyeIPAdFah3MYvX7q0gAEMXlfXXUPRqkJZQD0xzQAPY1x2vaSAkt\nKo0ZldNa3De1o9DFsc77OptCuPXlgz7MmEkd+SwwF5AxsKigosTQ9Qb50/3WAm6V\nrYQOtnfNnthcQwOsHqO13V5MoPNhIIqfH47cNUmVrLrg1Sswn00FYGMw1qHIA0KK\nifLd9yWBc+LuwC0vi6AhVJ2tQThANQkvoAUuOKyqvQKBgQD28xX1FhZnnZ5mvHNK\nsKnW42GEEh5Pe2U0WbNPHgdyIhBV4N3NeTteqaBoLW1IXwNdXq1da/+pfnbBZYVb\nYmTXCh4zSyNHXkyNJVdFH30xsaVfRJIB4KuDimmSk6XRIt83oTjAjelSgFv8W+4V\nJxVI+EK4ScQAM6qCC6FZ1VslHwKBgQC+gODb/MRt6HySsdM8VBOWkdc6fnyYPqDd\nZU/nrynzQ2XIqZLM0unhNrnYzZoh1YB69BVKZNF8s7HhTHPxFWlI4zjjSSc5E0KI\nC8fdmjucROKyjphGIudg1bPPpZFIXt1Mt2Ol8VxDhEsCXDluhnKnvw7IsUO7CBOq\nv38iTzxFlQKBgEsTU9WSxXTywjlRiWtnkfq2Xesc5wIa7YWgz5Z59qGIIZc6KbRR\n6u64ev+w78xUtl0ob2Q7dRo+TDQ3fPdvTmDhvpSxfyQvUu6GL6XgENuOukvgONNB\nTmNLLRVWtc6C34G2Dd7cRdbDFzP9bsAXha0NbJtCMcgt7ORkTMVWy8LZAoGBAJiV\niYUqM/sEV6L3o4WSog3bylQjs5ANubMazqF3f1ZFCWVrzRUZahLlTn4EUAwBgeL5\nVYQ8tD35f+RA5CyZRbcHqC0EDtJ8RrHJHdC1FEHaOulhpT2n/0NkZ51Ns8wPj5k+\n2iWz6H57m8jMLYQFVBhfw2uj7+gCVB5TO3UzmcbxAoGAA8CKkKI2iZIOHGIHFGRJ\n6RtmO5f+M90wi2cCUnvi0JAwAUvxWOMei1LtpJqdvl1rxW+wuwTu06tomznGiNzb\n5e/+OnfRlqYmrZjOoSlm2zIlzwA9a26NbTnVXq9MHCkWznJaHfYQYG4W476+UQeH\n4GjB1DaWHsnchZY6x0e7hCo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "covid-symptom-search-github@gcs-public-datasets.iam.gserviceaccount.com",
+  "client_id": "102408999447922647563",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/covid-symptom-search-github%40gcs-public-datasets.iam.gserviceaccount.com"
+}
