@@ -1,0 +1,52 @@
+A huge thank you to the following volunteers who researched data sources in the following regions. (Note that in some regions data wasn't available, wasn't available at the time it was researched, or wasn't able to be included for licensing or formatting reasons.)
+
+Angola	- Henrique Loyola
+Argentina	- Byungkyu Lee, Leslie Flores Burgos
+Australia	- Sarah Zatko, Morgan Venable
+Bangladesh - Rohini Rege
+Bermuda - Maeve Judge
+Bolivia	- Leslie Flores Burgos
+Botswana - Morgan Venable
+Brazil - Cristina Vasconcelos
+Bulgaria - Maddy Myers
+Burundi	- Carrie McDaniel
+Canada - Emily Kellison-Linn, Ross Goroshin
+Cabo Verde - Henrique Loyola
+Chile - Leslie Flores Burgos
+China	- Di Zheng
+Colombia - Byungkyu Lee, Leslie Flores Burgos
+Costa Rica - Leslie Flores Burgos
+Côte d'Ivoire - Delaney McMillen
+Curaçao - Joe Abello
+Czechia	- Rebecca Heywood
+Denmark	- Steffen Furholm
+Ecuador	- Leslie Flores Burgos
+El Salvador	- Leslie Flores Burgos
+Finland	- Maeve Judge, Morgan Venable
+Germany - Steffen Furholm
+Guatemala	- Leslie Flores Burgos
+Honduras - Leslie Flores Burgos
+Hong Kong	- Holly Simpson, Morgan Venable
+Iceland	- Stefan Sigurjonsson
+India	- Arpit Bhardwaj
+Indonesia	- Morgan Venable
+Ireland	- Megan Ruthven
+Isle of Man - Maeve Judge
+Japan	- Morgan Venable, Kris Popendorf
+Macedonia	- Aleksandra Milosevska
+Moldova - Dumitru Erhan
+Mozambique - Henrique Loyola
+Panama - Leslie Flores Burgos
+Paraguay - Oscar Ramirez, Leslie Flores Burgos
+Peru - Leslie Flores Burgos
+Romania	- Dumitru Erhan
+Serbia - Aleksandra Milosevska
+Singapore	- Leong Siang
+Slovenia - Aishwarya Ketkar
+South Korea - Byungkyu Lee, Rohini Rege
+Suriname - Joe Abello
+Sweden - Megan Ruthven
+Switzerland - Megan Ruthven
+Uruguay - Leslie Flores Burgos
+Venezuela - Leslie Flores Burgos
+Vietnam	- Joe Abello
