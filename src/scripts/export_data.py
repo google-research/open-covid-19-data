@@ -116,5 +116,5 @@ print('Done exporting cc by-nc data.')
 export_utils.export_data(config_dict=google_mobility_source, export_path=path_utils.path_to('export_mobility'))
 print('Done exporting Google Mobility data.')
 
-export_utils.export_data(config_dict=google_search_source, export_path=path_utils.path_to('export_search'))
-print('Done exporting Google Search data.')
+# export_utils.export_data(config_dict=google_search_source, export_path=path_utils.path_to('export_search'))
+# print('Done exporting Google Search data.')
