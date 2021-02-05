@@ -42,10 +42,10 @@ sources_cc_by_sa = config.read_config(
     cc_by=True, cc_by_sa=True, cc_by_nc=False, google_tos=False, filter_not_approved=args.allowlist)
 sources_cc_by_nc = config.read_config(
     cc_by=True, cc_by_sa=False, cc_by_nc=True, google_tos=False, filter_not_approved=args.allowlist)
-sources_google_tos = config.read_config(
-    cc_by=False, cc_by_sa=False, cc_by_nc=False, google_tos=True, filter_not_approved=args.allowlist)
-google_search_source = {'search_trends_symptoms_dataset': sources_google_tos['search_trends_symptoms_dataset']}
-google_mobility_source = {'google_mobility_reports': sources_google_tos['google_mobility_reports']}
+# sources_google_tos = config.read_config(
+#     cc_by=False, cc_by_sa=False, cc_by_nc=False, google_tos=True, filter_not_approved=args.allowlist)
+# google_search_source = {'search_trends_symptoms_dataset': sources_google_tos['search_trends_symptoms_dataset']}
+# google_mobility_source = {'google_mobility_reports': sources_google_tos['google_mobility_reports']}
 
 # Step 1: Write source docs
 
@@ -113,8 +113,8 @@ print('Done exporting cc by-sa data.')
 export_utils.export_data(config_dict=sources_cc_by_nc, export_path=path_utils.path_to('export_cc_by_nc_csv'))
 print('Done exporting cc by-nc data.')
 
-export_utils.export_data(config_dict=google_mobility_source, export_path=path_utils.path_to('export_mobility'))
-print('Done exporting Google Mobility data.')
+# export_utils.export_data(config_dict=google_mobility_source, export_path=path_utils.path_to('export_mobility'))
+# print('Done exporting Google Mobility data.')
 
 # export_utils.export_data(config_dict=google_search_source, export_path=path_utils.path_to('export_search'))
 # print('Done exporting Google Search data.')
