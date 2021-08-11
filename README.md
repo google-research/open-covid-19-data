@@ -1,4 +1,7 @@
+**Note:** This project is not currently being updated. Also, it is distinct from [Google's COVID-19 Open-Data](https://github.com/GoogleCloudPlatform/covid-19-open-data) project, which has similar goals, and is being actively developed and maintained by a team spanning Google Health, Google Research, Google Cloud, Google Maps, etc.
+
 # Open COVID-19 Data
+
 Google Research's Open COVID-19 Data project is an open source pipeline that aggregates public COVID-19 data sources into a single dataset. The data includes time series data for COVID-19 cases, deaths, tests, hospitalizations, discharges, intensive case unit (ICU) cases, ventilator cases, government interventions, and Google's Community Mobility Reports and Search Trends symptoms dataset.
 ## Table of Contents
 - [About](#about)
