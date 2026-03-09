@@ -20,7 +20,7 @@ RAW_FILE_PATH="$BASE_FILE_PATH/raw_files"
 echo $RAW_FILE_PATH
 mkdir -p $RAW_FILE_PATH
 mkdir -p $TODAY_FILE_PATH
-gsutil cp -r gs://covid-st-prod-datasets-github/*/*/*/2020* $RAW_FILE_PATH
+gcloud storage cp --recursive gs://covid-st-prod-datasets-github/*/*/*/2020* $RAW_FILE_PATH
 python ./src/scripts/fetch_search_trends.py --input_dir $RAW_FILE_PATH --output_dir $TODAY_FILE_PATH
 
 shopt -s extglob
